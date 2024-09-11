@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AGA IDs and Tournament Date</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    textarea {
+      width: 100%;
+      height: 150px;
+    }
+    .input-container {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="input-container">
+    <label for="aga-ids">List of AGA IDs (separated by commas):</label>
+    <textarea id="aga-ids" placeholder="Enter AGA IDs here..."></textarea>
+  </div>
+
+  <div class="input-container">
+    <label for="tournament-date">Date of Tournament:</label>
+    <input type="date" id="tournament-date">
+  </div>
+
+  <button id="submit-button">Submit</button>
+
+  <div class="output-container">
+    <h3>Memberships Required:</h3>
+    <ul id="membership-output">
+      <!-- Membership status will be displayed here -->
+    </ul>
+  </div>
+
+  <script src="index.js">
+  </script>
+
+</body>
+</html>
