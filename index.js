@@ -32,7 +32,7 @@ function parseCSV(data) {
     const first = name[1];
     const last = name[0];
     const id = columns[1];
-    const comp = columns[2];
+    const type = columns[2];
     const rating = columns[3];
     const expDate = columns[4];
     const club = columns[5];
@@ -44,7 +44,7 @@ function parseCSV(data) {
       First: first,
       Last: last,
       ID: id,
-      Comp: comp,
+      Type: type,
       Rating: rating,
       ExpDate: expDate,
       Club: club,
@@ -65,12 +65,48 @@ const tournament_date = document.getElementById("tournament-date");
 const submit_button = document.getElementById("submit-button");
 const output = document.getElementById("membership-output");
 
+function smartParser() {
+    try {
+    const commas = aga_ids.value.includes(",");
+    const newline = aga_ids.value.includes("\n");
+    const space = aga_ids.value.includes(" ");
+    if (commas && newline) { alert("Please use only one delimiter( , or newline)"); return; }
+
+    let idList = [];
+
+    if (commas) {
+      idList = aga_ids.value.split(",");
+    } else if (newline) {
+      idList = aga_ids.value.split("\n");
+    } else if (space) {
+      idList = aga_ids.value.split(" ");
+    } else {
+      idList = aga_ids.value.split(",");
+    }
+
+    //check if the ids are all numbers
+    // throw error if not
+    idList.forEach((id) => {
+      if (isNaN(id)) {
+        alert("AGA ID is not a number " + id);
+        return;
+      }
+    });
+
+    return idList; 
+  } catch (error) {
+    alert("Error parsing AGA IDs");
+  }
+}
+
 submit_button.addEventListener("click", function () {
-  const ids = aga_ids.value.split(",");
+  const ids = smartParser();
   const date = tournament_date.value;
 
   const players = ids.map((id) => TDList[id]);
-  const validPlayersWithExpDate = players.filter((player) => player && player.ExpDate);
+  const validPlayersWithExpDate = players.filter(
+    (player) => player && player.ExpDate
+  );
   //output to membership-output
   //color red if membership is expired
   //color green if membership is valid
@@ -81,10 +117,11 @@ submit_button.addEventListener("click", function () {
       const isExpired = expDate < new Date(date);
       const color = isExpired ? "red" : "green";
 
-      return `<div style="color: ${color}">${player.ID}: ${player.First} ${player.Last} - ${player.ExpDate} - ${isExpired ? "Expired" : "Valid"}</div>`;
+      return `<div style="color: ${color}">${player.ID}: ${player.First} ${
+        player.Last
+      } - ${player.ExpDate} - ${isExpired ? "Expired" : "Valid"}</div>`;
     })
     .join("");
-
 
   console.log("Players:", players);
   console.log("Date:", date);
@@ -98,6 +135,5 @@ function generateRandomIDs(size) {
     const randomId = Object.keys(TDList)[randomIndex];
     ids += randomId + ",";
   }
-  return ids
+  return ids;
 }
-
