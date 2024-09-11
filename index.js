@@ -51,6 +51,7 @@ function parseCSV(data) {
       State: state,
       Sigma: sigma,
       Registered: registered,
+      valid: true,
     }; // Create a new player object with ID as key
   });
 }
@@ -66,11 +67,14 @@ const submit_button = document.getElementById("submit-button");
 const output = document.getElementById("membership-output");
 
 function smartParser() {
-    try {
+  try {
     const commas = aga_ids.value.includes(",");
     const newline = aga_ids.value.includes("\n");
     const space = aga_ids.value.includes(" ");
-    if (commas && newline) { alert("Please use only one delimiter( , or newline)"); return; }
+    if (commas && newline) {
+      alert("Please use only one delimiter( , or newline)");
+      return;
+    }
 
     let idList = [];
 
@@ -84,16 +88,23 @@ function smartParser() {
       idList = aga_ids.value.split(",");
     }
 
+    idList = idList.map((id) => id.trim()); // remove leading and trailing spaces
+    idList = idList.filter((id) => id); // remove empty strings
+
     //check if the ids are all numbers
     // throw error if not
     idList.forEach((id) => {
+      if (!id) {
+        alert("AGA ID is empty " + id);
+        return;
+      }
       if (isNaN(id)) {
         alert("AGA ID is not a number " + id);
         return;
       }
     });
 
-    return idList; 
+    return idList;
   } catch (error) {
     alert("Error parsing AGA IDs");
   }
@@ -103,23 +114,40 @@ submit_button.addEventListener("click", function () {
   const ids = smartParser();
   const date = tournament_date.value;
 
-  const players = ids.map((id) => TDList[id]);
-  const validPlayersWithExpDate = players.filter(
-    (player) => player && player.ExpDate
-  );
+  const players = ids.map((id) => {
+    if (!TDList[id]) {
+      return { valid: false, id: id };
+    }
+    return TDList[id];
+  });
   //output to membership-output
   //color red if membership is expired
   //color green if membership is valid
 
-  output.innerHTML = validPlayersWithExpDate
+  output.innerHTML = players
     .map((player) => {
-      const expDate = new Date(player.ExpDate);
-      const isExpired = expDate < new Date(date);
-      const color = isExpired ? "red" : "green";
+      console.log("Player:", player);
+      if (player.valid === false) {
+        return `<div style="color: red">${player.id} Invalid AGA ID</div>`;
+      }
+      if (!player.ExpDate) {
+        player.ExpDate = null;
+      } else if (player.ExpDate == " ") {
+        player.ExpDate = null;
+      } else if (player.ExpDate == null) {
+        player.ExpDate = null;
+      } else if (player.ExpDate == "undefined") {
+        player.ExpDate = null;
+      }
+
+      let expDate = player.ExpDate ? new Date(player.ExpDate) : null;
+      const isLifetime = player.Type === "Life";
+      const isValid = isLifetime || (expDate && expDate >= new Date(date));
+      const color = isValid ? "green" : "red";
 
       return `<div style="color: ${color}">${player.ID}: ${player.First} ${
         player.Last
-      } - ${player.ExpDate} - ${isExpired ? "Expired" : "Valid"}</div>`;
+      } - ${player.ExpDate} - ${isValid ? "Valid" : "Expired"}</div>`;
     })
     .join("");
 
