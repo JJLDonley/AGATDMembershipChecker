@@ -1,8 +1,4 @@
-const AGA_URL =
-  "https://corsproxy.io/?" +
-  encodeURIComponent(
-    "https://aga-functions.azurewebsites.net/api/GenerateTDListB"
-  );
+const AGA_URL = "https://aga-functions.azurewebsites.net/api/GenerateTDListB"
 
 const TDList = {};
 
