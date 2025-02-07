@@ -1,4 +1,4 @@
-const AGA_URL = "https://aga-functions.azurewebsites.net/api/GenerateTDListB"
+const AGA_URL = "https://corsproxy.io/?url=https://aga-functions.azurewebsites.net/api/GenerateTDListB"
 
 const TDList = {};
 
