@@ -1,8 +1,11 @@
 name: Update AGA TD List
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 6 * * *"   # daily (UTC)
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
