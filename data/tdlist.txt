@@ -3419,7 +3419,7 @@ Edelmann, Matthew	25762	Full	-13.38412	3/10/2023	Stony Brook University Go Club	
 Edey, Marion	2482	Full	-9.98629	5/24/2026	National Go Center	MD	0.33126	10/25/2025
 Edgar, David	21218	Full	2.29771	4/23/2026		CT	0.72268	11/18/2018
 Edge, Jake	16430	Full	-13.08646	1/2/2026		SD	0.63172	10/24/2009
-Edmonds, Joshua	20852	Full	2.12598	8/6/2025		OH	0.37866	2/1/2025
+Edmonds, Joshua	20852	Full	2.12598	1/6/2027		OH	0.37866	2/1/2025
 Edson, Sandra	8954	Full	-11.32372	3/19/2017			0.61105	4/9/2016
 Edwards, Bill	3018	Full	-2.85126	8/27/2024	Atlanta Go Club	GA	0.84707	9/16/2023
 Edwards, Brad	12566	Full	-14.02000	12/30/2018		FL	0.58000	6/1/2008
@@ -6291,7 +6291,7 @@ Jin, James	22551	Non	-6.11164	4/16/2016			0.91987	3/5/2016
 Jin, Jason	15007	Full	-15.01067	6/25/2009	Feng Yun Go School	NJ	0.41921	6/20/2009
 Jin, Jikai	30855	Full	-1.60859	4/19/2026		CA	0.43494	4/20/2025
 Jin, Julie	19784	Full	-33.42328	1/12/2020	Boulder Kids and Teens Go Club	CO	1.82569	3/3/2012
-Jin, Kenny	26371	Full	6.41562	2/14/2026	Seattle AGA Chapter	WA	0.20605	12/13/2025
+Jin, Kenny	26371	Full	6.41562	1/6/2027	Seattle AGA Chapter	WA	0.20605	12/13/2025
 Jin, Massa	25381	Youth		1/2/2035	Capital Go Club	TX		
 jin, minwei	31706	Comp		10/19/2025				
 Jin, Shizhang	25030	Youth	-15.47464	11/20/2023	Yorba Linda Go Club	CA	0.53090	4/15/2023
@@ -8419,7 +8419,7 @@ Lim, Jung Ho	3501	Full	5.46000	1/13/1999		CA	0.86000	3/1/1998
 Lim, Kyu-jin	12984	Full	2.25000	10/3/2005		NC	0.56000	10/1/2004
 Lim, Kyung Ho	7836	Non	1.33000	9/21/2003		CO	0.66000	10/1/2003
 Lim, Kyungsoo	23618	Non	-18.50232	11/11/2017		CA	1.85802	10/21/2017
-Lim, Leo	30743	Full	1.90767	2/14/2026	New York Go Association	NJ	0.57336	12/13/2025
+Lim, Leo	30743	Full	1.90767	1/5/2027	New York Go Association	NJ	0.57336	12/13/2025
 Lim, Louis	31178	Youth	-10.31402	8/27/2025		CA	0.56097	9/6/2025
 Lim, Nengli	12023	Non	5.70000	1/23/2005			0.65000	2/1/2005
 Lim, Sejoon	22323	Full	6.26735	4/20/2024		MA	0.64809	2/14/2016
@@ -11302,7 +11302,7 @@ Qi, Dewei	23800	Full	-3.23093	5/20/2027	Ann Arbor Go Club	MI	0.38409	7/13/2025
 Qi, Jason	26330	Youth	-4.82839	1/19/2027		NY	0.43281	5/3/2025
 Qi, Mai	23700	Non	4.27449	12/14/2024	San Diego Go Club	CA	0.42174	11/9/2024
 Qi, Mai	30905	Non		5/10/2024		CA		
-Qi, Matthew	26349	Youth	-8.27080	1/24/2026	New York Go Association	NY	0.39224	9/13/2025
+Qi, Matthew	26349	Youth	-8.27080	1/5/2027	New York Go Association	NY	0.39224	9/13/2025
 Qi, Pan	26024	Full	-13.81750	12/30/2025	Albuquerque Go	NM	1.06277	2/18/2023
 Qi, Ran	31809	Youth	1.58176	5/16/2026		ON	0.53940	5/24/2025
 Qi, Robert	23795	Full	-5.58208	3/16/2026	New York Go Association	NJ	0.15897	8/30/2025
@@ -12848,7 +12848,7 @@ Sohn, John	10863	Full	3.80000	1/11/2003	Seattle AGA Chapter	WA	0.88000	10/1/2001
 Sohn, Joon	10412	Non	1.46000	2/28/2001			0.60000	3/1/2001
 Sokolowski, James	24039	Full	-13.27543	8/7/2020	Houston Go Club	TX	0.74794	2/15/2020
 Sokolowski, Robert	19772	Full	-19.49026	3/1/2013			1.21996	2/25/2012
-Solberg, Richard	3833	Full	-2.79134	11/7/2025	Evanston Go Club	IL	0.24663	11/1/2025
+Solberg, Richard	3833	Full	-2.79134	1/6/2027	Evanston Go Club	IL	0.24663	11/1/2025
 Soletti, Ramon	6485	Non	3.00000	5/28/1993			0.75000	9/1/1993
 Soley, Aaron	18275	Non	-4.64554	11/15/2025	Evanston Go Club	IL	0.39287	11/1/2025
 Soley, Juliet	24885	Youth	-21.74305	10/19/2020	Evanston Go Club	IL	0.81067	11/9/2019
