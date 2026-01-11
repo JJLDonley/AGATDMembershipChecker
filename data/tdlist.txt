@@ -894,7 +894,7 @@ Bland, Mark A	6417	Full	-19.86000	4/30/1998	Charlotte Go Club	NC	0.86000	3/1/199
 Blandy, Mika	25197	Youth	-6.95205	7/12/2023	Portland Go Club	OR	0.68153	8/1/2022
 Blandy, Vivienne	21420	Full	-6.95501	12/24/2026	Portland Go Club	OR	0.39039	7/23/2024
 Blank, Justin	13891	Full	-3.33673	9/17/2023	Triangle Go Group	NC	0.33394	12/10/2022
-Blank-Edelman, Elijah	30683	Youth	-5.46410	1/13/2025		MA	0.51158	7/23/2024
+Blank-Edelman, Elijah	30683	Youth	-5.46410	1/11/2027		MA	0.51158	7/23/2024
 Blann, Dale	10348	Full	-11.91616	2/15/2020	Triangle Go Group	NC	0.28602	5/19/2019
 Blanton, Henry P	25676	Full	-5.84639	12/25/2025	Seattle AGA Chapter	WA	0.51199	12/7/2024
 Blasiak, Jonah	10363	Full	-21.93000	2/23/2002	Princeton Go Club	NJ	4.02000	4/1/2003
@@ -8727,7 +8727,7 @@ Liu, Mulan	20338	Youth	-10.71232	4/29/2023		MD	0.95417	4/2/2022
 Liu, Ning	9123	Non	3.73000	8/26/1998		TX	1.00000	9/1/1998
 Liu, Oliver	15351	Full	1.50541	4/2/2020			1.53367	3/30/2019
 Liu, Peifeng	21103	Non	2.65375	3/8/2015	Stony Brook University Go Club	NY	0.49101	4/26/2015
-Liu, Peikang	32127	Non	1.45512	11/18/2025		SC	0.89130	10/19/2025
+Liu, Peikang	32127	Non	1.45512	1/10/2027		SC	0.89130	10/19/2025
 Liu, Peng	6027	Full	6.18000	3/8/2010		NJ	0.41000	4/1/2009
 Liu, Pengda	24605	Youth	4.65152	11/26/2023	San Diego Go Club	PA	0.61047	11/26/2022
 Liu, Ping	21895	Non	3.22628	5/10/2015		NY	0.91903	5/7/2017
@@ -11843,7 +11843,7 @@ Rozak, Matt	25774	Life		9/1/2064	San Francisco Go Club	CA
 Rozell, Ross R	30267	Full		5/19/2026	Tulsa Go Club	OK		
 Rozenshteyn, Alex	15853	Full	-15.04000	10/10/2008		MD	0.92000	11/1/2007
 Ruan, Chengkai	22770	Full	4.78548	6/28/2017		TX	0.49706	4/22/2017
-Ruan, Heqiao(Henry)	30689	Full	3.18623	1/16/2025		PA	0.59251	2/3/2024
+Ruan, Heqiao(Henry)	30689	Full	3.18623	1/10/2027		PA	0.59251	2/3/2024
 Ruan, Jaedon	25272	Youth	-5.26459	1/5/2026		MA	0.42540	1/25/2025
 Ruan, Jerry	25273	Youth	-7.47844	1/5/2026		MA	0.44330	1/25/2025
 Ruan, Paul	15129	Full	-12.24000	7/23/2008		CA	0.84000	2/1/2007
