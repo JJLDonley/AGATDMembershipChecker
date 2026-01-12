@@ -7801,8 +7801,8 @@ Lee, Jong Kun	10422	Non	4.62000	2/28/2001			0.90000	3/1/2001
 Lee, Jong Moon	1152	Full	5.80793	2/14/2026	Gotham Go Group	NY	0.48748	11/8/2025
 Lee, Jong Soo	21180	Full	3.44926	5/10/2015		MD	0.55416	4/26/2014
 Lee, Joon H	21181	Full	4.24706	5/10/2015		VA	0.65116	4/26/2014
-Lee, Joon	8078	Full	-3.84000	11/30/1998		WA	0.56000	6/1/1998
 Lee, Joon W	8047	Full	2.17000	5/28/1997		CA	0.50000	9/1/1996
+Lee, Joon	8078	Full	-3.84000	11/30/1998		WA	0.56000	6/1/1998
 Lee, Joon	22176	Full	-5.43049	10/3/2026	Univ. of Maryland Go Club	MD	0.52927	5/26/2018
 Lee, Joongul	7625	Full	3.05000	4/28/1996		TX	0.38000	3/1/1996
 Lee, Joonha	30721	Youth	-4.76466	2/4/2026	National Go Center	MD	0.31939	9/20/2025
@@ -8087,8 +8087,8 @@ Li, Bengu	15939	Full	1.10000	11/7/2008	Portland Go Club	OR	0.56000	12/1/2007
 Li, Bin	4250	Full	1.97694	5/28/1990		NY	0.86720	8/27/2011
 Li, Bo	24105	Full	-1.27849	6/7/2023		CA	0.54354	10/22/2022
 Li, Brett	31188	Youth	-7.80970	8/31/2025		CA	0.73983	9/1/2024
-Li, Calvin	15207	Full	-12.87000	2/8/2008		VA	0.49000	8/1/2007
 Li, Calvin	26153	Full	-16.41218	10/22/2025	National Go Center	VA	0.85999	10/21/2023
+Li, Calvin	15207	Full	-12.87000	2/8/2008		VA	0.49000	8/1/2007
 Li, Caroline	26304	Youth	-7.45157	1/3/2027		MD	0.21422	12/13/2025
 Li, Cary	9181	Full	-18.32000	8/17/2001		CA	1.35000	12/1/2000
 Li, Cathy	17720	Comp	6.49801	9/1/2064			1.74500	7/12/2025
@@ -11964,7 +11964,7 @@ Sailing, Amara	12588	Full	-19.14000	4/7/2009		CO	0.39000	2/1/2009
 Sailing, Griffin	12587	Full	-16.86000	4/7/2007		CO	0.99000	4/1/2006
 Sailing, Jasmine	12614	Full	-3.53000	4/24/2009		CO	0.56000	2/1/2009
 Saint, Chuck	14804	Full	-19.79249	6/22/2013		FL	0.47033	6/6/2009
-Saint-Louis, Ralph	24552	Full	-7.63248	4/21/2020	Massachusetts Go Association	MA	1.04916	7/9/2019
+Saint-Louis, Ralph	24552	Full	-7.63248	1/12/2027	Massachusetts Go Association	MA	1.04916	7/9/2019
 Saito, Ari	20381	Full	7.61676	1/29/2015		CA	0.65559	1/18/2014
 Saito, hikaru	20843	Youth	-8.66332	11/7/2015		OR	0.61722	10/3/2015
 Saito, Nicholas D	31034	Full		6/6/2026	Santa Monica Go Club	CA		
@@ -12316,6 +12316,7 @@ Serra, Gabriel	13660	Full	-25.52000	10/17/2006		CA	3.23000	6/1/2005
 Sert, Alton	11194	Full	-20.84000	7/25/2003		MA	1.98000	8/1/2002
 Sesma, Angel	31632	Comp		6/12/2026		CDM		
 Setterstrom, Christopher	25321	Full		10/8/2023	Tampa Go Club	TX		
+Setti, Rodrigo	32280	Full		1/11/2027				
 Seuk, Iljing	10859	Full	5.65000	1/11/2003	Seattle AGA Chapter	WA	0.91000	2/1/2002
 Severns, Curtis	6155	Non	-12.00000	12/28/1979			0.00000	11/15/1992
 Sewell, David	22327	Full	-24.00054	2/5/2017		AR	1.56936	2/13/2016
@@ -15411,6 +15412,7 @@ Xiao, Qiang	10800	Non	7.56000	1/10/2009			0.59000	2/1/2009
 xiao, ruqing	31705	Comp		10/19/2025		GD		
 Xiao, Tony	25103	Youth		2/9/2021		NY		
 Xiao, Xiang Allan	13198	Full	-11.90000	1/30/2008	Charlotte Go Club	NJ	0.50000	5/1/2006
+Xiao, Xin	32279	Youth		1/11/2027				
 Xiao, Yongqiao	12940	Full	-1.20000	9/20/2007		NC	0.86000	4/1/2005
 Xiao, Yuan	25764	Youth	-5.50000	3/10/2023	Stony Brook University Go Club	NY	1.51993	5/7/2022
 Xiao, Zheheng	24203	Youth	-1.11714	3/1/2021		NY	0.54469	1/12/2020
