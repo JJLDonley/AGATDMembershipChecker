@@ -1048,7 +1048,7 @@ Boyer, Wayne	9490	Full	-8.29000	4/26/2000	Portland Go Club	OR	1.00000	6/1/1999
 Boyland, Peter	16003	Full	-6.57179	11/28/2024	Milwaukee Go Club	WI	0.34351	6/22/2013
 Boyle, Dylan	30396	Full	-15.96678	8/22/2025	Oakland County Go Club	MI	1.00373	4/27/2024
 Boyle, Frank	14601	Full	-29.91000	6/27/2007		IL	1.35000	8/1/2006
-Boyle, Sean	26416	Full		2/21/2026	Mission Viejo Go Club	CA		
+Boyle, Sean	26416	Full		1/15/2027	Mission Viejo Go Club	CA		
 Boynton, David	18197	Full		5/26/2023		PA		
 Bozik, Nick	13175	Full	-30.88000	1/24/2006		CO	0.58000	9/1/2005
 Bozovich, Bruce	7189	Full	-5.59000	8/14/2021		CA	0.99000	9/1/1998
@@ -2933,7 +2933,7 @@ Datephanyawat, Jetanat	21903	Full	-11.65286	5/20/2016	Boulder Go Club		1.35791	5
 Datskovskiy, Stanislav	11517	Full	-23.25000	5/29/2004	Columbus Go Club	MD	0.51000	5/1/2003
 Daudelin, Andrew	20189	Full	-9.24890	9/30/2023		MA	0.39464	7/31/2016
 Dauska, Povilas	17389	Full	-20.92900	4/4/2010		FL	0.62358	6/6/2009
-Davenport, Brad	31536	Full	-15.44024	2/2/2026	Atlanta Go Club	GA	0.51822	10/19/2025
+Davenport, Brad	31536	Full	-15.44024	1/15/2027	Atlanta Go Club	GA	0.51822	10/19/2025
 Davenport, Crystal	25415	Full		2/6/2026	Milwaukee Go Club	WI		
 Davenport, Larry	3870	Full		2/14/2027		CA		
 Davey, Andrew	15865	Full	-8.36573	12/13/2012		MA	1.34057	1/16/2011
@@ -14041,7 +14041,7 @@ Uehlein, Kyle	25934	Full	-3.84416	5/6/2024	Gotham Go Group	NY	0.52029	9/2/2023
 Ueno, Subaru	31116	Comp	-8.64900	1/14/2025			1.21870	7/23/2024
 Ueno, Wataru	30831	Full	-1.77056	3/21/2025		WA	0.59852	7/23/2024
 Uhac, Justin	19834	Full	-13.16454	4/12/2013	Stony Brook University Go Club	NY	0.50923	5/4/2013
-Uhl, Steve	9669	Full	-1.15678	2/22/2026	Santa Fe Go Club	NM	0.37766	8/3/2022
+Uhl, Steve	9669	Full	-1.15678	1/14/2027	Santa Fe Go Club	NM	0.37766	8/3/2022
 Uhley, Chris	21262	Non	-20.07611	6/22/2014		CA	0.99179	6/14/2014
 Uichiro, Kanazawa	15612	Non	3.16000	6/25/2007			0.63000	7/1/2007
 Ulate, Ricardo	17479	Full	-16.59000	5/2/2010	Berkeley Go Club	CA	1.69000	5/1/2009
