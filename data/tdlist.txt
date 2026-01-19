@@ -567,7 +567,7 @@ Barnes, Christopher	18267	Full	-6.39348	10/16/2016		FL	0.58980	8/1/2010
 Barnes, John	8946	Full		1/7/1999		CA		
 Barnes, Tarek	32270	Full		1/5/2027		CA		
 Barnett, Caleb	30499	Youth	-2.58848	10/15/2026		TX	0.31736	11/1/2025
-Barnett, Charles M	30923	Full	-15.16400	4/14/2025		MI	0.66468	2/1/2025
+Barnett, Charles M	30923	Full	-15.16400	1/18/2027		MI	0.66468	2/1/2025
 Barnett, David	10711	Full	-9.73000	1/21/2008	Wings Across Calm Water	NY	0.73000	2/1/2007
 Barnett, Drew	21272	Full	1.72861	6/10/2026	Seattle AGA Chapter	WA	0.24779	12/13/2025
 Barnett, Janet	9211	Full	-23.22000	8/13/1999		NM	0.94000	9/1/1998
@@ -9669,7 +9669,7 @@ Member, Test	30227	Full		5/7/2024
 Men, Hao	16842	Full	-11.67000	9/28/2009		NJ	0.77000	10/1/2008
 Mendenhall, Dory	24735	Full	-21.23614	7/14/2020		PA	0.54513	7/14/2019
 Mendenhall, Robert	3129	Full	1.37000	3/13/2018			0.32000	12/1/2002
-Mendez, Carl	2279	Full	-4.35000	1/19/2026		NJ	0.59000	3/1/1998
+Mendez, Carl	2279	Full	-4.35000	1/18/2027		NJ	0.59000	3/1/1998
 Mendola, Paul	25871	Full	-3.11808	5/22/2025	Columbus Go Club	OH	0.57024	8/24/2024
 Mendonca, Jeff	6705	Full	-8.93000	4/30/1998		CA	0.52000	3/1/1995
 Mendoza, Andrew	21371	Full	-5.39510	9/18/2015	Triangle Go Group	NC	0.69729	9/20/2014
@@ -12170,7 +12170,7 @@ Schlesinger, Jack	24923	Full		3/4/2027	Gotham Go Group	NY
 Schmalenberg, Paul	16012	Full	-5.06000	11/30/2008	Ann Arbor Go Club	MI	0.64000	1/1/2008
 Schmeidler, Richard L	676	Full	-5.41811	11/18/2026	Massachusetts Go Association	MA	0.73646	4/12/2016
 Schmeisser, Mitchell	23198	Full	2.81135	8/18/2025	Centre County Go	PA	0.29691	2/1/2025
-Schmidt, Dan	8656	Full	-2.79962	3/15/2026	Massachusetts Go Association	MA	0.41278	7/23/2024
+Schmidt, Dan	8656	Full	-2.79962	1/19/2027	Massachusetts Go Association	MA	0.41278	7/23/2024
 Schmidt, Frank	6963	Full	-7.57000	2/28/2002		NJ	0.31000	3/1/1996
 Schmidt, Ian	22236	Youth	-31.07465	10/8/2019	Gotham Go Group	NY	1.94700	10/30/2018
 Schmidt, Jack	1419	Full	-14.30000	8/31/2008	Cleveland Go Club	OH	1.99000	12/15/1998
@@ -12729,6 +12729,7 @@ Sisson, William	24120	Full	-6.15855	9/22/2019	Danger Monkey Go Club	CO	0.92656	9
 Sit, Ronald	23358	Youth	-14.66643	6/25/2018		CA	1.08742	7/8/2017
 Sites, Samuel	18104	Full	-11.84815	5/28/2014		NC	0.78249	5/18/2013
 siu, hoi yan	31086	Full		7/5/2025		CA		
+Sivitz, Axis	32299	Full		1/19/2027				
 Siyu, Li	23258	Youth	5.07474	6/8/2028		NV	0.44085	7/17/2019
 Sizek, Philip	30945	Full	-2.75513	4/23/2025	Dayton Go Club	OH	0.30409	8/13/2025
 Skalak, Michael	15787	Full		9/18/2008		IL		
@@ -13563,7 +13564,7 @@ Tang, Cody	25200	Youth		7/15/2022	Mason Go Club	OH
 Tang, Curtis	9459	Full	8.43278	4/1/2016	Orange County Go Club	CA	0.23289	5/4/2013
 Tang, Daphne	17047	Youth	-25.79000	12/24/2009	Feng Yun Go School	NJ	0.96000	1/1/2009
 Tang, David	18118	Full	2.86619	4/18/2012		CA	0.55686	1/8/2011
-Tang, Della	25557	Youth	-4.88942	11/1/2025	Capital Go Club	MI	0.34338	7/13/2025
+Tang, Della	25557	Youth	-4.88942	1/19/2027	Capital Go Club	MI	0.34338	7/13/2025
 Tang, Dengda	18962	Full	1.40384	12/4/2018	Seattle AGA Chapter	WA	0.27523	1/7/2018
 Tang, Douglas	6768	Full	-13.70000	11/28/1994		NY	0.59000	12/1/1993
 Tang, Eric (Mingyi)	31917	Youth		7/8/2026		JS		
@@ -14526,7 +14527,7 @@ Wang, Matt	7839	Full	-1.76000	11/28/1996		MI	0.80000	6/1/1997
 Wang, Matthew	25444	Youth	-8.36662	3/19/2026		IL	0.26675	11/1/2025
 Wang, Matthew	17445	Youth	-10.62357	4/18/2010	Feng Yun Go School	NJ	0.80152	2/20/2010
 Wang, Meng	24880	Full	7.04182	6/16/2023	West Michigan Go Club	MI	0.53453	10/1/2022
-Wang, Mengran	26394	Full	2.42226	11/29/2025		NY	0.46059	9/13/2025
+Wang, Mengran	26394	Full	2.42226	1/19/2027		NY	0.46059	9/13/2025
 Wang, Michael	14787	Full	-13.89000	4/5/2009	Feng Yun Go School	NJ	0.38000	1/1/2009
 Wang, Michael J	15586	Full	-29.51000	6/24/2008	Feng Yun Go School	NJ	2.20000	7/1/2007
 Wang, Michael	12814	Non	-24.23000	7/26/2004			0.94000	8/1/2004
