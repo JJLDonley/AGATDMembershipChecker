@@ -2062,6 +2062,7 @@ Chen, Yi Jin	15198	Full	5.54912	2/17/2010		MD	0.45534	2/27/2010
 Chen, Yigeng	20997	Non	2.28430	1/5/2014			0.74935	1/5/2014
 Chen, Yihang	30291	Youth		5/30/2024	Capital Go Club	VA		
 Chen, YiJiang	10668	Non	-12.50000	8/3/2001			2.20000	7/1/2001
+Chen, Yijie	32340	Youth		2/4/2027				
 Chen, Yijie	32016	Youth		9/4/2026		TX		
 Chen, Yilin	20802	Full	5.14609	2/5/2017	Dallas Go Club	TX	0.60780	2/13/2016
 Chen, Yin M	20422	Full	-2.04067	2/7/2013			0.75384	1/26/2013
@@ -2668,7 +2669,7 @@ Convers, Fred	10306	Full	-15.08000	1/28/2002			1.27000	2/1/2001
 Converse, Aaron	212	Full	7.30000	7/28/1993		MI	0.00000	11/15/1992
 Converse, Dan	213	Full	-6.20000	12/28/1983	Ann Arbor Go Club	MI	0.00000	6/27/1983
 Converse, Nate	25110	Full	4.42470	1/7/2025	Western Mass. Go Club	MA	0.53675	1/7/2023
-Conway, David	30251	Full	-8.90205	5/14/2026	Phoenixville Go Club	PA	0.34674	7/23/2024
+Conway, David	30251	Full	-8.90205	2/4/2027	Phoenixville Go Club	PA	0.34674	7/23/2024
 Conway, Edward J	5156	Full	-9.48000	2/28/1997	Twin Cities Go Club	MN	0.86000	6/1/1996
 Conyngham, Jim	6623	Life	-5.06236	9/1/2064	Austin Go Club	TX	0.14564	8/30/2025
 Coo, Gus	11824	Full	-3.66000	8/31/2004			0.58000	6/1/2003
@@ -3963,7 +3964,7 @@ Fredrix, Paul Morgan	11830	Full	-21.23000	11/22/2010	Santa Monica Go Club	CA	1.8
 Freedman, Peter	282	Full	2.16664	3/13/2018			0.91880	6/14/2014
 Freeman, Austin	20864	Full	2.11066	10/24/2016		WA	0.47134	10/15/2016
 Freeman, Carl	5959	Non	-5.09000	4/30/2001	Houston Go Club	TX	0.41000	5/1/2001
-Freeman, Carl R	30801	Full	-9.58999	3/5/2026		TX	0.25543	7/13/2025
+Freeman, Carl R	30801	Full	-9.58999	2/3/2027		TX	0.25543	7/13/2025
 Freeman, Paul	6117	Full	-7.21000	12/31/2000		CA	1.06000	3/1/1998
 Freilich, Daniel	10565	Full	-29.02000	6/11/2002		OR	0.81000	6/1/2002
 Freitas, Ayres	12141	Non	-14.46000	9/19/2003		IL	1.33000	10/1/2003
@@ -9121,8 +9122,8 @@ Luther, Kenneth	14672	Full	-10.27386	4/10/2013		FL	0.69028	4/10/2012
 Luu, Jason	25026	Non	-25.36270	1/14/2020		CA	1.84039	10/26/2019
 Luu, Nguu	7516	Full	3.01000	2/28/1998		CA	0.49000	2/1/2001
 Luyten, Elijah	9392	Full	3.46000	1/21/2001	Massachusetts Go Association	MA	0.78000	2/1/2001
-Ly, Brian	13840	Non	-15.76000	9/7/2005			2.18000	9/1/2005
 Ly, Brian	13793	Non	-16.66000	8/18/2005		WA	1.89000	9/1/2005
+Ly, Brian	13840	Non	-15.76000	9/7/2005			2.18000	9/1/2005
 Ly, Hoang T	6391	Full	-3.10000	4/28/1994		CA	0.61000	9/1/1993
 Ly, Jing	31064	Youth		6/20/2025		CA		
 Ly, Kevin Q	31395	Full	-10.70000	12/31/2026		TX	0.32548	7/13/2025
@@ -14418,7 +14419,7 @@ Wang, Chenzhong	10367	Full	6.37000	2/23/2002	Princeton Go Club	NJ	0.73000	3/1/20
 Wang, Christina	24579	Youth	-17.03650	6/30/2021		NC	0.79334	5/19/2019
 Wang, Chunming	23464	Comp	5.00579	1/1/2023			0.56803	8/6/2017
 Wang, Chunseng	6199	Full	5.48000	12/28/1996		IL	0.48000	3/1/1996
-Wang, Colin	25730	Youth	-7.87537	2/19/2026		TX	0.53912	7/13/2025
+Wang, Colin	25730	Youth	-7.87537	2/3/2027		TX	0.53912	7/13/2025
 Wang, Crystal	13364	Non	-11.22000	3/20/2005			0.88000	11/1/2004
 Wang, Dandan	31668	Full	-19.95541	4/1/2026	Austin Go Club	TX	1.27230	11/8/2025
 Wang, David	5966	Full	-4.40000	4/5/2003	Houston Go Club	TX	0.60000	3/1/1995
@@ -16105,7 +16106,7 @@ Yu, Fangyi	24155	Youth	-7.70856	2/21/2026	New York Go Association	NJ	0.45178	12/
 Yu, Gang	7522	Full	-3.06000	3/28/1996		CA	0.49000	3/1/1995
 Yu, Gary	8429	Full	-7.53000	2/28/1998		CA	0.60000	3/1/1997
 Yu, Glenn	32124	Full	-16.54748	10/17/2026		NY	0.75486	11/8/2025
-Yu, Harvy(Chengxi)	31008	Youth	-7.47923	5/23/2026	Massachusetts Go Association	MA	0.48728	1/31/2026
+Yu, Harvy(Chengxi)	31008	Youth	-7.47923	2/3/2027	Massachusetts Go Association	MA	0.48728	1/31/2026
 Yu, Helen	12668	Non	-29.56000	5/26/2004		CA	0.67000	5/1/2004
 Yu, Henry	30426	Comp	8.09936	4/29/2026			0.35244	7/13/2025
 Yu, Hongyang	32077	Full	-3.62799	9/26/2026	Evanston Go Club	IL	0.58978	11/1/2025
