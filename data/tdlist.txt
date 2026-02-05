@@ -5700,7 +5700,7 @@ Huang, Davy	20814	Full	-21.42405	9/24/2014	Stony Brook University Go Club	NY	0.7
 Huang, Derek	24410	Youth	-30.99026	1/15/2020			0.98267	1/5/2019
 Huang, Diana	14150	Full	-18.96684	3/9/2011	Feng Yun Go School	NY	0.60058	5/5/2012
 Huang, Dong	24937	Full	5.64608	3/28/2024		CA	0.49214	4/15/2023
-Huang, Dylan	26426	Youth	-19.77972	4/2/2026	New York Go Association	NY	0.50471	12/12/2025
+Huang, Dylan	26426	Youth	-19.77972	2/4/2027	New York Go Association	NY	0.50471	12/12/2025
 Huang, Eason	24411	Youth	-30.72972	1/15/2020			1.07821	1/5/2019
 Huang, Eddy	7939	Non	1.36000	1/28/1996		CA	0.57000	3/1/1996
 Huang, Edison	23861	Youth	-19.96281	4/11/2019	New York Go Association	NY	0.85807	4/21/2018
@@ -6503,7 +6503,7 @@ Kakumu, Etsuko	31851	Full	3.91669	6/3/2026	San Diego Go Club	CA	0.92363	6/13/202
 Kaladish, Robert	392	Full		2/20/2026		NH		
 Kalb, Arthur	21434	Full	-22.06802	11/4/2015	Empty Sky Go Club	NY	0.90588	10/11/2014
 Kalb, John	4330	Full	-3.81223	2/20/2025		OR	0.53547	7/23/2024
-Kaldenbach, Robert	31584	Full	-20.24975	2/12/2026		IA	1.02635	3/22/2025
+Kaldenbach, Robert	31584	Full	-20.24975	2/4/2027		IA	1.02635	3/22/2025
 Kali-Blatt, Skyler R	31700	Youth	-32.88222	4/16/2026		MD	2.55791	7/13/2025
 Kallen, Josh	18227	Non	-10.61430	6/19/2010			0.98190	6/12/2010
 Kalosh, Michael	1547	Full	-2.13000	1/31/1998		WA	0.57000	9/1/1994
@@ -11347,7 +11347,7 @@ Qi, Mai	30905	Non		5/10/2024		CA
 Qi, Matthew	26349	Youth	-8.27080	1/24/2027	New York Go Association	NY	0.39224	9/13/2025
 Qi, Pan	26024	Full	-13.81750	12/30/2025	Albuquerque Go	NM	1.06277	2/18/2023
 Qi, Ran	31809	Youth	1.58176	5/16/2026		ON	0.53940	5/24/2025
-Qi, Robert	23795	Full	-5.68218	3/16/2026	New York Go Association	NJ	0.17025	1/31/2026
+Qi, Robert	23795	Full	-5.68218	2/4/2027	New York Go Association	NJ	0.17025	1/31/2026
 Qi, Rong	30576	Non	5.83451	12/5/2023		NJ	0.56320	11/11/2023
 Qi, Shiyang	26124	Full	4.91670	10/27/2026	Gotham Go Group	IL	0.19234	11/1/2025
 Qi, Wilson	30066	Youth	-7.95337	3/25/2026		NY	0.42960	12/12/2025
@@ -11951,7 +11951,7 @@ Ruster-Mack, Aaron	15636	Full	-15.89000	4/10/2010		FL	0.72000	4/1/2009
 Rustin, Edward	26439	Full		3/5/2024				
 Rutgers, van Der Loef Arnoud	6138	Non	4.80000	12/28/1979			0.00000	11/15/1992
 Ruthven, Colin	6767	Full	-9.18000	10/28/1997		NY	0.88000	1/1/1998
-Rutschman, Howard	30773	Full		2/23/2026	Grande Ronde Go Club	OR		
+Rutschman, Howard	30773	Full		2/4/2027	Grande Ronde Go Club	OR		
 Ruttley, Philip	17327	Comp		1/1/2023				
 Ruud, Robert	2286	Full	-2.20000	5/28/1997		MN	0.68000	6/1/1996
 Ruwart, Kaylene	31284	Full	-14.46225	10/8/2026	Twin Cities Go Club	MN	0.54486	10/18/2025
