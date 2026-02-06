@@ -4276,7 +4276,7 @@ Giacomoni, Aldric	14460	Life	-6.86434	9/1/2064	New York Go Association	NY	0.7137
 Giam, Alan	7947	Non	-21.30000	1/28/1996			1.01000	3/1/1996
 Giam, Louise	7948	Non	-22.49000	1/28/1996			1.76000	3/1/1996
 Giammarco, Bryan	20545	Full	-1.51661	4/8/2014		FL	0.58331	4/13/2013
-Giancola, Anthony	7137	Full	-6.17479	3/15/2026	Las Vegas Go Club	NV	0.51218	1/17/2026
+Giancola, Anthony	7137	Full	-6.17479	2/5/2027	Las Vegas Go Club	NV	0.51218	1/17/2026
 Giang, Minh Vien	25384	Youth		1/5/2022				
 Gibbard, Cate	23973	Comp	-7.33986	1/1/2023			0.93466	7/22/2018
 Gibbon, Kimberley	13921	Full	-26.32000	10/13/2006		OR	0.99000	11/1/2005
@@ -16099,6 +16099,7 @@ Yu, Daniel	13096	Non	-25.67000	12/16/2004	Evanston Go Club	IL	0.70000	1/1/2005
 Yu, Dayong	11712	Full	4.21335	5/15/2013	Princeton Go Club	CA	0.98867	4/15/2012
 Yu, Deng	20460	Full	8.26277	3/6/2015		NJ	0.56579	3/2/2013
 Yu, Diana	31842	Youth	-15.12634	5/31/2026		MA	0.69673	5/26/2025
+Yu, Eelis	32341	Youth		2/5/2027				
 Yu, Erwen	18141	Youth	-14.05345	4/25/2011	Boulder Kids and Teens Go Club	CO	0.75664	4/24/2010
 Yu, Erwin	13194	Life	3.58902	9/1/2064	Boulder Go Club	CO	0.69799	7/13/2025
 Yu, Fangwu	24156	Youth	-2.77814	2/21/2026	New York Go Association	NJ	0.32161	12/12/2025
@@ -16907,7 +16908,7 @@ Zumstein, Heath	15549	Full	-5.89000	2/17/2010	Cincinnati Go Club	OH	2.19000	3/1/
 Zunick, Peter	18689	Life	1.17835	9/1/2064	Shreveport-Bossier Go Club	LA	0.49130	7/23/2024
 Zuniga, Jeremy	17639	Full	-13.22833	7/23/2010	Austin Go Club	TX	0.80967	7/18/2009
 Zuniga, Mark	11050	Full	-11.29000	5/27/2004	Empty Sky Go Club	TX	0.61000	2/1/2004
-Zuo, Anthony	30979	Full	2.15601	2/12/2026	Gotham Go Group	NY	0.22982	1/31/2026
+Zuo, Anthony	30979	Full	2.15601	2/5/2027	Gotham Go Group	NY	0.22982	1/31/2026
 Zuo, William D	31736	Youth	-5.05814	4/25/2026		NV	0.59656	1/17/2026
 Zurita, Ava	15390	Full	-14.87318	5/10/2015	Syracuse Go Club	NY	0.55794	4/19/2014
 Zurita, Francisco	15389	Full	-7.31473	12/8/2019	Syracuse Go Club	NY	0.51578	3/24/2018
