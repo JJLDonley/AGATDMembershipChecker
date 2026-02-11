@@ -2726,6 +2726,7 @@ Correa, Daniel	24908	Youth	-11.81122	10/31/2020		VA	1.62372	9/28/2019
 Corsiglia, Alex	25092	Youth	-1.21832	5/16/2026	New York Go Association	NY	0.38601	11/8/2025
 Corsiglia, Alexander G	30289	Youth	-1.96112	5/27/2025		NY	0.65824	5/3/2025
 Cortes, Cody	15099	Full	-15.94000	8/6/2009		MA	0.72000	8/1/2008
+CORTES-LADINO, RAUL	32353	Full		2/10/2027				
 Corwin, Gabe	16702	Full	-19.79000	7/14/2009		OR	1.10000	9/1/2008
 Corwin, Hannah	8065	Full	-25.81000	5/28/1997	Seattle AGA Chapter	WA	1.04000	6/1/1996
 Cory, Michael J	8054	Non	-7.87000	5/28/1996		WA	0.47000	6/1/1996
@@ -6452,8 +6453,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
+Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -12004,6 +12005,7 @@ Saff, Kacey	24528	Full	-2.90536	10/19/2026	Twin Cities Go Club	MN	0.27450	10/18/
 Saffell, Matt	8529	Full	-4.35000	11/26/2006		OR	0.37000	2/1/2004
 Safley, Stephen W	31246	Full		9/19/2025	Maine Go	NH		
 Sagan, Colin	16344	Full	-13.77000	2/20/2009	Bay Area Go Players Assoc.	CA	1.19000	3/1/2008
+Saggi, Monisha	32354	Full		2/11/2027				
 Sagioka, Reiko	16518	Full	-27.50000	4/8/2009		MA	3.81000	5/1/2008
 Sagner, Christopher	18077	Full	5.31521	4/11/2025	Massachusetts Go Association	RI	0.42678	9/2/2023
 Sahara, Koji	12849	Non	-1.31000	8/20/2004			0.61000	9/1/2004
