@@ -694,7 +694,7 @@ Beheim, Bret	16916	Full	-12.20250	7/22/2011	Davis/Sacramento Go Club	CA	1.10389	
 Behre, Evan	134	Full	-2.19000	6/9/2004	GWRM Baltimore Go Club	MD	0.61000	6/1/2000
 Behre, Jason	6642	Full	-15.98000	7/29/2000		DC	1.58000	9/1/1999
 Behringer, Steven	23898	Full	-9.19252	3/10/2026	National Go Center	CA	0.56710	5/24/2025
-Beickert, James	30048	Full	-6.48813	3/22/2026	Evanston Go Club	IL	0.54890	5/24/2025
+Beickert, James	30048	Full	-6.48813	2/11/2027	Evanston Go Club	IL	0.54890	5/24/2025
 Beiderman, Aaron	21300	Youth	-6.27650	10/6/2018		NY	0.56963	4/21/2018
 Beiderman, Jack	14080	Non	-19.92000	12/29/2005			2.15000	12/1/2005
 Beimel, Ronald	15760	Full	1.64000	9/8/2012	San Francisco Go Club	CA	0.53000	10/1/2008
@@ -4618,7 +4618,7 @@ Gu, Xing	19852	Full	2.75063	4/22/2013		CA	0.65002	4/28/2012
 Gu, Xi-yi	7016	Non	-2.05000	5/12/1998		PA	0.86000	6/1/1998
 Gu, Xunting	31558	Youth		2/6/2026	Columbus Go Club	OH		
 Gu, Yifan	32198	Full	1.49691	11/12/2026		CA	0.57664	11/29/2025
-Gu, Zhenying	10583	Full	4.23351	2/11/2026	Capital Go Club	MD	0.18858	12/13/2025
+Gu, Zhenying	10583	Full	4.23351	2/11/2027	Capital Go Club	MD	0.18858	12/13/2025
 Gualtier, Michael	15514	Full	-5.94890	4/28/2016		PA	0.64965	10/25/2015
 Guan, Mozheng	10362	Full	8.12000	6/4/2008	Feng Yun Go School	NJ	0.37000	7/1/2007
 Guan, Qi	15675	Full	5.16000	4/25/2014		PA	0.52000	5/1/2008
@@ -9682,6 +9682,7 @@ Meijer, Jeroen	23141	Full	-2.56553	9/19/2026		VA	0.59642	9/20/2025
 Meireis, Aaron	11957	Full	-17.48000	6/22/2004		OR	0.96000	6/1/2004
 Meisch, Robert	12285	Full	-19.00000	12/15/2004	Crane's Nest Go Club	LA	0.73000	12/1/2003
 Meisner, Gus	14320	Full	-37.65000	2/25/2009		MD	1.41000	5/1/2007
+Mejia, Jonathan	32355	Full		2/11/2027				
 Melaragni, Edward F	2892	Full	-13.50000	9/30/1999		PA	0.62000	9/1/1994
 Melbourne, Will	14497	Full	-43.98000	5/11/2007		TX	2.22000	5/1/2006
 Melcher, Ian	9983	Full	-24.95000	6/13/2004		MI	0.52000	8/1/2002
@@ -16829,7 +16830,7 @@ Zhu, Kevin	24153	Youth	-21.53226	10/12/2019	New York Go Association	NY	1.23281	1
 Zhu, Li Xiang	5751	Full	2.79000	12/28/1993		NY	0.58000	9/1/1993
 Zhu, Luke	13685	Full	-34.95000	6/14/2006		IL	2.79000	7/1/2005
 Zhu, Mengou	18687	Full	-4.63607	2/28/2012		NJ	0.81116	2/26/2011
-Zhu, Mengyuan	31235	Full	1.55328	9/13/2025		NC	0.70970	9/21/2024
+Zhu, Mengyuan	31235	Full	1.55328	2/11/2027		NC	0.70970	9/21/2024
 Zhu, Michael	11575	Full	-3.62580	3/1/2013	Feng Yun Go School	NJ	0.82121	2/25/2012
 Zhu, Mingjun	7946	Non	-1.01000	1/26/1999		MD	0.60000	12/15/1998
 Zhu, Paul	4202	Full	4.72249	3/1/2012	Feng Yun Go School	NJ	0.54194	3/2/2013
