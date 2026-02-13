@@ -6169,7 +6169,7 @@ Jankowski, Marc	20286	Full	-9.56561	11/20/2013	Bay Area Go Players Assoc.	CA	0.8
 Jankowski, Miles	30787	Youth	-28.85394	2/27/2025		ID	0.81597	7/23/2024
 Jankowski, Oliver	30786	Youth	-31.88895	2/27/2025		ID	2.82785	7/23/2024
 Jankowski, Richard	383	Full	-6.80061	4/2/2026	Ann Arbor Go Club	MI	0.78129	7/14/2019
-Jankowski, Scott D	14606	Full	-2.51154	11/30/2025		FL	0.44847	4/20/2019
+Jankowski, Scott D	14606	Full	-2.51154	2/12/2027		FL	0.44847	4/20/2019
 Jansen, Jenna	20979	Full	-2.79075	6/16/2018	San Diego Go Club	CA	0.35042	1/10/2016
 Jansen, Kevin	16422	Full	-30.06000	3/12/2009	Evanston Go Club	IN	2.39000	4/1/2008
 Janssen, Dustin	16010	Full	-15.79122	1/25/2013		TX	0.53931	8/2/2009
