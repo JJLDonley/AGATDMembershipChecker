@@ -4032,7 +4032,7 @@ Fuchs, Pete	2946	Full	-7.20000	3/28/1994		NC	0.00000	11/15/1992
 Fudge, Van	12652	Full	-23.62000	6/2/2005	Corvallis Go Club	OR	1.99000	6/1/2004
 Fuentes, Jason	14117	Full	-4.90000	12/20/2006		CA	0.58000	1/1/2006
 Fugami, Kai	23517	Full	7.11189	1/11/2021	Bellingham Go Club	WA	0.52058	5/6/2018
-Fujan, Bradley J	30339	Non	-1.54893	12/16/2025		OR	0.37654	11/22/2025
+Fujan, Bradley J	30339	Non	-1.54893	2/18/2027		OR	0.37654	11/22/2025
 Fujan, Bradley Joseph	20219	Full	-5.01089	10/12/2014		OR	0.60824	8/7/2013
 Fujii, Takaaki	8383	Full	1.52000	2/2/2003		PA	0.20000	3/1/2002
 Fujimoto, Takemi	17675	Non	1.16087	8/13/2009			0.49821	8/2/2009
@@ -5805,7 +5805,7 @@ Huang, Willis	18369	Youth	6.22565	1/5/2026	Feng Yun Go School	NJ	0.28710	11/8/20
 Huang, Xiao	16583	Full	-4.17519	5/4/2010	Feng Yun Go School	NJ	0.70326	6/20/2009
 Huang, Xiaodi	25837	Full	7.32926	3/29/2024	Capital Go Club	MA	0.29445	1/27/2024
 Huang, Xiaohan	16637	Full	5.38447	6/3/2012	Bay Area Go Players Assoc.	CA	0.21807	1/9/2010
-Huang, Xiayang Alexander	24068	Youth	-5.15213	2/27/2025	New York Go Association	NY	0.54277	8/31/2019
+Huang, Xiayang Alexander	24068	Youth	-5.15213	2/19/2027	New York Go Association	NY	0.54277	8/31/2019
 Huang, Xingang	24822	Full	3.60205	9/16/2026	Yorba Linda Go Club	CA	0.23667	1/17/2026
 Huang, Yanshan	30573	Full	-19.04251	11/4/2025		CA	1.04502	7/23/2024
 Huang, Yen-Ta	21484	Full	4.09680	2/12/2018	Berkeley Go Club	CA	0.45857	4/1/2017
@@ -11956,7 +11956,7 @@ Russel, Evan	6742	Full	-14.03000	10/28/1994		PA	0.57000	12/1/1993
 Russell, Aaron	16076	Full	-12.61000	12/19/2009	Tacoma Go Club	WA	0.62000	10/1/2009
 Russell, Aaron	30711	Full		2/11/2026	National Go Center	DC		
 Russell, Brent	19812	Full	-6.72150	5/7/2026	Santa Monica Go Club	CA	0.43317	8/2/2025
-Russell, Byron	11643	Full	-6.97932	2/28/2026	Fresno Go Club	CA	0.33682	7/13/2025
+Russell, Byron	11643	Full	-6.97932	2/18/2027	Fresno Go Club	CA	0.33682	7/13/2025
 RUSSELL, DAVE	30690	Full		1/17/2025		TX		
 Russell, David	26045	Full		8/19/2023	Ann Arbor Go Club	MI		
 Russell, Eric	16944	Full	-13.09539	1/9/2017		OH	0.74862	1/9/2016
