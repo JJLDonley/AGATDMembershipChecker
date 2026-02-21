@@ -355,7 +355,7 @@ Asano, Takashi	13351	Non	-2.29000	3/14/2005		IL	0.58000	4/1/2005
 Asano, Tetsuo	1497	Non	-2.44000	11/5/2003		CA	0.48000	11/1/2003
 Ascheim, Skip	114	Full	4.50000	3/13/2018			0.45000	12/1/1996
 Ascherl, David	21085	Full	-8.55848	6/18/2026	Seattle AGA Chapter	WA	0.76027	2/4/2018
-Ash, David	6781	Full		2/28/2026		KY		
+Ash, David	6781	Full		2/20/2027		KY		
 Ash, Kyle	14745	Full	-6.01000	9/29/2007		HI	0.50000	9/1/2007
 Ashcraft, Jack	23601	Full		11/5/2025		CA		
 Ashley, Ross	19762	Full	-4.50762	3/1/2013		CT	0.62874	2/25/2012
@@ -9980,7 +9980,7 @@ Moon, Kwang Suk	8021	Full	6.33000	6/28/1997	NOVA Go Club	VA	0.57000	6/1/1996
 Moon, Kyung Up	21183	Full	-8.51199	5/10/2015		VA	0.63627	4/26/2014
 Moon, Laura	11380	Life	-2.59119	9/1/2064	Evanston Go Club	IL	0.31195	5/14/2022
 Moon, Tak Han	9964	Full	6.57000	5/29/2002	GWRM Baltimore Go Club	MD	0.51000	6/1/2001
-Moorcroft, Greg	25836	Full	-13.23866	3/28/2026	Evanston Go Club	IL	0.58385	5/24/2025
+Moorcroft, Greg	25836	Full	-13.23866	2/20/2027	Evanston Go Club	IL	0.58385	5/24/2025
 Moore, Barry	15677	Full	-16.47282	4/18/2011		OH	1.09618	2/20/2010
 Moore, Brockton	31977	Full	-8.81881	8/15/2026		FL	0.83723	10/14/2025
 Moore, Carol	6084	Full	-18.50000	6/28/1993		OR	0.00000	11/15/1992
