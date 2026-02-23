@@ -748,6 +748,7 @@ Bentley, Marty	12557	Full	-39.10000	3/25/2005	Evanston Go Club	IL	3.04000	4/1/20
 Benton, James	6116	Full	-6.13595	9/16/2014		NY	0.65119	10/12/2013
 Bentsen, David	6325	Full	-16.23000	3/28/1994		IL	0.53000	9/1/1993
 Benyowitz, Joel	4454	Full	-4.39986	5/26/2020	GWRM Baltimore Go Club	MD	0.58729	5/25/2019
+Berberich, Dennis	32370	Full		2/22/2027				
 Berdichevsky, Michael	22804	Full	-4.79907	7/18/2017	Bay Area Go Players Assoc.	CA	0.64361	7/23/2016
 Berdner, John	8817	Full	-8.49000	9/29/1998	NOVA Go Club	CA	0.68000	1/1/1998
 Berg, Gary	24860	Full	-2.29229	10/31/2024	Seattle AGA Chapter	WA	0.53299	3/3/2024
@@ -2063,8 +2064,8 @@ Chen, Yi Jin	15198	Full	5.54912	2/17/2010		MD	0.45534	2/27/2010
 Chen, Yigeng	20997	Non	2.28430	1/5/2014			0.74935	1/5/2014
 Chen, Yihang	30291	Youth		5/30/2024	Capital Go Club	VA		
 Chen, YiJiang	10668	Non	-12.50000	8/3/2001			2.20000	7/1/2001
-Chen, Yijie	32340	Youth	1.16428	2/2/2027		TX	0.58917	2/14/2026
 Chen, Yijie	32016	Youth		9/4/2026		TX		
+Chen, Yijie	32340	Youth	1.16428	2/2/2027		TX	0.58917	2/14/2026
 Chen, Yilin	20802	Full	5.14609	2/5/2017	Dallas Go Club	TX	0.60780	2/13/2016
 Chen, Yin M	20422	Full	-2.04067	2/7/2013			0.75384	1/26/2013
 Chen, Yin -Yu	9295	Full	-27.30000	11/16/1999		TX	0.87000	12/15/1998
@@ -6457,8 +6458,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
+Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -8066,7 +8067,7 @@ Leung, James	25356	Full		11/21/2023		CA
 Leung, Jessica	23088	Youth	-17.97137	1/17/2018		CA	0.98787	1/21/2017
 Leung, Joseph	20467	Full	-2.86402	3/6/2014		NY	0.66902	5/4/2013
 Leung, Kai C.	1154	Full	2.09000	7/17/1998	Massachusetts Go Association	MA	0.73000	1/1/1998
-Leung, Kevin	25751	Youth	-18.89201	2/24/2026	New York Go Association	NY	0.53355	7/12/2023
+Leung, Kevin	25751	Youth	-18.89201	2/23/2027	New York Go Association	NY	0.53355	7/12/2023
 Leung, Kristian	13703	Full	-23.09000	7/2/2006		NJ	0.75000	7/1/2005
 Leung, Leo	15393	Full	-11.67000	4/2/2010		CA	1.25000	10/1/2007
 Leung, Luigi	15989	Non	-15.39596	11/17/2008	Orange County Go Club	CA	1.22110	10/21/2017
@@ -8497,8 +8498,8 @@ Lin, Cooper	30443	Youth		9/24/2024	SiliValley Go Club	CA
 Lin, Crystal	18558	Youth	-14.28568	3/20/2017	Evanston Go Club	IL	0.38092	2/4/2017
 Lin, D.C.	7499	Full	6.31000	2/28/1996		IL	0.57000	3/1/1995
 Lin, Daniel	25180	Youth		7/5/2021		NY		
-Lin, David	7949	Full	5.84000	4/26/2005		MA	0.55000	9/1/2004
 Lin, David	14102	Full	1.15000	12/21/2006	Princeton Go Club	NJ	0.65000	1/1/2006
+Lin, David	7949	Full	5.84000	4/26/2005		MA	0.55000	9/1/2004
 Lin, Derrick	24944	Full	-8.04383	11/18/2021		CA	0.74073	11/9/2019
 Lin, Dong-Lien	25049	Full	4.35190	6/24/2022	Ann Arbor Go Club	PA	0.66782	1/18/2020
 Lin, Eric	23097	Youth	-13.58272	1/22/2018		WA	1.00204	1/22/2017
