@@ -461,6 +461,7 @@ Bai, Yuchen	7252	Full	7.03660	3/12/2024	Bay Area Go Players Assoc.	PA	0.56593	2/
 Baig, Mirza Basim	19765	Full	-19.67693	3/1/2013		NY	0.75199	5/5/2012
 Bailey, Bruce W	6702	Full	-9.22567	1/31/2027		CA	0.36166	2/1/2026
 Bailey, Clark	8691	Full	-11.21000	7/9/1998		CA	0.58000	9/1/1997
+Bailey, Eric	32377	Full		2/25/2027				
 Bailey, Jason	13264	Full	-17.08938	1/18/2011		VA	0.94266	12/12/2009
 Bailey, Pauline	16767	Non	-16.06171	8/14/2008			0.55895	8/4/2013
 Bailey, Stephen	16768	Non	-4.18439	8/14/2008			0.50572	8/4/2013
@@ -7840,8 +7841,8 @@ Lee, Jong Kun	10422	Non	4.62000	2/28/2001			0.90000	3/1/2001
 Lee, Jong Moon	1152	Full	5.80793	2/14/2026	Gotham Go Group	NY	0.48748	11/8/2025
 Lee, Jong Soo	21180	Full	3.44926	5/10/2015		MD	0.55416	4/26/2014
 Lee, Joon H	21181	Full	4.24706	5/10/2015		VA	0.65116	4/26/2014
-Lee, Joon W	8047	Full	2.17000	5/28/1997		CA	0.50000	9/1/1996
 Lee, Joon	8078	Full	-3.84000	11/30/1998		WA	0.56000	6/1/1998
+Lee, Joon W	8047	Full	2.17000	5/28/1997		CA	0.50000	9/1/1996
 Lee, Joon	22176	Full	-5.43049	10/3/2026	Univ. of Maryland Go Club	MD	0.52927	5/26/2018
 Lee, Joongul	7625	Full	3.05000	4/28/1996		TX	0.38000	3/1/1996
 Lee, Joonha	30721	Youth	-4.76466	2/4/2027	National Go Center	MD	0.31939	9/20/2025
@@ -8500,8 +8501,8 @@ Lin, Cooper	30443	Youth		9/24/2024	SiliValley Go Club	CA
 Lin, Crystal	18558	Youth	-14.28568	3/20/2017	Evanston Go Club	IL	0.38092	2/4/2017
 Lin, D.C.	7499	Full	6.31000	2/28/1996		IL	0.57000	3/1/1995
 Lin, Daniel	25180	Youth		7/5/2021		NY		
-Lin, David	7949	Full	5.84000	4/26/2005		MA	0.55000	9/1/2004
 Lin, David	14102	Full	1.15000	12/21/2006	Princeton Go Club	NJ	0.65000	1/1/2006
+Lin, David	7949	Full	5.84000	4/26/2005		MA	0.55000	9/1/2004
 Lin, Derrick	24944	Full	-8.04383	11/18/2021		CA	0.74073	11/9/2019
 Lin, Dong-Lien	25049	Full	4.35190	6/24/2022	Ann Arbor Go Club	PA	0.66782	1/18/2020
 Lin, Eric	23097	Youth	-13.58272	1/22/2018		WA	1.00204	1/22/2017
@@ -10817,6 +10818,7 @@ Pang, Kong Foo	22676	Full	-7.22170	6/4/2018	Iowa Go Society	IA	0.75974	7/9/2016
 Pang, Leslie	12674	Full	-30.15000	5/26/2004		CA	0.80000	5/1/2004
 Pang, Winta	25859	Full	-14.68110	4/10/2023	San Francisco Go Club	CA	1.31210	4/16/2022
 Pang, Yihan ï¼ˆCrystalï¼‰	24161	Youth	-8.60599	10/16/2019	New York Go Association	NY	0.74304	8/31/2019
+Pangilinan, Brandon	32376	Full		2/25/2027				
 Panicucci, Ted	9724	Full	-6.04754	1/26/2027	Vermont Go Club	VT	0.79710	1/17/2026
 Pankratz, Mark	17457	Full	-5.45363	1/12/2012	Empty Sky Go Club	NY	0.56259	10/15/2011
 Pantel, Adam	23921	Full	-13.00730	5/16/2019		NY	0.74842	10/30/2018
@@ -13342,7 +13344,7 @@ Sullivan, Robert M	9067	Full	-16.79000	5/13/1999		NY	0.93000	6/1/1998
 Sullivan, Shaun	15562	Full	2.83000	6/6/2008		FL	0.37000	6/1/2009
 Sullivan, Tommy	14618	Full	-24.97000	8/25/2007		IL	2.43000	5/1/2007
 Sullivan, William	25480	Full		4/7/2022	Orlando Go Club	FL		
-Sullivan Jr., Thomas	25849	Full	-21.44160	4/6/2026	Central Connecticut Go Club	CT	0.67198	11/22/2025
+Sullivan Jr., Thomas	25849	Full	-21.44160	2/26/2027	Central Connecticut Go Club	CT	0.67198	11/22/2025
 Summerlot, Xander D	31658	Full	-17.73074	3/27/2026	National Go Center	MD	0.77802	3/29/2025
 Sumner, Doug	15109	Full	-7.20467	11/6/2011	Empty Sky Go Club	NY	0.59884	10/29/2011
 Sumner, Eric	17757	Life	-17.21452	9/1/2064	Bay Area Go Players Assoc.	CA	0.30282	11/13/2010
@@ -16045,7 +16047,7 @@ Yoo, Sungyeon	20488	Full	-7.97239	3/14/2014	NOVA Go Club	VA	0.55083	12/14/2013
 Yoo, Sunhoh	22634	Youth	-13.59075	5/9/2017		NJ	0.85000	5/1/2016
 Yoon, Bong Joon	11120	Full	-3.34000	8/1/2021		NY	0.35000	2/1/2006
 Yoon, Byung	5644	Non	3.30000	12/28/1979			0.00000	11/15/1992
-Yoon, Eliot	24478	Youth	4.49311	2/25/2026	Gotham Go Group	NY	0.32934	1/31/2026
+Yoon, Eliot	24478	Youth	4.49311	2/25/2027	Gotham Go Group	NY	0.32934	1/31/2026
 Yoon, Ho Won	14123	Non	4.13000	5/5/2008	Penn Go Society	PA	0.58000	4/1/2008
 Yoon, Jaiden	23319	Youth	-18.86873	5/7/2018	Seattle AGA Chapter	WA	0.85152	5/7/2017
 Yoon, jang Hun	10438	Non	-1.20000	2/28/2001			0.89000	3/1/2001
@@ -16666,7 +16668,7 @@ Zhao, Yuefeng	23693	Full	6.24330	1/20/2019		CA	0.52790	3/3/2018
 Zhao, Yuefeng	22697	Full	6.91280	3/13/2018			0.32340	10/14/2017
 Zhao, Yunhuang	18347	Youth	-1.78208	10/28/2011	Univ. of Maryland Go Club	MD	0.84773	9/3/2010
 Zhao, Zehua	22604	Full	5.19369	5/23/2019		MD	0.44829	5/27/2017
-Zhao, Zhao	21699	Full	-6.01983	4/5/2026	Capital Go Club	VA	0.31627	9/7/2019
+Zhao, Zhao	21699	Full	-6.01983	2/25/2027	Capital Go Club	VA	0.31627	9/7/2019
 Zhao, Zhixun	22577	Full	8.10527	4/21/2026	Austin Go Club	TX	0.63800	4/26/2025
 Zhao, Zhiyuan	31466	Youth	5.13464	1/10/2026		OR	0.80280	2/15/2025
 Zhao, Zhongxia	11312	Full	7.34329	10/9/2021	Princeton Go Club	NJ	0.36751	5/25/2019
