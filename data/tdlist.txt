@@ -47,7 +47,7 @@ Adam, Kurt	8217	Full	-20.85000	9/30/2005	NOVA Go Club	VA	2.12000	6/1/1997
 Adame, Eduardo	32183	Full	-30.49966	11/4/2026		TX	3.31393	11/8/2025
 Adamic, Peter	7796	Non	-1.16000	8/28/1995		BC	0.58000	9/1/2005
 Adams, David C	12356	Non	-18.44000	1/10/2004		CA	1.32000	2/1/2004
-Adams, Ian	25108	Full		2/15/2021		CA		
+Adams, Ian	25108	Full		3/3/2027		CA		
 Adams, John V	5083	Full	-7.78000	2/28/2009	NOVA Go Club	VA	0.60000	9/1/1994
 Adams, Johnboy	18600	Full	-5.23236	1/26/2015		KY	0.53020	5/25/2014
 Adams, Matthew	23538	Full	-7.37559	9/28/2018	Ventura County Go Club	CA	0.77804	10/21/2017
@@ -544,6 +544,7 @@ Barber, Matthew	18101	Full	-4.96207	4/19/2013		CA	0.47784	10/27/2013
 Barber, Robert J	1767	Full	-3.60478	10/31/2026	Evanston Go Club	IL	0.26198	1/31/2026
 Barberi, Steve	2323	Full	-1.47065	3/31/2026		FL	0.32615	7/22/2018
 Barbieri, Gerard	19341	Comp	-7.26171	1/1/2023			0.66102	10/1/2011
+Barbieri, Julian	32396	Full		3/3/2027				
 Barbosa, David	21315	Full	-13.82705	2/1/2017	Wings Across Calm Water	NJ	0.65535	8/13/2014
 Barchilon, Paul	11442	Life	-2.90198	9/1/2064	Boulder Kids and Teens Go Club	CO	0.44139	7/13/2025
 Barclay, Jason	20898	Full	-12.82619	11/2/2014		CA	0.63103	10/27/2013
@@ -4995,7 +4996,7 @@ Harrison, Sam	32158	Youth		10/27/2026	Univ. of Maryland Go Club
 Harry, Drew	13010	Full	-14.72000	10/15/2006		RI	0.79000	7/1/2005
 Harsha, Madeleine	24596	Full	-10.00151	9/2/2020	Corvallis Go Club	OR	0.68645	9/21/2019
 Hart, Bob	4898	Full	-1.89000	7/28/1991	NOVA Go Club	VA	1.06000	9/1/1994
-Hart, Catherine	30137	Full	-15.43322	4/11/2026		WA	0.75958	11/5/2023
+Hart, Catherine	30137	Full	-15.43322	3/3/2027		WA	0.75958	11/5/2023
 Hart, Cliff	8099	Full	3.33000	10/19/2009	Santa Monica Go Club	CA	0.54000	10/1/2008
 Hart, Lanette	31956	Full		7/30/2026		FL		
 Hart, Matthew	14335	Full	-11.94000	3/10/2007		IA	0.36000	1/1/2007
@@ -6511,7 +6512,7 @@ Kahn, Andy	5088	Full	-1.73114	7/23/2021		PA	0.69475	8/6/2017
 Kahn, Charles	30814	Full	-3.78327	3/13/2026	East Bay Go Players	CA	0.59148	11/17/2024
 Kahn, David	9377	Full	-8.09604	5/3/2026	Massachusetts Go Association	MA	0.52348	4/10/2019
 Kahn, Gary	6829	Full	-25.01000	2/23/2027		VA	0.86000	12/1/1993
-Kahr, Janar	25346	Full	4.60248	12/6/2025		OH	0.25083	2/1/2025
+Kahr, Janar	25346	Full	4.60248	3/3/2027		OH	0.25083	2/1/2025
 Kai, Naoyuki	20759	Non	6.76488	10/8/2018		CA	0.33960	5/4/2019
 Kain, Kyle	21988	Life	-6.37355	9/1/2064	Iowa Go Society	IA	0.82666	1/24/2026
 Kain, Morgan	18462	Full	-3.66213	11/13/2011		PA	0.84228	4/9/2011
