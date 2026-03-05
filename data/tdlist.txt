@@ -1584,7 +1584,7 @@ Cha, Moon O	10942	Non	1.72000	3/2/2002			0.66000	3/1/2002
 Cha, Moon H.	854	Full	5.23000	3/15/2018			0.93000	6/1/2003
 Cha, Mun	13257	Non	-1.53000	10/10/2007		CO	0.57000	10/1/2007
 Cha, Seung H	6509	Non	4.86000	5/28/1993			0.48000	9/1/1993
-Cha, Tai-An	16990	Full	-4.22632	4/13/2026	Bay Area Go Players Assoc.	CA	0.14196	5/4/2019
+Cha, Tai-An	16990	Full	-4.22632	3/4/2027	Bay Area Go Players Assoc.	CA	0.14196	5/4/2019
 Cha, Tony	18618	Full	3.23359	2/4/2026	Atlanta Go Club	GA	0.30755	2/9/2025
 Cha, Yeong	20878	Full	9.50002	10/29/2014		GA	0.99862	9/21/2013
 Cha, Young	21172	Full	4.02143	5/10/2015		VA	0.58472	4/26/2014
@@ -8946,7 +8946,7 @@ Lopez, Frank M	6864	Full	-17.87000	6/28/2003	Austin Go Club	TX	1.65000	7/1/2002
 Lopez, Frank	19841	Youth	-19.76283	4/14/2013		NY	0.95566	4/14/2012
 Lopez, Lazaro O	21813	Full	1.11197	3/7/2025	Atlanta Go Club	GA	0.38027	2/9/2025
 Lopez, Leonardo Z	31491	Full	-9.35672	1/15/2026	San Antonio Go Club	TX	0.80512	2/15/2025
-Lopez, Michel	26315	Full		1/9/2024		FL		
+Lopez, Michel	26315	Full		3/4/2027		FL		
 Lopez-Campbell-Forbes, Vlad	19380	Full	-21.98482	10/23/2012	Davis/Sacramento Go Club	CA	1.99322	10/15/2011
 Lora, Jes	26180	Full	-8.82508	10/21/2024	Evanston Go Club	IL	0.54891	11/4/2023
 Loranger, Alex	24202	Full	-22.80602	10/23/2019		CA	1.78795	8/31/2019
@@ -9382,7 +9382,7 @@ Mariano, Adrian	7843	Full	-9.03000	11/28/1996		NY	0.80000	12/1/1995
 Marinelli, Michael	20808	Full	-18.83710	2/27/2015	Stony Brook University Go Club	NY	1.26167	3/1/2014
 Marinello, Brent	10649	Full	-1.50000	4/21/2007	Triangle Go Group	NC	0.80000	9/1/2006
 Marinic, Jamie	24698	Full	-2.56053	6/28/2021		ON	0.51404	7/14/2019
-Marino, Joseph	23828	Full	-12.62257	3/18/2024		CA	0.74811	3/19/2022
+Marino, Joseph	23828	Full	-12.62257	3/5/2027		CA	0.74811	3/19/2022
 Marinov, Darko	7744	Full	1.19000	7/28/1996			0.55000	9/1/1995
 Marker, Stuart	24967	Full	-4.78272	12/4/2026		NJ	0.69695	3/26/2022
 Markland, Bobbie	23646	Full	-28.24311	3/12/2023	Central Connecticut Go Club	CT	2.21193	5/21/2022
@@ -11694,6 +11694,7 @@ Richardson, Mark F	20994	Full	-16.25023	3/22/2018		WA	0.30569	7/2/2017
 Richardson, Rachael	11520	Full	-31.41000	11/26/2005	Univ. of Maryland Go Club	MD	0.78000	12/1/2003
 Richfield, Antony	14484	Non	-12.27000	7/22/2008	Seattle AGA Chapter	WA	0.44000	8/1/2008
 Richman, Harry	25620	Full	-12.01221	10/3/2022	Seattle AGA Chapter	WA	1.34704	10/3/2021
+Richmond, William	32397	Full		3/4/2027				
 Richner, Christopher	24362	Youth	-23.63152	12/16/2019	Columbus Go Club	OH	1.09129	12/15/2018
 Richter, Andrew	24823	Full	-8.25356	9/19/2024	Vermont Go Club	VT	0.86915	11/5/2022
 Richter, David	24167	Full	-9.76935	5/6/2025	Kalamazoo Go Club	MI	0.61386	4/27/2024
@@ -13061,7 +13062,7 @@ Sparks, Michael	17369	Non	-16.98000	4/7/2009		TX	0.95000	4/1/2009
 Sparks, Roy	4887	Full	-1.60000	10/28/1994		CA	0.50000	6/1/1994
 Spears, Chris	10559	Full	-11.66000	12/26/2005	Univ. of Maryland Go Club	MD	0.76000	12/1/2004
 specioso, michael	24784	Full	-21.64794	4/18/2025	Davis/Sacramento Go Club	CA	1.28408	11/17/2024
-Speck, Darrell	6274	Full	-2.47561	3/23/2026	Atlanta Go Club	GA	0.31164	7/13/2025
+Speck, Darrell	6274	Full	-2.47561	3/4/2027	Atlanta Go Club	GA	0.31164	7/13/2025
 Spector, Martin B	5086	Full	1.54831	1/14/2011	Massachusetts Go Association	MA	0.40706	1/3/2010
 SPELLMAN, George	23746	Full	-11.41327	12/26/2026	San Diego Go Club	CA	0.41917	5/26/2024
 Spencer, Andrew	16520	Full	-15.43000	4/12/2009	Tucson Go Club	AZ	1.81000	5/1/2008
