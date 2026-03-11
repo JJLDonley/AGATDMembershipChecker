@@ -6499,7 +6499,7 @@ Jung, Myung	24569	Full	3.90912	5/1/2020		NJ	0.64830	4/10/2019
 Jung, Seo Joon	22112	Full	10.22807	9/27/2015			0.73883	9/26/2015
 Jung, Tae So	22113	Full	4.55008	9/27/2015			0.75649	9/26/2015
 Jungerman, Johnathan Robert	22337	Youth	-18.84345	2/9/2017		TX	0.96977	2/13/2016
-Jurca, Dan	390	Full	1.30000	3/31/2026		CA	0.00000	11/15/1992
+Jurca, Dan	390	Full	1.30000	3/10/2027		CA	0.00000	11/15/1992
 Justice, Charles	23744	Full	-7.18814	1/7/2026	Dallas Go Club	TX	0.72325	2/15/2025
 Justice, Charles Barrett	10232	Non	-11.19000	11/22/2002		TX	0.91000	12/1/2002
 Jutras, Ross	15017	Full	-12.18000	12/29/2008	Vermont Go Club	VT	0.93000	4/1/2008
@@ -9851,7 +9851,7 @@ Miller, Chad	23891	Youth	-20.99121	4/28/2032		GA	1.14272	7/1/2018
 Miller, Chris	6528	Non	-6.16000	5/28/1993			0.47000	9/1/1993
 Miller, Chris	18125	Full	-8.38662	5/7/2011		PA	0.88823	10/16/2010
 Miller, Colin	17892	Full		7/27/2026	Bay Area Go Players Assoc.	CA		
-Miller, Daniel	20294	Full	-7.81836	2/3/2026	Memphis Go Club	TN	0.26377	5/24/2025
+Miller, Daniel	20294	Full	-7.81836	3/11/2027	Memphis Go Club	TN	0.26377	5/24/2025
 Miller, Douglas	12804	Full	-15.32813	5/19/2025		CA	1.43247	8/3/2013
 Miller, Ethan	24129	Full	-16.20741	9/29/2019	Austin Go Club	TX	0.66451	10/20/2018
 Miller, Frank K	31525	Full		1/28/2026		MI		
@@ -15791,7 +15791,7 @@ Yang, Donald	8003	Full	5.46000	3/28/1997		MD	0.75000	6/1/1996
 Yang, Doris	21819	Full	3.85776	4/14/2017		FL	0.60215	4/18/2015
 Yang, Dowson	20657	Youth	-9.48487	8/6/2020			0.69015	8/6/2017
 Yang, Edgar	31590	Youth		2/15/2026		PA		
-Yang, Eric	23699	Youth	3.13427	1/22/2025	San Diego Go Club	CA	0.37973	7/9/2023
+Yang, Eric	23699	Youth	3.13427	3/10/2027	San Diego Go Club	CA	0.37973	7/9/2023
 Yang, Eric	20677	Full	1.84941	4/21/2024			0.79677	4/22/2023
 Yang, Eric	19777	Youth	-7.52824	3/10/2018	Feng Yun Go School	NJ	0.46155	3/12/2017
 Yang, Erning	13217	Full	1.07000	1/26/2006	Corvallis Go Club	OR	0.56000	6/1/2005
