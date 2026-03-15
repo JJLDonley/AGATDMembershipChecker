@@ -6478,8 +6478,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
+Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -9352,7 +9352,7 @@ Mantle, Ben	30049	Comp	5.80346	9/24/2027		ON	0.33543	7/14/2024
 Mantsch, Kai	30772	Full	-12.22394	2/23/2025		OR	0.63774	7/23/2024
 Mantz, Melissa	30587	Youth	-14.05993	11/6/2024	St. Louis Go Club	MO	0.67707	3/2/2024
 Manuel, Doug	2975	Full	-12.40000	4/28/1992		WA	0.00000	11/15/1992
-Manuel, Paul	13591	Full	-14.21000	5/28/2007		MD	0.84000	6/1/2005
+Manuel, Paul	13591	Full	-14.21000	3/14/2027		MD	0.84000	6/1/2005
 Manus Jr., John R	2203	Non	-5.18000	6/28/1997	Springs Go Club	CO	0.66000	3/1/1999
 Manweiler, Jerry W	4920	Full	-5.90000	9/28/1994		KS	0.00000	11/15/1992
 Manzo, Christopher	25057	Full	-6.63099	1/20/2024	Columbus Go Club	KY	0.47339	1/18/2020
@@ -10276,6 +10276,7 @@ Naradzay, John F	9803	Full	-1.71000	4/17/2002	GWRM Baltimore Go Club	MD	0.79000	
 Narins, Lothar	13803	Full	-11.98000	8/20/2006		CA	0.73000	9/1/2005
 Narke, James	26108	Full		9/28/2024		NE		
 Nasir, Abizer	25064	Comp		7/23/2024				
+Nasir, Jisan	32418	Youth		3/14/2027				
 Nason, Franklin	31185	Youth	-8.10406	8/30/2025		CO	1.00986	9/7/2024
 Nassar, Peter N	3198	Full	-3.80000	7/8/2016	Penn Go Society	MD	0.26000	4/1/2009
 Nateharn, Olarn	9655	Full	-2.41000	9/1/2003	Triangle Go Group		0.37000	3/1/2003
@@ -13177,7 +13178,7 @@ Stein, Chase	16577	Full	-27.74000	5/2/2009			2.60000	5/1/2008
 Stein, Martin	8433	Full	-2.07000	6/29/2001	Davis/Sacramento Go Club	CA	0.68000	9/1/2000
 Steinberg, Daniel	24382	Full	-28.25517	12/27/2021	Cleveland Go Club	OH	2.07059	12/15/2018
 Steinberg, David	14764	Full	-12.59000	10/9/2007		MA	0.89000	11/1/2006
-Steinberg, Micah	30588	Full	-4.22513	3/14/2026	Gotham Go Group	NY	0.24493	3/7/2026
+Steinberg, Micah	30588	Full	-4.22513	3/14/2027	Gotham Go Group	NY	0.24493	3/7/2026
 Steinberger, Adam M	32260	Full		12/26/2026	Upstate SC Go Club	SC		
 Steinbrook, Daniel	20581	Full	1.18372	1/29/2019	Massachusetts Go Association	MA	0.35292	12/31/2017
 Steindler, Zach	17936	Full	-16.36930	2/10/2011	SiliValley Go Club	CA	1.77397	2/6/2010
@@ -13664,8 +13665,8 @@ Tang, Ge	22355	Full	2.48335	2/14/2017		CA	0.61267	2/14/2016
 Tang, Hsi Yun	22011	Comp	7.90042	1/1/2023			0.48068	8/2/2015
 Tang, Hui	11149	Full	-28.16000	6/22/2003	Evanston Go Club	IL	1.00000	7/1/2002
 Tang, Isaac	8964	Non	2.18000	3/2/2003	San Francisco Go Club	CA	0.33000	2/1/2003
-Tang, James	11820	Full	-3.57000	8/30/2004			0.69000	6/1/2003
 Tang, James	19940	Non	-1.09786	5/25/2012			0.96485	4/28/2012
+Tang, James	11820	Full	-3.57000	8/30/2004			0.69000	6/1/2003
 Tang, Jayden	30127	Youth		4/9/2024	SiliValley Go Club	CA		
 Tang, Jeffrey X	30586	Full		11/6/2024		FL		
 Tang, Jicheng	18624	Full	4.48705	7/27/2014	Atlanta Go Club	GA	0.46776	12/1/2012
@@ -16513,8 +16514,8 @@ Zhang, Kevin	16311	Full	-12.42342	12/13/2012		VA	0.64570	12/3/2011
 Zhang, Kevin	16643	Full	2.09000	6/4/2009			0.66000	7/1/2008
 Zhang, Larry	18767	Full	-20.79133	5/10/2012		NC	1.02409	9/17/2011
 Zhang, Le	21393	Comp	3.67851	1/1/2023			0.79549	8/10/2014
-Zhang, Li	18112	Full	5.75560	4/16/2014	Bay Area Go Players Assoc.	CA	0.26370	4/20/2013
 Zhang, Li	21765	Comp	10.30955	1/1/2023			0.74346	2/14/2015
+Zhang, Li	18112	Full	5.75560	4/16/2014	Bay Area Go Players Assoc.	CA	0.26370	4/20/2013
 Zhang, Libo	10517	Non	-4.28000	11/12/2001		TX	0.40000	11/1/2001
 Zhang, Ling	17085	Full	-19.33000	1/5/2010		CA	1.03000	2/1/2009
 Zhang, Ling Wen	5074	Full	4.56000	2/28/1998	Davis/Sacramento Go Club	CA	0.56000	3/1/1997
@@ -16740,7 +16741,7 @@ Zheng, Justin	23259	Youth	-22.29206	4/8/2018	Syracuse Go Club	NY	0.98320	4/8/201
 Zheng, Kaiyu	25786	Full	-5.96897	4/5/2026		MA	1.03281	3/12/2022
 Zheng, Kevin	18037	Full	-11.29589	6/22/2015		CA	0.63863	10/26/2014
 zheng, Lee	31250	Comp		10/8/2025		IL		
-Zheng, Leon W	31378	Youth		11/23/2025		NC		
+Zheng, Leon W	31378	Youth		3/15/2027		NC		
 Zheng, Lucas	20154	Youth	-12.27847	8/31/2014		CA	0.38350	6/8/2013
 Zheng, Mingquan	18244	Full	5.75887	9/27/2016		MA	0.43055	7/30/2016
 Zheng, Peng	25375	Full		12/22/2021	Penn Go Society	PA		
