@@ -1131,6 +1131,7 @@ Brikiatis, Stephen	24864	Full	-19.62698	10/9/2022	Vermont Go Club	VT	1.62709	10/
 Brinkmeyer, Brett	14650	Full	-10.26548	7/30/2017	Ames Go Club	IA	1.10431	7/9/2016
 Briscoe, Andrew	13442	Full	4.58366	5/30/2010		CO	0.37320	8/2/2009
 Briscoe, Sarah	16319	Full	-32.05000	2/17/2009		CO	1.13000	2/1/2009
+Brisson, Spencer	32420	Full		3/15/2027				
 Britt, Asha	25819	Full	2.30383	3/22/2023	Grande Ronde Go Club	OR	0.55398	11/12/2022
 Britt, Phil	13220	Full	1.39364	8/17/2009	Tacoma Go Club	WA	0.40638	7/30/2011
 Brittain, David	25309	Full		9/5/2021	Central Connecticut Go Club	CT		
@@ -5550,8 +5551,8 @@ Howard, Kendall Terrell	20547	Full	-16.51598	10/31/2016		CA	0.43938	10/26/2014
 Howard, Kevin	21639	Full	-4.53356	2/7/2016	Boulder Kids and Teens Go Club	CO	0.72053	2/4/2015
 Howard, Mark A	31001	Full		5/22/2025		CA		
 Howard, Marvin	11911	Full	-21.18000	7/3/2004	Seattle AGA Chapter	WA	0.65000	3/1/2004
-Howard, Paul R	3984	Full	-6.43252	7/23/2026	Houston Go Club	TX	0.20707	11/8/2025
 Howard, Paul M	1789	Full	-14.07000	1/28/1997	Massachusetts Go Association	MA	0.59000	3/1/1996
+Howard, Paul R	3984	Full	-6.43252	7/23/2026	Houston Go Club	TX	0.20707	11/8/2025
 Howard, Tyler	16027	Full	-21.48000	12/7/2008	Ann Arbor Go Club	MI	1.81000	1/1/2008
 Howard, Walter	23110	Non	-7.21326	1/31/2017		IL	0.71966	2/4/2017
 Howarth, Benjamin	15365	Full	-16.10000	3/25/2008		MD	1.32000	11/1/2008
@@ -9214,7 +9215,7 @@ Ma, Wang	21167	Full	7.29196	5/10/2015		MA	0.35379	10/26/2014
 Ma, Xiangyu	30488	Full	-1.02750	10/10/2024	Evanston Go Club	IL	0.65108	11/4/2023
 Ma, Xianzhe	17572	Full	1.30481	6/24/2011		CA	1.05161	6/4/2011
 Ma, Xiaogang	11677	Full	3.96000	3/1/2004	Feng Yun Go School	NJ	0.61000	4/1/2003
-Ma, Yihuan	31953	Youth	-17.48113	7/29/2026	Massachusetts Go Association	MA	0.61693	1/31/2026
+Ma, Yihuan	31953	Youth	-17.48113	3/15/2027	Massachusetts Go Association	MA	0.61693	1/31/2026
 Ma, Yong Kang	7253	Full	2.87000	5/28/1995		NJ	0.54000	6/1/1994
 Ma, Yujie	21209	Youth	2.06240	5/18/2015		VA	0.60752	8/10/2014
 Ma, Yunjing	30624	Youth	6.06953	12/31/2025		MO	0.54500	9/7/2024
