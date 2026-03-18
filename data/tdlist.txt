@@ -5004,6 +5004,7 @@ Harris, Ronald L	6723	Full	-3.79822	5/12/2026	Davis/Sacramento Go Club	CA	0.4058
 Harris, Steven J	4091	Non	-9.05145	2/17/2003		IL	0.68505	9/3/2011
 Harris, William D	2359	Full	-6.56000	12/28/1985		VA	0.83000	9/1/1997
 Harrison, Cliff	4896	Full	-4.50000	7/28/1992	Massachusetts Go Association	MA	0.00000	11/15/1992
+Harrison, Jack	32422	Youth		3/17/2027				
 Harrison, Sam	32158	Youth		10/27/2026	Univ. of Maryland Go Club			
 Harry, Drew	13010	Full	-14.72000	10/15/2006		RI	0.79000	7/1/2005
 Harsha, Madeleine	24596	Full	-10.00151	9/2/2020	Corvallis Go Club	OR	0.68645	9/21/2019
@@ -5496,7 +5497,7 @@ Hoolin, Naum	3538	Non	5.18000	8/12/1997	Cleveland Go Club	OH	0.23000	9/1/1996
 Hooton, Thomas	7844	Full	-2.73000	11/28/1996		NY	0.65000	12/1/1995
 Hoover, Nick	12163	Full	1.81000	1/2/2010	Empty Sky Go Club	IN	0.36000	2/1/2008
 Hoover, Rich	7907	Full	-18.75000	1/28/1997	Charlotte Go Club	NC	0.64000	3/1/1996
-Hop, Jonathan	13152	Full	4.19792	11/20/2025		MI	0.31338	1/18/2020
+Hop, Jonathan	13152	Full	4.19792	3/17/2027		MI	0.31338	1/18/2020
 Hopcraft, Geoff	7951	Full	1.20000	1/31/1998		MA	0.66000	3/1/1997
 Hopkins, Carl F.	5909	Full	-2.54000	12/16/2008	Davis/Sacramento Go Club	CA	0.40000	11/1/2008
 Hopkins, James	8884	Full	-7.11000	11/28/1998	Ann Arbor Go Club	MI	0.56000	6/1/1998
@@ -6070,7 +6071,7 @@ Inskeep, Gene	8288	Full	-24.03000	11/28/1997		WA	3.22000	12/1/1996
 Inwood, Matt	14783	Full	-5.32222	8/10/2023		IL	0.38251	10/19/2013
 Ioffe, Nick	7551	Non	-2.78000	2/28/1995			0.94000	3/1/1995
 Iola, David	24750	Full	-12.69191	4/30/2025	Evanston Go Club	IL	0.51866	5/25/2024
-Iovino, Joe	25717	Non	-16.16927	11/13/2025	New York Go Association	NY	0.54539	11/8/2025
+Iovino, Joe	25717	Non	-16.16927	3/17/2027	New York Go Association	NY	0.54539	11/8/2025
 Ip, Lawrence	16613	Full		3/15/2027		CA		
 Irgang, Mark	5767	Full	-8.56559	7/15/2023		VA	0.33136	8/2/2009
 Irish, Paul	10246	Full	-24.24000	11/20/2001		DE	2.48000	12/1/2000
