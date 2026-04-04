@@ -4417,7 +4417,7 @@ Golub, Robert	6577	Full	-24.94000	6/28/1994		IL	0.69000	9/1/1993
 Gomes, Tony	7753	Full	-1.49000	7/28/1996		OR	0.65000	9/1/1995
 Gomez, Christopher	9825	Non	-11.65000	4/6/2000			0.74000	3/1/2000
 Gomez, Mercedes	18388	Full	-16.69479	11/16/2011		CA	0.70168	9/18/2010
-Gomez Flores, Mario Roberto	24216	Full	-5.54660	4/19/2026	Columbus Go Club	FL	0.50201	11/2/2019
+Gomez Flores, Mario Roberto	24216	Full	-5.54660	4/3/2027	Columbus Go Club	FL	0.50201	11/2/2019
 Goncharov, Levi	23570	Youth	-7.42852	11/11/2026	Eloise May Library Club	CO	0.34189	12/6/2025
 Gondor, Andras	6483	Non	5.31000	5/28/1993			0.73000	9/1/1993
 Gong, Ben	23445	Comp	3.10874	1/1/2023			0.49803	8/9/2017
@@ -9693,6 +9693,7 @@ McNaughton, Zachariah	22166	Full	-11.26563	10/15/2016		FL	0.81831	10/17/2015
 McNelis, Nick	12961	Full	-5.64997	6/22/2015	Tucson Go Club	CA	0.34322	12/15/2012
 McPherson, Tristram	25736	Full	-3.83493	11/9/2026	Columbus Go Club	OH	0.47380	2/3/2024
 McQuarters, Corey	30024	Life		11/10/2064		IL		
+McQuillen, Rachel	32459	Full		4/3/2027				
 McWilliams, Bruce	7766	Full	3.34000	8/28/1996		CA	0.48000	12/1/1995
 Meacham, Frazer	10472	Full	-4.35000	4/27/2002		CA	0.61000	5/1/2001
 Mead, Parker	4476	Full	-5.58000	5/3/2002	Seattle AGA Chapter	WA	0.66000	3/1/2002
@@ -10783,7 +10784,7 @@ Ovchinnikov, Igor	10148	Non	-2.39000	9/26/2001		CA	0.46000	10/1/2001
 Ovchinnikov, Kristina	9636	Full	-15.83000	8/18/2002		CA	0.97000	10/1/2001
 Overholt, Rich	26369	Full	1.54746	2/6/2024	Atlanta Go Club	GA	0.62190	9/16/2023
 Overholt, Richard	5213	Full	2.51000	3/28/1994		GA	0.32000	9/1/1993
-Owatari, June	31709	Full	-23.25446	4/17/2026	San Diego Go Club	CA	2.18521	11/29/2025
+Owatari, June	31709	Full	-23.25446	4/3/2027	San Diego Go Club	CA	2.18521	11/29/2025
 Owen, Jim	7909	Full	-12.06000	1/28/1997	Charlotte Go Club	NC	0.54000	3/1/1996
 Owens, Bill	8714	Full	-11.37000	11/22/2004	Houston Go Club	TX	0.34000	12/1/2003
 Oxendine, Kenneth	5929	Full	-13.70000	3/28/1994		NC	0.00000	11/15/1992
