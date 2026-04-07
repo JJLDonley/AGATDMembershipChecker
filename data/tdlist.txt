@@ -1132,7 +1132,7 @@ Brinkmeyer, Brett	14650	Full	-10.26548	7/30/2017	Ames Go Club	IA	1.10431	7/9/201
 Briscoe, Andrew	13442	Full	4.58366	5/30/2010		CO	0.37320	8/2/2009
 Briscoe, Sarah	16319	Full	-32.05000	2/17/2009		CO	1.13000	2/1/2009
 Brisson, Spencer T	32420	Full		3/14/2027		NY		
-Brito, Christian	32461	Full		4/6/2027				
+Brito, Christian M	32461	Full		4/4/2027		NY		
 Britt, Asha	25819	Full	2.30383	3/22/2023	Grande Ronde Go Club	OR	0.55398	11/12/2022
 Britt, Phil	13220	Full	1.39364	8/17/2009	Tacoma Go Club	WA	0.40638	7/30/2011
 Brittain, David	25309	Full		9/5/2021	Central Connecticut Go Club	CT		
@@ -4254,7 +4254,7 @@ Geckler, Ryan	14214	Full		1/18/2007		VA
 Geeng, Han	8857	Full	-7.20000	11/5/1998		MD	0.91000	1/1/1998
 Geer, Lewis F	296	Full	-11.07020	7/17/2022	Santa Fe Go Club	NM	0.44044	8/17/2019
 Gehrkin, Jonathan	13889	Non	-1.52396	3/12/2011		TX	0.68759	4/7/2018
-Gehrt, Thomas	23506	Full	-1.24479	4/5/2027	Seattle AGA Chapter	WA	0.48747	7/13/2025
+Gehrt, Thomas	23506	Full	-1.24479	4/4/2027	Seattle AGA Chapter	WA	0.48747	7/13/2025
 Geib, Jeffrey	1359	Full	-15.82076	4/30/2019		PA	0.72518	2/19/2012
 Geiman, Jesse	16800	Full	-17.60000	9/12/2009	Houston Go Club	TX	1.00000	9/1/2008
 Gelder, Dan	11071	Non	-19.32000	6/24/2002		CA	0.80000	5/1/2002
@@ -14448,7 +14448,7 @@ Walling, Steven	13958	Non	-17.50000	6/10/2006			1.01000	6/1/2006
 Walljasper, Chris	23237	Full	-8.70013	1/29/2025	Bellingham Go Club	WA	0.49415	12/3/2022
 Wallnau, Kurt	4414	Full	-6.03000	12/28/1995		PA	0.59000	3/1/1994
 Wallner, Edward P	1493	Full	-5.20000	1/31/1999	Massachusetts Go Association	MA	0.00000	11/15/1992
-Wallstedt, Michael	13210	Full	2.09428	4/5/2027	Bay Area Go Players Assoc.	UT	0.60047	10/26/2025
+Wallstedt, Michael	13210	Full	2.09428	4/4/2027	Bay Area Go Players Assoc.	UT	0.60047	10/26/2025
 Walsh, Bill	15575	Full	1.75000	9/17/2008		IL	0.56000	7/1/2007
 Walsh, Bryan	30485	Full	-3.39871	10/30/2026	Portland Go Club	OR	0.27281	12/13/2025
 Walter, John	17774	Non	-12.97570	10/22/2009		AZ	0.68765	9/19/2009
@@ -14568,7 +14568,7 @@ Wang, Haotian	32361	Youth		2/13/2027		BC
 Wang, Harry	14294	Non	-5.08000	6/10/2006		CA	0.61000	2/1/2006
 Wang, Helen	24862	Full	-20.36836	10/6/2020	Seattle AGA Chapter	WA	1.48348	10/6/2019
 Wang, Henry	24524	Youth	-21.65508	3/27/2020	Syracuse Go Club	NY	1.88100	3/23/2019
-Wang, Henry	32462	Youth		4/6/2027				
+Wang, Henry	32462	Youth		4/4/2027	Syracuse Go Club	NY		
 Wang, Heping	21099	Full	5.96687	3/6/2018		NJ	0.41475	3/19/2016
 Wang, Herbert	9126	Non	3.83000	4/6/2000			0.58000	2/1/2001
 Wang, Hongcheng	31797	Full	1.78139	5/12/2026	San Diego Go Club	PA	0.63519	5/10/2025
@@ -14722,7 +14722,7 @@ Wang, Sky	23870	Youth	-10.00399	5/17/2024	Triangle Go Group	NC	0.76876	9/17/2022
 Wang, Song	10693	Full	2.50000	8/9/2002		NH	0.60000	8/1/2001
 Wang, Sophia	17976	Youth	4.43382	5/12/2027	Feng Yun Go School	NJ	0.43103	8/31/2019
 Wang, Sophia	21033	Youth	-3.28230	2/4/2031		NJ	0.59881	7/22/2018
-Wang, Sophia	31346	Youth	-26.64633	4/6/2027	Syracuse Go Club	NY	1.31278	4/19/2025
+Wang, Sophia	31346	Youth	-26.64633	4/4/2027	Syracuse Go Club	NY	1.31278	4/19/2025
 Wang, Stefan	22535	Youth	-12.76912	6/11/2020	Syracuse Go Club	NY	0.65802	11/2/2019
 Wang, Steven	32423	Youth		3/17/2027	Massachusetts Go Association	MA		
 Wang, Taige	22606	Full	3.53083	4/23/2017		CT	0.62110	5/1/2016
@@ -15989,7 +15989,7 @@ Yee, Karl	16313	Full	-1.20501	3/3/2011		MD	0.54232	2/26/2011
 Yee, Liam	24533	Youth	-28.77149	10/19/2023	Boulder Kids and Teens Go Club	CO	1.30779	6/17/2023
 Yee, Marlene	12672	Non	-34.08000	5/26/2004		CA	2.67000	5/1/2004
 Yee Mon, Wayne	22203	Full	-13.75039	3/30/2019		MA	0.58690	4/23/2018
-Yeh, Allen P	31367	Youth		4/5/2027		CA		
+Yeh, Allen P	31367	Youth		4/4/2027		CA		
 Yeh, Arthur	19231	Full	4.72242	5/30/2026	San Francisco Go Club	CA	0.38327	5/31/2025
 Yeh, Brian	11534	Full	-29.08000	1/14/2004	Feng Yun Go School	NJ	3.41000	4/1/2003
 Yeh, Carl	5284	Non	3.84000	4/6/2000	Houston Go Club	CA	0.48000	2/1/2001
@@ -16068,7 +16068,7 @@ Yin, Erin	25231	Youth		8/20/2022	Austin Go Club	TX
 Yin, Fang	21144	Full	3.44379	4/16/2015			0.60788	11/9/2019
 Yin, Fang	30766	Full	3.74686	2/21/2025	New York Go Association	NY	0.33842	12/28/2025
 Yin, Hanwei	14839	Full	-8.87000	4/15/2008			0.80000	12/1/2007
-Yin, Heqi	31424	Full		12/25/2025		WI		
+Yin, Heqi	31424	Full		4/7/2027		WI		
 Yin, Hezheng	22944	Full	1.90829	10/6/2017		CA	0.65322	10/8/2016
 Yin, Huasong	16008	Full	7.26103	5/28/2017		TN	0.97852	12/1/2012
 Yin, Igasho	26209	Youth	4.98624	12/1/2026	Orange County Go Club	CA	0.30559	1/17/2026
