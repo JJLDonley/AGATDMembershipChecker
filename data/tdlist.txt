@@ -3039,6 +3039,7 @@ Deacon, Rodney	23065	Full	-10.55022	10/8/2019	Seattle AGA Chapter	WA	0.47253	10/
 Dean, Keith	3014	Full	-13.81000	2/14/2003	Austin Go Club	CA	0.53000	7/1/2002
 Deanhardt, William	25922	Full	-18.33025	5/2/2026		IL	1.35899	5/14/2022
 DeAntonio, Jasper	20342	Full	-11.26237	1/2/2014	Gotham Go Group	NY	0.85275	1/12/2013
+Deardorff, Douglas	32463	Full		4/8/2027				
 Dearing Jr., Robert R	30606	Full		11/12/2024	Seattle AGA Chapter	WA		
 Deavers, Andrew	14502	Full	-42.48000	5/12/2008	Houston Go Club	TX	0.68000	5/1/2007
 Debarre, Thomas	12550	Non	8.82909	4/5/2004			0.69691	7/17/2015
