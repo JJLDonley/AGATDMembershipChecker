@@ -1413,7 +1413,7 @@ Canales, Alex	23009	Full	-16.85333	12/10/2017		FL	1.67609	12/10/2016
 Canario, Nelson	31995	Full	-11.69538	8/24/2026	San Diego Go Club	CA	1.39252	9/6/2025
 Canary-King, Becky	9534	Full	-16.56000	5/16/2004	Ann Arbor Go Club	MI	0.42000	8/1/2002
 Canavan, Gerry	15515	Full	-9.28624	5/29/2015	Milwaukee Go Club	WI	0.46069	9/17/2011
-Canaway, Howard	20613	Full	-5.54874	4/18/2026	Syracuse Go Club	NY	0.39042	4/19/2025
+Canaway, Howard	20613	Full	-5.54874	4/11/2027	Syracuse Go Club	NY	0.39042	4/19/2025
 Cane, Ariel	17737	Full	-20.02000	12/8/2015		MD	1.36240	11/16/2014
 Canedy, Brandon	19837	Full	-15.35861	9/21/2016	Empty Sky Go Club	PA	0.74234	10/24/2015
 Canfield, Paul	21052	Full	-7.55580	4/19/2026	Twin Cities Go Club	MN	0.26444	10/18/2025
@@ -1654,7 +1654,7 @@ Chandra, Ajay	16298	Full	-15.12000	2/15/2009		VA	0.67000	5/1/2008
 Chaney, Benjamin	19483	Full	-2.48759	12/30/2023	Massachusetts Go Association	MA	0.37677	1/7/2018
 Chaney, Garnet	20917	Full	-18.39534	12/16/2019	Bay Area Go Players Assoc.	CA	0.51462	12/15/2018
 Chang, Alan	18666	Full	-6.63186	2/28/2012		NJ	0.80618	2/26/2011
-Chang, Albert C	30495	Youth	-6.07100	1/22/2026		NY	0.30188	11/8/2025
+Chang, Albert C	30495	Youth	-6.07100	4/11/2027		NY	0.30188	11/8/2025
 Chang, Alex	11828	Full	2.10230	4/5/2014		MA	0.65581	2/16/2013
 Chang, Alice	16771	Full	-4.90988	7/5/2011		TX	0.58372	8/2/2009
 Chang, Allen	12835	Full	-7.74000	7/30/2006		TX	0.59000	11/1/2005
@@ -4432,7 +4432,7 @@ Gong, Fu Ming	13644	Non	2.08725	11/14/2010		CA	0.53845	9/18/2010
 Gong, Qucheng	18452	Full	8.36052	9/16/2015	Bay Area Go Players Assoc.	CA	0.61362	10/8/2011
 Gong, Yikai	26136	Non	4.69180	1/13/2023	Gotham Go Group	NJ	0.64214	1/7/2023
 Gonnella, Ben	17267	Non	-2.06400	12/11/2012	Syracuse Go Club	NY	0.79363	4/19/2014
-Gonnella, Jim	13098	Full	-7.23216	4/17/2026	Syracuse Go Club	NY	0.32592	11/15/2025
+Gonnella, Jim	13098	Full	-7.23216	4/11/2027	Syracuse Go Club	NY	0.32592	11/15/2025
 Gonzales, Philip A	30491	Full		10/13/2024	Twin Cities Go Club	MN		
 Gonzalez, Amari	23862	Youth	1.61223	4/8/2026	New York Go Association	NY	0.31572	12/12/2025
 Gonzalez, Antone R	30262	Full		8/14/2025	Treasure Coast Go	FL		
@@ -10697,7 +10697,7 @@ Oltmann, Mason	31083	Youth	-20.31138	7/1/2025	Portland Go Club	OR	0.52823	11/16/
 Oly, James	11688	Full	-8.21000	5/29/2005		IL	0.34000	7/1/2004
 Om, Ki	2061	Non	3.17000	11/8/2001	Tacoma Go Club	WA	0.34000	3/1/2004
 Om, Kil-N	7660	Non	1.70000	12/28/1996		CO	0.62000	3/1/1999
-Omabegho, Ben C	31661	Youth	-18.65395	3/28/2026		NY	0.35524	2/7/2026
+Omabegho, Ben C	31661	Youth	-18.65395	4/11/2027		NY	0.35524	2/7/2026
 O'Malley, Conor P	30685	Full	-11.44941	1/14/2025		MA	0.83369	1/27/2024
 O'Malley, Elias	31707	Full	-2.39782	4/17/2026	Evanston Go Club	IL	0.32095	1/31/2026
 O'Malley, Robert	7647	Full	1.11760	3/5/2027	Corvallis Go Club	OR	0.47083	2/15/2025
@@ -14989,7 +14989,7 @@ Weirich, Frank	32031	Full		9/7/2026	Twin Cities Go Club	MN
 Weisbaum, Harry	5580	Non	-1.62000	12/28/1979			0.44000	9/1/1993
 Weisbecker, Joyce	5849	Full	-17.54000	8/28/2026		NJ	0.62000	9/1/1997
 Weiss, David	3637	Full	2.25388	12/31/2010	Boulder Kids and Teens Go Club	CO	0.28200	8/1/2010
-Weiss, Eric	18894	Full	-19.37089	1/16/2026		NJ	0.40570	11/8/2025
+Weiss, Eric	18894	Full	-19.37089	4/11/2027		NJ	0.40570	11/8/2025
 Weiss, Sam	26365	Full	-2.11178	4/30/2025	New Haven Go Club	CT	0.49630	4/1/2023
 Weissman, Martin	19454	Full	-11.33517	12/7/2012	Bay Area Go Players Assoc.	CA	0.78976	12/10/2011
 Weissner, Stefan	25241	Full		7/23/2022	Twin Cities Go Club	MN		
@@ -15605,7 +15605,7 @@ Xie, Chao	15594	Full	6.85317	4/10/2026	San Francisco Go Club	CA	0.18731	2/1/2026
 Xie, Chentong	32384	Youth	4.03260	2/27/2027		VA	0.58499	2/28/2026
 Xie, Christopher	16074	Full	-28.14000	12/19/2008	Feng Yun Go School	NJ	2.50000	1/1/2008
 Xie, Derek	12681	Full	-29.57000	9/22/2005	Charlotte Go Club	CA	0.52000	8/1/2004
-Xie, Emily	25206	Youth	-3.01048	11/1/2025	New York Go Association	CT	0.45981	7/13/2025
+Xie, Emily	25206	Youth	-3.01048	4/11/2027	New York Go Association	CT	0.45981	7/13/2025
 Xie, Eric	16304	Full	-17.07000	2/16/2009		VA	0.96000	3/1/2008
 Xie, Guochen	18342	Full	8.07626	9/25/2011		MA	0.47494	10/11/2012
 Xie, James	12358	Non	1.99258	3/12/2026		CA	0.68620	2/1/2026
