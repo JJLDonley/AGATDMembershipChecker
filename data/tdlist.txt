@@ -131,7 +131,7 @@ Alkanaq, Ahmed N	31239	Full	-18.98268	9/16/2025	Triangle Go Group	NC	1.19930	12/
 Allard, Jean	4050	Full	4.15000	6/13/2007	Evanston Go Club	IL	0.58000	8/1/2006
 alleman, John	25298	Full		8/14/2022		NJ		
 Allen, Ashley	15673	Full	-9.95910	7/19/2012	Austin Go Club	TX	0.58557	7/18/2009
-Allen, Benjamin	25747	Youth	-4.62539	7/4/2026	New York Go Association	NY	0.39008	3/7/2026
+Allen, Benjamin	25747	Youth	-4.76026	7/4/2026	New York Go Association	NY	0.44691	4/11/2026
 Allen, Brian	10573	Full	-9.48300	6/26/2026	Seattle AGA Chapter	WA	0.48221	3/2/2025
 Allen, Craig	26356	Full	-24.61171	2/1/2025	New York Go Association	NY	1.24572	2/24/2024
 Allen, David E	4959	Full	-8.70000	1/28/1993		WA	0.00000	11/15/1992
@@ -149,7 +149,7 @@ Allen, Stephen	16514	Full	-6.00816	2/16/2013		NC	0.35474	1/15/2012
 Allen, Steven R	30679	Full		1/10/2025	Albuquerque Go	NM		
 Allen, Terry	8487	Full	-28.67000	3/31/1998		NC	2.55000	3/1/1997
 Allen, Timothy	4656	Full	-9.27000	12/28/1994		NH	0.56000	9/1/1993
-Allen, William	26359	Youth	-13.13355	2/12/2027	New York Go Association	NY	0.35977	3/7/2026
+Allen, William	26359	Youth	-12.98896	2/12/2027	New York Go Association	NY	0.32900	4/11/2026
 Allensis, Griffin	32144	Full	-16.00990	10/23/2026		OR	0.89986	11/22/2025
 Allensis, Snake	31368	Non	-20.53716	3/12/2025			0.92931	2/15/2025
 Alles, Nick	24651	Full		6/21/2021	West Michigan Go Club	MI		
@@ -257,7 +257,7 @@ Andreasen, Danny	32173	Full		10/31/2026		KY
 Andreasen, Michael	15774	Non	2.86148	11/14/2010		CA	0.47542	4/28/2012
 Andree, Glen	16998	Full	-27.30000	12/11/2009		FL	2.38000	1/1/2009
 Andres Miguel Vegas, Andres	25350	Full		11/15/2022				
-Andrews, John	32479	Full		4/14/2027				
+Andrews, John S	32479	Full		4/13/2027	Charlotte Go Club	NC		
 Andrews, Julian	14728	Full	1.02000	3/20/2009	Sarasota Go Club	IL	0.44000	4/1/2008
 Andrews, Sydney	30646	Full		12/16/2024		MS		
 Andrews, Warren	19906	Full	-5.03354	11/23/2026	San Diego Go Club	CA	0.67752	11/29/2025
@@ -347,7 +347,7 @@ Aronson, Brian	17792	Full	1.32982	5/4/2024	Stony Brook University Go Club	NY	0.5
 Aronson, Jon	18723	Non	-4.28130	3/26/2011		ME	0.67461	3/6/2011
 Aronson, Jonathan	23924	Full	-5.07900	5/19/2019		NY	0.52117	10/30/2018
 Aronson, Kerianne	17795	Full	-8.72418	4/17/2025	Stony Brook University Go Club	NY	0.54487	4/21/2024
-Arrand, William	3985	Full	-2.89249	10/21/2026	Vermont Go Club	VT	0.38080	3/28/2026
+Arrand, William	3985	Full	-2.89244	10/21/2026	Vermont Go Club	VT	0.38081	3/28/2026
 ARTIS-MICKENS, KRISHNA	21130	Full	-30.81616	9/23/2025	Gotham Go Group	NY	1.46786	8/6/2017
 Asai, Tadashi	8738	Non	5.43000	8/1/1997			0.65000	9/1/1997
 Asano, Chiyoko	6146	Non	-15.90000	12/28/1979			0.00000	11/15/1992
@@ -489,7 +489,7 @@ Bakke, Mark	23740	Non	-15.67204	2/14/2020		TX	0.79574	2/16/2019
 Bakker, Feite	15665	Full	-2.01139	7/13/2010		DC	0.48608	8/2/2009
 Bakker, Oepke	9199	Non	-1.98000	8/4/1998			0.74000	9/1/1998
 Balay, Meijke	22905	Full	2.34063	1/5/2027	Salt Lake Go Club	CA	0.43033	2/28/2026
-Balci, Alper	26199	Full	-1.41523	8/18/2026	Columbus Go Club	OH	0.43259	3/28/2026
+Balci, Alper	26199	Full	-1.41528	8/18/2026	Columbus Go Club	OH	0.43258	3/28/2026
 Baldridge, Ethan	12100	Full	2.18821	3/13/2018			0.38002	7/16/2011
 Baldwin, Fred D	4917	Full	-9.26627	8/31/2027		PA	0.50762	7/22/2018
 Baldwin, Kevin	31115	Full		7/13/2025		NJ		
@@ -722,7 +722,7 @@ Bender, John	2806	Full	3.90000	3/18/2018			0.00000	11/15/1992
 Bendig, Rudy	6403	Full	-19.73000	4/28/1994		CA	0.59000	9/1/1993
 Bendoyro, Alexander	22187	Full	-20.06605	10/24/2016	Arizona Go Club	NV	1.47118	10/24/2015
 Benedicto, Patrick	24104	Full	-16.08862	9/14/2019		CA	0.78202	9/29/2018
-Bengtson, Jim	20611	Non	-11.30987	4/14/2027	Syracuse Go Club	NY	0.71023	11/11/2023
+Bengtson, Jim	20611	Non	-11.30987	5/13/2026	Syracuse Go Club	NY	0.71023	11/11/2023
 Bengtson, Matthew	19	Life	2.27287	9/1/2064	Penn Go Society	MI	0.48418	7/9/2023
 Bengtson, Nathan Hajin	25860	Youth	-18.40229	4/27/2026	Ann Arbor Go Club	MI	1.12437	7/9/2023
 Benguedouar, Ayoub	18772	Full	-9.99558	3/30/2017		VA	1.21827	4/20/2013
@@ -1132,7 +1132,7 @@ Brikiatis, Stephen	24864	Full	-19.62698	10/9/2022	Vermont Go Club	VT	1.62709	10/
 Brinkmeyer, Brett	14650	Full	-10.26548	7/30/2017	Ames Go Club	IA	1.10431	7/9/2016
 Briscoe, Andrew	13442	Full	4.58366	5/30/2010		CO	0.37320	8/2/2009
 Briscoe, Sarah	16319	Full	-32.05000	2/17/2009		CO	1.13000	2/1/2009
-Brisson, Spencer T	32420	Full		3/14/2027		NY		
+Brisson, Spencer T	32420	Full	-15.00188	3/14/2027		NY	1.54200	4/11/2026
 Brito, Christian M	32461	Full		4/4/2027		NY		
 Britt, Asha	25819	Full	2.30383	3/22/2023	Grande Ronde Go Club	OR	0.55398	11/12/2022
 Britt, Phil	13220	Full	1.39364	8/17/2009	Tacoma Go Club	WA	0.40638	7/30/2011
@@ -1219,7 +1219,7 @@ Broyles, Alexander	30749	Full		2/17/2025		IL
 Brucato, Amanda	13997	Full	-10.16000	1/1/2007	Seattle AGA Chapter	WA	1.20000	11/1/2005
 Bruch, Sam	11952	Full	-23.62000	6/22/2004	Corvallis Go Club	OR	1.18000	6/1/2003
 Bruck, Eric	14974	Non	-28.01000	9/19/2007		CA	0.95000	11/1/2006
-Brueckner, Ethan	24157	Full	-5.77547	10/13/2026	Vermont Go Club	VT	0.41664	3/28/2026
+Brueckner, Ethan	24157	Full	-5.77548	10/13/2026	Vermont Go Club	VT	0.41664	3/28/2026
 Bruening, Julie	9056	Non	-29.42000	4/11/1998		OH	3.48000	6/1/1998
 Brumley, Joshua	25310	Full		9/5/2023		PA		
 brummelkamp, Erik	21291	Non	-1.97704	8/8/2014			0.80747	8/10/2014
@@ -1274,7 +1274,7 @@ Burg, Kyle	26071	Full	-4.79159	11/1/2026	Seattle AGA Chapter	WA	0.25670	11/22/20
 Burger, Alan	31496	Full	-19.15042	1/16/2026	Massachusetts Go Association	MA	0.62583	8/30/2025
 Burget, Kevin	20660	Full	-12.03855	8/4/2026	Vermont Go Club	VT	1.42124	3/18/2014
 Burgin, Tucker	16834	Full	-11.26706	11/1/2010		CO	0.31221	11/6/2010
-Burgos, Sebastian	31748	Youth	-15.77630	4/29/2026		NY	0.41323	1/10/2026
+Burgos, Sebastian	31748	Youth	-15.89420	4/29/2026		NY	0.37439	4/11/2026
 Burke, Matthew M	3576	Full	-15.38000	2/22/2012	NOVA Go Club	VA	0.70000	4/1/2006
 Burkholder, Gavin F	30890	Full	-14.11407	4/8/2025		TX	0.92792	4/13/2024
 Burkholder, Max	17523	Full	-22.52534	5/29/2010		CA	0.66951	9/19/2009
@@ -1337,7 +1337,7 @@ Byrd-Fisher, Caitlin	16963	Full	-27.10000	11/14/2009			1.26000	11/1/2008
 Byrne, B	22859	Non	-12.83204	8/9/2016		CA	0.95343	7/23/2016
 Byrne, Collin	14750	Full	-23.75000	10/2/2007		WA	1.52000	9/1/2008
 Byrne, David	12990	Full	1.24599	3/9/2011		NJ	0.28212	9/19/2010
-Byrne, Kory	32401	Non	-7.16402	4/5/2026		OH	0.74139	3/28/2026
+Byrne, Kory	32401	Non	-7.08443	4/5/2026		OH	0.75378	3/28/2026
 Byrne, Rhea	16324	Full	-9.94939	3/9/2011		NJ	0.35673	9/19/2010
 Byrne, Sydney	23882	Youth	-21.27386	4/23/2019	Feng Yun Go School	NJ	0.98815	10/30/2018
 Byrnes, Douglas	3187	Full	-1.26000	3/12/1998	Seattle AGA Chapter	NV	0.79000	3/1/1997
@@ -1503,7 +1503,7 @@ Carr, Kevin	17827	Full	-8.96518	10/16/2020		CA	0.66068	10/13/2018
 Carr, Robert	18721	Full	-3.02022	3/24/2012		NY	0.72247	3/6/2011
 Carr, Robert	22866	Non	-1.11083	8/12/2016		CA	0.69054	7/23/2016
 Carr, Scott	16860	Full	-10.75000	4/24/2024		CA	0.62000	10/1/2008
-Carrafa, Noah	24872	Youth	-8.14046	10/12/2033	New York Go Association	NY	0.78819	3/7/2026
+Carrafa, Noah	24872	Youth	-8.35638	10/12/2033	New York Go Association	NY	0.61326	4/11/2026
 Carrara, Walter	3470	Full	-8.40000	12/28/1989	Ann Arbor Go Club	MI	0.00000	1/23/1989
 Carrera, Andrew	23566	Full	-13.68196	11/4/2020		NY	0.43089	11/9/2019
 Carrico, Michael	17900	Full	-21.24998	8/6/2013		IL	0.42864	9/1/2012
@@ -1532,7 +1532,7 @@ Cartwright, Tony	17086	Full	-2.77591	3/30/2011	Cleveland Go Club	IL	0.57047	12/1
 Carvala, Kinen	15130	Non	-23.85000	2/5/2007		CA	0.99000	2/1/2007
 Carvalho, William	31952	Youth	-11.01810	7/28/2026	Santa Monica Go Club	OH	1.00550	8/2/2025
 Carver, Owen	12205	Full	-5.20000	3/12/2024	Las Vegas Go Club	NV	0.75000	12/1/2007
-Cary, Jack	14901	Full	-2.81001	8/14/2026	Vermont Go Club	VT	0.28559	3/28/2026
+Cary, Jack	14901	Full	-2.81005	8/14/2026	Vermont Go Club	VT	0.28559	3/28/2026
 Casad, Marc	30032	Full		3/17/2024	Kastle Go Club	CA		
 Casad, Marc	15402	Full	-18.61000	2/8/2026	Bay Area Go Players Assoc.	CA	1.77000	10/1/2007
 Casadey, Devin	11382	Full	-6.78000	11/7/2003		FL	0.86000	8/1/2003
@@ -1624,7 +1624,7 @@ Chan, David	7431	Full	-3.60000	12/28/1995		CA	0.57000	12/1/1994
 Chan, Dick	13365	Non	-10.42000	3/20/2005			0.77000	11/1/2004
 Chan, Edric	26090	Youth	-17.60679	9/21/2023	San Diego Go Club	CA	0.56715	11/26/2022
 Chan, Fonda	14236	Non	-16.18000	2/6/2006		MD	0.73000	2/1/2006
-Chan, George	17266	Full	-5.17494	8/19/2026		NJ	0.47533	9/13/2025
+Chan, George	17266	Full	-4.94819	8/19/2026		NJ	0.43916	4/11/2026
 Chan, Gundi	7823	Full	-9.39000	10/28/1996	Massachusetts Go Association	MA	0.62000	12/1/1995
 Chan, Hoi	11608	Full	-21.08000	1/27/2004	Houston Go Club	TX	1.13000	5/1/2003
 Chan, Hon-Wah	1810	Full	2.32000	3/1/2005	Seattle AGA Chapter		0.55000	2/1/2004
@@ -1642,7 +1642,7 @@ Chan, Louisa	8725	Non	-3.20926	11/15/2010	San Francisco Go Club		0.49327	9/19/20
 Chan, Matthew	15076	Full	-16.60000	1/4/2008	Empty Sky Go Club	NY	0.93000	2/1/2007
 Chan, Maxine	16726	Full	-29.00000	7/19/2009		NJ	0.81000	8/1/2008
 Chan, Michael	14933	Full	-19.18000	12/8/2007		NY	0.97000	1/1/2007
-Chan, Nathan	19395	Full	-1.02887	4/27/2026	Evanston Go Club	IL	0.24031	3/28/2026
+Chan, Nathan	19395	Full	-1.02814	4/27/2026	Evanston Go Club	IL	0.24035	3/28/2026
 Chan, Po Chuan	10102	Full	-7.56000	8/2/2001		CA	0.35000	9/1/2000
 Chan, Punkei	7512	Full	6.48000	3/28/1996			0.55000	3/1/1995
 Chan, Raymond	10151	Full	-7.69698	6/9/2011	Bay Area Go Players Assoc.	CA	0.40631	6/5/2010
@@ -1655,7 +1655,7 @@ Chandra, Ajay	16298	Full	-15.12000	2/15/2009		VA	0.67000	5/1/2008
 Chaney, Benjamin	19483	Full	-2.48759	12/30/2023	Massachusetts Go Association	MA	0.37677	1/7/2018
 Chaney, Garnet	20917	Full	-18.39534	12/16/2019	Bay Area Go Players Assoc.	CA	0.51462	12/15/2018
 Chang, Alan	18666	Full	-6.63186	2/28/2012		NJ	0.80618	2/26/2011
-Chang, Albert C	30495	Youth	-6.07100	4/10/2027		NY	0.30188	11/8/2025
+Chang, Albert C	30495	Youth	-5.79996	4/10/2027		NY	0.27160	4/11/2026
 Chang, Alex	11828	Full	2.10230	4/5/2014		MA	0.65581	2/16/2013
 Chang, Alice	16771	Full	-4.90988	7/5/2011		TX	0.58372	8/2/2009
 Chang, Allen	12835	Full	-7.74000	7/30/2006		TX	0.59000	11/1/2005
@@ -1798,7 +1798,7 @@ Che, Lian	22773	Youth	-15.38630	7/31/2017		NJ	1.19060	7/31/2016
 Che, Wenxuan	25166	Full		5/25/2021		NJ		
 Check, Ivan	16168	Full	-11.19683	1/6/2019	Seattle AGA Chapter	WA	0.50792	10/7/2018
 Chee, Fred	8189	Full	-8.67000	8/28/1997	Houston Go Club	TX	0.48000	6/1/1997
-Chen, Aaron	32458	Youth		4/1/2027		CA		
+Chen, Aaron	32458	Youth	-26.74869	4/1/2027		CA	0.86743	4/11/2026
 Chen, Abby	6908	Full	-2.06000	8/5/2008		CA	0.43000	3/1/2000
 Chen, Abigail	24494	Youth	-2.55567	4/10/2032	Yorba Linda Go Club	CA	0.29385	7/23/2024
 Chen, Alan	23287	Youth	-1.54128	4/18/2021	Austin Go Club	TX	0.30712	10/13/2018
@@ -1836,7 +1836,7 @@ Chen, Binghui	30765	Youth	1.17930	2/21/2027	New York Go Association	NY	0.24671	2
 Chen, Bo	15927	Non	4.18296	12/26/2015	Seattle AGA Chapter	WA	1.16261	10/21/2017
 Chen, Boris	9139	Non		6/18/1998				
 Chen, Bowen	5967	Full	-3.82000	11/28/1997	Houston Go Club	TX	0.55000	9/1/1993
-Chen, Boyang	21289	Full	5.54702	5/23/2026	Capital Go Club		0.29483	11/8/2025
+Chen, Boyang	21289	Full	5.32576	5/23/2026	Capital Go Club		0.28690	4/11/2026
 Chen, Brian	22705	Non	-5.55394	6/23/2016		IL	0.77603	6/25/2016
 Chen, Brian	30877	Full	-12.22978	4/2/2026		TX	1.29078	4/13/2024
 Chen, Brian	18003	Full	-35.42626	3/3/2011		MD	1.45831	2/27/2010
@@ -1889,7 +1889,7 @@ Chen, Gary	18827	Full	-12.05983	6/9/2013	Stony Brook University Go Club	NY	0.839
 Chen, Grace	31848	Comp	1.49757	12/3/2025		ON	1.15569	7/13/2025
 Chen, Guangjiong	5185	Full	8.70000	8/5/2008		MO	0.50000	9/1/2007
 Chen, Haichow	192	Full	7.47000	6/30/2010	Seattle AGA Chapter	WA	0.76000	2/1/2004
-Chen, Haochen	21878	Full	6.02072	3/29/2027	Stony Brook University Go Club	NJ	0.54077	5/4/2019
+Chen, Haochen	21878	Full	5.94903	3/29/2027	Stony Brook University Go Club	NJ	0.61018	4/11/2026
 Chen, Haoxiang	21686	Full	1.60669	2/27/2016		NY	0.56396	2/28/2015
 Chen, Hong	23218	Full	6.32793	3/16/2018		AZ	0.62787	2/25/2017
 Chen, Hsi Wen	31918	Full		7/8/2026		VA		
@@ -1907,7 +1907,7 @@ Chen, James	10247	Full	1.01000	11/22/2001		NJ	0.56000	12/1/2000
 Chen, Jamie	18668	Full	-25.50064	2/28/2013		NJ	2.71191	2/26/2011
 Chen, Janet	13744	Full	-13.02000	7/18/2007		CO	0.68000	3/1/2007
 Chen, Jason	13394	Full	-28.80000	3/23/2006	Ann Arbor Go Club	MI	0.92000	4/1/2005
-Chen, Jerry	30407	Full	4.72694	3/29/2027	Columbus Go Club	OH	0.36042	3/28/2026
+Chen, Jerry	30407	Full	4.59195	3/29/2027	Columbus Go Club	OH	0.34058	3/28/2026
 Chen, Jerry	16300	Full	-3.84078	4/5/2013		VA	0.32065	2/11/2012
 Chen, Jesse	15684	Full	-9.77000	7/22/2008		MA	0.49000	8/1/2008
 Chen, Jesse	11148	Full	-9.95058	10/8/2010	Evanston Go Club	IL	0.49092	1/23/2010
@@ -1981,6 +1981,7 @@ Chen, Michael	20546	Non	2.65656	4/10/2015		CA	0.51221	4/25/2015
 Chen, Michael	9145	Non		6/18/1998				
 Chen, Mike	5216	Non	-6.64000	3/28/1996		PA	0.49000	6/1/1996
 Chen, Ming-Te	6930	Full	2.19000	1/13/1999		CA	0.68000	3/1/1998
+Chen, Mu Yang	32460	Youth		4/4/2027				
 Chen, Muhuan	31243	Full	3.65929	9/17/2025	Madison Go Club	WI	0.57472	11/2/2024
 Chen, Nathan	24792	Youth	4.38568	8/30/2020		WA	0.74525	9/1/2019
 Chen, Neil	12342	Full	-22.97000	1/5/2005		NJ	0.73000	6/1/2004
@@ -1991,8 +1992,8 @@ Chen, Owen	12182	Full	4.99934	8/12/2020		NC	0.30748	5/21/2017
 Chen, Pang	6463	Full	-2.98000	6/28/1994		NM	0.53000	9/1/1993
 Chen, Paul	21441	Full	1.50507	10/12/2015	San Diego Go Club	CA	0.39168	4/19/2015
 Chen, Pauline	14970	Non	-23.89000	9/19/2007		CA	0.84000	11/1/2006
-Chen, Peter	5374	Non	-1.23000	6/23/2002		CA	0.58000	5/1/2002
 Chen, Peter I	7336	Full	1.99000	8/28/1996		CA	0.56000	9/1/1994
+Chen, Peter	5374	Non	-1.23000	6/23/2002		CA	0.58000	5/1/2002
 Chen, Peter	30886	Youth	2.32339	1/12/2027		OH	0.50423	1/17/2026
 Chen, Prisca	9144	Non		6/18/1998				
 Chen, Qiaojun	31692	Full	-20.79128	4/12/2026		CA	1.22626	4/19/2025
@@ -2086,7 +2087,7 @@ Chen, Yin -Yu	9295	Full	-27.30000	11/16/1999		TX	0.87000	12/15/1998
 Chen, Yinan	6374	Full	3.91000	11/30/1998		AR	0.62000	1/1/1998
 Chen, Yinpu	7589	Full	3.35000	3/28/1996		IL	0.68000	6/1/1995
 Chen, Yixiao	23438	Comp	-3.66496	1/1/2023			0.70803	8/6/2017
-Chen, Yixiao	32310	Youth		1/22/2027		CA		
+Chen, Yixiao	32310	Youth	-10.68031	1/22/2027		CA	0.64767	4/11/2026
 Chen, Yizhong	20995	Non	-2.03503	1/5/2014			0.71655	1/5/2014
 Chen, Yong	21343	Non	2.24688	8/24/2014			0.73661	4/26/2014
 Chen, Yong	5018	Full	4.34585	5/1/2027		NY	0.23944	11/8/2025
@@ -2104,7 +2105,7 @@ Chen, Yung-Quiang	14955	Non	-8.47000	9/17/2007		CA	0.80000	11/1/2006
 Chen, Yuwei	24810	Full		9/10/2021		OR		
 Chen, Zewei	11306	Full	-4.25000	10/5/2003	Feng Yun Go School	NJ	0.52000	2/1/2003
 Chen, Zhan	21355	Full	2.76041	8/29/2015		NC	0.66626	9/20/2014
-Chen, ZhaoNian	11331	Life	8.30624	9/1/2064	Princeton Go Club	NJ	0.17204	9/13/2025
+Chen, ZhaoNian	11331	Life	8.34008	9/1/2064	Princeton Go Club	NJ	0.19283	4/11/2026
 Chen, Zhen Lei	8827	Full	-2.00000	10/8/1998		IL	0.53000	12/15/1998
 Chen, Zheng You	8698	Full	3.39000	1/13/1999		CA	0.50000	3/1/1998
 Chen, Zhi Wei	21000	Full	-2.50148	1/16/2027	Seattle AGA Chapter	WA	1.07284	2/1/2026
@@ -2196,7 +2197,7 @@ Chetrit, Paul	4275	Full	-4.88000	8/28/1997	Brooklyn Go Club	NY	1.00000	2/1/2004
 Cheuck, Sun	1842	Non	6.35000	2/5/2006		NY	0.49000	2/1/2006
 Cheung, Amos	21077	Full	-3.54963	2/25/2016	Feng Yun Go School	NY	0.64647	2/28/2015
 Cheung, Benjamin	23495	Full	1.45240	9/1/2018		IL	0.75151	9/9/2017
-Cheung, Jerrick	26280	Youth	-6.92225	12/29/2026	Feng Yun Go School	NJ	0.21986	1/31/2026
+Cheung, Jerrick	26280	Youth	-5.88469	12/29/2026	Feng Yun Go School	NJ	0.54742	4/11/2026
 Cheung, Laurence	26008	Full		7/19/2023	Ann Arbor Go Club	MI		
 Cheung, Marc	22671	Youth	-36.41367	6/2/2018	Santa Monica Go Club	CA	0.67365	10/21/2017
 Cheung, Muyan	23610	Non	-31.10989	11/11/2017			0.80554	10/21/2017
@@ -2277,7 +2278,7 @@ Chisholm, Blair	15268	Full	-5.11076	5/22/2026	GWRM Baltimore Go Club	MD	0.37739	
 Chiu, Antoine	17908	Full	-25.02706	1/30/2011		CA	2.04531	1/9/2010
 Chiu, Han wei	30254	Comp		11/17/2023				
 Chiu, Harrison	16582	Full	-11.17463	5/4/2010	Feng Yun Go School	NJ	0.55699	9/20/2009
-Chiu, Jeremy	17531	Life	8.01466	5/14/2067	Penn Go Society	CA	0.16373	1/17/2026
+Chiu, Jeremy	17531	Life	8.03881	5/14/2067	Penn Go Society	CA	0.16500	4/11/2026
 Chiu, Linden	12257	Full	3.56191	3/19/2032	Berkeley Go Club	CA	0.28542	2/1/2026
 Chiu, Phillip	12043	Full	-19.25000	8/21/2004	Feng Yun Go School	NJ	0.93000	8/1/2003
 Chiu, Samantha	18485	Full	-11.04128	2/6/2012	Austin Go Club	TX	1.13712	10/30/2010
@@ -2292,7 +2293,7 @@ Cho, Chan	21844	Full	-5.47229	4/19/2016	Syracuse Go Club	NY	0.93391	4/11/2015
 Cho, Che Bong	26294	Full	4.84581	12/23/2024	Capital Go Club		0.32637	12/30/2023
 Cho, Chih-Chen	4640	Full	1.99000	1/28/1996	Dallas Go Club	TX	0.49000	3/1/1995
 Cho, Chong	21530	Non	-6.03991	11/24/2014			0.93461	10/26/2014
-Cho, Christopher	19771	Full	-13.01112	11/3/2026	Stony Brook University Go Club	NY	0.68092	11/8/2025
+Cho, Christopher	19771	Full	-13.43160	11/3/2026	Stony Brook University Go Club	NY	0.56953	4/11/2026
 Cho, Daehee	31678	Comp	6.90147	10/6/2025			0.66874	7/13/2025
 Cho, David	21333	Full	3.95414	1/21/2027	Massachusetts Go Association	MA	0.32898	1/31/2026
 Cho, Emily	21700	Youth	-15.42544	3/6/2016		CT	0.71195	2/28/2015
@@ -2302,7 +2303,7 @@ Cho, Jay K	11064	Full	-2.93000	8/30/2005	Santa Monica Go Club	CA	0.45000	10/1/20
 Cho, John	16067	Full	-15.86278	5/31/2011		VA	0.91426	5/29/2010
 Cho, Joo Hyun	13982	Full	-5.84000	1/1/2007		TX	0.73000	11/1/2005
 Cho, Kenneth S	5063	Full	-4.14000	4/28/1992		CA	0.56000	9/1/1993
-Cho, Kevin	32483	Youth		4/15/2027				
+Cho, Kevin	32483	Youth		4/14/2027		MO		
 Cho, Ki Sun	19542	Non	-3.45686	1/1/2023			0.95373	1/8/2012
 Cho, Kook Nam	7707	Full	-6.48000	8/28/1996			0.53000	9/1/1995
 Cho, Kwang Ki	10076	Non	-1.14000	7/27/2000			0.53000	9/1/2000
@@ -2419,7 +2420,7 @@ Chong, Kim	22564	Non	6.69800	4/16/2016			0.59312	3/5/2016
 Chong, Lee	11452	Full	-7.33000	1/29/2004		DE	0.62000	1/1/2003
 Chong, U. P.	21174	Full	4.44639	5/10/2015		MD	0.55595	4/26/2014
 Chong Kone, Lee	23044	Full	-1.37893	12/31/2016			0.88432	10/22/2016
-CHOO, AUGUSTINE	32421	Full		3/15/2027		NY		
+CHOO, AUGUSTINE	32421	Full	-5.11757	3/15/2027		NY	0.90083	4/11/2026
 Choo, Vincent	24222	Full	-20.21185	11/1/2019	National Go Center	MD	0.85705	5/25/2019
 Choo, Yoon Suk	10366	Full	2.04000	2/23/2002	Princeton Go Club	NJ	0.97000	3/1/2001
 Chotikul, Mike	12164	Full	-21.55000	10/8/2004	Empty Sky Go Club	NY	0.53000	2/1/2004
@@ -2446,8 +2447,8 @@ Chou, Pallas	17723	Full	-29.65331	8/25/2010		CA	0.70006	8/22/2009
 Chou, Phillip	21774	Full	-1.32075	3/19/2016			0.66073	2/14/2015
 Choudhary, Sati	9264	Full	-14.81000	9/29/1999		PA	0.89000	3/1/2000
 Choung, Stephen	15120	Full	-3.62234	3/8/2015		IL	0.63757	3/1/2014
-Chow, Acadia	26327	Youth	-14.92492	1/18/2027	New York Go Association	NY	0.81937	6/7/2025
-Chow, Alina	26329	Youth	-15.21209	1/18/2027	New York Go Association	NY	0.57401	6/7/2025
+Chow, Acadia	26327	Youth	-14.95599	1/18/2027	New York Go Association	NY	0.78635	4/11/2026
+Chow, Alina	26329	Youth	-11.98466	1/18/2027	New York Go Association	NY	0.61488	4/11/2026
 Chow, Andrew	6529	Non	-4.72000	5/28/1993			0.46000	9/1/1993
 Chow, David	16354	Full	-6.56378	3/26/2025	San Francisco Go Club	CA	0.66394	3/2/2013
 Chow, Edwin	16385	Full	-7.85000	3/1/2009		NJ	0.67000	3/1/2008
@@ -2465,7 +2466,7 @@ Choy, Augustin	13879	Non	-4.60000	9/18/2005			0.72000	10/1/2005
 Choy, Dan	15992	Non	-29.48000	12/1/2007	Santa Monica Go Club	CA	1.09000	2/1/2008
 Choy, Kyle	14075	Full	-25.38000	12/13/2006	Feng Yun Go School	NJ	3.13000	1/1/2006
 Choy, Ming Yuean	7471	Full	3.88000	8/27/1999		OR	0.75000	9/1/1998
-Christakis, Lysander	30927	Full	1.35596	4/15/2027	Massachusetts Go Association	MA	0.32863	1/31/2026
+Christakis, Lysander	30927	Full	1.36305	4/15/2027	Massachusetts Go Association	MA	0.30442	4/11/2026
 Christensen, Breana	15253	Full	-20.59000	10/21/2009	Tacoma Go Club	WA	0.99000	11/1/2008
 Christensen, Heine	6895	Full	-11.21000	3/28/1995		NJ	1.17000	3/1/1994
 Christensen, John	23512	Full	-7.15864	11/23/2023	National Go Center	MD	0.30768	12/14/2019
@@ -2889,7 +2890,7 @@ Currin, Myra	11656	Full	-17.81000	2/20/2008	Portland Go Club	OR	1.40000	11/1/200
 Curry, Bryan	24559	Full	-9.23090	5/31/2021	Arizona Go Club	AZ	0.85709	5/14/2019
 Curtis, Bill	8167	Full	-12.26000	7/31/1999		AZ	0.91000	12/1/1996
 Curtis, Nathan	10742	Full	-4.14000	11/13/2006	Empty Sky Go Club	OR	0.31000	11/1/2005
-Curtis, Nolan	3375	Full	-4.61975	4/15/2027		SC	0.43121	7/13/2025
+Curtis, Nolan	3375	Full	-4.61975	5/23/2027		SC	0.43121	7/13/2025
 Curtis, Robin	17797	Full	-4.48632	10/14/2010	Vermont Go Club	VT	0.53688	2/13/2010
 Curtis, Tim	32226	Full		11/23/2026		WA		
 Cushing, William	12858	Full	3.36093	2/7/2014	Arizona Go Club	AZ	0.31162	1/26/2013
@@ -3037,6 +3038,7 @@ de los Reyes, Anthony	18278	Full	-18.05343	7/28/2011	Quad Cities Go Club	IL	1.41
 De Mastri, Thomas P	31894	Full		6/19/2026	National Go Center	DC		
 De Oliveila, Samuel	15552	Non	-32.60000	6/12/2007			0.96000	7/1/2007
 De Oro, Christian	23116	Full	-5.10118	3/4/2019	Seattle AGA Chapter	WA	0.51844	6/3/2018
+De Pena, Pam	32481	Full		4/13/2027	San Antonio Go Club	TX		
 de Sam Lazaro, Anthony	9212	Full	-21.83000	8/13/1999		MN	0.67000	9/1/1999
 DE SAXCE, Hughes	25781	Full	1.49081	3/11/2023	Massachusetts Go Association	MA	0.47297	1/7/2023
 De Simone, Dennis	25100	Full		2/7/2021		CA		
@@ -3271,7 +3273,8 @@ Dong, Yue	21344	Comp	7.95547	1/1/2023			0.42515	8/10/2014
 Dong, Zelong	6200	Full	5.13101	2/8/2027		TX	0.26928	2/14/2026
 Dong, Zeyuan	31401	Youth		12/4/2025		NJ		
 Donker, Tyler J	32138	Non	-20.75660	11/22/2025		MI	1.97723	10/26/2025
-Donley, Jeremiah	20614	Full	5.26800	3/29/2027	Columbus Go Club	OH	0.17962	11/16/2025
+Donlan, Bryan	32486	Full		4/16/2027				
+Donley, Jeremiah	20614	Full	5.31484	3/29/2027	Columbus Go Club	OH	0.18898	3/28/2026
 Donnelly, Paul	7545	Full	2.15817	12/16/2019			0.87158	9/29/2018
 Donny-Clark, Kerry	12991	Full	-6.74000	2/24/2008		NJ	0.80000	3/1/2007
 Donoghue, Mark	26318	Full		1/10/2024	Hudson Valley Go	NY		
@@ -3335,7 +3338,7 @@ Drillick, Hindy	23856	Full	-32.71733	4/10/2019		NY	2.58119	4/7/2018
 Driver, Paul	19172	Full	-9.54881	9/6/2013	Milwaukee Go Club	WI	1.06089	7/23/2011
 Droege, Aimee M	18293	Full	-10.72429	8/12/2011		WY	0.43954	8/4/2010
 Dror, David	16462	Non	-11.07276	1/15/2011	Tucson Go Club	AZ	0.60013	1/8/2011
-Drucker, Andrew D	30963	Full	-1.65609	5/3/2027	Evanston Go Club	IL	0.52833	3/28/2026
+Drucker, Andrew D	30963	Full	-1.63583	5/3/2027	Evanston Go Club	IL	0.52774	3/28/2026
 Drucker, Thomas	7671	Full	-21.91000	2/28/1999		PA	0.86000	9/1/1995
 Drysdale, Bruce	9055	Full	-9.06000	4/13/2000		OH	0.70000	6/1/1999
 Drysdale, Robert	4600	Full		6/25/2026		NH		
@@ -3462,7 +3465,7 @@ Edelmann, Matthew	25762	Full	-13.38412	3/10/2023	Stony Brook University Go Club	
 Edey, Marion	2482	Full	-9.98629	5/24/2026	National Go Center	MD	0.33126	10/25/2025
 Edgar, David	21218	Full	2.29771	4/23/2026		CT	0.72268	11/18/2018
 Edge, Jake	16430	Full	-13.08646	1/2/2026		SD	0.63172	10/24/2009
-Edmonds, Joshua	20852	Full	1.66477	1/4/2027		OH	0.32544	3/28/2026
+Edmonds, Joshua	20852	Full	1.66455	1/4/2027		OH	0.32544	3/28/2026
 Edson, Sandra	8954	Full	-11.32372	3/19/2017			0.61105	4/9/2016
 Edwards, Bill	3018	Full	-2.85126	8/27/2024	Atlanta Go Club	GA	0.84707	9/16/2023
 Edwards, Brad	12566	Full	-14.02000	12/30/2018		FL	0.58000	6/1/2008
@@ -3654,7 +3657,7 @@ Fan, Chen-Ya	3683	Full	-1.37000	11/24/2001		NY	0.56000	12/1/2000
 Fan, Enjie	31323	Youth	-17.05516	10/30/2025		OR	0.73942	11/16/2024
 Fan, Guangwei	5533	Full	5.28000	5/31/1998		MO	0.72000	6/1/1997
 Fan, Haoquan	24614	Full	-24.75550	5/25/2020	Univ. of Maryland Go Club	MD	2.09208	5/25/2019
-Fan, Ivan D	32073	Full	-16.34752	9/25/2026		NY	1.00837	3/7/2026
+Fan, Ivan D	32073	Full	-17.02991	9/25/2026		NY	0.71373	4/11/2026
 Fan, Jianing	21280	Full	4.63968	4/22/2025	Bay Area Go Players Assoc.	CA	0.32764	7/31/2016
 Fan, Jiwei	15201	Full	2.76000	2/8/2008		MD	0.45000	2/1/2009
 Fan, Junhao	25587	Full	-4.44381	8/29/2026	National Go Center	DC	0.27579	1/31/2026
@@ -3702,7 +3705,7 @@ Fang, Kevin	15812	Full	1.52636	1/18/2019		CA	0.47007	2/14/2015
 Fang, Muyuan	32065	Full	4.35961	9/21/2026		IL	0.63847	11/1/2025
 Fang, Nathan	20249	Full	-17.00616	10/28/2013		CA	0.83167	12/1/2012
 Fang, Patrick	25491	Youth		5/15/2022		CA		
-Fang, Siyuan	32261	Full		12/26/2026		NC		
+Fang, Siyuan	32261	Full	8.39310	12/26/2026		NC	0.55875	4/11/2026
 Fang, William	30579	Youth	-4.09461	1/19/2027	San Diego Go Club	CA	0.26172	7/13/2025
 Fang, Xiaodong	9403	Full	3.86000	2/17/2000		TX	1.21000	6/1/1999
 Fang, Yue	19472	Full	1.65670	12/15/2012	Bay Area Go Players Assoc.	CA	0.34667	7/14/2012
@@ -3938,7 +3941,7 @@ Fortner, Stephen	12459	Full	-15.90000	2/8/2007		WA	0.95000	3/1/2004
 Fosa, Jayme	15781	Full	6.49000	3/25/2009		MA	0.47000	9/1/2008
 Foscolos, Nick	4114	Full	-11.38000	3/28/1990	Massachusetts Go Association	MA	0.58000	9/1/1993
 Foss, Bjorn	11800	Full	-2.18498	7/25/2020		FL	0.34650	4/12/2014
-Foss, Christopher	32048	Full	-2.67509	9/12/2026		IN	0.66885	3/28/2026
+Foss, Christopher	32048	Full	-2.67751	9/12/2026		IN	0.66691	3/28/2026
 Foster, Brian Coburn	5935	Full	-1.81000	5/4/2003	San Francisco Go Club	CA	0.45000	3/1/2000
 Foti, Alexander	14195	Full	-4.52040	6/7/2017	Penn Go Society	LA	0.39950	7/31/2016
 Fotland, David A	7	Life	3.72000	9/1/2064		CA	0.31000	2/1/2003
@@ -4131,7 +4134,7 @@ Gaines, Michael	14614	Full	-18.78000	7/12/2007		TX	1.42000	8/1/2006
 Galante, Pasquate	25024	Non	-8.07408	1/14/2020		CA	0.63432	10/26/2019
 Galate, Pasquale	23612	Non	-8.33281	11/11/2017			0.65924	10/21/2017
 Galehouse, Ben	11067	Non	-9.14000	6/18/2002	Berkeley Go Club	CA	0.46000	7/1/2002
-Galko, Iris	31448	Full	-4.40477	1/12/2027	Phoenixville Go Club	PA	0.49480	3/28/2026
+Galko, Iris	31448	Full	-4.43980	1/12/2027	Phoenixville Go Club	PA	0.49264	3/28/2026
 Gallagher, Christopher	18672	Full	-5.02346	3/9/2016		PA	0.79323	2/28/2015
 Gallagher, Dan	8394	Non	-6.40000	1/28/1997		MD	0.78000	3/1/1997
 Gallagher, Mark	15143	Full	-18.11000	1/24/2008		HI	1.33000	9/1/2007
@@ -4680,7 +4683,7 @@ Guimard, Romain	25252	Full		7/26/2024		SC
 Gulkis, Adam	17780	Full	-21.47335	10/21/2010	SiliValley Go Club	CA	0.81904	9/19/2009
 Gum, Josh	12298	Full	-2.42001	10/4/2026	Corvallis Go Club	OR	0.32636	11/22/2025
 Gunatilake, Denis	22295	Full	-18.78197	1/12/2017	Univ. of Maryland Go Club	MD	0.67914	4/9/2016
-Gunby-Mann, Benjamin	24023	Full	2.13336	12/1/2026		NJ	0.36731	2/20/2026
+Gunby-Mann, Benjamin	24023	Full	2.43354	12/1/2026		NJ	0.31269	4/11/2026
 Gundberg Jr., William	1314	Full	-4.22063	9/30/2026	Arizona Go Club	AZ	0.28747	7/13/2025
 Gunton, Matthew	30156	Full	-14.06789	4/16/2024	Austin Go Club	TX	0.99550	4/22/2023
 Guo, Albert	12591	Full	2.43258	7/17/2021	Ann Arbor Go Club	MI	0.51708	8/6/2017
@@ -4729,7 +4732,7 @@ Guo, Weiming	19912	Non	5.04900	3/7/2023	Stony Brook University Go Club	NY	0.8557
 Guo, Xiangyu	23988	Comp	1.88781	1/1/2023			0.56988	7/22/2018
 Guo, Xiao Ping	6758	Full	3.42000	11/28/1994		NY	0.49000	12/1/1993
 Guo, Xinming	18864	Full	1.40584	4/29/2026	Evanston Go Club	IL	0.32956	7/13/2025
-Guo, Xiwen	32428	Youth	-12.99956	3/21/2027		OH	1.64538	3/28/2026
+Guo, Xiwen	32428	Youth	-12.96995	3/21/2027		OH	1.65328	3/28/2026
 Guo, Yao	9238	Non	1.15000	8/16/1999		QC	0.55000	9/1/2007
 Guo, Yihan	26106	Full	7.01003	9/26/2026		MA	0.40778	5/24/2025
 Guo, Ying	8619	Non	4.75000	11/22/1997			0.70000	6/1/1997
@@ -4757,7 +4760,7 @@ Guze, Matthew	20454	Full	-13.92335	3/3/2014	Seattle AGA Chapter	WA	1.09908	3/3/2
 Guzinski, Wojciech	6933	Full	1.04000	8/15/2025		FL	0.36000	9/1/1999
 GuzmÃ¡n Camacho, Gabriel	24293	Non	-29.43409	11/16/2018	Columbus Go Club	OH	1.87141	11/18/2018
 Gwinn, Chris	9433	Full	-23.63000	3/13/2000		VA	2.63000	9/1/2000
-Gwinn, Samuel O	32131	Full	-21.43337	10/19/2026	Vermont Go Club	VT	0.91410	3/28/2026
+Gwinn, Samuel O	32131	Full	-21.43350	10/19/2026	Vermont Go Club	VT	0.91410	3/28/2026
 H, Henry	26423	Non	-28.11847	3/3/2023		NY	2.09654	2/26/2023
 H, Henryk	30068	Full	-21.77566	3/25/2024		NY	0.47230	11/11/2023
 Ha, Chiag Bung	8511	Non	-1.89000	4/28/1997		FL	1.01000	6/1/1997
@@ -5083,7 +5086,7 @@ Hauth, Chris	7975	Full	-17.01000	2/28/1997		CA	0.91000	9/1/1996
 Havemann, Larry C	11072	Non	-22.21000	6/24/2002		CA	2.32000	5/1/2002
 Haverly, Christopher	23953	Full	2.01878	12/28/2025	Atlanta Go Club	GA	0.24758	10/19/2025
 Haverly, Radomira	23954	Full	-24.99337	6/8/2019	Atlanta Go Club	GA	1.38927	7/22/2018
-Hawk, Jacob	32133	Full	-21.22568	1/14/2027		VT	0.82935	3/28/2026
+Hawk, Jacob	32133	Full	-21.22576	1/14/2027		VT	0.82935	3/28/2026
 Hawkes, Nick	15868	Full	-16.38000	10/13/2008		ME	0.91000	11/1/2007
 Hawley, David	12330	Full	2.05000	10/15/2008		OH	0.60000	2/1/2005
 Hawley, Matthew	11257	Full	-8.09755	6/8/2011		OH	0.41135	8/2/2009
@@ -5340,7 +5343,7 @@ Hirose, Nobuaki	18313	Comp	2.43502	1/1/2023			0.48848	7/30/2016
 Hirose, Nobuaki	23999	Comp	2.22107	1/1/2023			0.50574	7/22/2018
 Hiroshi, Oshigiri	6218	Full	2.88000	10/28/1994		NJ	0.32000	9/1/1994
 Hiroshima, Toshikuni	9233	Non	5.53000	8/14/2004			0.42000	9/1/2006
-Hirotada, Kobayashi	31383	Full	3.60683	11/24/2026	San Francisco Go Club	NY	0.47595	2/20/2026
+Hirotada, Kobayashi	31383	Full	4.42875	11/24/2026	San Francisco Go Club	NY	0.37409	4/11/2026
 Hiroyuki, Ochiai	10808	Full	1.43000	1/13/2002			0.70000	1/1/2002
 Hirsch, Gavriel	26131	Full	-8.98162	10/13/2023	San Francisco Go Club	CA	0.58460	4/15/2023
 Hirsch, Steve	31459	Full		1/9/2027		WA		
@@ -5451,7 +5454,7 @@ Holton, Steven	12776	Full	-12.51000	6/26/2005	Evanston Go Club	GA	0.42000	5/1/20
 Holton-Tweed, Brooke	13516	Full	-8.03000	5/7/2007	Syracuse Go Club	NY	1.50000	5/1/2005
 Holtsclaw, Charles	23812	Full		7/27/2021	Houston Go Club	TX		
 Holzman, Emily	18137	Full	-18.82925	4/24/2011	Boulder Kids and Teens Go Club	CO	0.83124	4/24/2010
-Homer, Jack	21881	Full	2.59785	1/8/2027	Vermont Go Club	VT	0.54847	3/28/2026
+Homer, Jack	21881	Full	2.59800	1/8/2027	Vermont Go Club	VT	0.54847	3/28/2026
 Homma, Shinichi	30311	Comp	-3.84709	8/31/2025		SZO	0.28973	7/13/2025
 Hommerding, Jane	14109	Full	-26.22000	12/20/2007		IA	0.61000	2/1/2007
 Hommerding, Mark	5050	Full	-9.77266	1/2/2012		IA	0.53149	12/5/2009
@@ -5496,7 +5499,7 @@ Hong, Yang	22725	Comp	7.91953	1/1/2023			0.63915	8/6/2017
 Hong, Yiyang	23196	Non	2.63716	3/9/2017		NY	0.68135	3/12/2017
 Hong, Yoon Hoo	6566	Non	1.68000	5/28/1993			0.53000	9/1/1993
 Hong, Young P	8142	Non	4.55000	7/28/1996			0.73000	9/1/1996
-Honig, Les	24892	Full	-10.24018	6/19/2026	Brooklyn Go Club	NY	0.26821	12/13/2025
+Honig, Les	24892	Full	-10.15103	6/19/2026	Brooklyn Go Club	NY	0.24664	4/11/2026
 Honnecke, Marcus	887	Non	-4.34000	6/27/2004		CO	0.59000	7/1/2004
 Hontz, Alex M	30885	Non	-4.01327	5/6/2024		WA	0.78621	4/7/2024
 Hood, Benjamin	26038	Full		8/15/2023	Greater Kansas City Go Club	KS		
@@ -5564,7 +5567,7 @@ Hovey, George	20863	Full	1.33859	1/22/2027	Twin Cities Go Club	NE	0.47547	1/24/2
 Hovingh, Annemarie	7369	Non	-16.92000	8/28/1994			0.44000	9/1/1994
 Howar, Jordan	18363	Full	-9.93676	4/17/2013		VA	0.55841	5/28/2011
 Howard, Adam	15140	Full	-18.07000	1/24/2008		HI	0.90000	4/1/2007
-Howard, Christopher	32427	Full		3/21/2027		NY		
+Howard, Christopher	32427	Full	-11.22719	3/21/2027		NY	0.77624	4/11/2026
 Howard, James	18546	Full	-13.53383	7/20/2022	Syracuse Go Club	NY	0.60603	11/22/2014
 Howard, John	10332	Full	1.08000	5/29/2013	Portland Go Club	OR	0.62000	3/1/2009
 Howard, Kendall Terrell	20547	Full	-16.51598	10/31/2016		CA	0.43938	10/26/2014
@@ -5635,7 +5638,7 @@ Hsu, Joy	12880	Full	-34.12000	8/11/2005		MD	3.78000	9/1/2004
 Hsu, Justin	16066	Full	-15.83195	12/16/2010		VA	0.80189	12/12/2009
 Hsu, Lance	13659	Full	-10.52000	6/20/2010		CA	0.94000	7/1/2009
 Hsu, Lun-Kai	25937	Full	3.82097	5/7/2023	San Francisco Go Club	CA	0.68846	5/21/2022
-Hsu, Madeleine	31220	Youth	-15.63994	9/11/2026		NY	0.42917	3/7/2026
+Hsu, Madeleine	31220	Youth	-15.57461	9/11/2026		NY	0.35888	4/11/2026
 Hsu, Nathan	20636	Full	-3.63515	6/3/2014		MD	0.82608	5/25/2013
 Hsu, Oliver	9495	Non	-7.79000	8/25/1999		WA	0.69000	6/1/1999
 Hsu, Sheehan	12954	Full	-3.93000	6/20/2010		CA	0.59000	7/1/2009
@@ -5716,7 +5719,7 @@ Huang, Alan	22315	Full	7.83572	4/9/2027		NJ	0.16941	1/31/2026
 Huang, Alan	10768	Full	7.96000	5/10/2006		CO	0.32000	6/1/2005
 Huang, Alex	25025	Non	-22.27591	1/14/2020			1.00230	10/26/2019
 Huang, Alexander	22167	Full	-5.52896	11/3/2019		NY	0.42583	4/20/2019
-Huang, Alvin	26213	Full	6.61720	4/11/2027		WA	0.28364	5/10/2025
+Huang, Alvin	26213	Full	6.63048	4/11/2027		WA	0.30700	4/11/2026
 Huang, Amy	12220	Full	-22.22000	11/2/2004	Empty Sky Go Club	NY	0.70000	2/1/2004
 Huang, An	22126	Non	6.90050	9/27/2015		MA	0.62977	9/26/2015
 Huang, Andrew	13637	Full	5.72983	8/27/2026	Princeton Go Club	NY	0.49484	1/31/2026
@@ -5883,7 +5886,7 @@ Hubbard, Rick	32326	Full		1/28/2027		CA
 Hubbard, Stephen	24607	Full	-15.77869	10/2/2023	Seattle AGA Chapter	WA	0.55134	1/5/2020
 Hubbell, Rick	6608	Full	6.43000	6/7/2004	Seattle AGA Chapter	WA	0.35000	4/1/2003
 Hubble, Patrick L	30277	Full		5/23/2026	Hill City Go Club	VA		
-Hubbs, Brendan	32478	Full		4/14/2027				
+Hubbs, Brendan	32478	Full		4/13/2027		VA		
 Huber, Michael	13455	Full	-7.97036	5/27/2016	San Francisco Go Club	CA	1.10644	6/11/2011
 Huber, Sean	21524	Full	-8.37471	11/23/2015		MD	1.26781	11/16/2014
 Huch, Douglas	26201	Full	-2.66928	11/15/2023	Gotham Go Group	NJ	0.70864	11/5/2022
@@ -5921,7 +5924,7 @@ Hui, Siu-Kou	5432	Full	5.18978	2/3/2007		NY	0.76284	9/26/2015
 Hui, Siu-San	31775	Non	2.79004	6/4/2025		NY	0.79220	5/3/2025
 Hui, Siu-San	7877	Non	1.82720	4/8/2022		NY	0.74413	3/26/2022
 Huizer, Ronald	23005	Full	-7.41952	12/8/2017		FL	1.16802	12/10/2016
-Hull, Joshua T	32439	Full		3/25/2027		NY		
+Hull, Joshua T	32439	Full	-1.10566	3/25/2027		NY	0.61472	4/11/2026
 Hullander, Eric	16806	Full	-13.93000	9/16/2009	Seattle AGA Chapter	WA	0.95000	10/1/2008
 Hulscher, Kyle	31390	Full		11/27/2025		IA		
 Hulscher, Matthew	24776	Full	-13.14165	8/18/2025	Iowa Go Society	IA	1.26326	3/11/2023
@@ -6180,8 +6183,8 @@ Jaeger, Kevin	21108	Youth	-20.46853	3/8/2015		NJ	2.42572	3/1/2014
 Jaekel, Richard	12145	Full	-13.17000	9/22/2009		AE	0.88000	8/1/2005
 Jaffe, Harris	7595	Full	-3.52000	8/28/1996			0.51000	6/1/1995
 Jaffe, Jay A	1149	Full	-15.36000	7/9/1998		CA	0.64000	1/1/1998
-Jaffe, Jerry	16016	Full	1.95533	2/1/2027	Cleveland Go Club	OH	0.23371	3/28/2026
-Jaffe, Soren	19705	Full	6.15309	3/25/2027	Cleveland Go Club	OH	0.23962	3/28/2026
+Jaffe, Jerry	16016	Full	1.95696	2/1/2027	Cleveland Go Club	OH	0.23396	3/28/2026
+Jaffe, Soren	19705	Full	6.08906	3/25/2027	Cleveland Go Club	OH	0.23330	3/28/2026
 Jaffee, Harris	6598	Non	-3.18000	7/28/1993	Seattle AGA Chapter		0.50000	12/1/1995
 Jailall, Robert	13890	Full	-9.68000	10/4/2007	Triangle Go Group	MD	0.36000	9/1/2006
 Jain, Amber	22240	Full	-3.82544	11/12/2016	Penn Go Society	PA	1.01807	10/25/2015
@@ -6229,7 +6232,7 @@ Jasperse, Dan	14292	Full	-19.50000	2/5/2007		MI	1.62000	2/1/2006
 Jauregui, Andres	25123	Full	-12.51910	3/2/2021	National Go Center	MD	1.17426	12/14/2019
 Jauregui, Jonathan	17383	Full	-21.20819	4/4/2010		FL	1.00594	6/6/2009
 Jauregui, Joshua	17013	Full	-23.08983	12/11/2010		FL	0.71144	6/6/2009
-Jauregui, Manny	24071	Youth	-1.23167	3/26/2027	Cleveland Go Club	OH	0.41319	3/28/2026
+Jauregui, Manny	24071	Youth	-1.23038	3/26/2027	Cleveland Go Club	OH	0.41295	3/28/2026
 Jean-Francois, Anaia	25739	Youth	-24.38638	2/21/2023		NY	0.94997	3/26/2022
 Jeans, Timothy L	3848	Full	-3.13171	8/18/2024	Davis/Sacramento Go Club	CA	0.39290	7/31/2011
 Jen, Jonah	16891	Non	-27.16000	10/8/2008			2.41000	11/1/2008
@@ -6501,8 +6504,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
+Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -6518,7 +6521,7 @@ Jung, Chol	7711	Full	7.09000	8/28/1996			0.67000	9/1/1995
 Jung, Gunok	8894	Non	3.39000	12/5/1997		MN	0.73000	1/1/1998
 Jung, Hannah	18511	Full	-8.78062	3/11/2019	Boulder Kids and Teens Go Club	CO	0.52705	3/10/2018
 Jung, Hwa Yo	10054	Non	2.61000	7/26/2000			0.60000	9/1/2000
-Jung, J	20360	Full	1.69510	9/11/2026		NJ	0.24487	3/28/2026
+Jung, J	20360	Full	1.69153	9/11/2026		NJ	0.24481	3/28/2026
 Jung, Minwoo	32306	Youth		1/20/2027		CA		
 Jung, Myung	24569	Full	3.90912	5/1/2020		NJ	0.64830	4/10/2019
 Jung, Seo Joon	22112	Full	10.22807	9/27/2015			0.73883	9/26/2015
@@ -6542,14 +6545,14 @@ Kahn, Andy	5088	Full	-1.73114	7/23/2021		PA	0.69475	8/6/2017
 Kahn, Charles	30814	Full	-3.78327	3/13/2026	East Bay Go Players	CA	0.59148	11/17/2024
 Kahn, David	9377	Full	-8.09604	5/3/2026	Massachusetts Go Association	MA	0.52348	4/10/2019
 Kahn, Gary	6829	Full	-25.01000	2/23/2027		VA	0.86000	12/1/1993
-Kahr, Janar	25346	Full	4.62689	3/2/2027		OH	0.31072	3/28/2026
+Kahr, Janar	25346	Full	4.63726	3/2/2027		OH	0.31030	3/28/2026
 Kai, Naoyuki	20759	Non	6.76488	10/8/2018		CA	0.33960	5/4/2019
 Kain, Kyle	21988	Life	-6.37355	9/1/2064	Iowa Go Society	IA	0.82666	1/24/2026
 Kain, Morgan	18462	Full	-3.66213	11/13/2011		PA	0.84228	4/9/2011
 Kaiser, Cris	4569	Full	-4.81000	7/9/1998		CA	0.65000	9/1/1997
 Kaiser, James	4147	Full	-7.14000	6/28/1997		MI	0.60000	9/1/1996
 Kaiser, Matthew	20969	Full	-9.99073	12/19/2015		WI	0.76103	12/7/2013
-Kaiser, Michael C	24257	Full	1.20913	11/8/2026	Treasure Coast Go	FL	0.39445	8/30/2025
+Kaiser, Michael C	24257	Full	1.32296	11/8/2026	Treasure Coast Go	FL	0.32687	4/11/2026
 Kaiser, Ronald L	4296	Full	-6.57000	9/30/2006		MI	0.45000	9/1/1993
 Kaitschick, Stefan	15600	Non	6.82976	6/23/2010			0.74464	5/30/2015
 Kakakhel, Ali	25191	Full		7/13/2023	Tucson Go Club	AZ		
@@ -6744,7 +6747,7 @@ Kelley, Jason P	31456	Full		1/9/2026		CO
 Kelley, Joel	12659	Full	-30.46000	5/22/2005	Corvallis Go Club	OR	2.59000	6/1/2004
 Kelley, Martin	12097	Full	-9.25264	5/30/2027	Ghost City Go	NC	0.48448	9/20/2025
 Kelley, Michael Kevin	23728	Full	-5.76156	2/10/2020	Dallas Go Club	TX	0.51102	2/16/2019
-Kelley, Patrick	32480	Full		4/14/2027				
+Kelley, Patrick	32480	Full		4/13/2027	Charlotte Go Club	NC		
 Kellogg Jr., Ogden Ellis	400	Full	-7.39864	10/9/2013		OR	0.76737	7/30/2011
 Kelly, Brett	14877	Full	6.21701	10/3/2011	Arizona Go Club	AZ	0.34968	10/4/2011
 Kelly, Bryan	11504	Full	-12.70000	12/29/2007		MD	0.99000	12/1/2006
@@ -6767,7 +6770,7 @@ Kennedy, Mike	14953	Non	-7.85000	9/17/2007		CA	0.59000	11/1/2006
 Kennedy, Samuel	24018	Full	-2.51892	1/27/2027	Evanston Go Club	SC	0.35851	1/17/2026
 Kennedy, Thomas	30582	Full		11/6/2024	Denton Go Club	TX		
 Kenny, Benjamin C	402	Full	-5.40000	9/28/1997	GWRM Baltimore Go Club	MD	0.00000	11/15/1992
-Kenny, Joel	24545	Full	5.54814	7/15/2026	Gotham Go Group	NY	0.12938	3/7/2026
+Kenny, Joel	24545	Full	5.55131	7/15/2026	Gotham Go Group	NY	0.12764	4/11/2026
 Kenny, Thomas	8544	Full	-16.83000	4/30/1998	Ann Arbor Go Club	MI	2.07000	6/1/1997
 Kenrick, Patrick	31175	Full		8/26/2025	Dayton Go Club	OH		
 Kent, Daniel	19319	Full	-8.32308	9/20/2012		CO	0.52821	5/12/2012
@@ -7054,7 +7057,7 @@ Kim, Paul M	8147	Full	-4.52000	6/14/2002		CA	0.75000	9/1/1996
 Kim, Paul	10864	Full	2.69000	11/6/2005	Seattle AGA Chapter	WA	0.37000	2/1/2005
 Kim, Pyungsik	19944	Non	1.75488	5/25/2012			0.62901	4/28/2012
 Kim, Raymond J	6254	Full	3.46649	1/23/2025	Capital Go Club	VA	0.34351	12/14/2024
-Kim, Regina	24535	Youth	-5.18808	7/21/2026		NJ	0.31639	2/20/2026
+Kim, Regina	24535	Youth	-5.43801	7/21/2026		NJ	0.29068	4/11/2026
 Kim, Richard	10080	Non	-2.05000	7/27/2000			0.64000	9/1/2000
 Kim, Richard	15374	Full	4.28292	5/14/2026		NY	0.54403	5/3/2025
 Kim, Ronald Won	6983	Full	3.31000	5/28/1995		CA	0.50000	6/1/1994
@@ -7161,7 +7164,7 @@ Kingsberry, Cameron	13463	Full	-33.25000	4/9/2006			2.30000	5/1/2005
 Kingsbury, Ryan	26093	Full		9/24/2024	Seattle AGA Chapter	WA		
 Kingston, Tim	15060	Non	-9.75000	12/31/2006			1.25000	8/1/2006
 Kington, Benjamin	25452	Full		2/28/2023	San Diego Go Club	CA		
-Kington, Tim	8989	Full	-2.67296	3/11/2027	Columbus Go Club	OH	1.45846	3/28/2026
+Kington, Tim	8989	Full	-2.71241	3/11/2027	Columbus Go Club	OH	1.45185	3/28/2026
 Kinne, Richard	11003	Full	-21.13266	2/24/2024	Massachusetts Go Association	MA	0.56492	4/15/2012
 Kinnear, Noel	5814	Non	-12.00326	3/8/2012		NY	0.49234	3/24/2018
 Kinney, Douglas	9196	Full	-15.61000	8/4/2000		IA	0.52000	6/1/1999
@@ -7449,7 +7452,7 @@ Kuang, Jeff	13845	Full	4.09667	9/20/2025		NC	0.34701	9/20/2025
 Kuang, Weijia	7492	Full	-1.88000	1/28/1996		MA	0.65000	9/1/1995
 Kuang, Xiwei	31445	Youth	-6.47527	1/7/2027	New York Go Association	NJ	0.86800	3/29/2025
 Kuang, Yun	18332	Full	2.32961	10/9/2013		NJ	0.44749	12/18/2011
-Kubach, Jeffrey	26258	Full	-11.03473	5/5/2026	Atlanta Go Club	GA	0.42926	2/1/2026
+Kubach, Jeffrey	26258	Full	-11.03473	4/16/2027	Atlanta Go Club	GA	0.42926	2/1/2026
 Kubo, Hatsuki	23451	Comp	1.42699	1/1/2023			0.65122	8/6/2017
 Kubo, Nanako	23452	Comp	-11.50952	1/1/2023			0.69219	8/6/2017
 Kubo, Ryoji	10868	Full	2.86000	2/23/2003		WA	0.74000	10/1/2001
@@ -7503,7 +7506,7 @@ Kusumoto, Toyo	10600	Non	-3.92000	6/9/2001			0.57000	8/1/2001
 Kuter, Timothy	26167	Full	-11.13827	10/29/2023	Salt Lake Go Club	UT	1.35088	4/1/2023
 Kutlu, Gokhan	19892	Full	-9.21351	4/25/2015	Seattle AGA Chapter	WA	0.37350	6/2/2013
 Kutner, Skye	17506	Full	-11.21000	5/14/2010		FL	1.71000	6/1/2009
-Kuvshynov, Dennis	30720	Youth	-18.56403	2/2/2027		NY	0.28242	1/10/2026
+Kuvshynov, Dennis	30720	Youth	-18.43076	2/2/2027		NY	0.47284	4/11/2026
 Kuwana, Hiroyuki	21693	Full	-11.49698	3/6/2021		NH	0.69270	9/26/2015
 Kuzminsky, Sebastian	12305	Full	-4.39000	12/13/2004		CO	1.12000	2/1/2004
 Kuzmitsky, Eugene	26351	Full		1/27/2024		PA		
@@ -7536,7 +7539,7 @@ Kwon, Sung O	6108	Non	5.71000	8/28/1996		CA	0.61000	9/1/1996
 Kwon, Will	5001	Full	2.70000	9/28/1991		NY	0.00000	11/15/1992
 Kwon, Young W	9062	Full	6.16000	5/13/1999		GA	0.92000	6/1/1998
 Kwon, Young K	433	Full	6.70034	3/23/2027		NY	0.24181	8/2/2009
-Kwong, Elliott Yui Heng	30196	Youth	1.13851	4/30/2026	Feng Yun Go School	NJ	0.40479	1/10/2026
+Kwong, Elliott Yui Heng	30196	Youth	1.00376	4/30/2026	Feng Yun Go School	NJ	0.34193	4/11/2026
 Kwong, Kevin	18105	Full	-24.29145	4/16/2011		NC	1.02326	3/28/2010
 Kwong, Michelle	16073	Full	-20.31000	12/19/2008	Feng Yun Go School	NJ	0.50000	12/1/2008
 Kyle, David	31150	Full	-13.72038	8/11/2026	Elevation Go Club	CO	1.17382	9/7/2024
@@ -7741,7 +7744,7 @@ Lebl, Michal	7921	Full	-6.82636	11/15/2017	San Diego Go Club	CA	0.35902	1/14/201
 LeBlanc, Cesar	30675	Full		1/5/2025		AZ		
 Leblanc, Ian	24778	Full	2.41176	2/18/2027	Penn Go Society	PA	0.40353	3/14/2026
 Leblanc, Marc	8974	Full	-14.66000	1/24/2002	Massachusetts Go Association	MA	0.80000	6/1/1998
-Lebovitz, George	10560	Full	-11.43047	5/21/2026	Space Coast Area Go Association	FL	0.96075	1/27/2024
+Lebovitz, George	10560	Full	-11.43047	5/21/2027	Space Coast Area Go Association	FL	0.96075	1/27/2024
 Lechasseur, Jean-sebastien	17678	Comp	5.03049	1/1/2023		QC	0.57727	1/7/2023
 Lechtchinski, Dimitri	12398	Full	-2.91000	2/24/2008		NY	0.35000	3/1/2007
 Lecin, Matthew	8192	Full	-15.67000	8/31/2026	Wings Across Calm Water	NJ	0.51000	9/1/1997
@@ -7928,7 +7931,7 @@ Lee, Kyu Ha	2531	Full	-4.92075	1/13/2011		WA	0.59120	1/3/2010
 Lee, Kyu Hwa	6573	Non	2.14000	7/27/2000		NY	0.54000	3/1/2001
 Lee, Kyung Jae	8151	Full	5.76000	1/29/1999		CA	0.60000	3/1/1998
 Lee, Kyung-Jae	6921	Full	6.35000	3/28/1996		CA	0.57000	9/1/1995
-Lee, Lambert	25688	Full	6.97949	1/8/2027		NY	0.27116	1/17/2026
+Lee, Lambert	25688	Full	7.04027	1/8/2027		NY	0.25596	4/11/2026
 Lee, Lawrence	7865	Non	-8.71000	11/28/1995			0.61000	12/1/1995
 Lee, Man Y	21182	Full	-9.86353	5/10/2015		VA	0.65226	4/26/2014
 Lee, Mark	21303	Full	9.70212	10/10/2020	Santa Monica Go Club	CA	0.30730	10/26/2019
@@ -8062,7 +8065,7 @@ LeJeune, Larry	6064	Full	-3.75027	9/11/2018		CO	0.20572	5/12/2012
 Leland, Jon	18869	Full	-17.46361	6/11/2012		CA	0.98680	7/17/2015
 Leliukhin, Anton	23896	Full	-6.98945	4/30/2019	Bay Area Go Players Assoc.	CA	0.73822	4/7/2018
 Lelivelt, John	5189	Full	-6.15387	10/19/2025	Seattle AGA Chapter	WA	0.65582	10/20/2024
-Lemaster, Paige	26114	Full	5.88956	10/27/2026	Columbus Go Club	OH	0.22602	3/28/2026
+Lemaster, Paige	26114	Full	5.89150	10/27/2026	Columbus Go Club	OH	0.22577	3/28/2026
 Lemenev, Gennadiy	14982	Full	-10.09000	12/29/2007		MD	0.52000	11/1/2007
 Lemmon, Jay	18021	Full	-4.54103	10/25/2013	Bay Area Go Players Assoc.	CA	0.83803	10/13/2012
 Lemus, Geovanni	17128	Full	-16.05000	1/25/2010	Orange County Go Club	CA	0.67000	4/1/2009
@@ -8072,7 +8075,7 @@ Lengyel, John	19412	Full	-1.33964	7/9/2018	Bay Area Go Players Assoc.	CA	0.47523
 Lennon, Elyse K	30229	Non	-11.50317	6/8/2023		WI	0.49999	5/27/2023
 Lentczner, Mark G	6378	Full	-9.26894	5/16/2010	SiliValley Go Club	CA	0.42474	8/22/2009
 Lenzen, Matt J	30345	Full	-7.81150	7/9/2025	College Station Go Club	TX	0.79887	8/19/2023
-Leo, Jason	31546	Youth	-18.03308	2/4/2027	New York Go Association	NY	0.38242	3/7/2026
+Leo, Jason	31546	Youth	-17.38096	2/4/2027	New York Go Association	NY	0.32560	4/11/2026
 Leon, Christopher	22088	Full	-15.73390	9/27/2016		MA	0.57936	7/31/2016
 Leon, Mackenzie	21545	Full	-17.24598	12/7/2015	Seattle AGA Chapter	ID	1.55254	12/7/2014
 Leonard, Jim	7193	Full	-14.99000	12/28/1993		OH	0.56000	9/1/1993
@@ -8147,7 +8150,7 @@ Lewis, Parker	14830	Non	-32.68000	11/1/2006			3.00000	11/1/2006
 Lewis, Philip	17710	Full	-7.49413	8/16/2010		SC	1.07460	8/1/2009
 Lewis, Phillipe	12075	Full	-2.91000	8/24/2004	Dallas Go Club	TX	0.43000	9/1/2003
 Lewis, Sam F	14081	Non	-15.59000	12/29/2005			0.93000	12/1/2005
-Lewis, V	25471	Full	4.73061	1/19/2027	Massachusetts Go Association	MA	0.38955	3/8/2026
+Lewis, V	25471	Full	4.81319	1/19/2027	Massachusetts Go Association	MA	0.33359	4/11/2026
 Lewis, Wallace	25267	Full		7/28/2021	Berkeley Go Club	CA		
 Lewis, Warren	12340	Full	-17.64222	1/2/2012		NC	0.57851	3/28/2010
 Ley, Diego	20674	Full	-10.12157	6/28/2014		TX	0.75343	6/29/2013
@@ -8205,7 +8208,7 @@ Li, Emily	25981	Non	-20.85529	6/24/2022	San Francisco Go Club	CA	1.62731	6/18/20
 Li, Enxuan(Lukas)	25992	Youth		7/13/2024		PA		
 Li, Eric	21549	Youth	-18.40587	12/9/2016	Syracuse Go Club	NY	0.83711	4/16/2016
 Li, Ethan	24419	Youth	-28.83161	1/19/2020		GA	0.90553	2/15/2019
-Li, Evelyn	32218	Youth	-23.45932	11/17/2026		NY	2.14264	3/7/2026
+Li, Evelyn	32218	Youth	-26.37821	11/17/2026		NY	1.24315	4/11/2026
 Li, Fangjun	31181	Youth	-4.92794	9/19/2026	Centre County Go	PA	0.77280	3/7/2026
 Li, Fanni	16657	Full	-9.84837	2/19/2016		MA	1.03452	4/20/2015
 Li, Fei	30092	Full	-5.23307	5/22/2026	Atlanta Go Club	GA	0.28202	3/1/2026
@@ -8242,7 +8245,7 @@ Li, Jason	31835	Youth	-25.31461	5/29/2026		PA	0.51260	3/7/2026
 Li, Jason Siyi	25286	Youth	2.58006	7/31/2037	Feng Yun Go School	NJ	0.27259	3/7/2026
 Li, Jayden	31836	Youth	-20.47501	5/29/2026		PA	0.54688	3/7/2026
 Li, Jeff	11165	Full	-7.90000	6/26/2004		MD	0.77000	8/1/2002
-Li, Jenny	23814	Youth	3.23524	12/1/2026		MA	0.42242	2/20/2026
+Li, Jenny	23814	Youth	3.04419	12/1/2026		MA	0.34407	4/11/2026
 Li, Jeremy	25646	Youth	-8.54365	9/7/2025	San Diego Go Club	CA	0.51358	9/8/2024
 Li, Ji	16318	Non	3.82000	2/17/2008			0.81000	3/1/2008
 Li, Jiale	32149	Youth		10/24/2026		NY		
@@ -8274,7 +8277,7 @@ Li, kangkang	22467	Full	-7.98704	3/16/2017		NJ	0.73749	3/19/2016
 Li, Ke-Guang	9230	Non	6.47000	8/22/1998			0.49000	9/1/1998
 Li, Kelly	24512	Youth	-31.07595	3/23/2020	Syracuse Go Club	NY	0.67076	11/2/2019
 Li, Ken	11571	Non	-18.49000	1/16/2003			1.98000	2/1/2003
-Li, Kevin M	30269	Full	1.92578	5/20/2026	Evanston Go Club	IL	0.26220	3/28/2026
+Li, Kevin M	30269	Full	1.92508	5/20/2026	Evanston Go Club	IL	0.26197	3/28/2026
 Li, Kunxuan	24762	Comp	6.05871	1/1/2023			0.65436	7/14/2019
 Li, La	17643	Non	4.55059	7/23/2009			0.76482	7/19/2009
 Li, Lanfeng	6063	Full	2.95000	7/28/1995		CO	0.60000	9/1/1994
@@ -8331,7 +8334,7 @@ Li, Steve Sihao	8834	Full	5.55000	10/10/1998		VA	0.55000	3/1/1998
 Li, Tao	13130	Full	2.05727	4/17/2026	San Francisco Go Club	CA	0.29390	2/1/2026
 Li, Terry	24404	Youth	1.63322	1/10/2020			0.37354	8/4/2019
 Li, Thomas	16897	Full	-25.15000	10/8/2009	Feng Yun Go School	NJ	0.92000	1/1/2009
-Li, Tianhao	26156	Full	8.28256	12/13/2026	National Go Center	NJ	0.47821	2/26/2023
+Li, Tianhao	26156	Full	8.07766	12/13/2026	National Go Center	NJ	0.52039	4/11/2026
 Li, Tianning	24431	Youth	-11.19298	6/15/2025		CA	0.59044	7/14/2019
 Li, Tianqi	31669	Full	3.69742	4/1/2026		CA	0.59321	4/19/2025
 Li, Tianyi	26060	Full		8/29/2024		NJ		
@@ -8613,7 +8616,7 @@ Lin, Mu	24422	Full	-2.79206	1/19/2021		CA	0.73494	1/19/2019
 Lin, Olivia	25707	Youth	-3.36332	4/5/2026	Twin Cities Go Club	MN	0.60454	10/18/2025
 Lin, Patrick	14771	Youth	-9.15000	1/14/2009	Feng Yun Go School	NJ	0.49000	10/1/2008
 Lin, Peter	22884	Full	-10.54425	9/5/2017	Seattle AGA Chapter	WA	0.80006	10/2/2016
-Lin, Peter	30480	Full	-10.90379	1/4/2027		NJ	0.39061	12/28/2025
+Lin, Peter	30480	Full	-10.54823	1/4/2027		NJ	0.33755	4/11/2026
 Lin, Poyu	31716	Comp	7.67492	10/19/2025			0.48006	7/13/2025
 Lin, Ray Ho	6548	Non	5.78000	5/28/1993			0.53000	9/1/1993
 Lin, Richard	13885	Full	2.22000	9/18/2006		MA	0.55000	2/1/2006
@@ -8709,7 +8712,7 @@ Liu, Alan	15755	Full	3.46000	8/31/2009		NJ	0.61000	11/1/2007
 Liu, Alex	11153	Full	-28.48000	7/13/2009	Evanston Go Club	IL	0.41000	7/1/2008
 Liu, Allen	30920	Comp	4.75409	4/17/2025		BC	0.63867	7/23/2024
 Liu, Amy	19307	Full	-19.48976	9/13/2012		IL	0.80438	9/3/2011
-Liu, Anatol	32187	Full	-1.92608	11/6/2026		NY	0.81184	11/8/2025
+Liu, Anatol	32187	Full	-1.88755	11/6/2026		NY	0.65409	4/11/2026
 Liu, Andrew	20637	Full	-4.57862	6/3/2014		MD	0.98059	5/25/2013
 Liu, Andrew	26147	Youth	-4.46411	3/25/2026	National Go Center	VA	0.36174	12/13/2025
 Liu, Andy	25617	Youth		10/1/2022		NC		
@@ -8793,8 +8796,8 @@ Liu, Kaixuan	31032	Youth	5.01881	6/4/2026		TX	0.36397	7/13/2025
 Liu, Kaiying	18910	Full	2.34859	7/10/2012	Bay Area Go Players Assoc.	CA	0.85236	7/9/2011
 Liu, Kang	7929	Full	2.89000	2/28/1999		CA	0.54000	3/1/1998
 Liu, Kelly	20462	Youth	1.84002	11/16/2016		NJ	0.35441	7/30/2016
-Liu, Kevin	17923	Full	-17.27087	3/3/2012		CA	0.76734	3/6/2010
 Liu, Kevin	16063	Youth	-20.25000	3/31/2010	Feng Yun Go School	NY	5.47000	9/1/2008
+Liu, Kevin	17923	Full	-17.27087	3/3/2012		CA	0.76734	3/6/2010
 Liu, Kevin	8919	Full	-6.96000	8/30/2007		CA	0.60000	7/1/2007
 Liu, Kevin	32157	Youth		10/27/2026	Univ. of Maryland Go Club			
 Liu, Kunjie	31609	Full		2/26/2026		WI		
@@ -9173,7 +9176,7 @@ Luo, Raphael J	31991	Full	-15.12197	8/24/2026		CA	1.27863	10/11/2025
 Luo, Raymond	23099	Youth	-9.05089	2/9/2019		MD	0.66278	9/8/2018
 Luo, Robin	17857	Youth	-1.64934	11/17/2014		CO	0.40629	11/2/2013
 Luo, Simon	19253	Full	6.48991	8/12/2011		ON	0.79203	7/30/2011
-Luo, Terry	18780	Full	1.80857	11/3/2026		OH	0.37382	3/7/2026
+Luo, Terry	18780	Full	2.04664	11/3/2026		OH	0.33297	4/11/2026
 Luo, Timothy	20466	Full	-18.63811	3/6/2014	Stony Brook University Go Club	NY	0.67463	10/12/2013
 Luo, Xian Wu	17538	Full	3.03278	11/17/2014	Boulder Kids and Teens Go Club	CO	0.31187	4/13/2013
 Luo, Yin	20923	Full	5.15011	11/15/2020	Bay Area Go Players Assoc.	KS	0.52010	2/22/2020
@@ -9217,7 +9220,7 @@ Ma, Alexis	24460	Youth	-32.11397	2/15/2020		CA	1.49397	2/16/2019
 Ma, Alice	23135	Youth	-13.21085	2/12/2018		CA	1.10606	2/4/2017
 Ma, chaohung	25862	Full	1.80369	10/20/2024		CA	0.57433	10/21/2023
 Ma, Cheng	25029	Youth	-7.73684	1/20/2021		CA	0.88294	10/26/2019
-ma, chengzhi	32413	Youth	-5.46619	3/12/2027		MO	0.87682	3/28/2026
+ma, chengzhi	32413	Youth	-7.15304	3/12/2027		MO	0.53173	4/11/2026
 Ma, Dong	8052	Full	4.52505	12/8/2026	Seattle AGA Chapter	WA	0.57522	12/9/2023
 Ma, Elan	15220	Youth	-13.18155	4/4/2024	Seattle AGA Chapter	WA	0.42565	1/3/2016
 Ma, Gordon	15360	Full	-12.55000	3/25/2008		NC	1.03000	4/1/2007
@@ -9515,7 +9518,7 @@ Mason, Joshua	9122	Full	-5.51000	1/20/2002		IL	0.88000	2/1/2001
 Mason, Rafiya	11985	Full	-21.91000	7/29/2005		VA	6.88000	8/1/2004
 Mason, Sean	11644	Full	3.25000	2/7/2006		IL	0.33000	9/1/2004
 Mason, Tommaso	18261	Full	-8.14988	7/15/2011	Springs Go Club	CO	0.68852	2/5/2011
-Mason-Cleary, Benjamin	31428	Full	-8.91176	12/28/2026		OH	0.88699	3/28/2026
+Mason-Cleary, Benjamin	31428	Full	-8.75155	12/28/2026		OH	0.92650	3/28/2026
 Massaro, Cory	10543	Non	-20.82000	5/27/2001		OH	1.07000	5/1/2001
 Massey, Jake	32169	Youth		10/30/2026		IL		
 Massey, Ryan B	485	Full	-5.35810	1/17/2027		CA	0.56847	9/19/2009
@@ -9616,7 +9619,7 @@ McCarthy, Thomas	10124	Full	-6.08605	8/1/2019	Triangle Go Group	NC	0.42509	4/22/
 McCarty, Carson	15111	Full	-22.16000	1/17/2009		CA	2.29000	2/1/2007
 McCawley, Matthew	18637	Full	-1.90154	3/29/2025	Atlanta Go Club	GA	0.41051	5/4/2024
 McClain, James	21543	Full	-8.18579	12/6/2016		CA	0.73122	12/6/2014
-McClarty, Lacy W W	25136	Full		4/15/2027		MD		
+McClarty, Lacy W W	25136	Full		4/25/2027		MD		
 McClary, Steve	9986	Full	-31.57000	6/13/2001		MI	1.25000	9/1/2000
 McClendon, Joe M	1518	Full	1.84000	9/30/2004		CA	0.35000	8/1/2003
 McClintock, Matthew	23384	Full	-8.64086	2/14/2025		CA	0.67519	7/23/2024
@@ -9650,7 +9653,7 @@ McGillivary, Craig	21690	Full	-2.78186	3/31/2022	Cincinnati Go Club	OH	0.32214	1
 Mcglohan, Eric	5552	Non	-17.10000	12/28/1979			0.00000	11/15/1992
 McGovern, Terry	3203	Full	-10.25000	12/7/2002		TX	0.69000	5/1/2002
 McGowan, Andrew	16522	Full	-3.90000	10/11/2014		LA	0.64000	5/1/2008
-McGowan, Andrew	20837	Full	-1.15595	2/15/2027	Crane's Nest Go Club	NY	0.16917	3/14/2026
+McGowan, Andrew	20837	Full	-1.11086	2/15/2027	Crane's Nest Go Club	NY	0.16600	4/11/2026
 McGranahan, Mark	23392	Non	-15.11004	7/16/2017		CA	0.93916	7/8/2017
 McGrath, Arthur	6141	Full	-5.28000	4/15/2000		NH	0.64000	6/1/1999
 Mcgregor, Matt	23679	Full	-5.85720	1/7/2019	Central Connecticut Go Club	CT	0.79302	1/7/2018
@@ -9703,7 +9706,7 @@ McNamara, Jacob	22101	Full	-2.44285	3/14/2017	Massachusetts Go Association	NJ	0.
 McNaney, Tyler	24393	Full		1/10/2022	Vermont Go Club	VT		
 McNaughton, Zachariah	22166	Full	-11.26563	10/15/2016		FL	0.81831	10/17/2015
 McNelis, Nick	12961	Full	-5.64997	6/22/2015	Tucson Go Club	CA	0.34322	12/15/2012
-McPherson, Tristram	25736	Full	-3.25472	11/9/2026	Columbus Go Club	OH	0.65469	3/28/2026
+McPherson, Tristram	25736	Full	-3.49066	11/9/2026	Columbus Go Club	OH	0.61480	3/28/2026
 McQuarters, Corey	30024	Life		11/10/2064		IL		
 McQuillen, Rachel	32459	Full		4/2/2027		CT		
 McWilliams, Bruce	7766	Full	3.34000	8/28/1996		CA	0.48000	12/1/1995
@@ -9771,13 +9774,13 @@ Men, Hao	16842	Full	-11.67000	9/28/2009		NJ	0.77000	10/1/2008
 Mendenhall, Dory	24735	Full	-21.23614	7/14/2020		PA	0.54513	7/14/2019
 Mendenhall, Robert	3129	Full	1.37000	3/13/2018			0.32000	12/1/2002
 Mendez, Carl	2279	Full	-4.35000	1/19/2027		NJ	0.59000	3/1/1998
-Mendola, Paul	25871	Full	-3.62477	3/27/2027	Columbus Go Club	OH	0.49280	3/28/2026
+Mendola, Paul	25871	Full	-3.96551	3/27/2027	Columbus Go Club	OH	0.48256	3/28/2026
 Mendonca, Jeff	6705	Full	-8.93000	4/30/1998		CA	0.52000	3/1/1995
 Mendoza, Andrew	21371	Full	-5.39510	9/18/2015	Triangle Go Group	NC	0.69729	9/20/2014
 Mendoza, Claudio	25932	Full	-14.75691	5/7/2025	Kalamazoo Go Club	MI	0.40061	11/12/2022
 Mendoza, James	20906	Full	-22.32871	11/3/2014	Seattle AGA Chapter	WA	0.91176	10/5/2014
 Mendoza, Jasper	22265	Full	-12.08723	2/4/2019		AR	0.60713	2/17/2018
-Mendoza, Patricia B	30578	Full	-23.36705	11/5/2026	Gotham Go Group	NJ	0.53702	12/13/2025
+Mendoza, Patricia B	30578	Full	-21.79630	11/5/2026	Gotham Go Group	NJ	1.08247	4/11/2026
 Menegay, James	1985	Full	3.50000	9/5/1998	Cleveland Go Club	OH	0.46000	9/1/1997
 Meng, Emil	25997	Full	-7.62814	7/10/2023	Boulder Kids and Teens Go Club	CO	0.66829	8/1/2022
 Meng, Francis	6824	Non	2.17000	12/28/1993			0.91000	3/1/2000
@@ -10311,7 +10314,7 @@ Naradzay, John F	9803	Full	-1.71000	4/17/2002	GWRM Baltimore Go Club	MD	0.79000	
 Narins, Lothar	13803	Full	-11.98000	8/20/2006		CA	0.73000	9/1/2005
 Narke, James	26108	Full		9/28/2024		NE		
 Nasir, Abizer	25064	Comp		7/23/2024				
-Nasir, Jisan	32418	Youth	-31.50591	3/13/2027		PA	2.91050	3/14/2026
+Nasir, Jisan	32418	Youth	-31.50664	3/13/2027		PA	2.54739	4/11/2026
 Nason, Franklin	31185	Youth	-8.10406	8/30/2025		CO	1.00986	9/7/2024
 Nassar, Peter N	3198	Full	-3.80000	7/8/2016	Penn Go Society	MD	0.26000	4/1/2009
 Nateharn, Olarn	9655	Full	-2.41000	9/1/2003	Triangle Go Group		0.37000	3/1/2003
@@ -10331,7 +10334,7 @@ Needleman, Blake	24920	Youth	-33.23229	11/2/2020	Syracuse Go Club	NY	2.47553	11/
 Needleman, Jonathan	14008	Full	-1.29252	11/14/2026		NY	0.84179	11/15/2025
 Neef, Greg	5513	Full	-14.22000	9/28/1994		NC	0.53000	9/1/1994
 Negishi, Akane	13527	Full	1.04000	9/18/2009	Portland Go Club	OR	0.26000	11/1/2008
-Neider, Eve	32448	Non	-25.50032	4/26/2026		VT	2.88202	3/28/2026
+Neider, Eve	32448	Non	-25.50146	4/26/2026		VT	2.88174	3/28/2026
 Neigebauer, Mike	24030	Full	1.58304	10/16/2025	West Suburban Go Meetup	IL	0.24551	11/2/2024
 Neighbors, Nathan	25349	Full		11/14/2023		TX		
 Neil, D. Richard	1817	Full	-1.34000	12/28/1982		BC	0.56000	3/1/1997
@@ -10349,7 +10352,7 @@ Nelson, Erik T	30397	Full	-12.47931	8/11/2026	Cincinnati Go Club	OH	0.61207	8/13
 Nelson, Garrett	11961	Full	-17.35000	6/22/2004		OR	1.06000	2/1/2004
 Nelson, George W	23381	Full	-11.32362	7/15/2018	National Go Center	MD	1.13721	7/15/2017
 Nelson, Heber	13911	Full	-20.63000	10/5/2006		WA	1.20000	2/1/2006
-Nelson, Iraj	30398	Youth	-9.97468	8/11/2026		OH	1.02993	3/28/2026
+Nelson, Iraj	30398	Youth	-10.03313	8/11/2026		OH	1.04068	3/28/2026
 Nelson, Jeremy	16969	Full	1.48263	6/20/2014	Portland Go Club	OR	0.49487	8/4/2013
 Nelson, Jonathan	17894	Full	-17.25921	12/15/2010	Bay Area Go Players Assoc.	CA	1.12916	12/12/2009
 Nelson, Peter	20551	Full	5.61436	4/10/2017	Seattle AGA Chapter	WA	0.23533	1/8/2017
@@ -10701,7 +10704,7 @@ Oltmann, Mason	31083	Youth	-20.31138	7/1/2025	Portland Go Club	OR	0.52823	11/16/
 Oly, James	11688	Full	-8.21000	5/29/2005		IL	0.34000	7/1/2004
 Om, Ki	2061	Non	3.17000	11/8/2001	Tacoma Go Club	WA	0.34000	3/1/2004
 Om, Kil-N	7660	Non	1.70000	12/28/1996		CO	0.62000	3/1/1999
-Omabegho, Ben C	31661	Youth	-18.65395	4/10/2027		NY	0.35524	2/7/2026
+Omabegho, Ben C	31661	Youth	-18.54527	4/10/2027		NY	0.31553	4/11/2026
 O'Malley, Conor P	30685	Full	-11.44941	1/14/2025		MA	0.83369	1/27/2024
 O'Malley, Elias	31707	Full	-2.39782	4/17/2027	Evanston Go Club	IL	0.32095	1/31/2026
 O'Malley, Robert	7647	Full	1.11760	3/5/2027	Corvallis Go Club	OR	0.47083	2/15/2025
@@ -10747,7 +10750,7 @@ Osborne, Keoni	25892	Youth	-14.55526	4/24/2025		IL	1.38069	11/12/2022
 Osgood, Ian	7049	Full	-10.31000	9/28/1996		OR	0.73000	9/1/1995
 Oshel, David C	15431	Full	-20.13000	4/5/2011		IA	1.83000	5/1/2009
 Oshima, Hisashi	13834	Non	5.10000	9/7/2005			0.50000	9/1/2005
-Oshima, Mari	24882	Full	-18.98582	10/17/2026	Brooklyn Go Club	NY	0.39367	12/13/2025
+Oshima, Mari	24882	Full	-19.13767	10/17/2026	Brooklyn Go Club	NY	0.35948	4/11/2026
 Oshin, Wayne D	31824	Full		5/22/2026		NJ		
 Oshiro, Scott	14640	Full	1.49249	10/28/2017		MD	0.65868	10/29/2016
 Osman, Eric	573	Full	-1.43348	6/3/2026	Western Mass. Go Club	MA	0.16980	1/31/2026
@@ -10855,7 +10858,7 @@ Pan, Darian	24279	Youth	-26.58852	11/11/2019	New York Go Association	NY	1.06851	
 Pan, Difei	30933	Full	7.25700	4/17/2025		WA	0.43566	12/7/2024
 Pan, George	30865	Full	-16.23415	3/29/2025		CA	0.73887	1/19/2025
 Pan, Hao	21306	Full	-1.79679	8/9/2015		NC	0.78367	8/10/2014
-Pan, Hongkai	32335	Full	-2.30007	1/29/2027		CA	0.53946	3/28/2026
+Pan, Hongkai	32335	Full	-2.17030	1/29/2027		CA	0.51612	3/28/2026
 Pan, Isabel	18516	Youth	-25.37785	11/7/2011	Boulder Kids and Teens Go Club	CO	1.46469	2/5/2011
 Pan, Jaden	26072	Youth	-5.12891	9/7/2035		IL	0.36491	7/13/2025
 Pan, James	11150	Full	-15.90000	4/19/2008	Evanston Go Club	IL	0.63000	4/1/2008
@@ -10884,7 +10887,7 @@ Pang, Leslie	12674	Full	-30.15000	5/26/2004		CA	0.80000	5/1/2004
 Pang, Winta	25859	Full	-14.68110	4/10/2023	San Francisco Go Club	CA	1.31210	4/16/2022
 Pang, Yihan ï¼ˆCrystalï¼‰	24161	Youth	-8.60599	10/16/2019	New York Go Association	NY	0.74304	8/31/2019
 Pangilinan, Brandon S	32376	Full		2/24/2027		CA		
-Panicucci, Ted	9724	Full	-6.27333	1/26/2027	Vermont Go Club	VT	0.71708	3/28/2026
+Panicucci, Ted	9724	Full	-6.27311	1/26/2027	Vermont Go Club	VT	0.71709	3/28/2026
 Pankratz, Mark	17457	Full	-5.45363	1/12/2012	Empty Sky Go Club	NY	0.56259	10/15/2011
 Pantel, Adam	23921	Full	-13.00730	5/16/2019		NY	0.74842	10/30/2018
 Pantke, Stefan	7562	Non	-19.59000	2/28/1995			1.38000	6/1/1995
@@ -10902,7 +10905,7 @@ Papke, Jeremy S	14345	Full	-5.78000	3/5/2007	Seattle AGA Chapter	WA	2.68000	5/1/
 Pappas, Justin	13186	Full	-33.99000	1/25/2008		CO	7.27000	5/1/2007
 Pappas, Lee	13179	Full	-21.25000	1/25/2008		CO	0.77000	5/1/2007
 Paquette, Dalton	17433	Full	-14.01000	4/13/2010		NH	1.81000	5/1/2009
-Paquette, Jonathan	32094	Full	-5.49349	10/4/2026		VT	0.69468	3/28/2026
+Paquette, Jonathan	32094	Full	-5.49364	10/4/2026		VT	0.69467	3/28/2026
 Paquette, Matthew	32095	Full	-27.24697	12/23/2026		VT	1.76014	1/17/2026
 Paquin, Serge	6579	Full	1.23000	10/28/1996		NY	0.58000	9/1/1994
 Paraschivescu, Andrei	22304	Full	-6.93788	1/15/2019	XYZ Private Go Group	IL	0.66913	3/5/2016
@@ -11084,7 +11087,6 @@ Pelrine, Kellin	13822	Full	6.63215	9/1/2025	Boulder Kids and Teens Go Club	CO	0.
 Pelston, Nathan	25142	Non	-6.52586	4/14/2020	Columbus Go Club	IN	0.52165	1/18/2020
 Pelter, Ken R	6912	Full	-5.03900	1/13/2011		CA	0.84133	9/18/2010
 Pemberton, Robert	6934	Non	-8.48000	3/28/1994		FL	0.55000	6/1/1994
-Pena, Pam	32481	Full		4/15/2027				
 Pendell, Velthur	13521	Full	-19.52000	11/28/2007		NY	0.66000	4/1/2007
 Pendergrast, Joseph	26250	Full	-7.08426	11/22/2023	Atlanta Go Club	GA	0.77800	9/16/2023
 Peng, Benjamin	20464	Youth	-1.12879	6/1/2025	Feng Yun Go School	NJ	0.33795	3/19/2016
@@ -11429,7 +11431,7 @@ Puttkammer, Hildegard	12072	Non	1.34523	8/20/2003			0.31843	8/4/2013
 Puzan, Daniel	18130	Full	2.54918	11/2/2025	Evanston Go Club	IL	0.38126	11/2/2024
 Pyrtle, Bryan	25311	Full	-12.91307	9/22/2023	Triangle Go Group	NC	0.72948	9/25/2021
 Qandil, Maher	18277	Full	-6.30342	7/28/2011	Evanston Go Club	IL	0.87289	7/24/2010
-Qi, Alexander	23560	Life	7.73346	9/2/2064	Feng Yun Go School	NJ	0.17148	3/7/2026
+Qi, Alexander	23560	Life	7.71734	9/2/2064	Feng Yun Go School	NJ	0.16861	4/11/2026
 Qi, Amy	30839	Youth	-9.74592	9/25/2024		NS	0.49108	7/23/2024
 Qi, Ashley	24053	Youth	-11.10716	9/19/2029	Feng Yun Go School	NJ	0.42509	5/27/2023
 Qi, Byron	17137	Youth	-19.63729	5/28/2014		NC	0.78265	5/18/2013
@@ -11437,10 +11439,10 @@ Qi, Dewei	23800	Full	-3.23093	5/20/2027	Ann Arbor Go Club	MI	0.38409	7/13/2025
 Qi, Jason	26330	Youth	-4.82839	1/19/2027		NY	0.43281	5/3/2025
 Qi, Mai	23700	Non	4.27449	12/14/2024	San Diego Go Club	CA	0.42174	11/9/2024
 Qi, Mai	30905	Non		5/10/2024		CA		
-Qi, Matthew	26349	Youth	-8.17454	1/24/2027	New York Go Association	NY	0.35183	1/10/2026
+Qi, Matthew	26349	Youth	-8.16489	1/24/2027	New York Go Association	NY	0.30408	4/11/2026
 Qi, Pan	26024	Full	-13.81750	12/30/2025	Albuquerque Go	NM	1.06277	2/18/2023
 Qi, Ran	31809	Youth	1.58176	5/16/2026		ON	0.53940	5/24/2025
-Qi, Robert	23795	Full	-5.59804	3/16/2027	New York Go Association	NJ	0.16724	3/7/2026
+Qi, Robert	23795	Full	-5.67464	3/16/2027	New York Go Association	NJ	0.16388	4/11/2026
 Qi, Rong	30576	Non	5.83451	12/5/2023		NJ	0.56320	11/11/2023
 Qi, Shiyang	26124	Full	5.21238	10/27/2026	Gotham Go Group	IL	0.50972	1/31/2026
 Qi, Wilson	30066	Youth	-7.87900	3/25/2027		NY	0.34084	2/7/2026
@@ -11459,8 +11461,8 @@ Qian, Jiangchao	25917	Full		5/1/2023		IL
 Qian, Liangyue	20558	Non	4.62531	4/12/2013		FL	0.58390	4/13/2013
 Qian, Mingrui	26200	Non	1.40266	4/21/2023	Columbus Go Club	OH	0.56535	11/4/2023
 Qian, Qing Xiong	7874	Full	3.58000	12/30/2002		NY	0.40000	1/1/2002
-Qian, Xinyi	25709	Full	5.19433	2/2/2027		NY	0.26868	7/13/2025
-Qian, Yingzhi	20320	Full	5.11566	7/12/2026	Gotham Go Group	NY	0.16012	12/13/2025
+Qian, Xinyi	25709	Full	5.27538	2/2/2027		NY	0.27519	4/11/2026
+Qian, Yingzhi	20320	Full	5.07880	7/12/2026	Gotham Go Group	NY	0.16823	4/11/2026
 Qian, Zhiqing	30604	Non	-9.27057	4/5/2026		NY	0.49914	3/7/2026
 Qiang, Hao Ke	8719	Non	3.93000	7/21/1997		VA	0.76000	6/1/1997
 Qiao, Angela	20203	Youth	-21.83898	10/10/2013		CA	1.88177	1/5/2013
@@ -11536,7 +11538,7 @@ Rabinovich, Sol	22413	Youth	-18.20780	3/6/2017	Seattle AGA Chapter	WA	1.40757	3/
 Rabinowitz, Larry	861	Full	-2.90359	10/7/2010	Portland Go Club	OR	0.36801	5/8/2010
 Radik, Caleb	32163	Youth		10/27/2026	Univ. of Maryland Go Club			
 Rado, Daniel	12960	Full	-10.78000	10/2/2005	Santa Monica Go Club	CA	0.76000	10/1/2004
-Radocchia, Eben S	32445	Youth	-20.13142	3/25/2027		VT	1.07950	3/28/2026
+Radocchia, Eben S	32445	Youth	-20.13127	3/25/2027		VT	1.07951	3/28/2026
 Radoi, Horia	20480	Full	-25.49999	3/6/2014		NJ	2.96160	3/2/2013
 Radulescu, Horatiu	26037	Youth	-6.39826	8/15/2023	San Francisco Go Club	CA	0.80453	8/20/2022
 Rae, Ryan Tyler	21453	Life	-10.22081	9/1/2064	Seattle AGA Chapter	WA	0.62705	12/7/2014
@@ -11562,7 +11564,7 @@ Ramm, Carl	23176	Full		3/7/2024		AK
 Ramos, Isaac	22631	Full	-24.84385	5/9/2017		NY	1.94090	5/1/2016
 Ramos, Jessica	15763	Full	-19.96305	10/8/2010		CO	0.75953	6/12/2010
 Ramos, Josh	31452	Full	-2.01995	2/24/2027	Gotham Go Group	NY	0.57474	2/28/2026
-Ramos, Michael	32484	Full		4/15/2027				
+Ramos, Michael	32484	Full		4/14/2027		TX		
 Rampel, Mark	617	Full	4.30000	8/28/1994		CA	0.00000	11/15/1992
 Ramsay, Karl	1524	Non	3.91000	4/6/2000	San Francisco Go Club	CA	0.55000	3/1/2000
 Ramsumair, Chris	21917	Full	-7.30663	7/29/2016		MN	0.68186	8/2/2015
@@ -11832,7 +11834,7 @@ Robertson, Kat	20643	Full		8/24/2023		TX
 Robertson, Michael	31936	Full		7/20/2026		TN		
 Robie, John	24088	Full	-21.44856	9/9/2019		VA	1.02511	9/8/2018
 Robinson, Allen A	30342	Full		7/8/2024		ON		
-Robinson, Austin	15343	Life	-1.59079	9/1/2064	Gotham Go Group	SD	0.15015	3/14/2026
+Robinson, Austin	15343	Life	-1.59671	9/1/2064	Gotham Go Group	SD	0.14664	4/11/2026
 Robinson, Christopher	16936	Full	-21.97000	11/2/2009	Empty Sky Go Club	IL	2.34000	11/1/2008
 Robinson, Colin	15158	Full	-19.03000	1/24/2008		HI	2.40000	5/1/2007
 Robinson, Curtis	15103	Non	-9.09000	1/15/2007			0.78000	5/1/2007
@@ -11919,7 +11921,7 @@ roosen, tanguy	31393	Full		11/30/2025
 Root, Aric	26240	Full		11/15/2023		PA		
 Root, David	7248	Non	-20.83000	5/28/1994			1.93000	6/1/1994
 Root, Peter	12738	Full	-25.75000	6/8/2005		CA	0.76000	9/1/2004
-Root, Zachary	32449	Youth	-7.25112	3/26/2027		PA	0.77321	3/28/2026
+Root, Zachary	32449	Youth	-7.29698	3/26/2027		PA	0.80574	3/28/2026
 Rosdeitcher, David	11216	Non	1.64000	1/26/2006			0.74000	2/1/2006
 Rose, Bradley	24040	Full	-6.81322	6/6/2026	Peoria & Normal Go Club	IL	0.31227	7/12/2023
 Rose, Dakota	15107	Non	-31.96000	1/15/2007			3.20000	2/1/2007
@@ -12345,7 +12347,7 @@ Schulzgen, Axel	9915	Full	-7.91000	4/12/2001	Tucson Go Club	AZ	0.58000	6/1/2000
 Schum, Joshua	18224	Full	-29.79859	6/16/2011		CO	3.06659	6/12/2010
 Schumacher, Brett	31124	Full	-8.52527	7/26/2025		CA	1.32422	11/17/2024
 Schumacher, Lee	2900	Life	1.41941	9/1/2064	San Francisco Go Club	CA	0.22599	2/1/2026
-Schumer, Peter	3105	Life	-3.62404	9/1/2064	Vermont Go Club	VT	0.16648	3/28/2026
+Schumer, Peter	3105	Life	-3.62402	9/1/2064	Vermont Go Club	VT	0.16649	3/28/2026
 Schumm, Thomas	17522	Full	-6.13124	5/28/2015		FL	0.72658	6/6/2009
 Schurter, Joshua	18682	Youth	-31.52718	2/28/2012		NJ	2.57617	2/26/2011
 Schurter, Terri K	8	Life	-9.60432	9/25/2064	Wings Across Calm Water	NJ	0.35986	7/23/2024
@@ -12611,11 +12613,11 @@ Shi, Bingzhi	25328	Full	1.54673	1/8/2026	Mason Go Club	OH	0.68431	8/26/2023
 Shi, Brian	15127	Full	-1.11000	8/3/2008		CA	0.65000	2/1/2008
 Shi, Chunwei	26107	Youth	4.11249	11/27/2025	San Diego Go Club	CA	0.31288	7/23/2024
 Shi, Cindy	20528	Youth	-22.63010	4/3/2014			1.82905	2/16/2013
-Shi, Claire	30946	Youth	-21.46051	4/25/2026	Mason Go Club	OH	0.56498	7/13/2025
+Shi, Claire	30946	Youth	-21.46063	4/25/2026	Mason Go Club	OH	0.57911	3/28/2026
 Shi, David	25686	Full		12/23/2022		AL		
 Shi, Dean	16107	Full	-5.90000	4/13/2012		CA	0.50000	2/1/2008
 Shi, ERIC M	31981	Youth		8/16/2026		OH		
-Shi, Ethan	30040	Youth	-6.40563	3/27/2027	Mason Go Club	OH	0.61924	3/28/2026
+Shi, Ethan	30040	Youth	-6.36970	3/27/2027	Mason Go Club	OH	0.62734	3/28/2026
 Shi, Ethan	26249	Youth		11/22/2023		NJ		
 Shi, Evan	26140	Youth	-5.00955	11/23/2025		CA	0.28608	1/19/2025
 Shi, Fuqian	20492	Full	1.91691	12/13/2026	Princeton Go Club	NJ	0.52242	5/3/2025
@@ -12863,7 +12865,7 @@ siu, hoi yan	31086	Full		7/5/2025		CA
 Sivaprakash, Sathyadev	32475	Youth		4/9/2027		TX		
 Sivitz, Axis	32299	Full	-2.14943	1/17/2027		MA	0.62235	1/31/2026
 Siyu, Li	23258	Youth	5.07474	6/8/2028		NV	0.44085	7/17/2019
-Sizek, Philip	30945	Full	-2.75513	4/14/2027	Dayton Go Club	OH	0.30409	8/13/2025
+Sizek, Philip	30945	Non	-2.75635	5/13/2026	Dayton Go Club	OH	0.31048	3/28/2026
 Skalak, Michael	15787	Full		9/18/2008		IL		
 Skallan, Ole David	4434	Full	-7.39269	8/12/2011		CO	0.70020	8/1/2010
 Skeate, Jonathan	15256	Full		5/20/2024		VA		
@@ -12887,7 +12889,7 @@ Slabbert, Byron	24130	Full	-3.84181	9/29/2020	San Diego Go Club	CA	0.86544	9/30/
 Slater, Charles	10475	Full	-5.08000	4/11/2012	SiliValley Go Club	CA	0.39000	10/1/2008
 Slater, Tommy	10473	Full	4.28000	4/27/2006	SiliValley Go Club	CA	0.58000	10/1/2005
 Slatton, Bill	25520	Full		6/29/2022	Atlanta Go Club	GA		
-Slaughter, Nick David	20056	Non	-16.98812	4/26/2026	Columbus Go Club	OH	0.78734	3/28/2026
+Slaughter, Nick David	20056	Non	-16.61918	4/26/2026	Columbus Go Club	OH	0.68386	3/28/2026
 Slavin, Sean	3839	Full	2.68000	3/28/1997	Dallas Go Club	TX	0.34000	6/1/1996
 Slider, Nathan	15373	Full	-13.65319	3/28/2012		FL	0.68279	6/6/2009
 Sloan, Phil	10827	Non	-28.47000	12/30/2001		NY	0.78000	1/1/2002
@@ -13132,7 +13134,7 @@ Spencer, David	22923	Full	-16.46942	9/26/2017	Triangle Go Group	NC	0.76974	9/25/
 Spencer, Holden	21663	Full		7/16/2026	Springs Go Club	CO		
 Spencer, Joseph	15372	Full	-5.31000	3/28/2010	Seattle AGA Chapter	WA	0.33000	2/1/2009
 Spencer, Tom	3630	Non	-3.49498	10/27/2022		CO	3.20950	10/1/2022
-Spennicchia, Joseph G	30755	Full	-7.73740	3/1/2027		IA	0.58841	1/31/2026
+Spennicchia, Joseph G	30755	Full	-7.73740	3/1/2027		VA	0.58841	1/31/2026
 Speno, Andrew	25196	Full	-11.20466	7/14/2026	Cincinnati Go Club	OH	0.40993	8/13/2025
 Spevakov, Eugene	5240	Full	1.90000	6/28/1994	Davis/Sacramento Go Club	CA	0.54000	9/1/1994
 Spiers, Graham	23485	Full	-5.78163	4/6/2026	Gotham Go Group	NY	0.35172	11/8/2025
@@ -13335,7 +13337,7 @@ Stringfellow, Matthew	14687	Full	-32.20000	8/22/2007		MA	1.11000	9/1/2006
 Stringfellow, Sara	10139	Full	-30.62000	8/18/2001	Seattle AGA Chapter	WA	0.62000	9/1/2000
 Stringfellow, Steve C	2894	Full	4.21032	1/21/2067	Tacoma Go Club	WA	0.26182	11/22/2025
 Strode, Jeff	14720	Full	-22.79000	9/9/2007	Tacoma Go Club	WA	2.88000	10/1/2006
-Strohm, Jed	15300	Life	-6.04040	9/1/2064	Cleveland Go Club	NY	0.42458	3/28/2026
+Strohm, Jed	15300	Life	-5.77496	9/1/2064	Cleveland Go Club	NY	0.41822	3/28/2026
 Strohmann, Thomas	13239	Full	-6.01000	1/30/2007		CO	0.57000	2/1/2006
 Stromberg, Dan	9312	Full	-4.04000	8/30/2005		CA	0.44000	6/1/2003
 Strommen, Alexander	17844	Full	-10.22029	10/25/2017		CT	0.75802	10/17/2009
@@ -13447,7 +13449,7 @@ Sun, Hao	23114	Full	6.86890	2/1/2019	Evanston Go Club	IL	0.55299	7/14/2019
 Sun, Haorui	30924	Youth	-19.71830	4/15/2025		MI	1.08883	4/27/2024
 Sun, Harrison	25392	Youth	7.65554	1/18/2026	Davis/Sacramento Go Club	CA	0.51693	7/31/2022
 Sun, Hongyu	30408	Full	7.26207	9/28/2025		NY	0.31594	2/15/2025
-Sun, Huachen	32126	Full	4.08815	10/17/2026	Evanston Go Club	OH	0.49642	3/28/2026
+Sun, Huachen	32126	Full	4.30935	10/17/2026	Evanston Go Club	OH	0.45745	3/28/2026
 Sun, James Chih-Rong	25358	Youth		11/23/2022		BC		
 Sun, Jerry	24351	Youth	-22.79088	7/27/2021	Orange County Go Club	CA	0.49869	11/16/2019
 Sun, Jim	23120	Full	1.74951	2/4/2018		IL	0.44638	9/9/2017
@@ -13487,7 +13489,7 @@ Sun, Xingke	25878	Youth	7.26896	10/22/2025	Madison Go Club	WI	0.31796	11/2/2024
 Sun, Yanchen	15982	Full	-8.56398	6/19/2015	Orange County Go Club	CA	0.35616	10/26/2014
 Sun, Yanqing	20573	Full	3.40065	9/9/2018	Twin Cities Go Club	MN	0.19283	6/23/2018
 Sun, Ye	23990	Comp	4.55152	1/1/2023			0.50503	8/1/2022
-Sun, Ye	30516	Youth	6.31335	10/22/2026		WI	0.34766	11/8/2025
+Sun, Ye	30516	Youth	6.13008	10/22/2026		WI	0.31606	4/11/2026
 Sun, Yi Guo	6466	Non	8.98000	5/28/1993			0.68000	9/1/1993
 Sun, YIHANG	21992	Youth	6.31709	8/24/2025		NY	0.55596	8/2/2015
 Sun, Yingjie	12575	Non	-1.34000	3/31/2004		IL	0.72000	4/1/2004
@@ -13768,7 +13770,7 @@ Tao, Maisie	31935	Youth	-3.41684	7/20/2026	Massachusetts Go Association	MA	0.616
 Tao, Qingan	11708	Non	3.24000	3/11/2003	Princeton Go Club	NJ	0.65000	4/1/2003
 Tao, Robert	23899	Youth	-14.32604	6/18/2020		MA	1.92011	6/22/2019
 Tao, Ryan	31018	Youth	-14.02318	8/19/2026		MA	1.59924	5/26/2025
-Tao, Shuaiheng	24336	Youth	7.13679	3/31/2027		NY	0.25257	1/17/2026
+Tao, Shuaiheng	24336	Youth	7.05366	3/31/2027		NY	0.23902	4/11/2026
 Tao, Siyi	23310	Full	4.26748	8/4/2023		NJ	0.66897	5/7/2017
 Tao, Yueh-Ming	9110	Full	-6.75000	5/26/1999		MD	0.56000	6/1/1998
 Tao, Zhuoang	31724	Youth	-1.36511	4/21/2026		IL	0.64699	5/24/2025
@@ -13826,7 +13828,7 @@ Teng, Hse Kuang	5969	Full	-6.82000	12/9/2001	Houston Go Club	TX	0.38000	5/1/2001
 Teng, Hwa-Hsien	7498	Full	3.02000	6/28/2008	SiliValley Go Club	CA	0.57000	7/1/2006
 Teng, Jeremy	21785	Youth	-2.72313	3/24/2016		CA	0.69184	2/28/2015
 Teng, Jerry	6698	Full	6.23000	10/28/1994		CA	0.58000	3/1/1995
-Teng, Justin	16597	Life	6.21626	9/29/2064	Univ. of Maryland Go Club	MD	0.16182	2/28/2026
+Teng, Justin	16597	Life	6.14153	9/29/2064	Univ. of Maryland Go Club	MD	0.15743	4/11/2026
 Teng, Richard	20429	Full	-21.42220	2/13/2014		MD	1.30447	2/16/2013
 Teng, Yu Jen	14233	Full	3.86000	2/4/2009		NY	0.49000	11/1/2008
 Tenny, Ian	15423	Full	-20.39000	4/18/2010	Boulder Kids and Teens Go Club	CO	0.93000	5/1/2007
@@ -13881,7 +13883,7 @@ Thomas, Michael W	3639	Full	-2.05740	3/20/2027	Seattle AGA Chapter	WA	0.27966	12
 Thomas, Paul	11950	Non	-17.18000	6/22/2003			1.00000	6/1/2003
 Thomas, Sean	25511	Full		6/23/2022		MN		
 Thomas, Zoey	31251	Non	-13.39994	10/22/2024		MN	0.73222	9/28/2024
-Thomason, Jason	24631	Full	3.91543	9/4/2025	Danger Monkey Go Club	CO	0.61771	6/28/2025
+Thomason, Jason	24631	Full	3.91543	4/16/2027	Danger Monkey Go Club	CO	0.61771	6/28/2025
 Thompson, Andre	18501	Full	-23.01367	11/16/2011		UT	0.78302	4/15/2011
 Thompson, Avery	19803	Full	-4.73507	9/30/2019	Empty Sky Go Club	NY	0.48638	9/30/2017
 Thompson, Barrett M	32123	Full	-20.50279	10/16/2026	Atlanta Go Club	GA	2.47189	10/19/2025
@@ -14182,7 +14184,7 @@ Tyler, Jonathan	21939	Full		2/21/2023		TN
 Tyson, Terry	12926	Non	-3.39000	1/16/2006		CA	0.77000	2/1/2006
 Tzeng, Yi-Ren	10494	Full	-1.70000	4/15/2002		MD	0.63000	4/1/2001
 Ucciferri, Antimo	30882	Full	-10.03824	4/4/2026	Brooklyn Go Club	NY	0.62565	3/29/2025
-Uch, Paris Y	22885	Full	-7.45387	4/10/2026	Austin Go Club	TX	0.31821	2/14/2026
+Uch, Paris Y	22885	Full	-7.45387	4/16/2027	Austin Go Club	TX	0.31821	2/14/2026
 Uchiama, Nariaki	9008	Non	2.53000	2/19/1998			0.57000	9/1/1998
 Uckele, John	18778	Life	-5.32011	9/1/2064		MA	0.56009	7/22/2018
 Udell, Anthony	8031	Non	-9.78000	3/24/1998		FL	0.51000	6/1/1998
@@ -14509,19 +14511,19 @@ Wang, Anna	8850	Full	-4.53000	2/23/2003	Houston Go Club	TX	0.37000	9/1/2003
 Wang, Anzhou	25627	Full	1.33130	10/13/2022	Boulder Kids and Teens Go Club	CO	0.80295	10/23/2021
 Wang, Arlon	31176	Youth	-17.19839	8/28/2026		NY	0.32228	9/13/2025
 WANG, ARTHUR	31635	Youth		3/18/2027	Mason Go Club	OH		
-Wang, Arthur	23843	Youth	-1.82968	5/23/2026	National Go Center	MD	0.65376	2/28/2026
+Wang, Arthur	23843	Youth	-1.80804	5/23/2026	National Go Center	MD	0.44509	4/11/2026
 Wang, Audrey	19390	Life	3.42772	9/1/2064	Womxn's Online Go Club	MA	0.36861	11/15/2025
 Wang, August	22552	Non	-30.06486	4/16/2016			0.97914	3/5/2016
 Wang, Baishi	12494	Full	1.23626	7/3/2023	Princeton Go Club	NJ	2.26907	4/1/2023
 Wang, Benjamin	25192	Youth		7/13/2021		VA		
 Wang, Benjamin	15942	Full	-15.01000	11/8/2009		MD	0.78000	3/1/2008
 Wang, Benjamin	8342	Full	4.69000	12/28/1997		CA	0.54000	6/1/1997
-Wang, Binhao	30542	Full	6.20827	10/28/2024	Evanston Go Club	IL	0.65666	11/4/2023
+Wang, Binhao	30542	Full	6.20827	4/16/2027	Evanston Go Club	IL	0.65666	11/4/2023
 Wang, BinQuan	18199	Full	5.76873	8/13/2014	Capital Go Club	MD	0.52031	10/29/2011
 Wang, Binsheng	7754	Full	5.45000	8/28/1996		TX	0.82000	9/1/1995
-Wang, Boris	32446	Youth	-22.73944	3/26/2027		OH	2.12846	3/28/2026
+Wang, Boris	32446	Youth	-22.64266	3/26/2027		OH	2.14596	3/28/2026
 Wang, Bruce	4252	Non	1.51683	3/12/2026		NY	0.59326	2/1/2026
-Wang, Byron	31504	Youth	4.56281	2/5/2027			0.40141	2/20/2026
+Wang, Byron	31504	Youth	4.00452	2/5/2027			0.33915	4/11/2026
 Wang, Cathleen	8315	Non	-17.26000	11/28/1996		TX	2.62000	12/1/1996
 Wang, Chang-Ding	18621	Full	3.29726	2/13/2012	Atlanta Go Club	GA	0.71050	2/5/2011
 Wang, Changtian	19371	Full	5.78397	10/15/2013		NY	0.61501	4/20/2013
@@ -14638,7 +14640,7 @@ Wang, Jun	8036	Full	5.08360	11/24/2026		NJ	1.20235	10/18/2025
 Wang, Justin	7335	Full	5.49000	1/9/2009	San Francisco Go Club	CA	0.53000	2/1/2008
 Wang, Justin	23739	Youth	-28.26369	2/21/2020		MD	0.75643	2/15/2019
 Wang, Justin	15886	Non	-17.27000	10/21/2007			0.99000	11/1/2007
-Wang, Juxian	31022	Full	-3.06606	5/27/2026		NJ	0.35619	3/7/2026
+Wang, Juxian	31022	Full	-3.06098	5/27/2026		NJ	0.32151	4/11/2026
 Wang, Kai Kuk	31172	Youth	-31.26375	8/24/2025		CA	2.98110	9/8/2024
 Wang, Keran	32333	Non	1.50159	2/27/2026		CA	0.61784	2/1/2026
 Wang, Kevin	12161	Non	-5.46000	2/6/2006		NY	0.87000	2/1/2006
@@ -14749,7 +14751,7 @@ Wang, Tian	32367	Comp		8/19/2026		TOK
 Wang, Tiannuo	30993	Comp		11/25/2026		AH		
 Wang, Tianxing	26137	Full	3.32681	10/14/2023	Houston Go Club	TX	0.63698	11/6/2022
 Wang, Tianyi	23317	Youth	-12.55323	5/13/2018		WA	0.78217	5/7/2017
-Wang, Tiffany	30483	Youth	-13.35342	10/9/2026		NY	0.58060	1/10/2026
+Wang, Tiffany	30483	Youth	-12.78753	10/9/2026		NY	0.45316	4/11/2026
 Wang, Tiger	23201	Youth	-33.53475	3/9/2017			1.06954	1/21/2017
 Wang, Tiruo	31341	Youth		11/6/2025		CA		
 Wang, Tongyu	22854	Comp	6.85339	1/1/2023			0.44029	7/31/2016
@@ -14775,7 +14777,7 @@ Wang, Xiaotiao	22881	Youth	-15.69586	7/25/2023	Orange County Go Club	CA	0.48027	
 Wang, Xiaoxian	22534	Full	-1.37620	4/11/2021	Iowa Go Society	WA	0.50353	6/2/2018
 Wang, Xiaoyu	21444	Full	3.30486	7/15/2026	Gotham Go Group	NJ	0.21506	9/13/2025
 Wang, Xieheng	32118	Non	-2.39590	11/14/2025		MN	0.64227	10/18/2025
-Wang, Xilin	31500	Youth	-4.63833	1/18/2027	New York Go Association	NY	0.31089	3/7/2026
+Wang, Xilin	31500	Youth	-4.50148	1/18/2027	New York Go Association	NY	0.28667	4/11/2026
 Wang, Xinpeng	9541	Non	3.00000	5/16/1999			1.03000	6/1/1999
 Wang, Xinyu	24731	Full	2.10793	7/13/2020		IL	0.51844	7/17/2019
 Wang, Xiquan	13330	Non	1.01060	3/8/2010	Princeton Go Club	PA	0.99896	4/28/2018
@@ -14815,7 +14817,7 @@ Wang, YueQi	30404	Full	-14.96561	8/25/2024		NC	0.40275	7/23/2024
 Wang, Yujie	30283	Youth		5/28/2026		TN		
 Wang, Yulun	24271	Non	-1.44987	11/9/2018		IL	0.86689	11/10/2018
 Wang, Yutong	22554	Non	3.02454	4/16/2016			0.53870	3/3/2018
-Wang, Yuxiao	26051	Youth	5.55650	8/22/2026		NY	0.18552	3/7/2026
+Wang, Yuxiao	26051	Youth	5.60634	8/22/2026		NY	0.17933	4/11/2026
 Wang, Yuxuan	21041	Youth	1.37676	2/6/2015		CA	0.65940	1/18/2014
 Wang, Ze	26298	Non	-9.65680	1/2/2023		MA	0.77768	1/7/2023
 Wang, Zengquan	8579	Full	-1.87000	5/31/1998		MI	0.68000	6/1/1997
@@ -14995,7 +14997,7 @@ Weirich, Frank	32031	Full		9/7/2026	Twin Cities Go Club	MN
 Weisbaum, Harry	5580	Non	-1.62000	12/28/1979			0.44000	9/1/1993
 Weisbecker, Joyce	5849	Full	-17.54000	8/28/2026		NJ	0.62000	9/1/1997
 Weiss, David	3637	Full	2.25388	12/31/2010	Boulder Kids and Teens Go Club	CO	0.28200	8/1/2010
-Weiss, Eric	18894	Full	-19.37089	4/10/2027		NJ	0.40570	11/8/2025
+Weiss, Eric	18894	Full	-19.41577	4/10/2027		NJ	0.39436	4/11/2026
 Weiss, Sam	26365	Full	-2.11178	4/30/2025	New Haven Go Club	CT	0.49630	4/1/2023
 Weissman, Martin	19454	Full	-11.33517	12/7/2012	Bay Area Go Players Assoc.	CA	0.78976	12/10/2011
 Weissner, Stefan	25241	Full		7/23/2022	Twin Cities Go Club	MN		
@@ -15053,7 +15055,7 @@ Wesley, Arthur Thomas Godfre	22883	Full	-16.06536	9/5/2017	Seattle AGA Chapter	W
 Wesley, Glenn	6340	Full	-15.42000	3/28/1994		PA	0.61000	9/1/1993
 Wesp, Patrick	19391	Non	-5.98909	12/13/2025		NY	0.47269	11/15/2025
 Wesson, Kyle	14600	Full	-17.36000	6/26/2007		VT	0.79000	8/1/2006
-West, Dylan	32180	Full	-15.03319	11/4/2026		NY	0.57323	1/31/2026
+West, Dylan	32180	Full	-15.43262	11/4/2026		NY	0.41531	4/11/2026
 Wester, Connor	22343	Youth	-21.02750	2/12/2017		TX	0.98008	2/13/2016
 Westergaard, Kirk	4864	Full	-1.13000	10/28/1995		BC	0.69000	6/1/1997
 Westerman, Lloyd	2982	Full	-1.18000	3/13/2025		NY	0.55000	2/1/2006
@@ -15157,7 +15159,7 @@ Wilder, Evelyn L	32047	Full	-30.05559	9/19/2026		MA	1.14018	1/31/2026
 Wilebski, Quentin	25181	Full		7/6/2021		OR		
 Wiley, Micah	17599	Full	-8.63791	6/29/2010			0.78836	2/20/2010
 Wiley, Scott	14205	Full	-22.75000	5/27/2026		IA	0.44000	1/1/2007
-Wiljanen, Luke	30654	Full	-2.35191	12/25/2026	Columbus Go Club	MI	0.44133	3/28/2026
+Wiljanen, Luke	30654	Full	-2.35931	12/25/2026	Columbus Go Club	MI	0.44613	3/28/2026
 Wilkie, Clayton C	7076	Full	-1.15186	5/31/2021		NY	0.46633	5/4/2013
 Wilkins, Don	14481	Full	1.07845	10/10/2010	Seattle AGA Chapter	WA	0.33815	12/6/2009
 Wilkinson, Doug	24031	Full	-8.72488	8/5/2019		VA	0.59912	7/22/2018
@@ -15319,13 +15321,13 @@ Wong, Clement	19958	Full	-3.15729	11/2/2014		TX	0.47517	10/26/2014
 Wong, David	966	Full	2.69000	3/29/2008		VA	0.37000	11/1/2007
 Wong, Ethan	23051	Youth	-2.23629	3/16/2033		CA	0.38097	4/15/2023
 Wong, Gary	18384	Full	-10.59675	11/16/2011		CA	0.68267	9/18/2010
-Wong, Howard	14893	Full	1.28586	7/18/2028	Gotham Go Group	NY	0.14581	3/14/2026
+Wong, Howard	14893	Full	1.30014	7/18/2028	Gotham Go Group	NY	0.14205	4/11/2026
 Wong, Howard	24575	Full	1.48469	7/18/2028		NY	0.59480	5/7/2022
 Wong, Isaac	5299	Non	-1.93000	1/23/2005		CA	0.44000	2/1/2005
 Wong, James	1859	Full	6.78000	2/3/2007		NY	0.54000	2/1/2006
 Wong, Jason	13576	Non	-40.25000	5/14/2005			2.77000	5/1/2005
 Wong, Jeffrey	13949	Non	-29.13000	10/28/2005		NY	1.14000	11/1/2005
-Wong, Jeremy	24143	Youth	-7.78744	10/7/2026	New York Go Association	NY	0.28420	7/13/2025
+Wong, Jeremy	24143	Youth	-7.51445	10/7/2026	New York Go Association	NY	0.27842	4/11/2026
 Wong, Joe	14937	Full	-29.01000	12/8/2007		NY	2.30000	1/1/2007
 Wong, Jordan	10947	Full	-39.41000	3/4/2003		TX	2.98000	5/1/2002
 Wong, Joshua	23852	Youth	-3.56247	4/16/2026	New York Go Association	NY	0.35165	12/28/2025
@@ -15348,7 +15350,7 @@ Wong, Valerie	23761	Full	-17.81675	2/20/2022	Davis/Sacramento Go Club	CA	0.58160
 Wong, Vanessa	21046	Full	6.72629	5/5/2019			0.46642	4/7/2018
 Wong, Vincent	4829	Non	4.89000	6/22/2009	SiliValley Go Club	CA	0.78000	6/1/1997
 Wong, Vitalis	25119	Full	-14.59230	3/1/2021	Seattle AGA Chapter	WA	1.59468	3/1/2020
-Wong, Yat Chun	31722	Youth	-3.76762	4/20/2026		MD	0.69968	5/24/2025
+Wong, Yat Chun	31722	Youth	-3.76762	4/20/2027		MD	0.69968	5/24/2025
 Woo, Chol	7672	Full	1.47000	9/28/1997		MD	0.59000	6/1/1998
 Woo, Ethan	23892	Youth		5/1/2034		MA		
 Woo, Yang Sae	8164	Non	2.46000	7/28/1996			0.69000	9/1/1996
@@ -15464,17 +15466,17 @@ Wu, Kevin	16803	Full	1.74894	3/7/2017	Salt Lake Go Club	UT	0.31851	3/19/2016
 Wu, Kevin	16675	Comp	-12.50472	1/1/2023		ON	0.34741	8/10/2014
 Wu, Kuang-Yuh	3357	Full	4.85000	11/28/1995	Dallas Go Club	TX	0.65000	6/1/1994
 Wu, Kyle	14566	Non	-32.32000	6/10/2006			3.10000	6/1/2006
-Wu, Laura	18524	Full	-4.95267	5/24/2026	Gotham Go Group	NY	0.23069	2/28/2026
+Wu, Laura	18524	Full	-4.95013	5/24/2026	Gotham Go Group	NY	0.21839	4/11/2026
 Wu, Lillian	23710	Youth	-7.13908	9/6/2021	New York Go Association	NY	0.87418	10/12/2019
 Wu, Lirui	21350	Comp	7.44647	1/1/2023			0.48605	8/10/2014
-Wu, Max	26396	Youth	-16.84906	3/27/2027	Mason Go Club	OH	0.72073	3/28/2026
+Wu, Max	26396	Youth	-16.84812	3/27/2027	Mason Go Club	OH	0.68827	3/28/2026
 Wu, Mercedes	20477	Full	-4.32152	3/9/2016		NJ	0.84444	2/28/2015
 Wu, Michael	31683	Full	-1.81879	4/9/2027	West Suburban Go Meetup	IL	0.76513	5/24/2025
 Wu, Michael	15191	Full	-5.42087	3/1/2013	Feng Yun Go School	NJ	0.53326	2/25/2012
 Wu, Ming Teh	11057	Non	4.08995	3/22/2012	Orange County Go Club	CA	0.26089	4/28/2012
 Wu, Moke	25597	Youth		8/29/2022		CA		
 Wu, Nicole	22201	Youth	2.97212	10/25/2016		CA	0.59054	10/24/2015
-Wu, Noah	26397	Youth	-16.51067	3/27/2027	Mason Go Club	OH	0.89646	3/28/2026
+Wu, Noah	26397	Youth	-16.91280	3/27/2027	Mason Go Club	OH	0.71571	3/28/2026
 Wu, Peng	12994	Full	4.10000	1/14/2009		CA	0.36000	10/1/2008
 Wu, Peter	25516	Non		6/30/2021		BC		
 Wu, Qiong Maggie	22988	Youth	-20.59291	11/10/2017	Syracuse Go Club	NY	1.07932	11/12/2016
@@ -15554,7 +15556,7 @@ Xia, Andy	15317	Youth	-23.56000	3/14/2008	Feng Yun Go School	NJ	0.43000	11/1/200
 Xia, Calvin	20157	Youth	-10.43128	9/12/2014		CA	0.36450	10/5/2013
 Xia, Daniel	12213	Full	-3.89000	11/2/2010	Feng Yun Go School	NJ	0.36000	6/1/2008
 Xia, Daniel	13738	Full	-21.74000	10/5/2008	Feng Yun Go School	NJ	0.71000	3/1/2008
-Xia, Eric	32000	Youth	-17.66908	8/25/2026		NY	0.77479	9/13/2025
+Xia, Eric	32000	Youth	-17.13849	8/25/2026		NY	0.55256	4/11/2026
 Xia, Felix	32014	Youth	-10.58348	9/4/2026		CA	1.06804	10/11/2025
 Xia, Jake	32013	Full	1.04983	9/4/2026		CA	0.54383	2/1/2026
 Xia, Maojie	20602	Full	7.65316	5/10/2015		MT	0.48468	8/4/2013
@@ -15607,11 +15609,11 @@ xie, boyuan	30150	Full	4.59703	4/14/2024	Evanston Go Club	WI	0.59297	5/27/2023
 Xie, boyuan	25607	Full	4.11247	9/15/2022	Seattle AGA Chapter	WA	0.52209	7/14/2019
 Xie, Bryan	30699	Youth	-5.67201	1/22/2027		CA	0.49529	1/17/2026
 Xie, Calvin	18144	Non	-22.67652	4/27/2010		MA	1.83711	4/15/2010
-Xie, Chao	15594	Full	6.85317	4/15/2027	San Francisco Go Club	CA	0.18731	2/1/2026
+Xie, Chao	15594	Full	6.85317	4/14/2027	San Francisco Go Club	CA	0.18731	2/1/2026
 Xie, Chentong	32384	Youth	4.03260	2/27/2027		VA	0.58499	2/28/2026
 Xie, Christopher	16074	Full	-28.14000	12/19/2008	Feng Yun Go School	NJ	2.50000	1/1/2008
 Xie, Derek	12681	Full	-29.57000	9/22/2005	Charlotte Go Club	CA	0.52000	8/1/2004
-Xie, Emily	25206	Youth	-3.01048	4/10/2027	New York Go Association	CT	0.45981	7/13/2025
+Xie, Emily	25206	Youth	-3.11462	4/10/2027	New York Go Association	CT	0.43492	4/11/2026
 Xie, Eric	16304	Full	-17.07000	2/16/2009		VA	0.96000	3/1/2008
 Xie, Guochen	18342	Full	8.07626	9/25/2011		MA	0.47494	10/11/2012
 Xie, James	12358	Non	1.99258	3/12/2026		CA	0.68620	2/1/2026
@@ -15648,7 +15650,7 @@ Xiong, Jeffrey	20147	Youth	-12.83944	8/27/2014		CA	0.29284	12/7/2013
 Xiong, Kevin	17430	Youth	-4.24581	6/14/2015	Massachusetts Go Association	MA	0.71786	3/6/2011
 Xiong, Nqua	20441	Full	2.70978	4/29/2026		IL	0.53575	5/24/2025
 Xiong, Xing	11623	Full	6.50000	2/6/2004	Seattle AGA Chapter	WA	0.36000	2/1/2004
-xiong, xuyan	31266	Youth	4.98039	9/28/2026		MI	0.36205	11/1/2025
+xiong, xuyan	31266	Youth	4.86747	9/28/2026		MI	0.31931	4/11/2026
 Xiong, Ying-Sha	6019	Full	-8.40000	3/28/1993		FL	0.00000	11/15/1992
 Xiong, Yupei	11891	Full	9.36000	5/27/2005	Univ. of Maryland Go Club	MD	0.38000	2/1/2006
 Xiong, Zhisheng	11379	Full	1.76000	3/24/2025	North Puget Sound Go Club	WA	0.64000	11/1/2002
@@ -15669,7 +15671,7 @@ Xu, Chunlin	22519	Full	-7.73586	4/7/2017	Austin Go Club	TX	0.46646	7/31/2016
 Xu, Dairong	17533	Full	7.41770	11/7/2017		MA	0.63537	2/11/2017
 Xu, Daniel	31740	Youth	-32.78198	4/26/2026	Yorba Linda Go Club	CA	3.30414	5/10/2025
 Xu, Dapeng	11591	Full	2.33000	1/30/2004		MA	0.71000	2/1/2003
-Xu, Dawei	31634	Youth	-6.22070	3/18/2027		NJ	0.34240	3/7/2026
+Xu, Dawei	31634	Youth	-1.28594	3/18/2027		NJ	0.60241	4/11/2026
 Xu, Dazhi	10816	Non	5.73881	2/28/2023		NY	0.46299	2/26/2023
 Xu, Diana	11240	Full	-8.94074	7/3/2010	Evanston Go Club	IL	1.25179	9/26/2009
 Xu, Eddie	15901	Youth	-5.99233	9/29/2010	Feng Yun Go School	NJ	0.44328	9/20/2009
@@ -15803,7 +15805,7 @@ Yan, Hongbin	30799	Full		3/3/2025		HN
 Yan, Isaac	10692	Full	4.59000	8/9/2002			0.70000	8/1/2001
 Yan, Jasmine	11319	Full	4.73923	1/28/2015	Feng Yun Go School	NJ	0.27010	8/2/2009
 Yan, Jeffrey	19311	Full	-1.76490	9/13/2012	Bay Area Go Players Assoc.	CA	0.69534	9/10/2011
-Yan, Jerry	32454	Full		3/29/2027		CA		
+Yan, Jerry	32454	Full	-11.21163	3/29/2027		CA	0.59011	4/11/2026
 Yan, Jiuji	6773	Full	1.17000	11/28/1994		NY	0.51000	12/1/1993
 Yan, Julia	11683	Full	-30.11000	3/4/2004	Evanston Go Club	IL	0.70000	7/1/2003
 Yan, Junrong	31489	Full	-12.97078	1/14/2026		NY	1.12601	2/15/2025
@@ -15864,7 +15866,7 @@ Yang, Erning	13217	Full	1.07000	1/26/2006	Corvallis Go Club	OR	0.56000	6/1/2005
 Yang, Fan	7538	Non	4.76000	2/28/1995			0.84000	6/1/1995
 Yang, Guan	30961	Full	3.97871	5/3/2025	Seattle AGA Chapter	WA	0.68009	5/26/2024
 yang, Guanfeng	30453	Full	-3.58256	10/2/2024		NY	0.93360	10/27/2023
-YANG, Gunyeoul	30439	Youth	5.86604	9/3/2026		VA	0.39443	9/13/2025
+YANG, Gunyeoul	30439	Youth	5.89185	9/3/2026		VA	0.33919	4/11/2026
 Yang, Haisong	17811	Youth	-1.83767	10/8/2012		IL	0.40376	9/3/2011
 Yang, HAIXIN	24131	Youth	2.95009	9/29/2019		NC	0.51669	5/19/2019
 Yang, Hanchun	30193	Youth	-7.34838	4/29/2024		PA	0.63813	7/9/2023
@@ -15888,7 +15890,7 @@ Yang, Jun Jim	22639	Full	-14.95581	6/10/2026	GWRM Baltimore Go Club	MD	0.40568	5
 Yang, Katherine	14470	Full	-27.39000	5/3/2010	Feng Yun Go School	NJ	0.66000	6/1/2008
 Yang, Kevin	15861	Full	-25.82594	7/6/2010	Feng Yun Go School	NJ	0.88343	6/20/2009
 Yang, Kevin	23636	Life	7.87608	9/2/2064	San Diego Go Club	CA	0.34309	6/26/2022
-Yang, Kevin	30478	Youth	6.12759	10/8/2026		NJ	0.20696	11/8/2025
+Yang, Kevin	30478	Youth	6.20142	10/8/2026		NJ	0.21149	4/11/2026
 Yang, Kevin	14980	Full	-1.06000	12/17/2008	Orange County Go Club	CA	0.58000	12/1/2007
 Yang, Liheng	31657	Full		3/26/2026		NY		
 Yang, Lixing	30261	Youth	-10.30777	5/18/2026	San Francisco Go Club	CA	0.52598	2/1/2026
@@ -15964,7 +15966,7 @@ Yao, Yao	13396	Full	3.16000	3/23/2006	Ann Arbor Go Club	MI	0.61000	4/1/2005
 Yao, Yuan	21443	Full	-10.57703	10/13/2015		NH	0.61114	3/28/2015
 Yao, Zhihong	20550	Full	3.68138	5/31/2026	Seattle AGA Chapter	WA	0.27547	12/13/2025
 Yao, Zhiping	9267	Full	6.03000	10/4/1999		TX	0.64000	12/15/1998
-Yao, Zhirou	31157	Youth	-1.61866	10/18/2026		OH	0.47606	3/28/2026
+Yao, Zhirou	31157	Youth	-1.60202	10/18/2026		OH	0.47560	3/28/2026
 Yaromenk, Vladimir	16340	Full	-8.55000	2/20/2009	Boulder Kids and Teens Go Club	CO	1.26000	2/1/2009
 Yasui, Kenkichi	7574	Full	-1.14000	3/28/1996			0.62000	6/1/1995
 Yasukochi, Hidemifsu	7307	Full	3.15000	7/28/1995		MA	0.48000	3/1/1995
@@ -15974,7 +15976,7 @@ Yau, Chi	6072	Full	-15.80000	6/28/1993		PA	0.00000	11/15/1992
 Yau, Simmon	13466	Full	-18.86000	4/13/2006		NY	0.94000	7/1/2005
 Yavich, Aleksandr	7835	Full	2.11546	11/8/2026	Eloise May Library Club	CO	0.43365	5/12/2012
 Ye, Aaron	17069	Youth	7.89620	2/22/2026		CA	0.26500	7/17/2019
-Ye, Albert	30442	Youth	-6.71405	9/24/2026		CT	0.56242	12/12/2025
+Ye, Albert	30442	Youth	-6.03926	9/24/2026		CT	0.48350	4/11/2026
 Ye, April	17070	Full	1.62709	2/22/2016		CA	0.20824	8/10/2014
 Ye, Brian	22384	Full	1.58691	5/29/2025	Feng Yun Go School	NJ	0.63793	2/15/2025
 Ye, Charlene	30390	Youth		8/17/2024		CA		
@@ -15990,7 +15992,7 @@ Ye, Ming Fang	18072	Full	3.20665	3/30/2011	Cleveland Go Club	OH	0.72014	3/14/201
 Ye, Peter	13732	Full	-14.02000	7/2/2008		NJ	0.27000	3/1/2007
 Ye, Sheng	8852	Full	5.63000	11/17/1999		TX	0.60000	6/1/1998
 Ye, Shenglin	32062	Youth	1.00216	9/20/2026		GA	0.94928	10/19/2025
-Ye, Sherrie	31224	Full	5.04281	2/5/2027		NY	0.31951	3/7/2026
+Ye, Sherrie	31224	Full	4.92755	2/5/2027		NY	0.28423	4/11/2026
 Ye, Susan	11455	Full	-28.50000	1/29/2004		NJ	4.09000	1/1/2003
 Ye, Xiang Dong	6029	Full	8.09000	1/31/1998		MI	0.75000	6/1/1997
 Ye, Xiaohan	26040	Youth		8/16/2023		RI		
@@ -16116,7 +16118,7 @@ Yizhu, Gao	31871	Full	4.89816	6/10/2026		SH	0.49753	7/13/2025
 Yizhu, Gao	31869	Comp		12/17/2025		SH		
 Yo, Jung Sok	17025	Non	-4.64021	5/19/2010	Sarasota Go Club	FL	0.51264	6/6/2009
 Yocum, Thorsten	8932	Full	-12.93000	1/13/1999		VA	1.24000	1/1/1998
-Yoder, Eric	20753	Full	6.15649	8/5/2026	Columbus Go Club	OH	0.18694	3/28/2026
+Yoder, Eric	20753	Full	6.15482	8/5/2026	Columbus Go Club	OH	0.18692	3/28/2026
 Yokokawa, Hidemi	8258	Full	-7.57000	10/28/1997	Portland Go Club	OR	1.12000	12/1/1996
 Yokokawa, Yosuko	8259	Full	-7.02000	10/28/1997		OR	0.74000	12/1/1996
 Yokomichi, Koni	9863	Full	2.60000	2/28/2001		TX	0.52000	6/1/2000
@@ -16223,7 +16225,7 @@ Yowonske, Matthew	26390	Full	-6.94693	2/14/2025		PA	0.79175	2/24/2023
 Yu, Alex	17583	Full	-27.05767	6/24/2010	Feng Yun Go School	NJ	0.89348	6/20/2009
 Yu, Alexander	23407	Non	-2.27314	10/11/2025	Princeton Go Club	NJ	0.75511	9/13/2025
 Yu, An T	20418	Comp	7.28664	1/1/2023			0.62027	1/26/2013
-Yu, Anida	30736	Youth	-11.49119	2/11/2027		NY	0.46001	2/7/2026
+Yu, Anida	30736	Youth	-11.35648	2/11/2027		NY	0.37597	4/11/2026
 Yu, Austin	16953	Youth	-2.74719	3/9/2015	Feng Yun Go School	NJ	0.58653	2/28/2015
 Yu, Ben	8726	Full	-2.11000	7/23/1998	Massachusetts Go Association	MA	0.71000	9/1/1997
 Yu, Ben	10694	Full	2.83000	8/9/2001			0.66000	8/1/2001
@@ -16291,7 +16293,7 @@ Yu, Xiang	15416	Full	3.80000	4/14/2008		NJ	0.56000	6/1/2007
 Yu, Xiaodan	31714	Comp		10/19/2025				
 Yu, Ximeng	20999	Full	8.64739	1/5/2015	Seattle AGA Chapter	WA	0.43561	8/10/2014
 Yu, Yanbin	6774	Full	1.54000	11/28/1994		NY	0.55000	12/1/1993
-Yu, Yang	32324	Full	-2.64886	1/27/2027		NJ	0.61344	3/7/2026
+Yu, Yang	32324	Full	-2.87851	1/27/2027		NJ	0.53877	4/11/2026
 Yu, Yiyang	25668	Full		11/29/2022		WA		
 Yu, Yu	7277	Non	-1.00000	6/28/1994			0.00000	6/15/1994
 Yu, Zhi-Qi	6504	Full	7.12000	9/28/1996			0.26000	12/1/1996
@@ -16406,7 +16408,7 @@ Zeng, Michael	1495	Full	7.15000	5/27/2004		NM	0.24000	1/1/2004
 Zeng, Mike	31534	Youth	6.88700	2/2/2026		CA	0.69607	4/19/2025
 Zeng, Qing	26155	Full	2.76758	10/22/2023	National Go Center	MD	0.51922	10/21/2023
 Zeng, Robert	3794	Full	7.81000	3/5/2009		UT	0.83000	4/1/2008
-Zeng, Shuzhi	30972	Full	2.21774	5/19/2026		NJ	0.23466	3/7/2026
+Zeng, Shuzhi	30972	Full	2.10649	5/19/2026		NJ	0.21853	4/11/2026
 Zeng, Sicheng	16282	Full	-4.76136	6/11/2013		NC	0.64851	8/4/2012
 Zeng, Wenyi	11559	Non	3.50000	4/20/2003		PA	0.59000	2/1/2003
 Zeng, Yingsheng	24026	Comp	4.72613	1/1/2023			0.49393	7/22/2018
@@ -16545,7 +16547,7 @@ Zhang, Jian	9713	Non	-3.32000	10/6/1999			0.54000	12/1/1999
 ZHANG, JIAN	31123	Full	2.08143	7/23/2026		CA	0.37610	7/13/2025
 Zhang, Jian Yi	17076	Non	7.60000	1/10/2009			0.80000	2/1/2009
 Zhang, Jianhua	22763	Comp	5.07473	1/1/2023			0.43766	7/31/2016
-Zhang, Jiaqi	25052	Comp	2.28679	6/14/2026		ON	0.30617	3/28/2026
+Zhang, Jiaqi	25052	Comp	2.27925	6/14/2026		ON	0.30537	3/28/2026
 Zhang, Jiashi	30677	Full	6.32420	1/9/2026		CA	0.24513	1/11/2025
 Zhang, Jichuan	23697	Full	3.00099	1/20/2019	Iowa Go Society	IA	0.76814	1/20/2018
 Zhang, Jin	6105	Full	2.87000	6/28/1993		CA	0.51000	12/1/2003
@@ -16577,8 +16579,8 @@ Zhang, Kevin	16311	Full	-12.42342	12/13/2012		VA	0.64570	12/3/2011
 Zhang, Kevin	16643	Full	2.09000	6/4/2009			0.66000	7/1/2008
 Zhang, Larry	18767	Full	-20.79133	5/10/2012		NC	1.02409	9/17/2011
 Zhang, Le	21393	Comp	3.67851	1/1/2023			0.79549	8/10/2014
-Zhang, Li	18112	Full	5.75560	4/16/2014	Bay Area Go Players Assoc.	CA	0.26370	4/20/2013
 Zhang, Li	21765	Comp	10.30955	1/1/2023			0.74346	2/14/2015
+Zhang, Li	18112	Full	5.75560	4/16/2014	Bay Area Go Players Assoc.	CA	0.26370	4/20/2013
 Zhang, Libo	10517	Non	-4.28000	11/12/2001		TX	0.40000	11/1/2001
 Zhang, Ling	17085	Full	-19.33000	1/5/2010		CA	1.03000	2/1/2009
 Zhang, Ling Wen	5074	Full	4.56000	2/28/1998	Davis/Sacramento Go Club	CA	0.56000	3/1/1997
@@ -16607,7 +16609,7 @@ Zhang, Phoenix	18513	Full	-20.84169	2/5/2012		CO	0.70333	6/11/2011
 Zhang, Qi	31687	Full	-7.16513	4/10/2026	San Francisco Go Club	CA	0.81680	4/19/2025
 Zhang, Qi	30975	Non	-17.50420	6/5/2024			1.32270	5/4/2024
 Zhang, Qing	10872	Full	6.40000	1/11/2003	Seattle AGA Chapter	WA	0.75000	8/1/2001
-Zhang, Qingbo	22896	Full	4.83645	2/27/2027	NOVA Go Club	VA	0.12973	2/28/2026
+Zhang, Qingbo	22896	Full	4.83965	2/27/2027	NOVA Go Club	VA	0.12854	4/11/2026
 Zhang, Rain Xu	25656	Youth	-24.80038	11/23/2035	San Diego Go Club	CA	1.31675	5/15/2022
 Zhang, Ren	30917	Full	-2.66086	4/12/2025		CA	0.86624	4/13/2024
 Zhang, Ren	25023	Non	1.29825	1/14/2020			0.75990	10/26/2019
@@ -16624,7 +16626,7 @@ Zhang, Shannon	11634	Full	-28.83000	6/6/2005	Feng Yun Go School	NJ	1.08000	2/1/2
 Zhang, Shuhao	23985	Comp	3.13278	1/1/2023			0.51652	7/22/2018
 Zhang, Shujian	20522	Full	5.67644	4/3/2014		ND	0.68824	2/16/2013
 Zhang, Shuotong	22843	Comp	-1.36771	1/1/2023			0.54696	8/6/2017
-Zhang, Simon	25960	Youth	-11.35068	5/28/2026	Feng Yun Go School	CT	0.24548	11/8/2025
+Zhang, Simon	25960	Youth	-11.30754	5/28/2026	Feng Yun Go School	CT	0.23936	4/11/2026
 Zhang, Siteng	18344	Full	5.17322	9/2/2011		MA	0.62433	8/29/2010
 Zhang, Siyuan	22765	Comp	7.26747	1/1/2023			0.45114	7/31/2016
 Zhang, Skyler	31356	Youth		11/9/2025		CA		
@@ -16677,7 +16679,7 @@ Zhang, Yi	14557	Non	5.88000	5/31/2006			0.86000	5/1/2006
 Zhang, Yifan	21995	Full	4.26035	8/6/2022		CA	0.22258	10/13/2018
 Zhang, Yin	23250	Non	3.34201	4/6/2018		NY	0.30158	9/22/2018
 Zhang, Yisha	20322	Full	3.95551	1/13/2018		CA	0.68544	1/14/2017
-Zhang, Yiyu	32425	Youth		3/18/2027		IA		
+Zhang, Yiyu	32425	Youth	6.73444	3/18/2027		IA	0.57461	4/11/2026
 Zhang, Yonghe	9948	Full	-2.10000	5/6/2007		NJ	0.28000	5/1/2003
 Zhang, Yongtao	11377	Non	2.05000	11/6/2002		NJ	0.66000	11/1/2002
 Zhang, Yongzhi	10540	Non	-12.06000	5/27/2001		OH	0.91000	5/1/2001
@@ -16735,7 +16737,7 @@ Zhao, John Q	10487	Full	-4.36494	2/21/2020		MD	0.32322	2/15/2019
 Zhao, Ju	13489	Full	6.23855	9/23/2013		WA	0.31614	4/14/2012
 Zhao, Junhong	9058	Non	2.80000	3/19/1999		MI	0.54000	6/1/1999
 Zhao, Junqi	23473	Comp	1.35346	1/1/2023			0.58271	8/6/2017
-Zhao, Kai	30925	Youth	-15.04119	4/14/2027	Western Mass. Go Club	NY	0.22492	3/7/2026
+Zhao, Kai	30925	Youth	-10.50726	4/14/2027	Western Mass. Go Club	NY	0.87897	4/11/2026
 Zhao, Kaiyan	24726	Comp	4.40041	1/1/2023			0.52524	7/14/2019
 Zhao, Kaiyan	31576	Youth	4.03843	2/10/2026		TX	0.68951	2/15/2025
 Zhao, Kelley	14799	Full	-2.97584	3/8/2010	Feng Yun Go School	NJ	0.38051	9/20/2009
@@ -16756,7 +16758,7 @@ Zhao, Walter	18793	Full	-4.14303	5/28/2020		AZ	0.52040	5/25/2019
 Zhao, Wenguang	12008	Full	4.65641	4/14/2026	Orange County Go Club	CA	0.35040	7/13/2025
 Zhao, Wenxuan	31285	Full	5.24053	10/9/2025	Evanston Go Club	WI	0.40391	5/24/2025
 Zhao, William	30244	Youth	-12.63790	5/11/2026		MA	0.55715	5/26/2025
-Zhao, Winston	31340	Youth	-6.99802	4/11/2027		NY	0.64102	2/7/2026
+Zhao, Winston	31340	Youth	-6.99813	4/11/2027		NY	0.44811	4/11/2026
 Zhao, Xiaohua	18626	Full	2.05890	2/13/2012	Atlanta Go Club	GA	0.64937	6/11/2011
 Zhao, Xin	12322	Full	6.26608	4/17/2025		NY	0.79205	4/21/2024
 Zhao, Xinchen	26432	Full	4.42643	3/2/2025			0.66138	4/1/2023
@@ -16994,7 +16996,7 @@ Zhuang, Alexander	22902	Youth		1/27/2022	Mason Go Club	OH
 Zhuang, Deqian	6453	Full	2.98000	5/28/1997		MD	0.39000	12/1/1996
 Zhuang, Ethan	20248	Full	-8.81860	10/21/2017			0.45207	10/15/2016
 Zhuang, Guozhong	13593	Full	5.86997	10/15/2018	Portland Go Club	OR	0.46779	10/15/2016
-Zhuang, Jack	30533	Full	-10.38942	10/26/2026		NJ	0.23508	3/7/2026
+Zhuang, Jack	30533	Full	-10.78221	10/26/2026		NJ	0.21431	4/11/2026
 Zhuang, Jun	25682	Full		12/16/2022	Mason Go Club	OH		
 Zhuang, Min	31158	Full	-1.96856	8/16/2026		MN	0.65272	10/18/2025
 Zhuang, Vincent	13597	Full	6.45476	10/31/2019	Portland Go Club	OR	0.51126	2/10/2019
@@ -17009,8 +17011,8 @@ Zierk, Jonathan C	5200	Full	3.26000	8/31/2000		CA	0.65000	3/1/1998
 Zierk, Steven	21255	Non	2.79778	10/9/2023		CA	1.05423	8/25/2023
 Zihang, Ruan	10723	Non	5.58000	9/26/2001		CA	0.61000	10/1/2001
 Zihe, Zack	12819	Full	-16.83000	7/26/2005		CA	0.98000	8/1/2004
-Zilber, Steven A	9666	Full	-10.35403	8/18/2026	Cleveland Go Club	OH	0.25935	3/28/2026
-Ziller, Jasper	20842	Full	-5.57378	3/14/2027	Maine Go	VT	0.43207	3/28/2026
+Zilber, Steven A	9666	Full	-10.35005	8/18/2026	Cleveland Go Club	OH	0.25971	3/28/2026
+Ziller, Jasper	20842	Full	-5.57376	3/14/2027	Maine Go	VT	0.43207	3/28/2026
 Zimangi, Marcell	14339	Full	-26.13000	3/12/2007		NJ	1.07000	3/1/2006
 Zimmer, J. Adrian	3520	Full	-6.96000	6/30/2005		OK	0.38000	9/1/2003
 Zimmerbaum, Stephen	4907	Full	-8.00000	3/31/2000	Princeton Go Club	NJ	0.62000	3/1/1997
@@ -17040,7 +17042,7 @@ Zou, Mengjie	22209	Non	-7.75427	10/25/2015		MA	0.77927	9/26/2015
 Zou, Xin	8270	Full	5.65000	7/20/2005		WA	0.51000	6/1/1998
 Zou, Xu	23365	Full	7.44242	7/2/2018		CA	0.73239	7/8/2017
 Zou, Yan	22171	Full	1.81720	10/18/2018	Empty Sky Go Club	NY	0.47030	4/16/2016
-Zou, Yangshuo	32482	Youth		4/15/2027				
+Zou, Yangshuo	32482	Youth		4/14/2027		CA		
 Zou, Yuanxiu	26334	Youth	-16.37032	8/23/2025		IN	1.77470	8/24/2024
 Zou, Yun	22103	Non	-1.35771	9/27/2015		NY	0.64747	9/26/2015
 Zsofka, Janos	10466	Full	-28.55000	4/9/2002		NH	2.13000	8/1/2001
