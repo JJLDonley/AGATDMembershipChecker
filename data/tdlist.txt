@@ -319,7 +319,7 @@ Ariya, Kosa	6475	Non	5.79000	5/28/1993			0.63000	9/1/1993
 Arkonovich, Aria P	32098	Youth	-5.58205	10/7/2026	Corvallis Go Club	OR	0.49393	12/13/2025
 Arlow, Steve	5546	Full	-13.81000	3/14/2018			0.97000	6/1/1998
 Armendariz, Luis	15986	Full	-9.23891	10/11/2021		CA	0.47969	10/26/2019
-Armenia, Peter	8489	Full	-4.73232	5/10/2026	Gotham Go Group	NY	0.22050	3/14/2026
+Armenia, Peter	8489	Full	-4.73232	4/20/2027	Gotham Go Group	NY	0.22050	3/14/2026
 Armenia, veronica	24903	Youth	-19.48511	4/28/2026	Gotham Go Group	NY	0.70449	11/8/2025
 Armes, Michael	21230	Full	-13.19101	6/1/2015	Seattle AGA Chapter	WA	1.62664	6/1/2014
 Armitage, Benjamin	10749	Full	4.05488	7/9/2025	XYZ Private Go Group	CO	0.63564	7/23/2024
@@ -895,7 +895,7 @@ Blair, Alex	24625	Full	-6.26265	6/1/2020	Tampa Go Club	FL	0.64226	6/1/2019
 Blair, Matthew	3185	Full	-5.20000	9/28/1994		OR	0.00000	11/15/1992
 Blair, Max D	30058	Full	3.62551	3/30/2027		PA	0.20300	6/19/2025
 Blair, Pat	6012	Full	-21.10000	3/28/1994	Portland Go Club	OR	0.00000	11/15/1992
-Blair, Ryan	30936	Full		4/19/2026		NY		
+Blair, Ryan	30936	Full		4/20/2027		NY		
 Blaisdell, Robert	8690	Full	-2.78000	7/9/1998		CA	0.55000	9/1/1997
 Blake, Ken	4408	Full	-1.98359	12/7/2026	Austin Go Club	TX	0.21600	2/14/2026
 Blake, Nicholas	13099	Full	3.46611	5/8/2027	Empty Sky Go Club	MA	0.60333	5/10/2025
@@ -14696,6 +14696,7 @@ Wang, Matthew	25444	Youth	-8.36662	3/19/2026		IL	0.26675	11/1/2025
 Wang, Matthew	17445	Youth	-10.62357	4/18/2010	Feng Yun Go School	NJ	0.80152	2/20/2010
 Wang, Meng	24880	Full	7.04182	6/16/2023	West Michigan Go Club	MI	0.53453	10/1/2022
 Wang, Mengran	26394	Full	2.80503	1/17/2027		NY	0.38999	1/31/2026
+Wang, Michael	32505	Youth		4/20/2027				
 Wang, Michael	14787	Full	-13.89000	4/5/2009	Feng Yun Go School	NJ	0.38000	1/1/2009
 Wang, Michael J	15586	Full	-29.51000	6/24/2008	Feng Yun Go School	NJ	2.20000	7/1/2007
 Wang, Michael	12814	Non	-24.23000	7/26/2004			0.94000	8/1/2004
