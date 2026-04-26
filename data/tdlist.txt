@@ -1953,8 +1953,8 @@ Chen, Karsten	30249	Youth	-8.37450	11/5/2025		CA	0.54617	1/11/2025
 Chen, Ke-Shiau	4099	Full	3.55000	5/28/1996	Cleveland Go Club	OH	0.46000	9/1/1994
 Chen, Kevi	31708	Youth		4/17/2026		NY		
 Chen, Kevin	14773	Full	-21.85000	10/12/2007	Princeton Go Club	NJ	1.42000	11/1/2006
-Chen, Kevin	18710	Non	-15.90080	3/13/2011			0.90705	3/5/2011
 Chen, Kevin	22093	Youth	1.41252	9/27/2016		MA	0.92515	9/26/2015
+Chen, Kevin	18710	Non	-15.90080	3/13/2011			0.90705	3/5/2011
 Chen, Kevin	18004	Full	-36.83006	3/3/2011		MD	1.26257	2/27/2010
 Chen, Ko-Hsin	31890	Comp	-1.74180	12/20/2025			0.56204	7/13/2025
 Chen, Kongkun	23935	Youth	-17.34923	5/27/2019		MD	1.54227	5/26/2018
@@ -7814,8 +7814,8 @@ Lee, Connie Jean-Shah	11931	Full	-32.41000	6/8/2004	Triangle Go Group	TX	3.09000
 Lee, Daniel	22922	Full	-21.93985	9/26/2017	Triangle Go Group	NC	0.95634	5/21/2017
 Lee, Daniel	8524	Non	-9.89000	11/7/2008	Davis/Sacramento Go Club	CA	0.53000	11/1/2008
 Lee, Daniel H	8267	Full	3.11000	11/30/1999		WA	0.41000	9/1/1999
-Lee, Daniel	23734	Full	-7.85310	2/13/2020		CA	0.37307	11/9/2019
 Lee, Daniel	32085	Youth	-9.00049	9/30/2026		GA	1.16694	10/19/2025
+Lee, Daniel	23734	Full	-7.85310	2/13/2020		CA	0.37307	11/9/2019
 Lee, Do Kyun	10441	Non	-1.31000	2/28/2001			0.92000	3/1/2001
 Lee, Don	8494	Full	1.44000	3/31/1998		CA	0.56000	6/1/1997
 Lee, Donald	16611	Full	-1.84903	5/14/2009	Berkeley Go Club	CA	0.56771	7/9/2011
@@ -10047,7 +10047,7 @@ Mont, Alexander	22263	Full	-29.05012	12/11/2016	Kastle Go Club	CA	2.90826	12/12/
 Montague, Dakota	32403	Full	1.37046	3/5/2027		PA	0.49520	3/14/2026
 Montalvo, Moises	30676	Full		1/6/2025		NE		
 Montegut, Adam	13914	Full	-4.63000	10/7/2008	Crane's Nest Go Club	LA	0.54000	6/1/2006
-Monteleone, Nathan	26395	Full	-11.35584	2/16/2025		TX	0.59487	8/19/2023
+Monteleone, Nathan	26395	Full	-11.35584	4/25/2027		TX	0.59487	8/19/2023
 Montemora, Mike	4276	Full	-5.39000	2/24/2008		NY	0.45000	6/1/2007
 Monterosso, Lee	31910	Youth	-27.48836	6/30/2026	Seattle AGA Chapter	WA	2.24154	8/3/2025
 Monterosso, Warren	31909	Youth	-25.93096	6/30/2026	Seattle AGA Chapter	WA	1.37800	8/3/2025
@@ -10473,6 +10473,7 @@ Nicolet, Philip	6495	Non	3.15000	5/28/1993			0.80000	9/1/1993
 Nicoll, Andy	9850	Non	-5.63000	2/22/2000			0.72000	3/1/2000
 Nie, CoCo Kexin	23183	Youth	-27.01438	3/8/2018			1.02234	2/25/2017
 Nie, Heather	25284	Youth		7/31/2021		MA		
+Nie, Helen	32525	Full		4/25/2027				
 Nie, James	6725	Full	2.69000	2/28/1996	San Francisco Go Club	IL	0.54000	3/1/1995
 Niederberger, Matthew	22340	Full	-20.26701	2/13/2017	Empty Sky Go Club	NJ	0.95994	2/13/2016
 Niedermeyer, Deborah	10157	Full	-13.94155	6/6/2015	Seattle AGA Chapter	WA	0.39173	2/2/2014
@@ -11577,7 +11578,7 @@ Ramirez, Jose L	4747	Full	-11.38000	5/28/1994		IL	0.60000	9/1/1993
 Ramirez, Killian	31410	Full		12/12/2025		MT		
 Ramirez, Matthew	25600	Full		9/3/2023		NY		
 Ramirez, Rolando	18218	Full		11/17/2023		TX		
-Ramirez, Wilfredo R	31670	Full	-5.27674	4/2/2026	Austin Go Club	TX	0.54938	4/26/2025
+Ramirez, Wilfredo R	31670	Full	-5.27674	4/26/2027	Austin Go Club	TX	0.54938	4/26/2025
 Ramlakan, Shrivar	22925	Full	-21.27515	9/26/2017	Triangle Go Group	NC	1.36340	9/25/2016
 Ramm, Carl	23176	Full		3/7/2024		AK		
 Ramos, Isaac	22631	Full	-24.84385	5/9/2017		NY	1.94090	5/1/2016
@@ -15963,8 +15964,8 @@ Yang, Yang	23489	Non	5.18902	4/26/2022		IL	0.53442	11/4/2023
 Yang, Yicheng	30659	Full	5.20794	12/26/2025		CA	0.63382	4/13/2024
 Yang, Yilun	6656	Comp	9.22567	9/1/2064		CA	0.46813	8/2/2009
 Yang, Yuan	11969	Full	4.86000	10/1/2004			0.60000	10/1/2003
-Yang, Yue	23469	Comp	2.44208	1/1/2023			0.44957	8/9/2017
 Yang, Yue	23482	Non	2.43349	8/30/2018		OR	0.40556	7/22/2018
+Yang, Yue	23469	Comp	2.44208	1/1/2023			0.44957	8/9/2017
 Yang, YUELUN	23146	Full	4.46180	3/18/2024	San Francisco Go Club	CA	0.41375	5/27/2023
 Yang, Zehua	22760	Comp	5.42496	1/1/2023			0.57514	7/31/2016
 Yang, Zhi Rui	18534	Full	6.73789	11/18/2011	Bay Area Go Players Assoc.	CA	0.30647	7/31/2011
