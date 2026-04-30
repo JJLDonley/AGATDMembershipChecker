@@ -6664,8 +6664,8 @@ Kaplan, Jonathan	22938	Full	-1.45353	4/3/2023		IL	0.59154	10/8/2016
 Kaplan, Jonathan	12972	Full	-13.10000	9/28/2005		IL	0.79000	7/1/2005
 Kaplan, Joseph	23901	Full	-4.75058	4/26/2027		MI	0.38757	11/16/2025
 Kaplan, Matthew	18015	Full	-11.52855	3/8/2011		NY	0.73785	3/20/2010
-Kaplan, Michael	12166	Full	-9.92525	3/18/2022		RI	1.52222	7/30/2016
 Kaplan, Michael	12623	Full	-8.92000	2/3/2007		NY	1.29000	2/1/2006
+Kaplan, Michael	12166	Full	-9.92525	3/18/2022		RI	1.52222	7/30/2016
 Kaplowitz, James	9720	Full	-10.67000	9/18/2006		RI	0.70000	9/1/2000
 Karafelis, William	25510	Full	-5.72396	7/7/2024		MA	0.65971	7/9/2023
 Karagianis, Pete	14436	Full	-21.25000	4/8/2007	Ames Go Club	IA	0.89000	5/1/2006
@@ -9871,7 +9871,7 @@ Meyers, Robert	6847	Non	-23.58000	12/28/1993	Davis/Sacramento Go Club	CA	1.52000
 Mi, Davy	5977	Full	-4.06000	11/28/1997	Houston Go Club	TX	0.41000	3/1/1995
 Mi, Jeffrey	20413	Youth	-5.49533	2/7/2014		CA	0.69147	1/26/2013
 Mi, Jonathan	20412	Youth	-4.92968	2/7/2014		CA	0.72352	1/26/2013
-Mi, Justin	31771	Youth	-7.19666	5/2/2026		CA	0.53641	2/1/2026
+Mi, Justin	31771	Youth	-7.19666	4/30/2027		CA	0.53641	2/1/2026
 Mi, tsz Chau Bowen	31858	Youth	-16.68169	6/5/2026		NY	1.40952	12/12/2025
 MI, Tsz Chau Bowen	30753	Youth	-19.07661	2/18/2025		NY	0.48944	6/7/2025
 Mi, Tsz Yau Colin	32224	Youth	-25.23963	11/22/2026		NY	1.12755	12/12/2025
@@ -10196,6 +10196,8 @@ Moutsos, Chris	30333	Full		6/28/2025	Tallahassee Go Club	FL
 Movva, Aneesh	23264	Youth	-18.25267	4/9/2018	Boulder Kids and Teens Go Club	CO	1.82353	4/8/2017
 Movva, Rohit	23265	Youth	-27.81509	4/9/2018	Boulder Kids and Teens Go Club	CO	1.21632	4/8/2017
 Mowshowitz, Avi Joseph	24228	Full	-3.48823	11/1/2020		NY	0.62908	11/1/2019
+Mox, Luna	32535	Youth		4/29/2027				
+Mox, Sara	32534	Full		4/29/2027				
 Moy, Aren	12721	Full	-27.56000	12/19/2006	Feng Yun Go School	NJ	2.74000	7/1/2006
 Moy, Sean	12606	Full	-10.87000	9/26/2017	Crane's Nest Go Club	LA	0.70000	11/1/2007
 Moy, Winston S	12722	Full	-16.98000	12/19/2006	Feng Yun Go School	NJ	1.09000	7/1/2006
@@ -13684,7 +13686,7 @@ Tamaki, Hisao	6502	Non	6.91000	5/28/1993			0.50000	9/1/1993
 Tamayo, Tarah	11987	Full	-3.78854	9/21/2024	Massachusetts Go Association	MA	0.78533	7/31/2016
 Tamazian, Artur	23968	Full	-5.84018	10/21/2024		WA	0.78668	6/23/2018
 Tamez, Nathan K	30706	Full	-9.55315	1/26/2026	San Antonio Go Club	TX	0.68176	2/15/2025
-Tamm, Ulo	750	Full	-1.47000	2/28/2025		CO	0.45000	2/1/2006
+Tamm, Ulo	750	Full	-1.47000	4/29/2027		CO	0.45000	2/1/2006
 Tamur, Ali	9849	Non	-5.10000	2/22/2000			0.85000	3/1/2000
 Tamura, Tom N	5295	Full	1.73000	8/31/2006		CA	0.37000	2/1/2006
 Tan, Allen	23590	Youth	-10.92024	11/11/2023		NJ	0.68727	7/14/2019
@@ -14710,8 +14712,8 @@ Wang, Maoxu	24767	Comp	-2.43094	1/1/2023			0.57812	7/14/2019
 Wang, Martin	8950	Full		1/7/1999		CA		
 Wang, Mason M	30373	Youth		8/2/2024		VA		
 Wang, Matt	7839	Full	-1.76000	11/28/1996		MI	0.80000	6/1/1997
-Wang, Matthew	25444	Youth	-8.36662	3/19/2026		IL	0.26675	11/1/2025
 Wang, Matthew	17445	Youth	-10.62357	4/18/2010	Feng Yun Go School	NJ	0.80152	2/20/2010
+Wang, Matthew	25444	Youth	-8.36662	3/19/2026		IL	0.26675	11/1/2025
 Wang, Meng	24880	Full	7.04182	6/16/2023	West Michigan Go Club	MI	0.53453	10/1/2022
 Wang, Mengran	26394	Full	2.80503	1/17/2027		NY	0.38999	1/31/2026
 Wang, Michael	32505	Youth		4/20/2027				
@@ -16152,8 +16154,8 @@ Ying, Marc	32302	Youth	-19.18142	1/18/2027		TX	0.87558	2/14/2026
 Yip, Rae	26129	Full	-10.75331	10/12/2023		CA	0.92504	9/24/2022
 Yip-Leung, Rachel	30757	Full	-22.79462	2/19/2026	New York Go Association	NY	0.91332	2/15/2025
 YIU, YONG	31872	Full	-2.20701	6/10/2026	Houston Go Club	TX	0.32884	2/14/2026
-Yizhu, Gao	31869	Comp		12/17/2025		SH		
 Yizhu, Gao	31871	Full	4.89816	6/10/2026		SH	0.49753	7/13/2025
+Yizhu, Gao	31869	Comp		12/17/2025		SH		
 Yo, Jung Sok	17025	Non	-4.64021	5/19/2010	Sarasota Go Club	FL	0.51264	6/6/2009
 Yocum, Thorsten	8932	Full	-12.93000	1/13/1999		VA	1.24000	1/1/1998
 Yoder, Eric	20753	Full	6.15482	8/5/2026	Columbus Go Club	OH	0.18692	3/28/2026
