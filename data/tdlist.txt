@@ -1843,7 +1843,7 @@ Chen, Binghui	30765	Youth	1.17930	2/21/2027	New York Go Association	NY	0.24671	2
 Chen, Bo	15927	Non	4.18296	12/26/2015	Seattle AGA Chapter	WA	1.16261	10/21/2017
 Chen, Boris	9139	Non		6/18/1998				
 Chen, Bowen	5967	Full	-3.82000	11/28/1997	Houston Go Club	TX	0.55000	9/1/1993
-Chen, Boyang	21289	Full	5.32577	5/23/2026	Capital Go Club		0.28690	4/11/2026
+Chen, Boyang	21289	Full	5.32577	5/4/2027	Capital Go Club		0.28690	4/11/2026
 Chen, Brian	22705	Non	-5.55394	6/23/2016		IL	0.77603	6/25/2016
 Chen, Brian	30877	Full	-12.22978	4/2/2026		TX	1.29078	4/13/2024
 Chen, Brian	18003	Full	-35.42626	3/3/2011		MD	1.45831	2/27/2010
@@ -3758,7 +3758,7 @@ Feifer, Cameron	31217	Full		9/8/2025		RI
 Feig, Jordan	7271	Full	-1.34735	5/27/2018		NJ	1.83591	5/27/2017
 Feig, Jordan	30062	Full		3/24/2024		NJ		
 Feingold, Anthony	14448	Full	-3.80000	6/2/2009		NJ	0.53000	11/1/2008
-Feiveson, Eric	15511	Full	-2.00039	3/7/2026	Seattle AGA Chapter	WA	0.23387	7/13/2025
+Feiveson, Eric	15511	Full	-2.00039	5/5/2027	Seattle AGA Chapter	WA	0.23387	7/13/2025
 Feiveson, Eric	15531	Non	-8.49000	6/7/2007			0.65000	5/1/2007
 Fejes, Frank	25858	Full		4/10/2023		CA		
 Felcan, David	6746	Full	1.49954	10/31/2024	Vermont Go Club	VT	0.55252	11/5/2022
@@ -5029,7 +5029,7 @@ Harris, Kyoko	17703	Non	-26.59429	8/13/2009			1.10216	8/8/2009
 Harris, Mark S	1782	Full	4.67000	1/10/2006	Berkeley Go Club	CA	0.42000	2/1/2005
 Harris, Neal	25962	Full		5/29/2023	San Francisco Go Club	CA		
 Harris, Ray	21592	Full		5/15/2023	Greater Kansas City Go Club	MO		
-Harris, Ronald L	6723	Full	-3.79822	5/12/2026	Davis/Sacramento Go Club	CA	0.40587	6/27/2009
+Harris, Ronald L	6723	Full	-3.79822	5/4/2027	Davis/Sacramento Go Club	CA	0.40587	6/27/2009
 Harris, Steven J	4091	Non	-9.05145	2/17/2003		IL	0.68505	9/3/2011
 Harris, William D	2359	Full	-6.56000	12/28/1985		VA	0.83000	9/1/1997
 Harrison, Cliff	4896	Full	-4.50000	7/28/1992	Massachusetts Go Association	MA	0.00000	11/15/1992
@@ -17040,7 +17040,7 @@ Zhu, Xiaomin	24567	Full	-17.11649	5/5/2020		NY	1.50523	5/4/2019
 Zhu, Xingyu	26171	Youth	-30.94691	10/30/2023		CA	1.16036	11/27/2022
 Zhu, Xuegong	30393	Full	-10.33991	8/18/2024		OH	1.28251	8/26/2023
 Zhu, Yaping	22202	Non	3.40866	10/25/2015			0.74154	10/24/2015
-Zhu, Yi	6153	Full	6.25947	4/19/2019	Austin Go Club	TX	0.49933	4/14/2018
+Zhu, Yi	6153	Full	6.25947	5/4/2027	Austin Go Club	TX	0.49933	4/14/2018
 Zhu, yiduo	22069	Full	-1.77719	12/26/2017		CA	0.36258	2/25/2017
 Zhu, Yiheng	24399	Full	3.65597	1/10/2021		FL	0.52429	2/16/2019
 Zhu, Yingxu	25674	Full	5.73489	12/4/2026	San Diego Go Club	CA	0.23793	11/29/2025
@@ -17117,7 +17117,7 @@ Zsofka, Monika	10467	Full	-23.79000	4/9/2002		NH	0.64000	8/1/2001
 Zsofka, Zsolt	9611	Full	-7.71000	7/18/2001		NH	0.63000	12/1/2000
 Zuan, Xu Chuan	5333	Full	6.00000	7/28/1993		CA	0.00000	11/15/1992
 Zucker, Joshua	6722	Full	3.43000	11/18/2027		CA	0.37000	2/1/2004
-Zuckerman, David	31686	Full	-7.71045	4/9/2026	Austin Go Club	TX	0.44392	7/13/2025
+Zuckerman, David	31686	Full	-7.71045	5/4/2027	Austin Go Club	TX	0.44392	7/13/2025
 Zuerlein, Keith	7464	Full	-11.45736	10/26/2023		TX	0.90232	11/6/2022
 Zuiketsu, Cho	31057	Comp		12/17/2024				
 Zumstein, Heath	15549	Full	-5.89000	2/17/2010	Cincinnati Go Club	OH	2.19000	3/1/2009
