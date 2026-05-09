@@ -1023,6 +1023,7 @@ Botwin, Ben	18701	Full	-19.09999	4/13/2013		FL	1.35530	4/10/2012
 Bouamalay, Dryden	12899	Full	-27.22000	12/23/2011		CA	1.42000	10/1/2005
 Bouc, Christien	20383	Full	-1.73509	1/29/2014		CA	0.81424	1/12/2013
 Bouch, Elaina	26003	Youth	-14.38281	7/13/2023		DE	0.85787	8/1/2022
+Boulange, Chloe	32579	Full		5/8/2027				
 Bouma, Louis	10101	Non	-1.95000	8/1/2000			0.51000	9/1/2000
 Boumediene, Zackariah	25720	Full	-5.99926	2/26/2025	Kalamazoo Go Club	MI	0.45841	4/27/2024
 Bouras, Eric	16552	Full	-24.29000	4/27/2009		FL	1.83000	5/1/2008
@@ -6220,6 +6221,7 @@ Jamar, Steven D	2813	Life	-3.77000	9/1/2064	GWRM Baltimore Go Club	MD	0.42000	9/
 Jambhale, Aditya	25041	Youth	-11.25690	9/27/2021		OH	0.75291	1/18/2020
 James, Curtis R	8967	Full	-2.82000	4/16/2002		CA	0.59000	2/1/2002
 James, John	3691	Full	-5.90000	3/19/2023	Massachusetts Go Association	MA	0.00000	11/15/1992
+James, Keegan	32578	Full		5/8/2027				
 James, Nathan	14298	Full	-27.44000	2/5/2006		NV	0.93000	2/1/2006
 James, Theodore W	30422	Youth	-7.20455	9/10/2026	Evanston Go Club	IL	0.31188	1/31/2026
 Jamkacahornkiat, Krit	23475	Comp	6.15090	1/1/2023			0.55367	8/9/2017
@@ -7217,7 +7219,7 @@ Kirkland, Christopher	22226	Full	-14.94511	11/6/2016	Austin Go Club	TX	1.26636	1
 Kirkland, Kristopher	20439	Full	-9.59351	9/9/2021	Madison Go Club	WI	0.57107	10/13/2018
 Kirlin, James	16645	Full	-13.00000	6/4/2009			1.05000	7/1/2008
 Kirschenheiter, John	25920	Full	-4.29938	5/1/2024		IL	0.37550	11/12/2022
-Kirschner, Christopher	416	Full	2.56842	5/7/2026	Seattle AGA Chapter	WA	0.34828	12/9/2023
+Kirschner, Christopher	416	Full	2.56842	5/8/2027	Seattle AGA Chapter	WA	0.34828	12/9/2023
 Kirschner, Heidi	8606	Full	-15.21000	3/13/2018			0.85000	10/1/2002
 Kirschner, Jessica	18826	Full	-13.84500	6/9/2012	Stony Brook University Go Club	NY	0.75862	5/7/2011
 Kirven, Thomas	26117	Full		10/4/2023	Houston Go Club	TX		
@@ -11869,6 +11871,7 @@ Rivera, Fernando	13897	Full	-4.07000	8/16/2007		OH	0.80000	7/1/2007
 Rivera, Francisco	14239	Non	-16.59000	2/6/2006		NY	1.42000	2/1/2006
 Rivera Jr., Fernando	15710	Full	-2.05700	4/29/2027		OH	0.38378	8/10/2014
 Rivera Rios, Zaid	31800	Comp	-10.41010	11/13/2025		CDM	0.61741	7/13/2025
+Rivers, Ryan	32581	Life		5/9/2027				
 Rivers, William	6710	Full	-4.68000	11/14/2010		CA	0.49000	9/1/2007
 Rizika, Noah	30967	Non	-6.49769	1/7/2026		CA	0.53444	12/13/2025
 Roach, Jared	4197	Life	3.55000	9/1/2064	Seattle AGA Chapter	WA	0.36000	5/1/2005
@@ -16015,8 +16018,8 @@ Yang, Yang	23489	Non	5.18902	4/26/2022		IL	0.53442	11/4/2023
 Yang, Yicheng	30659	Full	5.20794	12/26/2025		CA	0.63382	4/13/2024
 Yang, Yilun	6656	Comp	9.22567	9/1/2064		CA	0.46813	8/2/2009
 Yang, Yuan	11969	Full	4.86000	10/1/2004			0.60000	10/1/2003
-Yang, Yue	23469	Comp	2.44208	1/1/2023			0.44957	8/9/2017
 Yang, Yue	23482	Non	2.43349	8/30/2018		OR	0.40556	7/22/2018
+Yang, Yue	23469	Comp	2.44208	1/1/2023			0.44957	8/9/2017
 Yang, YUELUN	23146	Full	4.46180	3/18/2024	San Francisco Go Club	CA	0.41375	5/27/2023
 Yang, Zehua	22760	Comp	5.42496	1/1/2023			0.57514	7/31/2016
 Yang, Zhi Rui	18534	Full	6.73789	11/18/2011	Bay Area Go Players Assoc.	CA	0.30647	7/31/2011
