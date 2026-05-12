@@ -56,7 +56,7 @@ Adams, Michael	13479	Full	-29.08000	4/17/2006		PA	0.92000	6/1/2005
 Adams, Robert	6958	Full	-5.09000	4/28/1995		AZ	0.68000	6/1/1994
 Adams, Samuel	24017	Youth		8/8/2021		ME		
 Adamski, John David	5557	Full	-19.78000	12/31/2001		IA	1.75000	6/1/1998
-Adamski, Paul	25505	Full	-7.63117	6/18/2026		NE	0.60650	7/13/2025
+Adamski, Paul	25505	Full	-7.63117	5/11/2027		NE	0.60650	7/13/2025
 Adamson, David R	102	Full	-4.99000	4/8/2027	Massachusetts Go Association	MA	0.52000	9/1/1993
 Addeo, Lily	32137	Full	-14.38319	10/22/2026		NY	0.78233	11/8/2025
 Adeline, Chloe	20749	Full	-4.95841	8/3/2014	Seattle AGA Chapter	WA	0.59686	8/4/2013
@@ -10352,6 +10352,7 @@ Nakayama, Yoshitaka	11208	Full	2.87340	8/23/2023			0.41250	7/22/2018
 Nam, Chris	8345	Non	4.87000	12/28/1996		CA	0.55000	9/1/1998
 Nam, Dong-eun	8958	Full	5.36000	1/13/1999		CA	0.52000	9/1/1998
 Nam, Gunwoo	15798	Non	7.89000	9/23/2007			0.82000	1/1/2008
+Nam, Hong	32587	Non		5/11/2027				
 Nam, Hoon	20389	Non	6.11047	1/31/2013			0.63775	1/12/2013
 Nam, Hyeongseung	26126	Full	-4.48745	9/24/2024	Santa Monica Go Club	CA	0.90829	9/24/2022
 Nam, James	10564	Full	3.64000	6/11/2002	Corvallis Go Club	OR	0.70000	6/1/2001
@@ -15397,7 +15398,7 @@ Wong, Akira	26335	Full	-11.93775	2/24/2024	San Francisco Go Club	CA	0.56118	4/15
 Wong, Albert	24065	Full		8/28/2026	Orange County Go Club	CA		
 Wong, Albert	17745	Full	-7.19840	9/18/2010	Seattle AGA Chapter	WA	1.20402	12/6/2009
 Wong, Alex	19780	Full	-5.44159	3/9/2017	Stony Brook University Go Club	NY	0.35251	5/7/2017
-Wong, Alex	25780	Full	-4.89969	5/16/2025	Stony Brook University Go Club	NY	0.36346	5/25/2024
+Wong, Alex	25780	Full	-4.89969	5/11/2027	Stony Brook University Go Club	NY	0.36346	5/25/2024
 Wong, Andy	31216	Full	-12.81174	9/8/2026	Atlanta Go Club	GA	0.64106	2/1/2026
 Wong, Chi	14082	Full	-2.85515	8/22/2017		FL	0.83846	7/30/2016
 Wong, Chi Yiu	6477	Non	2.01000	5/28/1993			0.66000	9/1/1993
