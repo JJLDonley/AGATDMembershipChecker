@@ -6530,8 +6530,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
 Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
+Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -12355,6 +12355,7 @@ Scherer, Emily	23014	Full	-20.95148	6/2/2020	Orlando Go Club	FL	1.15863	6/1/2019
 Schery, David	17060	Full	-25.51824	2/23/2011		CA	1.15919	8/8/2009
 Schiek, Richard	7469	Full	-8.63291	9/19/2026	Albuquerque Go	NM	4.05593	12/16/2023
 Schiff, Sarah	12297	Non	-35.14000	11/27/2003			2.48000	12/1/2003
+Schiffin, Paul	32589	Full		5/12/2027				
 Schiffman, Austin	24066	Full		11/28/2021		CA		
 Schilleman, Kenneth R	10219	Full	-25.11000	11/14/2001	Evanston Go Club	IL	0.79000	7/1/2001
 Schilling, Bertram	24550	Full		4/19/2025				
@@ -16090,6 +16091,7 @@ Ye, Zhanqing	30615	Youth	-1.38897	11/21/2024	San Diego Go Club	CA	0.59186	11/25/
 Ye, Ziwei	22182	Full	-19.68192	10/24/2016	Empty Sky Go Club	NY	1.45698	10/24/2015
 Yeager, Daniel	15031	Full	-26.26000	12/19/2007		IN	1.56000	5/1/2007
 Yean, Ung L	2907	Full	1.58000	10/28/1994	Seattle AGA Chapter	WA	0.51000	9/1/1994
+Yeates, Cameron	32588	Full		5/12/2027				
 Yeates, Keith	3491	Full	-4.90000	4/28/1996		OH	0.00000	11/15/1992
 Yedidia, Jonathan	8542	Full	-12.86000	4/30/1998		MA	0.82000	6/1/1997
 Yee, Bennet	22434	Life		9/1/2064		CA		
