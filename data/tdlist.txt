@@ -3356,7 +3356,7 @@ Dror, David	16462	Non	-11.07276	1/15/2011	Tucson Go Club	AZ	0.60013	1/8/2011
 Drucker, Andrew D	30963	Full	-1.63581	5/3/2027	Evanston Go Club	IL	0.52774	3/28/2026
 Drucker, Thomas	7671	Full	-21.91000	2/28/1999		PA	0.86000	9/1/1995
 Drysdale, Bruce	9055	Full	-9.06000	4/13/2000		OH	0.70000	6/1/1999
-Drysdale, Robert	4600	Full		6/25/2026		NH		
+Drysdale, Robert	4600	Full		5/18/2027		NH		
 Du, Alexander	21332	Youth	-21.78674	8/11/2015		NY	2.35398	8/10/2014
 Du, An Qing	10236	Non	4.92000	2/5/2006		NY	0.45000	2/1/2006
 Du, Charlie WT	19251	Non	1.04783	8/12/2011			0.99036	7/31/2011
@@ -6803,7 +6803,7 @@ Kennedy, Mike	14953	Non	-7.85000	9/17/2007		CA	0.59000	11/1/2006
 Kennedy, Samuel	24018	Full	-2.51892	1/27/2027	Evanston Go Club	SC	0.35851	1/17/2026
 Kennedy, Thomas	30582	Full		11/6/2024	Denton Go Club	TX		
 Kenny, Benjamin C	402	Full	-5.40000	9/28/1997	GWRM Baltimore Go Club	MD	0.00000	11/15/1992
-Kenny, Joel	24545	Full	5.55220	7/15/2026	Gotham Go Group	NY	0.12663	5/1/2026
+Kenny, Joel	24545	Full	5.55220	5/19/2027	Gotham Go Group	NY	0.12663	5/1/2026
 Kenny, Thomas	8544	Full	-16.83000	4/30/1998	Ann Arbor Go Club	MI	2.07000	6/1/1997
 Kenoyer, Aidan J	32546	Youth		4/30/2027		NH		
 Kenrick, Patrick	31175	Full		8/26/2025	Dayton Go Club	OH		
