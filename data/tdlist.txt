@@ -527,7 +527,7 @@ Banks, Kendall	12700	Full	3.08998	7/29/2021		IL	0.51486	11/10/2018
 banks, walter r	30450	Full		10/6/2024		NJ		
 Banks, Walter	16569	Full		10/25/2023		NJ		
 Bann, Ellery	7588	Full	-19.12000	11/3/2025		NC	0.71000	6/1/1996
-Bannister, Patrick	23337	Full	-7.97098	4/28/2026	GWRM Baltimore Go Club	MD	0.35233	7/13/2025
+Bannister, Patrick	23337	Full	-7.97098	5/20/2027	GWRM Baltimore Go Club	MD	0.35233	7/13/2025
 Banno, Yuki	25399	Youth		1/23/2026		NJ		
 Banuelos, Sebastian	24678	Comp	-11.63662	1/1/2023			0.59472	7/14/2019
 Banzhaf, Jeremy	10584	Full	-2.84000	6/3/2003	Empty Sky Go Club	CT	0.40000	6/1/2003
@@ -4752,7 +4752,7 @@ Guo, Wei	3395	Full	5.21000	10/28/1994		NY	0.52000	12/1/1993
 Guo, Weiming	19912	Non	5.04900	3/7/2023	Stony Brook University Go Club	NY	0.85574	2/25/2023
 Guo, Xiangyu	23988	Comp	1.88781	1/1/2023			0.56988	7/22/2018
 Guo, Xiao Ping	6758	Full	3.42000	11/28/1994		NY	0.49000	12/1/1993
-Guo, Xinming	18864	Full	1.40584	4/29/2026	Evanston Go Club	IL	0.32956	7/13/2025
+Guo, Xinming	18864	Full	1.40584	5/19/2027	Evanston Go Club	IL	0.32956	7/13/2025
 Guo, Xiwen	32428	Youth	-12.96989	3/21/2027		OH	1.65329	3/28/2026
 Guo, Yao	9238	Non	1.15000	8/16/1999		QC	0.55000	9/1/2007
 Guo, Yihan	26106	Full	7.01003	9/26/2026		MA	0.40778	5/24/2025
@@ -6536,8 +6536,8 @@ JOYNT, Alan	25479	Full		4/2/2023
 Ju, Il-Hong	7867	Non	7.66000	11/28/1996		NY	0.77000	1/1/1998
 Ju, Jerry	24064	Youth	3.59389	8/23/2028	New York Go Association	NY	0.20019	12/28/2025
 Ju, Peter Y	7763	Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
-Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, William	18181	Non	-22.05261	5/21/2010			1.47850	5/16/2010
+Ju, William	18185	Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Non	1.55000	2/28/2001			0.73000	3/1/2001
 Juarez, Alma G	19252	Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
@@ -13776,7 +13776,7 @@ Tan, Xinmu	12046	Full	4.75000	1/4/2008		VA	0.32000	8/1/2007
 Tan, Yuchang	24766	Comp	-19.33353	1/1/2023			0.97258	7/14/2019
 Tan, Yuliang	31334	Full	-11.49361	11/2/2025	San Diego Go Club	CA	0.96438	5/10/2025
 Tan, Zhixuan	24158	Full	-1.81016	10/16/2019	Stony Brook University Go Club	NY	0.41010	5/4/2019
-Tan, Zoe	25509	Youth	-2.93604	6/19/2026	San Diego Go Club	CA	0.59360	11/29/2025
+Tan, Zoe	25509	Youth	-2.93604	5/20/2027	San Diego Go Club	CA	0.59360	11/29/2025
 Tanabe, Shigeo	11622	Non	-1.04000	2/6/2003		WA	0.79000	2/1/2003
 Tanaka, Daisuke	12009	Full	2.39000	7/19/2005	Massachusetts Go Association	MA	0.55000	5/1/2005
 Tanaka, Ken	5592	Full	-9.23000	9/28/1994	Charlotte Go Club	NC	0.62000	6/1/1994
@@ -16837,6 +16837,7 @@ Zhao, ChangKuo	14393	Full	6.37000	3/19/2007	Feng Yun Go School	NJ	0.60000	5/1/20
 Zhao, Daniel	19262	Youth	-9.12440	7/24/2019		NY	0.44484	7/22/2018
 Zhao, Daniel	25355	Youth	3.64869	4/18/2024			0.86418	4/1/2023
 Zhao, Donghui	5019	Full	5.66000	11/28/1994		NY	0.49000	12/1/1993
+Zhao, Eric	32610	Youth		5/19/2027				
 Zhao, Ethan	13976	Full	-21.52000	11/10/2006	Feng Yun Go School	NJ	0.50000	7/1/2006
 Zhao, Fan	20688	Full	3.57403	2/27/2016			0.53457	8/4/2013
 Zhao, George	8123	Full	1.79000	7/28/1997		CA	1.00000	3/1/1997
