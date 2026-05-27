@@ -7302,7 +7302,7 @@ Knowles, Evan W	32442	Full		3/25/2027		NY
 Knowles, Jason	21213	Full	-10.62989	5/24/2015		MD	0.65633	5/24/2014
 Knowles, Kenneth	13746	Full	-5.10000	7/18/2007		CA	0.33000	12/1/2006
 Knowles, Sam	22514	Full	-15.75490	2/21/2021	Massachusetts Go Association	MA	0.90495	7/31/2016
-Knox, Walter L	8008	Full	-21.11000	7/2/2026	Charlotte Go Club	NC	0.75000	3/1/1997
+Knox, Walter L	8008	Full	-21.11000	5/26/2027	Charlotte Go Club	NC	0.75000	3/1/1997
 Knox, Warren	15769	Full	-11.45120	9/11/2025	Davis/Sacramento Go Club	CA	0.53804	10/26/2025
 Knuepffer, Klaus	8995	Non	-2.47000	1/31/1998			0.65000	3/1/1998
 Knupfer, Klaus	4990	Non	-1.87000	12/28/1979			0.47000	9/1/1994
@@ -7864,7 +7864,7 @@ Lee, Edward	16081	Full	1.36862	8/3/2018		CA	0.51495	8/6/2017
 Lee, Elton	6910	Full	5.11000	8/29/2004		CA	0.53000	6/1/2003
 Lee, Eric	14250	Full	3.68525	2/1/2027	Arizona Go Club	AZ	0.76085	11/29/2025
 Lee, Eric C	3571	Full	5.42000	5/28/1990	Dallas Go Club	TX	0.48000	9/1/1993
-Lee, Eric	11352	Non	6.33827	4/30/2026	Feng Yun Go School	NJ	0.20502	4/25/2026
+Lee, Eric	11352	Non	6.33827	5/26/2027	Feng Yun Go School	NJ	0.20502	4/25/2026
 Lee, Eugene	18405	Youth	-11.34545	10/4/2012	Austin Go Club	TX	1.00179	10/30/2010
 Lee, Eui Yun	7255	Full	3.88000	5/28/1995		PA	0.67000	6/1/1994
 Lee, Euihyun J	32255	Full	-26.13302	12/22/2026		MA	1.56502	1/31/2026
@@ -12151,7 +12151,7 @@ Ryan, Patrick	9163	Full	-15.56000	7/2/1999	Wings Across Calm Water	NJ	1.84000	12
 Ryan, William J	31814	Full	-31.71119	5/18/2026	Upstate SC Go Club	SC	1.17585	1/17/2026
 Ryder, Jonathan L	661	Full	3.04000	3/2/2005		NJ	0.32000	3/1/2004
 Ryder, Robert M	662	Full	1.76000	3/15/2018			0.51000	3/1/1994
-Rymer, Patrick	3947	Full	-9.21654	6/29/2026	Upstate SC Go Club	SC	0.32286	1/17/2026
+Rymer, Patrick	3947	Full	-9.21654	5/26/2027	Upstate SC Go Club	SC	0.32286	1/17/2026
 Ryoo, Andy	10767	Full	6.97000	5/1/2003		CO	0.49000	5/1/2002
 Rysdam, David	12582	Full	-8.11000	6/3/2006		NH	0.60000	10/1/2004
 Rysdam, Evan	23599	Full	-1.65560	11/3/2026	Empty Sky Go Club	WA	0.67669	11/5/2023
