@@ -124,7 +124,7 @@ Alfonzo, Javier R	24639	Full		6/14/2023	Massachusetts Go Association	RI
 Alford, Bill	16624	Full	-22.29000	5/28/2010		WA	2.25000	7/1/2008
 Alford, Jake	24728	Full		7/10/2021	Massachusetts Go Association	MA		
 Alford, Kenneth	16947	Full	-3.80000	11/9/2010	Triangle Go Group	NC	0.62000	12/1/2008
-Alford, Michael	103	Full	-4.20570	6/15/2026		OR	0.39699	11/22/2025
+Alford, Michael	103	Full	-4.20570	5/27/2027		OR	0.39699	11/22/2025
 Al-hassy, Musa	22831	Comp	-6.09603	1/1/2023			0.43131	7/31/2016
 Alif, Metod	4365	Full	-2.45000	9/30/1998		NY	0.38000	6/1/1996
 Alika, Luana	15768	Full	-13.61000	4/7/2010	Davis/Sacramento Go Club	CA	0.84000	10/1/2007
