@@ -6712,7 +6712,7 @@ Kasper, David	17906	Full	-15.10442	1/30/2011		CA	1.12678	1/9/2010
 Kass, Elliot	5777	Full	-13.66000	6/30/1998		NY	0.63000	3/1/1994
 Kass, Elliot	32064	Full	-5.54390	9/21/2026	Twin Cities Go Club	MN	1.35826	10/18/2025
 Kass, Michael	1762	Full	5.42000	8/18/2009		CA	0.50000	9/1/2008
-Kastenholz, Daniel J	4906	Full	-5.00162	7/6/2026	University of Wisconsin GO Club	WI	0.47724	5/14/2022
+Kastenholz, Daniel J	4906	Full	-5.00162	5/28/2027	University of Wisconsin GO Club	WI	0.47724	5/14/2022
 Katagish, Kanjiro	6628	Full	6.79000	7/28/1994		CA	0.53000	9/1/1993
 Kataman, George	10667	Non	1.19000	3/19/2006	Evanston Go Club	IL	0.54000	4/1/2006
 Kataoka, Hisaaki	23998	Comp	-1.31639	1/1/2023			0.53647	7/22/2018
@@ -13317,7 +13317,7 @@ Steele, Colton	18355	Full	-30.71017	9/15/2011	Bay Area Go Players Assoc.	CA	1.23
 Stefanik, Kevin	15493	Full	-11.54791	3/28/2016	NOVA Go Club	VA	0.44744	10/24/2015
 Steffens, Wayne	17476	Full	-19.89269	5/2/2013		WA	1.85318	12/6/2009
 Stegner, Danny	24107	Full		10/26/2023		MI		
-Steiger, Eli	24487	Full	-4.80341	2/13/2025	Cleveland Go Club	OH	0.32603	2/1/2025
+Steiger, Eli	24487	Full	-4.80341	5/28/2027	Cleveland Go Club	OH	0.32603	2/1/2025
 Stein, Andrew	31975	Full	-13.33507	8/14/2026		IN	0.87108	8/13/2025
 Stein, Bjorn	18909	Full	1.08208	7/10/2012	Bay Area Go Players Assoc.	CA	0.41506	8/13/2011
 Stein, Brad	18032	Full	-26.66556	3/12/2011	Austin Go Club	TX	2.48605	3/6/2010
