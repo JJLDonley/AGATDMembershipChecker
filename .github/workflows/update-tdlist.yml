@@ -18,7 +18,7 @@ jobs:
         run: |
           mkdir -p data
           curl -L \
-            https://aga-functions.azurewebsites.net/api/GenerateTDListB \
+            https://aga-membership-functions-fmgchkbxa3hxd8h0.westus/api/GenerateTDListB \
             -o data/tdlist.txt
 
       - name: Commit if changed
