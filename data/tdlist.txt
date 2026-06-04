@@ -8640,6 +8640,7 @@ Lindsey, Robert	11460	Adult Full	-19.17000	12/16/2004		VA	0.84000	4/1/2003
 Line, Gavin	31252	Tournament Pass	-8.28805	10/23/2024		MN	0.76637	9/28/2024
 Ling, Amy	23096	Youth	-10.23306	12/1/2022	Seattle AGA Chapter	WA	0.50848	1/5/2020
 Ling, Arnold	7846	Adult Full	-3.62000	11/28/1996		NY	0.78000	12/1/1995
+Ling, Chen	32637	Adult Full		6/2/2027		WI		
 Ling, Di	23166	Adult Full	4.49608	5/8/2021	Seattle AGA Chapter	WA	0.41487	1/5/2020
 Ling, Hao	13169	Tournament Pass	8.35000	1/17/2005	Idaho Go Club	MI	0.80000	4/1/2005
 Ling, Haotian	31573	Youth		2/9/2026		CA		
@@ -10225,7 +10226,7 @@ Myers, Drake	16700	Adult Full	-8.75163	10/21/2011	Santa Monica Go Club	CA	0.4860
 Myers, John	12762	Adult Full	3.32877	11/20/2018	Massachusetts Go Association	MA	0.70346	12/2/2017
 Myers, Mark	6278	Adult Full	-13.00000	12/30/1998		KY	0.00000	1/15/1994
 Myers, Paul	11466	Adult Full	-23.29000	12/17/2007	Austin Go Club	TX	0.54000	9/1/2003
-Myers, Robert	1156	Adult Full	2.55649	7/12/2026	Santa Monica Go Club	NV	0.65874	8/5/2023
+Myers, Robert	1156	Adult Full	2.55649	7/12/2027	Santa Monica Go Club	NV	0.65874	8/5/2023
 Myers, Timothy	7620	Adult Full	-6.46000	5/10/2002	Charlotte Go Club	NC	0.41000	4/1/2001
 Myong, Jae	7659	Tournament Pass	1.99000	2/27/1998		CO	0.73000	3/1/1998
 Myrvold, Barry	18446	Adult Full	-25.74461	1/16/2027		NY	2.02936	2/8/2020
@@ -12755,7 +12756,7 @@ Siegel, Paul	14408	Adult Full	-5.79000	12/16/2012		PA	1.59000	12/1/2006
 Siegel, Paul	30782	Adult Full - Lifetime	3.73317	10/25/2065	Massachusetts Go Association	MA	0.33293	1/31/2026
 Sieger, Gregory	7050	Adult Full	3.08000	7/31/1999		OR	0.61000	9/1/1995
 Sieger, Richard	697	Adult Full	1.13000	9/28/1994		CA	0.51000	9/1/1993
-Siekierski, Neal	25939	Adult Full	-6.84214	5/21/2026	Triangle Go Group	NC	0.25745	3/21/2026
+Siekierski, Neal	25939	Adult Full	-6.84214	6/1/2027	Triangle Go Group	NC	0.25745	3/21/2026
 Siemon, Debbie	3076	Adult Full	-1.75714	8/25/2026	Atlanta Go Club	GA	0.35615	10/19/2025
 Sies, Timothy	15367	Adult Full	-7.50000	3/25/2009		MD	0.90000	11/1/2008
 Sievert, Nicholas	25821	Adult Full	-9.14240	2/7/2026	National Go Center	VA	0.73011	4/18/2026
@@ -13148,7 +13149,7 @@ Stampfel, Cameron	30515	Adult Full	-7.32593	10/22/2025	Greater Kansas City Go Cl
 Stan, Clark	13327	Adult Full	-34.85000	3/4/2006	Princeton Go Club	CT	1.08000	5/1/2005
 Stanberry, Rob	25228	Youth		7/21/2021	Austin Go Club	TX		
 Stanczak, Kelsey	25460	Adult Full		3/7/2022		WI		
-Standard, Peter	13508	Adult Full	-13.74000	5/31/2027		NC	1.49000	6/1/2005
+Standard, Peter	13508	Adult Full	-13.74000	5/31/2027	Triangle Go Group	NC	1.49000	6/1/2005
 Stanek, Jacob	22073	Adult Full	-9.98761	10/8/2017	Empty Sky Go Club	NY	0.50872	10/8/2016
 Stanfill, Colin	25270	Adult Full		7/29/2021		MA		
 Stanford, Anthony	22811	Adult Full	-16.91715	7/29/2017		NY	1.86820	7/31/2016
@@ -14961,7 +14962,7 @@ Weitzhandler, Jeremy	12965	Adult Full	-23.33000	1/28/2007		CO	0.98000	2/1/2006
 Weiworka, Daniel	11699	Tournament Pass	-17.41000	3/8/2003			1.69000	3/1/2003
 Welch, Felix Burr	25988	Youth		7/2/2023	Western Mass. Go Club	MA		
 Welch, Geoff	26435	Adult Full		7/20/2025		MN		
-Welch, Geoffrey	31467	Adult Full		1/10/2026		MN		
+Welch, Geoffrey	31467	Adult Full		6/2/2027		MN		
 Welch, Kristina	16561	Adult Full	-6.26000	4/27/2009	Houston Go Club	TX	0.87000	5/1/2008
 Welch, Raymond	30868	Adult Full	-13.73894	1/16/2027	Massachusetts Go Association	MA	0.52895	1/31/2026
 Weldon, Alexander	12409	Tournament Pass	-1.88000	2/27/2004		QC	0.52000	2/1/2004
@@ -15053,7 +15054,7 @@ Whitaker, Nicholas	24833	Adult Full	-17.63645	12/21/2021	San Diego Go Club	CA	1.
 Whitby, Bob	7834	Adult Full	-14.74000	10/7/2000	GWRM Baltimore Go Club	MD	0.70000	9/1/1998
 White, Calvin R.	3974	Adult Full	-4.28000	3/14/2018			0.47000	6/1/1996
 White, Christopher	10753	Adult Full	-2.15169	1/5/2017	Massachusetts Go Association	MA	1.26606	1/10/2016
-White, Geoffrey	20655	Adult Full		6/2/2027	Bay Area Go Players Assoc.	CA		
+White, Geoffrey	20655	Adult Full		6/18/2027	Bay Area Go Players Assoc.	CA		
 White, James	31777	Adult Full	-5.87733	5/5/2027		NY	1.08464	5/10/2025
 White, Jeremy	6011	Adult Full	-20.30000	3/28/1993	Portland Go Club	OR	0.00000	11/15/1992
 White, Jonah	20470	Youth	-12.60936	3/6/2014		NY	0.54329	10/20/2013
