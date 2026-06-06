@@ -3411,6 +3411,7 @@ Duval, Yvon	6655	Tournament Pass	-3.24000	8/28/1993			0.35000	9/1/1994
 Duvall, Catlin	26447	Adult Full	-18.44882	3/11/2025	Atlanta Go Club	GA	1.07995	4/1/2023
 Duven, John	8986	Adult Full	-24.54000	3/29/2001		MD	1.62000	6/1/1998
 Dvinov, Daniel	10885	Adult Full	-7.85000	2/2/2003		MA	1.36000	2/1/2002
+Dyck, Jacob	32641	Tournament Pass		7/4/2026		MN		
 Dye, Chase	14971	Tournament Pass	-24.97000	9/19/2007			0.84000	11/1/2006
 Dyer, Dave	3362	Adult Full	-4.38000	8/31/2005		CA	0.58000	6/1/2003
 Dyer, Landon	8043	Adult Full	-2.74126	4/9/2013		TX	0.42866	10/15/2011
@@ -6794,7 +6795,7 @@ Ki, Suk Han	8144	Tournament Pass	-5.55000	7/28/1996			0.75000	9/1/1996
 Kibar, Osman	12369	Adult Full	-3.66890	9/9/2023	San Diego Go Club	CA	0.67077	11/30/2019
 Kickbusch, Joel	18142	Adult Full	-10.60940	10/29/2025	Space Coast Area Go Association	FL	0.68893	1/27/2024
 Kidd, Mathew	10860	Tournament Pass	-12.86000	1/11/2002			1.39000	2/1/2002
-Kidd, Phil	21894	Adult Full	-10.66116	6/15/2026	Gotham Go Group	NY	0.46072	9/22/2018
+Kidd, Phil	21894	Adult Full	-10.66116	6/15/2027	Gotham Go Group	NY	0.46072	9/22/2018
 Kiehl, Oliver	26134	Adult Full	-1.74153	10/13/2023	Vermont Go Club	VT	0.67572	11/5/2022
 Kiersey, Cole	5265	Adult Full	-7.97000	6/28/1994		CO	0.53000	9/1/1993
 Kiersky, Kevin	1813	Adult Full	-8.90000	6/28/1986		WA	0.00000	11/15/1992
@@ -8929,6 +8930,7 @@ Loegel, George	13557	Adult Full		1/17/2025		TX
 Loew, Cydni	32456	Tournament Pass	-15.38502	4/30/2026		OR	0.92425	3/7/2026
 Loffredo, Jeremy	30326	Adult Full		6/23/2024		VA		
 Logan, Todd	12799	Adult Full	-2.11000	7/13/2005		MA	0.66000	5/1/2005
+Logrono, Jonathan	32640	Adult Full		6/4/2027		NJ		
 Logue, James	6729	Adult Full	-11.72000	11/30/2000		CT	1.01000	6/1/1995
 Logue, Kenneth	6085	Adult Full	-20.00000	9/30/1999		WA	0.00000	11/15/1992
 Loh, Wai-Fong	3444	Adult Full	2.65911	5/10/2015	Massachusetts Go Association	MA	0.61897	4/13/2014
@@ -15347,7 +15349,7 @@ Wright, Cassidy	22830	Tournament Pass	-8.36859	8/4/2016		CO	1.54869	7/31/2016
 Wright, Drew	17615	Tournament Pass	-4.36897	7/4/2012		MI	0.50984	1/18/2020
 Wright, Drew	23639	Adult Full		10/25/2026	Ann Arbor Go Club	MI		
 Wright, Nathaniel	15022	Adult Full	-1.78000	10/14/2010		VT	0.82000	10/1/2009
-Wright, Neal	12895	Adult Full	-1.61517	7/15/2026	Boulder Go Club	CO	0.72904	6/28/2025
+Wright, Neal	12895	Adult Full	-1.61517	7/15/2027	Boulder Go Club	CO	0.72904	6/28/2025
 Wright, Nolan	31487	Adult Full	-19.23335	1/13/2027		IA	1.11376	3/22/2025
 Wright, Paul	18483	Adult Full	-8.10735	4/6/2022		PA	0.46726	8/13/2014
 Wright, Richard	5659	Adult Full	-12.62000	7/28/1997	Austin Go Club	TX	0.64000	9/1/1995
