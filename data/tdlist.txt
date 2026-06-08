@@ -3666,7 +3666,7 @@ Fang, Chih-Yu	15134	Adult Full	-2.47981	5/10/2009	Tacoma Go Club	OR	1.02607	6/29
 Fang, Chuanqi	24759	Complimentary	6.57462	1/1/2023			0.55426	7/14/2019
 Fang, Clement	9146	Tournament Pass		6/18/1998				
 Fang, Daniel	14097	Adult Full	-12.76000	10/2/2010	Feng Yun Go School	NJ	0.39000	1/1/2009
-Fang, David Zixin	25542	Youth	4.28550	7/13/2036	Feng Yun Go School	MI	0.32549	5/23/2026
+Fang, David Zixin	25542	Youth	4.28550	7/13/2036	Feng Yun Go School	NC	0.32549	5/23/2026
 Fang, eric yiyuan	24296	Youth	-25.50362	11/20/2019	New York Go Association	NY	1.79435	11/17/2018
 Fang, Hawren	17812	Tournament Pass	-1.68000	10/8/2009		IL	0.65000	10/1/2009
 Fang, Howard	14098	Adult Full	2.13000	12/19/2010	Feng Yun Go School	NJ	0.80000	12/1/2008
@@ -4040,7 +4040,7 @@ Fuchs, Pete	2946	Adult Full	-7.20000	3/28/1994		NC	0.00000	11/15/1992
 Fudge, Van	12652	Adult Full	-23.62000	6/2/2005	Corvallis Go Club	OR	1.99000	6/1/2004
 Fuentes, Jason	14117	Adult Full	-4.90000	12/20/2006		CA	0.58000	1/1/2006
 Fugami, Kai	23517	Adult Full	7.11189	1/11/2021	Bellingham Go Club	WA	0.52058	5/6/2018
-Fujan, Bradley	30339	Tournament Pass	-1.35998	3/17/2026		OR	0.59848	3/7/2026
+Fujan, Bradley	30339	Tournament Pass	-1.35998	7/6/2026		OR	0.59848	3/7/2026
 Fujan, Bradley Joseph	20219	Adult Full		10/12/2014		OR		
 Fujii, Takaaki	8383	Adult Full	1.52000	2/2/2003		PA	0.20000	3/1/2002
 Fujimoto, Takemi	17675	Tournament Pass	1.36000	8/13/2009			0.48000	9/1/2009
@@ -8991,6 +8991,7 @@ Louie, Vincent	12678	Tournament Pass	-30.03000	5/26/2004		CA	0.88000	5/1/2004
 Lounela, Olli	7360	Tournament Pass	5.32000	8/28/1994			0.48000	9/1/1994
 Loux, William	10217	Adult Full	-6.75000	11/14/2004		CO	0.52000	1/1/2004
 Loving, Bruce	5709	Adult Full	-15.90000	12/28/1992		FL	0.00000	11/15/1992
+Loving, Warren	32642	Adult Full		6/6/2027		MT		
 Low, Brenden	12683	Adult Full	-27.87000	5/26/2004			0.83000	5/1/2004
 Low, John	9280	Adult Full	-2.38000	12/20/2005	Davis/Sacramento Go Club	CA	0.64000	6/1/2004
 Low, Yucheng	22675	Adult Full	-13.20618	6/3/2017	Seattle AGA Chapter	WA	1.59416	6/5/2016
@@ -12281,7 +12282,7 @@ Schmidt, Peter	7072	Adult Full	-18.61000	8/28/1993		NY	0.65000	3/1/1994
 Schmidt, Roy	8104	Adult Full - Lifetime	-2.06598	9/1/2064	Portland Go Club	OR	0.70263	1/31/2017
 Schmit, Paul	6486	Tournament Pass	-2.34000	5/28/1993			0.83000	9/1/1993
 Schmitt, George	11645	Adult Full	-7.59000	2/18/2004	Univ. of Maryland Go Club	MD	0.59000	12/1/2003
-Schmitten, George	2429	Adult Full	-9.84994	4/24/2026	Seattle AGA Chapter	WA	0.15076	7/13/2025
+Schmitten, George	2429	Adult Full	-9.84994	6/6/2027	Seattle AGA Chapter	WA	0.15076	7/13/2025
 Schmitz, Nathan	14535	Adult Full	-2.45000	5/24/2011	NOVA Go Club	VA	0.32000	4/1/2008
 Schnall, Ira	2349	Adult Full	-6.05000	3/13/2018			0.53000	8/1/2001
 Schneeflock, Fletcher	9200	Tournament Pass	3.07389	3/26/2011	Western Mass. Go Club	MA	0.53159	3/6/2011
@@ -12783,6 +12784,7 @@ Silva, Wendel	21339	Adult Full	-4.73264	10/2/2024		NY	0.52371	11/11/2023
 Silver, Stan	18783	Tournament Pass	-13.45573	4/30/2011			1.06977	4/30/2011
 Silver, Stanley	19843	Adult Full	-10.70221	4/15/2014	Twin Cities Go Club	MN	0.64469	10/26/2013
 Silver, Steven	1198	Adult Full	2.70000	4/21/2010		MI	0.00000	11/15/1992
+Silverstein, Jeff	32643	Adult Full		6/6/2027		NY		
 Sim, Andrew	17881	Adult Full	3.54000	11/20/2010		MD	0.84000	12/1/2009
 Sim, Andrew	21186	Adult Full	7.72346	5/10/2015		MD	0.61724	4/26/2014
 Sim, David	8552	Adult Full	4.23686	3/1/2013		NY	1.38740	2/25/2012
@@ -13353,7 +13355,7 @@ Su, Yun Feng	9281	Tournament Pass	-4.14000	10/23/1998		CA	0.77000	12/15/1998
 Suarez, Jorge	24877	Adult Full		5/8/2025		VA		
 Suastegui, Samuel	20775	Complimentary	-10.57483	1/1/2023			0.67977	8/6/2017
 Subramanian, Shan	9321	Adult Full	-10.53000	11/23/1999		NJ	1.59000	12/15/1998
-Suchodolskyi, Mark	30318	Youth	-14.73125	6/15/2024		CO	1.62434	6/17/2023
+Suchodolskyi, Mark	30318	Youth	-14.73125	6/6/2027		CO	1.62434	6/17/2023
 Sud, Mohan Pierre	19388	Adult Full	-1.18861	10/25/2018	NOVA Go Club	VA	0.39580	2/20/2016
 Sudhoff, Horst	4310	Adult Full	2.89000	3/13/2018			0.17000	9/1/2006
 Suekama, Mikey	19924	Adult Full	-30.45400	5/31/2013		CO	1.22767	5/12/2012
