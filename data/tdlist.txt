@@ -13466,6 +13466,7 @@ Sun, Yingjie	12575	Tournament Pass	-1.34000	3/31/2004		IL	0.72000	4/1/2004
 Sun, yipeng	24220	Youth	-19.43949	11/1/2019	National Go Center	DC	1.65046	10/27/2018
 Sun, Yuan	31055	Complimentary		12/17/2024				
 Sun, Zhijiang	6208	Adult Full	-1.75000	10/28/1993	Austin Go Club	TX	0.47000	9/1/1993
+Sun, Zhiyu	32645	Tournament Pass		6/9/2027				
 Sun, Zhuoxian	21753	Complimentary	1.18482	1/1/2023			0.60897	2/14/2015
 Sunami, Koji	23283	Tournament Pass	-1.19484	4/18/2017		CA	0.44951	7/8/2017
 Sundermeier, Brian	16977	Adult Full	-12.26980	12/19/2016		IL	0.56153	4/24/2010
