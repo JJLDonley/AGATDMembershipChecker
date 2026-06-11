@@ -571,7 +571,7 @@ Barnes, Tarek	32270	Adult Full		1/5/2027		CA
 Barnett, Caleb	30499	Youth	-2.58809	10/15/2026		TX	0.31738	11/1/2025
 Barnett, Charles	30923	Adult Full	-14.64378	1/17/2027		MI	0.57343	1/31/2026
 Barnett, David	10711	Adult Full	-9.73000	1/21/2008	Wings Across Calm Water	NY	0.73000	2/1/2007
-Barnett, Drew	21272	Adult Full	1.66481	6/10/2026	Seattle AGA Chapter	WA	0.24315	5/3/2026
+Barnett, Drew	21272	Adult Full	1.73021	6/10/2026	Seattle AGA Chapter	WA	0.23578	6/7/2026
 Barnett, Janet	9211	Adult Full	-23.22000	8/13/1999		NM	0.94000	9/1/1998
 Barnett, Kevin	30600	Adult Full		11/9/2024	Tulsa Go Club	OK		
 Barney, Stephen	30136	Youth		4/11/2024	Salt Lake Go Club	UT		
@@ -1168,7 +1168,7 @@ Brown, Drew	31070	Adult Full		6/24/2026		NC
 Brown, Duncan	3913	Adult Full	-12.74951	7/1/2021		IN	0.43847	6/22/2013
 Brown, Dylan Patrick Atticu	25925	Adult Full	-14.77139	5/2/2023	Gotham Go Group	NY	1.11988	5/7/2022
 Brown, Ernest	168	Adult Full	-1.16486	1/8/2027	San Francisco Go Club	CA	0.82874	4/16/2022
-Brown, Frank	6096	Adult Full	-5.91308	1/8/2027	Seattle AGA Chapter	WA	0.15754	5/23/2026
+Brown, Frank	6096	Adult Full	-5.90516	1/8/2027	Seattle AGA Chapter	WA	0.15495	6/7/2026
 Brown, Gregory	16064	Adult Full	-12.39000	12/16/2008		CT	0.63000	2/1/2008
 Brown, Harold	23830	Adult Full		3/27/2025				
 Brown, Hugh	7748	Adult Full	2.77000	7/28/1996		OR	0.59000	9/1/1995
@@ -1256,7 +1256,7 @@ burch, Dan	21485	Adult Full	-4.05286	12/9/2017		CO	0.46963	12/9/2015
 Burdsal, Robert	17405	Adult Full	-12.22223	10/7/2024		VA	0.67514	10/25/2014
 Burg, Cameron Mirochnik	26157	Tournament Pass	-12.24776	11/7/2023		WA	0.70199	12/3/2022
 Burg, Chris	12959	Adult Full	1.24480	2/19/2016	Tucson Go Club	AZ	0.29646	10/24/2015
-Burg, Kyle	26071	Adult Full	-4.71950	11/1/2026	Seattle AGA Chapter	WA	0.25452	5/3/2026
+Burg, Kyle	26071	Adult Full	-4.71588	11/1/2026	Seattle AGA Chapter	WA	0.24574	6/7/2026
 Burger, Alan	31496	Adult Full	-19.15048	1/16/2026	Massachusetts Go Association	MA	0.62590	8/30/2025
 Burget, Kevin	20660	Adult Full	-12.03855	8/4/2026	Vermont Go Club	VT	1.42124	3/18/2014
 Burgin, Tucker	16834	Adult Full	-11.26706	11/1/2010		CO	0.31221	11/6/2010
@@ -3026,7 +3026,7 @@ Deacon, Rodney	23065	Adult Full	-10.55022	10/8/2019	Seattle AGA Chapter	WA	0.472
 Dean, Keith	3014	Adult Full	-13.81000	2/14/2003	Austin Go Club	CA	0.53000	7/1/2002
 Deanhardt, William	25922	Adult Full	-18.33025	5/2/2026		IL	1.35899	5/14/2022
 DeAntonio, Jasper	20342	Adult Full	-11.26237	1/2/2014	Gotham Go Group	NY	0.85275	1/12/2013
-Deardorff, Douglas	32463	Adult Full	-6.07248	4/6/2027	Seattle AGA Chapter	WA	0.79381	4/19/2026
+Deardorff, Douglas	32463	Adult Full	-6.12933	4/6/2027	Seattle AGA Chapter	WA	0.58555	6/7/2026
 Dearing Jr., Robert	30606	Adult Full		11/12/2024	Seattle AGA Chapter	WA		
 Deavers, Andrew	14502	Adult Full	-42.48000	5/12/2008	Houston Go Club	TX	0.68000	5/1/2007
 Debarre, Thomas	12550	Tournament Pass	8.82909	4/5/2004			0.69691	7/17/2015
@@ -5200,7 +5200,7 @@ Henn, Kathryn	18675	Adult Full	-21.03440	2/28/2012		NJ	1.43694	2/26/2011
 Henner, Jacob	9179	Tournament Pass	-4.71000	10/5/2008		OR	0.91000	9/1/2008
 Hennessy, James	24132	Adult Full		10/1/2021		NY		
 Henning, Cayanna	22505	Youth	-19.10070	3/31/2017	Seattle AGA Chapter	WA	0.91436	7/3/2016
-Henning, Heath	22037	Adult Full	-5.58608	9/30/2026	Seattle AGA Chapter	WA	0.74110	5/3/2026
+Henning, Heath	22037	Adult Full	-5.96468	9/30/2026	Seattle AGA Chapter	WA	0.56360	6/7/2026
 Henninger, Pete	17420	Adult Full	-16.77988	5/3/2015		TX	1.02765	6/29/2013
 Henrie, Liam	31357	Adult Full	-9.69898	11/9/2026		NY	0.36806	11/22/2025
 Henrikson, Jeff	12436	Adult Full	-15.66000	11/6/2006	Seattle AGA Chapter	WA	0.75000	12/1/2005
@@ -12283,7 +12283,7 @@ Schmidt, Peter	7072	Adult Full	-18.61000	8/28/1993		NY	0.65000	3/1/1994
 Schmidt, Roy	8104	Adult Full - Lifetime	-2.06598	9/1/2064	Portland Go Club	OR	0.70263	1/31/2017
 Schmit, Paul	6486	Tournament Pass	-2.34000	5/28/1993			0.83000	9/1/1993
 Schmitt, George	11645	Adult Full	-7.59000	2/18/2004	Univ. of Maryland Go Club	MD	0.59000	12/1/2003
-Schmitten, George	2429	Adult Full	-9.84994	6/6/2027	Seattle AGA Chapter	WA	0.15076	7/13/2025
+Schmitten, George	2429	Adult Full	-9.88455	6/6/2027	Seattle AGA Chapter	WA	0.21679	6/7/2026
 Schmitz, Nathan	14535	Adult Full	-2.45000	5/24/2011	NOVA Go Club	VA	0.32000	4/1/2008
 Schnall, Ira	2349	Adult Full	-6.05000	3/13/2018			0.53000	8/1/2001
 Schneeflock, Fletcher	9200	Tournament Pass	3.07389	3/26/2011	Western Mass. Go Club	MA	0.53159	3/6/2011
