@@ -4127,6 +4127,7 @@ game, Jake	21838	Adult Full	5.51322	2/14/2024		TN	0.32900	7/12/2023
 Gan, Edward	21060	Adult Full	-11.82363	2/16/2015	Bay Area Go Players Assoc.	CA	0.85226	2/22/2014
 Gan, Jianing	17679	Complimentary	7.99409	1/1/2023			0.23994	8/10/2014
 Gan, Nianci	14403	Adult Full	2.81165	7/8/2025		NC	0.37590	12/14/2024
+Gan, Nianci	32654	Adult Full		6/14/2027		NC		
 Gan, Qiang	4964	Adult Full	6.83000	10/19/2004		NJ	0.41000	2/1/2004
 Gan, Siyu	30519	Adult Full	6.04665	5/14/2026	Evanston Go Club	NY	0.39878	9/13/2025
 Gan, Terri	20947	Youth	-23.99791	12/8/2015	Syracuse Go Club	NY	0.61300	11/21/2015
@@ -7136,6 +7137,7 @@ King, Randolph	3273	Adult Full	-3.58000	11/1/2007	Portland Go Club	OR	0.68000	11
 King, Ray	18167	Adult Full	-1.32830	4/14/2027	Portland Go Club	OR	1.50954	4/15/2023
 Kingsberry, Cameron	13463	Adult Full	-33.25000	4/9/2006			2.30000	5/1/2005
 Kingsbury, Ryan	26093	Adult Full		9/24/2024	Seattle AGA Chapter	WA		
+kingston, paul	32656	Tournament Pass		7/14/2026		CO		
 Kingston, Tim	15060	Tournament Pass	-9.75000	12/31/2006			1.25000	8/1/2006
 Kington, Benjamin	25452	Adult Full		2/28/2023	San Diego Go Club	CA		
 Kington, Tim	8989	Adult Full	-2.71287	3/11/2027	Columbus Go Club	OH	1.45178	3/28/2026
@@ -15237,7 +15239,7 @@ Witherly, Fur	31384	Youth	-30.49686	11/25/2025	San Diego Go Club	UT	3.30979	10/5
 Witkowski, Olaf	22459	Tournament Pass	-2.24732	3/15/2016		NJ	0.86805	3/19/2016
 Witteborg, Alan	22197	Adult Full	-10.29089	3/23/2026		CA	0.99470	10/24/2015
 Wittenberg, Eric	6253	Adult Full	-18.82000	12/28/1993		NH	0.64000	9/1/1993
-Wittenberg, Mitchell	31915	Adult Full	-15.91088	7/4/2026	Seattle AGA Chapter	WA	0.63609	12/13/2025
+Wittenberg, Mitchell	31915	Adult Full	-15.91088	7/4/2027	Seattle AGA Chapter	WA	0.63609	12/13/2025
 Witters, Audrey	8877	Adult Full	-23.05000	6/24/1999		CA	4.65000	9/1/1998
 Witthoft, William	6039	Adult Full	-6.92000	7/31/2007	Massachusetts Go Association	MA	0.33000	8/1/2006
 Wittmann, Brian	18107	Adult Full	-5.29649	4/16/2011		NC	0.49367	9/25/2010
@@ -15535,7 +15537,7 @@ Xia, Ricky	24456	Tournament Pass	3.24067	12/14/2024	Southern California Chinese 
 Xia, Sophia	31613	Youth		3/1/2026		OK		
 Xia, Sumin	18331	Adult Full	-5.89302	10/8/2011		NY	0.72336	4/23/2011
 Xia, Wei	11284	Tournament Pass	2.28000	10/15/2003		DE	0.51000	10/1/2003
-Xia, Xingjian	31228	Youth	4.43460	9/11/2025		NC	0.41638	7/13/2025
+Xia, Xingjian	31228	Youth	4.43460	6/14/2027		NC	0.41638	7/13/2025
 Xia, Yinglai	25088	Tournament Pass	2.44177	2/20/2023	Dallas Go Club	TX	0.74904	2/18/2023
 Xia, Ziyu	23633	Youth	-19.73601	11/12/2019		CA	0.60487	5/19/2019
 Xiang, Cheng	10492	Adult Full	5.94000	4/15/2002		MD	0.45000	8/1/2001
