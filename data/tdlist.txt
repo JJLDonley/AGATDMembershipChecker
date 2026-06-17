@@ -16468,6 +16468,7 @@ Zhang, Feng	17285	Adult Full	5.16951	3/9/2011		NJ	0.61678	2/20/2010
 Zhang, Gang	25351	Tournament Pass	-8.45935	11/22/2020			1.24989	9/28/2019
 Zhang, Gaoyuan	21953	Adult Full	7.62652	6/20/2018			0.43401	7/30/2016
 Zhang, George	30174	Youth	-34.76905	4/23/2024	Orange County Go Club	CA	2.14005	4/15/2023
+Zhang, Guancheng	32657	Youth		6/15/2027		CA		
 Zhang, Haibing	8581	Adult Full	-1.38000	4/2/2001		MI	0.68000	6/1/1997
 Zhang, Haitao	7532	Adult Full	6.77000	2/28/1996		NC	0.66000	9/1/1998
 Zhang, Hanchen	22855	Complimentary	9.74727	1/1/2023			0.52345	7/31/2016
