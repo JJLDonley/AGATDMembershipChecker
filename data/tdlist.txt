@@ -2850,7 +2850,7 @@ Cui, Wei	6518	Tournament Pass	5.19000	5/28/1993			0.80000	6/1/1995
 Cui, William	14029	Adult Full	-14.38000	11/13/2010	Feng Yun Go School	NJ	0.56000	12/1/2008
 CUI, YUE	30830	Complimentary		9/28/2025		HA		
 Culbertson, Carol	4933	Adult Full	-19.04000	6/30/1998		CO	1.59000	9/1/1996
-Culley, Robert	1482	Adult Full	-8.09000	7/2/2026	Bay Area Go Players Assoc.	CA	0.64000	9/1/2007
+Culley, Robert	1482	Adult Full	-8.09000	6/18/2027	Bay Area Go Players Assoc.	CA	0.64000	9/1/2007
 Culpan, Harry	8203	Adult Full	-16.90000	8/28/1997		NJ	0.53000	12/1/1996
 Cummings, Casey	15324	Adult Full	-17.58000	3/16/2008		HI	0.76000	6/1/2007
 Cummings, Ira	13533	Adult Full	-16.63000	5/3/2006	Vermont Go Club	VT	1.46000	5/1/2005
@@ -4841,6 +4841,7 @@ Hamrick, Allen	31961	Adult Full		8/2/2026	Massachusetts Go Association	MA
 Han, Adam	8592	Adult Full	-2.74000	5/31/1999		PA	0.83000	3/1/1999
 Han, Aiden	25698	Youth		1/20/2024		MA		
 Han, Anthony	25205	Youth		7/15/2021	Mason Go Club	OH		
+Han, Baotang	32658	Youth		6/16/2027		TX		
 Han, Brian	6907	Adult Full	6.81000	3/28/1995		CA	0.56000	6/1/1994
 Han, Calvin	11059	Adult Full	3.49000	8/29/2004		CA	0.51000	6/1/2003
 Han, Calvin	31344	Tournament Pass	1.96791	12/7/2024		CA	0.66454	11/9/2024
@@ -11595,6 +11596,7 @@ Ray, William	15800	Adult Full	-6.40250	9/20/2016		TN	0.69186	9/19/2015
 Ray III, John	618	Adult Full	-5.80000	1/23/2001	Massachusetts Go Association	MA	0.66000	3/1/2000
 Raymond, John	23672	Adult Full		1/1/2026	Massachusetts Go Association	MA		
 Raymond, Josh	8186	Adult Full	-19.45000	8/28/1997	Ann Arbor Go Club	MI	0.63000	9/1/1996
+Raymond, Whitaker	32661	Adult Full		6/16/2027		NY		
 Raz, Hillel Shlomo	21027	Youth	-18.39417	1/28/2015		CA	1.44541	1/18/2014
 Razanauskas, Ed	16543	Adult Full	-19.32000	4/25/2009		PA	1.63000	5/1/2008
 Razar, Mike	10926	Adult Full	-7.68000	2/17/2003		IL	0.64000	3/1/2002
@@ -11807,7 +11809,7 @@ Roberts, Joel	6685	Adult Full	-22.10000	10/28/1994		OH	0.00000	1/15/1994
 Roberts, Pasha	10185	Adult Full	-22.81000	10/12/2001	Massachusetts Go Association	MA	2.18000	2/1/2001
 Robertson, Andrew	6018	Tournament Pass	-3.46000	10/28/1996		FL	0.71000	12/1/1996
 Robertson, Craig	6136	Adult Full	-11.39000	9/28/1995		CA	0.67000	9/1/1993
-Robertson, Dalan	18851	Adult Full	3.58557	6/7/2026	Atlanta Go Club	GA	0.26307	10/19/2025
+Robertson, Dalan	18851	Adult Full	3.58557	6/16/2027	Atlanta Go Club	GA	0.26307	10/19/2025
 Robertson, Joseph	25957	Adult Full	-16.58939	8/23/2026	Elevation Go Club	CO	0.77348	10/28/2023
 Robertson, Kat	20643	Adult Full		8/24/2023		TX		
 Robertson, Michael	31936	Adult Full		7/20/2026		TN		
@@ -11848,6 +11850,7 @@ Rodriguez, Michael	14887	Adult Full	-5.87000	7/6/2009		NY	0.72000	7/1/2008
 Rodriguez Pricoli, Osvaldo Alberto	25692	Tournament Pass		1/8/2022	Gotham Go Group			
 Rodriques, Sam	15866	Adult Full	-9.00000	10/13/2008		MA	0.74000	11/1/2007
 Roe, Berto	24628	Tournament Pass	-15.26894	6/1/2019	Orlando Go Club	FL	0.89668	6/1/2019
+Roe-Raymond, Dylan	32660	Youth		6/16/2027		NJ		
 Roe-Raymond, Travis	32235	Adult Full		11/28/2026	Princeton Go Club	NJ		
 Roese, Christian	25340	Adult Full		11/8/2021		IL		
 Rofe, Amanda	11053	Adult Full	-9.46302	2/23/2011	Empty Sky Go Club	NY	0.29235	11/5/2010
@@ -13085,6 +13088,7 @@ Souris, Myron	1632	Adult Full	1.13306	6/30/2027	St. Louis Go Club	MO	0.46309	7/1
 Souriyamath, Somelane	13112	Adult Full	-5.50000	3/26/2010		CA	1.00000	9/1/2007
 Southmayd, Shawn	6883	Adult Full	-24.56000	2/28/1995		OR	0.57000	6/1/1994
 Southworth, Jacob	30145	Adult Full	-19.23186	4/17/2026	Syracuse Go Club	NY	0.44910	4/19/2025
+Souvorin, Kolya	32662	Adult Full		6/16/2027		CO		
 Souza, Christian	15380	Adult Full	-16.25000	4/2/2008		HI	0.95000	4/1/2007
 Soveroski, Martin	1879	Adult Full	3.39000	8/28/1994	GWRM Baltimore Go Club	MD	0.46000	9/1/1993
 Sownie, Adam	22863	Adult Full	-11.94468	8/9/2017		CA	0.86676	7/23/2016
@@ -13390,6 +13394,7 @@ Sui, Zexiang	21974	Adult Full	9.24535	7/19/2016			0.44469	8/2/2015
 Suk, Ahn	14125	Adult Full	1.69000	12/28/2006		PA	0.63000	1/1/2006
 Sullivan, Don	6086	Adult Full	-20.30000	1/31/1999		WA	0.00000	11/15/1992
 Sullivan, Eric	9266	Tournament Pass	-14.70924	7/17/2003		NC	1.09419	5/26/2012
+Sullivan, Eric	32659	Tournament Pass		7/16/2026		MD		
 Sullivan, Glenn	25958	Adult Full		5/24/2023	Louisville Go Club	KY		
 Sullivan, John	32038	Adult Full		9/9/2026	Twin Cities Go Club	MN		
 Sullivan, Kyle	21299	Adult Full	-27.02762	8/9/2015		MI	2.29697	8/10/2014
