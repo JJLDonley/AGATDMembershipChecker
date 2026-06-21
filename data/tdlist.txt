@@ -4539,7 +4539,7 @@ Green, Benjamin	12388	Adult Full	-11.76000	1/21/2005		NY	0.66000	2/1/2004
 Green, Christian	31199	Adult Full	-6.60869	9/5/2025	Davis/Sacramento Go Club	CA	0.69572	9/8/2024
 Green, James	20618	Adult Full	-28.09632	5/20/2014	Santa Fe Go Club	NM	1.91918	6/22/2013
 Green, Jeremiah	24212	Adult Full	-21.00263	10/26/2020		IL	1.90431	5/4/2019
-Green, Jonathan	22833	Adult Full	-2.62833	7/25/2026	Maine Go	ME	0.18074	4/25/2026
+Green, Jonathan	22833	Adult Full	-2.62833	7/25/2027	Maine Go	ME	0.18074	4/25/2026
 Green, Joshua	20463	Adult Full	-13.92888	3/6/2014		NJ	0.70358	3/1/2014
 Green, Maxwell	23763	Adult Full	1.65515	10/9/2026	Twin Cities Go Club	MN	0.27258	5/23/2026
 Green, Sean	12424	Adult Full	-20.27000	10/16/2005	Dallas Go Club	MA	0.70000	2/1/2005
@@ -5909,7 +5909,7 @@ Hung, Glen	4436	Adult Full	2.69161	2/22/2011	Seattle AGA Chapter	WA	0.60073	7/30
 Hung, H.	7704	Adult Full	2.31000	8/28/1996			0.65000	9/1/1995
 Hung, Joey	5352	Adult Full	8.26570	7/4/2014		CA	0.41088	4/28/2012
 Hung, Ling Yeung	14710	Adult Full	-7.87000	9/5/2007	Ames Go Club	IA	1.00000	10/1/2006
-Hunley, Ray	8051	Adult Full	-3.14740	7/1/2026	XYZ Private Go Group	VA	0.41401	4/20/2024
+Hunley, Ray	8051	Adult Full	-3.14740	6/20/2027	XYZ Private Go Group	VA	0.41401	4/20/2024
 Hunt, Brian	21910	Adult Full	-9.04496	4/23/2024	Massachusetts Go Association	MA	0.80036	4/20/2015
 Hunt, Henry	13507	Adult Full	-10.87000	4/28/2008	Charlotte Go Club	NC	0.66000	9/1/2007
 Hunt, James	12693	Adult Full	-18.17000	6/4/2005	GWRM Baltimore Go Club	MD	1.35000	6/1/2004
@@ -6019,6 +6019,7 @@ Ihrig, Benjamin	22412	Adult Full	-15.98638	3/6/2017	Seattle AGA Chapter	WA	1.081
 Iizaka, Kazuo	16758	Tournament Pass	-4.47000	8/14/2008			0.52000	9/1/2008
 Iizuka, Ai	31639	Adult Full	-1.33815	3/19/2026		IA	0.43437	10/18/2025
 Ikebata, Hisaki	32208	Tournament Pass	-1.18093	12/14/2025		TOK	0.64998	11/15/2025
+Ikegaya, Eisuke	32668	Complimentary		12/19/2027				
 Ilic, Bozidar	5901	Adult Full	2.11000	7/28/1997		CA	0.63000	9/1/1996
 Illian, Ray	23063	Adult Full	-8.19679	1/7/2019		WA	0.49684	1/6/2019
 Ilseman, Michael	16419	Adult Full	1.53531	8/12/2016		CO	0.25000	9/8/2012
@@ -7692,6 +7693,7 @@ Law, Vincent	7830	Adult Full	-11.81000	10/28/1996		DE	1.08000	12/1/1995
 Lawitzke, John	3120	Adult Full	-21.82000	8/13/2007		MI	1.04000	2/1/2005
 Lawrence, Jeffrey	4185	Adult Full	-3.31590	5/16/2013	Santa Fe Go Club	NM	0.79490	9/22/2012
 Lawrence, Mark	6609	Adult Full	6.30000	1/28/1997	Seattle AGA Chapter	WA	0.55000	9/1/1993
+Lawrence, Reed	32669	Adult Full		6/19/2027	Elevation Go Club	CO		
 Lawry, Colin	25728	Youth	-12.87987	2/17/2025	Gotham Go Group	NY	1.41349	2/26/2023
 Lay, Patrick	6876	Adult Full	-3.55000	3/31/2008	Evanston Go Club	IL	0.41000	1/1/2005
 Layman, Robert	1486	Adult Full	-6.85000	4/28/1997	Arizona Go Club	AZ	0.55000	6/1/1998
@@ -8715,6 +8717,7 @@ Liu, Bruce	32526	Youth		4/25/2027		NJ
 Liu, Bryan	18392	Adult Full	-19.33555	11/16/2011		CA	0.83898	9/18/2010
 Liu, Bryant	23153	Youth	5.17179	2/18/2018		PA	0.44529	5/27/2017
 Liu, Bryant	32178	Youth		11/3/2026		PA		
+Liu, Caixia	32631	Complimentary		12/21/2026		JS		
 Liu, Caleb	31146	Adult Full	3.93946	8/9/2025		VA	0.87310	8/10/2024
 Liu, Changhao Eric	18738	Youth	-1.05969	4/5/2026		CA	0.57709	3/20/2016
 Liu, Chen-Chang	1181	Tournament Pass	6.11118	2/14/2012	San Francisco Go Club	CA	0.44837	1/7/2012
@@ -8887,6 +8890,7 @@ Liu, Yu	6632	Adult Full	1.58000	7/28/1994		CA	0.50000	9/1/1993
 Liu, Yubo	11933	Adult Full	4.33000	6/9/2005		DE	0.56000	6/1/2004
 Liu, Yu-Chin	11821	Adult Full	-1.99000	8/30/2004			0.60000	6/1/2003
 Liu, Yuhan	31483	Adult Full	3.00610	1/12/2026		RI	0.61624	1/25/2025
+Liu, yuhan	32628	Complimentary		12/20/2026		SN		
 Liu, Yuhang	23171	Tournament Pass	-1.85381	3/5/2018	Penn Go Society	PA	0.60668	4/28/2018
 Liu, Yuhang	31962	Adult Full	4.34749	8/2/2026	Massachusetts Go Association	MA	0.44407	9/13/2025
 Liu, Yuhe	25756	Youth	-3.43081	2/28/2024	San Francisco Go Club	CA	0.59095	2/25/2023
@@ -16376,7 +16380,7 @@ zeng, bingquan	31725	Complimentary		10/21/2025
 Zeng, Daniel	21680	Youth	-14.79203	2/23/2016	Feng Yun Go School	PA	1.26532	2/28/2015
 Zeng, David	4948	Adult Full	5.48000	4/28/1994		NM	0.55000	9/1/1994
 Zeng, Ellen	20627	Youth	-9.54094	10/1/2018		NC	0.59340	4/22/2018
-Zeng, Jane Xiuzhen	31843	Adult Full		6/1/2026	Seattle AGA Chapter	WA		
+Zeng, Jane Xiuzhen	31843	Adult Full		6/19/2027	Seattle AGA Chapter	WA		
 Zeng, Jay	8580	Adult Full	-4.90000	10/21/2009	Ann Arbor Go Club	WA	0.67000	11/1/2008
 Zeng, Michael	1495	Adult Full	7.15000	5/27/2004		NM	0.24000	1/1/2004
 Zeng, Mike	31534	Youth	6.88700	2/2/2026		CA	0.69607	4/19/2025
