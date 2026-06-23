@@ -4515,7 +4515,7 @@ Grantham, Joseph	25534	Youth	-3.80131	7/11/2026		OH	0.75898	1/31/2026
 Granville, Joe	21258	Adult Full	-24.98443	6/22/2018	Santa Monica Go Club	CA	0.55038	10/24/2015
 Graper, David	26165	Adult Full	-6.80022	10/27/2026	Evanston Go Club	IL	0.65088	11/4/2023
 Grashaw, Matt	13658	Adult Full	-26.82000	10/17/2006		CA	1.10000	6/1/2005
-Grasse-Haroldsen, Samuel	31951	Adult Full		7/27/2026	Eugene Go Club	OR		
+Grasse-Haroldsen, Samuel	31951	Adult Full		7/27/2027	Eugene Go Club	OR		
 Graubart, Steven	6320	Adult Full	-3.19000	12/28/1997		IL	0.54000	3/1/1997
 Graube, Peter	30418	Adult Full - Lifetime	5.98158	5/7/2065		OR	0.65344	7/17/2024
 Graves, Kevin	18194	Adult Full	-19.06603	5/31/2011		MD	1.76948	5/29/2010
@@ -9471,7 +9471,7 @@ Martin, Matthew	13929	Adult Full	-22.02000	10/19/2006		NC	0.61000	9/1/2006
 Martin, Matthew	31516	Adult Full	-13.52206	1/26/2027	Upstate SC Go Club	SC	0.89556	6/13/2026
 Martin, Merri	8261	Adult Full	-21.96000	3/24/2000		OR	0.59000	3/1/2000
 Martin, Nathan	16563	Adult Full	-5.91000	4/27/2010	Houston Go Club	TX	0.69000	5/1/2009
-Martin, Pete	13768	Adult Full	-3.60607	7/28/2026	Massachusetts Go Association	MA	0.46382	7/30/2016
+Martin, Pete	13768	Adult Full	-3.60607	7/28/2027	Massachusetts Go Association	MA	0.46382	7/30/2016
 Martin, Peter	16058	Adult Full	-6.92069	12/16/2026	Louisville Go Club	KY	0.54320	8/26/2023
 Martin, Reiner	7018	Adult Full	-4.42000	11/26/2003		NY	0.59000	12/1/2000
 Martin, Reiner	30187	Complimentary		10/27/2023		HE		
@@ -15995,7 +15995,7 @@ Yee, Liam	24533	Youth	-28.77149	10/19/2023	Boulder Kids and Teens Go Club	CO	1.3
 Yee, Marlene	12672	Tournament Pass	-34.08000	5/26/2004		CA	2.67000	5/1/2004
 Yee Mon, Wayne	22203	Adult Full	-13.75039	3/30/2019		MA	0.58690	4/23/2018
 Yeh, Allen	31367	Youth		4/4/2027		CA		
-Yeh, Arthur	19231	Adult Full	4.72245	5/30/2026	San Francisco Go Club	CA	0.38327	5/31/2025
+Yeh, Arthur	19231	Adult Full	4.72245	6/21/2027	San Francisco Go Club	CA	0.38327	5/31/2025
 Yeh, Brian	11534	Adult Full	-29.08000	1/14/2004	Feng Yun Go School	NJ	3.41000	4/1/2003
 Yeh, Carl	5284	Tournament Pass	3.84000	4/6/2000	Houston Go Club	CA	0.48000	2/1/2001
 Yeh, Ching-Chuan	9615	Adult Full	-1.01000	7/18/2003		MD	0.48000	8/1/2001
