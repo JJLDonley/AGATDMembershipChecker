@@ -266,7 +266,7 @@ Ang, Christian	19746	Tournament Pass	-17.26926	2/23/2013	Stony Brook University 
 Angelos, George	18594	Adult Full	-5.66612	1/18/2014		CO	0.72762	12/15/2012
 Angerman, Chris	16586	Adult Full	-7.23000	5/4/2009		FL	0.39000	2/1/2009
 Anggasastra, Kattelya	18809	Adult Full	-18.89921	5/16/2012	San Francisco Go Club	CA	0.59080	7/9/2011
-Ankerstar, Tristan	14867	Adult Full	-5.27043	11/10/2026		CO	0.37262	12/6/2025
+Ankerstar, Tristan	14867	Adult Full	-5.27043	11/10/2026	Danger Monkey Go Club	CO	0.37262	12/6/2025
 Annanie, Christopher	21640	Adult Full	-7.28724	9/18/2017		CO	0.35774	9/14/2016
 Annovi, Alberto	13682	Tournament Pass	1.52000	6/14/2005			0.63000	10/1/2008
 Anscher, Jon	11759	Adult Full	-13.04000	4/16/2005	Tacoma Go Club	WA	0.83000	11/1/2003
@@ -5697,7 +5697,7 @@ Huang, Barbara	14149	Youth	-7.23851	1/5/2016		NY	0.25513	3/2/2013
 Huang, Benjamin	25201	Youth		7/15/2021		BC		
 Huang, Bo	7533	Adult Full	3.75000	2/28/1996		TX	0.98000	6/1/1995
 Huang, Bo	21146	Adult Full	5.76413	4/18/2015		VA	0.58037	4/26/2014
-Huang, Brian	32651	Youth		6/13/2027		NJ		
+Huang, Brian	32651	Youth		6/13/2027	Danger Monkey Go Club	NJ		
 Huang, Brice	14021	Adult Full	-19.67000	11/18/2006	Feng Yun Go School	NJ	0.56000	7/1/2006
 Huang, C.	6629	Adult Full	3.35000	7/28/1994			0.51000	9/1/1993
 Huang, Carey	22441	Youth	-15.58420	3/14/2017		MA	0.54702	8/3/2016
@@ -8951,7 +8951,7 @@ Lomeli, Angel	19346	Adult Full	-13.31815	11/4/2016	Empty Sky Go Club	NY	1.46344	
 London, Philip	14415	Adult Full	5.23596	4/19/2020	Boulder Kids and Teens Go Club	CO	0.47355	4/13/2019
 Long, Andre	18401	Adult Full	-35.53828	11/16/2011		CA	3.61529	9/18/2010
 Long, Andy	25245	Youth		7/24/2021		TX		
-Long, Anthony	17802	Adult Full	1.09169	5/13/2026	Middle TN Go Club	TN	0.20202	1/18/2020
+Long, Anthony	17802	Adult Full	1.09169	6/23/2027	Middle TN Go Club	TN	0.20202	1/18/2020
 Long, Brian	11971	Adult Full	-11.33000	7/31/2006	Salt Lake Go Club	UT	0.93000	7/1/2003
 Long, Christopher	13284	Adult Full	-20.63000	2/16/2006		VA	0.49000	4/1/2006
 Long, Darron	26175	Youth		10/30/2025		CA		
@@ -9214,7 +9214,7 @@ Ma, Alexis	24460	Youth	-32.11397	2/15/2020		CA	1.49397	2/16/2019
 Ma, Alice	23135	Youth	-13.21085	2/12/2018		CA	1.10606	2/4/2017
 Ma, chaohung	25862	Adult Full	1.80369	10/20/2024		CA	0.57433	10/21/2023
 Ma, Cheng	25029	Youth	-7.73684	1/20/2021		CA	0.88294	10/26/2019
-ma, chengzhi	32413	Youth	-5.92992	3/12/2027		MO	0.46370	5/23/2026
+ma, chengzhi	32413	Youth	-5.92992	3/12/2027	Danger Monkey Go Club	MO	0.46370	5/23/2026
 Ma, Dong	8052	Adult Full	4.52505	12/8/2026	Seattle AGA Chapter	WA	0.57522	12/9/2023
 Ma, Elan	15220	Youth	-13.18155	4/4/2024	Seattle AGA Chapter	WA	0.42565	1/3/2016
 Ma, Gordon	15360	Adult Full	-12.55000	3/25/2008		NC	1.03000	4/1/2007
@@ -11292,7 +11292,7 @@ Pohl, Pauline	1025	Adult Full	-3.26805	4/29/2027	Schaumburg Go Club	IL	0.30312	7
 Pojman, Paul	17462	Tournament Pass	-4.20000	4/25/2009			0.66000	5/1/2009
 Pokrzywa, Mikolaj	16719	Tournament Pass	-5.85000	7/24/2008			0.71000	8/1/2008
 Polak, Judah	14986	Adult Full	-15.91000	4/6/2008		MD	0.63000	4/1/2007
-Polaris, Caspian	31196	Youth	-12.19675	6/13/2027		CO	0.76402	1/11/2025
+Polaris, Caspian	31196	Youth	-12.19675	6/13/2027	Danger Monkey Go Club	CO	0.76402	1/11/2025
 Polaris, Marshall	19220	Adult Full	2.39073	8/14/2024		CA	0.29460	1/18/2014
 Poliakoff, Ben	7639	Adult Full	-20.55000	4/11/2000	Ann Arbor Go Club	MI	1.63000	6/1/1998
 Policano, Tom	11874	Adult Full	-22.29000	1/11/2008	Empty Sky Go Club	NY	0.78000	6/1/2003
@@ -12280,7 +12280,7 @@ Schiff, Sarah	12297	Tournament Pass	-35.14000	11/27/2003			2.48000	12/1/2003
 Schiffin, Paul	32589	Adult Full		5/11/2027		MD		
 Schiffman, Austin	24066	Adult Full		11/28/2021		CA		
 Schilleman, Kenneth	10219	Adult Full	-25.11000	11/14/2001	Evanston Go Club	IL	0.79000	7/1/2001
-Schiller, Ricky	32635	Adult Full		5/31/2027		TX		
+Schiller, Ricky	32635	Adult Full		5/31/2027	Danger Monkey Go Club	TX		
 Schilling, Bertram	24550	Adult Full		4/19/2025				
 Schilpp, Jonathon	14752	Adult Full - Lifetime		9/1/2064		NY		
 Schladt, Markus	10518	Adult Full	-20.06000	4/30/2002		TX	0.70000	5/1/2001
@@ -13099,7 +13099,7 @@ Souris, Myron	1632	Adult Full	1.13306	6/30/2027	St. Louis Go Club	MO	0.46309	7/1
 Souriyamath, Somelane	13112	Adult Full	-5.50000	3/26/2010		CA	1.00000	9/1/2007
 Southmayd, Shawn	6883	Adult Full	-24.56000	2/28/1995		OR	0.57000	6/1/1994
 Southworth, Jacob	30145	Adult Full	-19.23186	4/17/2026	Syracuse Go Club	NY	0.44910	4/19/2025
-Souvorin, Kolya	32662	Adult Full		6/16/2027		CO		
+Souvorin, Kolya	32662	Adult Full		6/16/2027	Danger Monkey Go Club	CO		
 Souza, Christian	15380	Adult Full	-16.25000	4/2/2008		HI	0.95000	4/1/2007
 Soveroski, Martin	1879	Adult Full	3.39000	8/28/1994	GWRM Baltimore Go Club	MD	0.46000	9/1/1993
 Sownie, Adam	22863	Adult Full	-11.94468	8/9/2017		CA	0.86676	7/23/2016
@@ -13379,7 +13379,7 @@ Su, Yun Feng	9281	Tournament Pass	-4.14000	10/23/1998		CA	0.77000	12/15/1998
 Suarez, Jorge	24877	Adult Full		5/8/2025		VA		
 Suastegui, Samuel	20775	Complimentary	-10.57483	1/1/2023			0.67977	8/6/2017
 Subramanian, Shan	9321	Adult Full	-10.53000	11/23/1999		NJ	1.59000	12/15/1998
-Suchodolskyi, Mark	30318	Youth	-14.73125	6/6/2027		CO	1.62434	6/17/2023
+Suchodolskyi, Mark	30318	Youth	-14.73125	6/6/2027	Danger Monkey Go Club	CO	1.62434	6/17/2023
 Sud, Mohan Pierre	19388	Adult Full	-1.18861	10/25/2018	NOVA Go Club	VA	0.39580	2/20/2016
 Sudhoff, Horst	4310	Adult Full	2.89000	3/13/2018			0.17000	9/1/2006
 Suekama, Mikey	19924	Adult Full	-30.45400	5/31/2013		CO	1.22767	5/12/2012
