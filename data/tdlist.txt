@@ -5416,7 +5416,7 @@ Holland, David	2805	Adult Full	1.28475	7/29/2021	Twin Cities Go Club	MN	0.66690	
 Holleran, Andrew	12851	Adult Full	3.41992	11/10/2026	Shreveport-Bossier Go Club	LA	0.63507	6/22/2013
 Hollinger, Miyoko	9641	Tournament Pass	-5.48000	8/17/1999			0.51000	9/1/1999
 Hollis, Jesse	11841	Adult Full	-24.85000	9/2/2004		AZ	1.00000	6/1/2003
-Holloran, Nick	31144	Adult Full	-11.20198	8/8/2026	New York Go Association	NJ	0.84350	9/13/2025
+Holloran, Nick	31144	Adult Full	-11.20198	8/8/2027	New York Go Association	NJ	0.84350	9/13/2025
 Holman, Timothy	22063	Adult Full	-15.27175	9/12/2016	Massachusetts Go Association	MA	0.75977	10/26/2015
 Holmes, Craig	9817	Adult Full	-13.75000	4/11/2027		DE	2.04000	6/1/2009
 Holmes, Daniel	19770	Adult Full	-10.93547	3/1/2014		NJ	0.85932	2/25/2012
@@ -8036,7 +8036,7 @@ Leiden, AJ	30486	Adult Full	-2.76165	10/10/2024	Evanston Go Club	WI	0.49300	9/28
 Leighton, Herbert	10514	Adult Full	-10.64986	5/5/2027	Winona Go Club	MN	0.31554	7/13/2025
 Leinbach, Braden	16002	Adult Full	-5.34000	11/28/2008		MI	0.83000	4/1/2009
 Leiserson, Jay	25467	Adult Full		3/16/2022		FL		
-Leisure, Thomas	31873	Adult Full	-7.37829	6/10/2026	Middle TN Go Club	TN	0.71214	7/13/2025
+Leisure, Thomas	31873	Adult Full	-7.37829	6/28/2027	Middle TN Go Club	TN	0.71214	7/13/2025
 Leite, Andressa	18893	Adult Full	-32.49566	6/23/2011			1.23051	4/23/2011
 Leite, Paulo	24806	Adult Full	-26.02092	9/7/2021	National Go Center	MD	1.06767	9/7/2019
 Leitonaite, Monika	17015	Adult Full	-24.07000	12/11/2009		FL	0.99000	1/1/2009
