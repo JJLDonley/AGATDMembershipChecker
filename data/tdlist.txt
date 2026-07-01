@@ -9878,7 +9878,7 @@ Miles, Adam	18758	Adult Full	-32.76807	4/17/2012	Salt Lake Go Club	UT	2.57384	4/
 Millar, Issac	15159	Youth	-18.20000	1/24/2008		HI	2.46000	6/1/2007
 Millburg, Jarek	30081	Adult Full	-2.56001	3/28/2026	St. Louis Go Club	MO	0.42749	5/24/2025
 Miller, Adam	10213	Adult Full - Lifetime	3.39076	9/1/2064		CA	0.31087	4/25/2026
-Miller, Amanda	14594	Adult Full	-7.69275	5/3/2026	Providence Go Club	MA	0.32762	8/30/2025
+Miller, Amanda	14594	Adult Full	-7.69275	6/29/2027	Providence Go Club	MA	0.32762	8/30/2025
 Miller, Andrea	11860	Adult Full	-29.59000	5/19/2004		MI	1.02000	6/1/2003
 Miller, Benjamin	11051	Adult Full	-11.91000	5/28/2003	Empty Sky Go Club	PA	0.87000	4/1/2003
 Miller, Brandon	11975	Adult Full	-27.58000	6/23/2004		FL	2.63000	8/1/2003
@@ -11902,7 +11902,7 @@ Romatka, Rainer	18407	Adult Full	-9.24175	1/8/2019	Seattle AGA Chapter	WA	0.4359
 Romero Y Vigil, Ramon	14930	Adult Full	-15.73000	9/10/2010		NJ	0.53000	8/1/2009
 Rommel, Robert	11858	Adult Full	3.46000	5/19/2007	Ann Arbor Go Club	MI	0.49000	12/1/2006
 Rommeswinkel, Hendrick	20905	Adult Full	-2.14374	11/2/2014		CA	0.46421	5/30/2015
-Ronan, Mark	1953	Adult Full	-4.14619	4/30/2026	Cleveland Go Club	OH	0.34895	11/16/2025
+Ronan, Mark	1953	Adult Full	-4.14619	6/29/2027	Cleveland Go Club	OH	0.34895	11/16/2025
 Roncoli, Thomas	22607	Adult Full	-7.74123	7/6/2023		NC	0.35245	12/10/2022
 Roncoli, Tom	15463	Adult Full	-19.97000	5/3/2008		WA	2.68000	4/1/2007
 Ronen, Shai	31171	Tournament Pass	1.91869	9/24/2024		CO	0.67373	9/7/2024
@@ -13023,6 +13023,7 @@ Son, Ho	20188	Tournament Pass	7.84050	9/24/2014	Seattle AGA Chapter	WA	0.51102	1
 Son, Hosik	20708	Tournament Pass	7.39989	7/1/2013			0.68990	2/28/2015
 Son, Kee	5348	Adult Full	4.70000	7/28/1992		CA	0.48000	9/1/1993
 Son, Mike	12653	Tournament Pass	-24.00000	6/10/2006	Corvallis Go Club	OR	1.83000	6/1/2006
+Son, Sofia	32683	Youth		6/29/2027		NJ		
 Son, Wooje	30790	Youth	-26.72155	2/27/2025		CA	0.75884	4/20/2025
 Song, Aijun	21790	Tournament Pass	-3.23596	3/24/2015			0.56170	3/5/2016
 Song, Alan	21234	Youth	-27.47548	6/2/2015		NC	2.24658	5/11/2014
@@ -16289,6 +16290,7 @@ Yuan, Annie	23332	Youth	-24.55657	5/21/2018		NC	1.00109	4/22/2018
 Yuan, Chen	24599	Adult Full	3.70906	9/23/2023	Triangle Go Group	NC	0.29718	12/10/2022
 Yuan, Chrystal	10117	Adult Full	-24.92000	5/23/2017		CA	0.38000	9/1/2005
 Yuan, Don	10491	Adult Full	4.88000	4/15/2002		MD	0.93000	4/1/2001
+Yuan, Eric	32682	Youth		6/29/2027		CA		
 Yuan, Eugene	19720	Youth	-37.38642	2/14/2013		VA	3.06836	2/11/2012
 Yuan, FangLin	22699	Youth	1.39541	6/20/2027		NY	0.64164	7/30/2016
 Yuan, Feng	8940	Adult Full	-8.11000	11/4/2004		WA	1.37000	10/1/2002
