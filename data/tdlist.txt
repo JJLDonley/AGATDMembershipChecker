@@ -3130,7 +3130,7 @@ Dewey, Brian	10905	Adult Full	-8.97000	3/8/2005	Seattle AGA Chapter	WA	1.92000	1
 Dewilde, Ivan	16981	Adult Full	-21.22000	11/28/2009		MA	1.54000	12/1/2008
 Dews, Joe	19488	Tournament Pass	-12.57827	1/4/2013	San Francisco Go Club	CA	0.61695	5/12/2012
 DeYoung, Truman	32011	Adult Full	-9.49263	9/3/2026	Albuquerque Go	NM	0.73777	9/6/2025
-D'Gerinel, Savanni	24358	Adult Full	-9.89310	12/17/2025	Providence Go Club	RI	0.83184	5/10/2025
+D'Gerinel, Savanni	24358	Adult Full	-9.89310	6/30/2027	Providence Go Club	RI	0.83184	5/10/2025
 Dhaliwal, Harpreet	20128	Adult Full	1.74681	8/6/2014		WA	0.90655	8/3/2013
 Dheeraj, Ajay	23529	Adult Full	-9.71872	8/3/2026		NY	0.56392	12/13/2025
 Di, Chuan	23582	Tournament Pass	8.17890	10/7/2019		CA	0.47822	11/9/2019
@@ -11899,6 +11899,7 @@ Roldan, Paul	31742	Adult Full		4/26/2027		IL
 Rolsky, Dave	23013	Adult Full	-2.53911	12/10/2020	Twin Cities Go Club	MN	0.38915	7/14/2019
 Romanov, Michael	24474	Adult Full	-22.19923	2/21/2020		DC	2.00549	2/15/2019
 Romatka, Rainer	18407	Adult Full	-9.24175	1/8/2019	Seattle AGA Chapter	WA	0.43595	1/8/2017
+Romatka, Rainer	32684	Adult Full - Lifetime		2/29/2068	Seattle AGA Chapter	WA		
 Romero Y Vigil, Ramon	14930	Adult Full	-15.73000	9/10/2010		NJ	0.53000	8/1/2009
 Rommel, Robert	11858	Adult Full	3.46000	5/19/2007	Ann Arbor Go Club	MI	0.49000	12/1/2006
 Rommeswinkel, Hendrick	20905	Adult Full	-2.14374	11/2/2014		CA	0.46421	5/30/2015
@@ -14305,7 +14306,7 @@ Vanderschaaf, Michelle	32214	Adult Full		11/15/2026		OK
 Vanderveen, Douwe	18527	Tournament Pass	-4.76239	5/3/2011		NH	0.59960	11/13/2010
 VandeVrede, Larry	8111	Adult Full	-30.19000	6/28/1997		MI	2.90000	9/1/1996
 Vanevic, C. Daniel	5087	Adult Full	-8.50000	6/30/2002	Crane's Nest Go Club	FL	0.00000	11/15/1992
-Vang, Chue	31968	Adult Full	-9.28889	8/8/2026	Triangle Go Group	NC	0.58328	6/18/2026
+Vang, Chue	31968	Adult Full	-9.28889	8/8/2027	Triangle Go Group	NC	0.58328	6/18/2026
 VanHoover, Zoe	12353	Tournament Pass	-17.64000	1/10/2004		CA	1.70000	2/1/2004
 VanKoughnett, Peter	32090	Adult Full	1.35581	10/2/2026		MN	0.69678	10/18/2025
 VanSickle, Mathew	10541	Adult Full	-15.22000	5/27/2002		OH	1.56000	9/1/2001
