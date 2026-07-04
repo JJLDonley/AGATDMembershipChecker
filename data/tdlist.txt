@@ -3509,7 +3509,7 @@ Ely, Marc	6846	Tournament Pass	-21.80000	12/28/1993		CA	1.23000	3/1/1994
 Elzinga, Jake	25282	Adult Full		7/31/2021		GA		
 Emanuel, Steve	14875	Adult Full	-18.99000	11/14/2008	Arizona Go Club	AZ	0.81000	4/1/2007
 emens, kishan	25566	Adult Full		7/16/2022		CA		
-Emerton, Jasper	22680	Adult Full	3.64465	3/26/2025	Middle TN Go Club	TN	0.45525	11/2/2024
+Emerton, Jasper	22680	Adult Full	3.64465	7/2/2027	Middle TN Go Club	TN	0.45525	11/2/2024
 Emmerd, Mike	9544	Tournament Pass	-25.01000	5/19/1999			1.23000	6/1/1999
 Emmons, Tom	15009	Adult Full	-23.70000	1/9/2008		CT	2.60000	1/1/2007
 Emsenhuber, Anton	6982	Adult Full	4.20643	12/30/2026	Santa Monica Go Club	CA	0.38319	1/17/2026
@@ -4127,7 +4127,7 @@ Gallucci, Michael	21712	Adult Full	-5.51183	3/9/2017		PA	0.58474	3/19/2016
 Gallucci, Michaela	24311	Adult Full	1.85782	7/15/2022	Massachusetts Go Association	MA	0.60106	12/1/2018
 Galuska, David	25249	Adult Full		7/25/2021		OR		
 Gamble, Charles	11289	Tournament Pass	-25.85000	9/28/2002			1.09000	10/1/2002
-game, Jake	21838	Adult Full	5.51322	2/14/2024		TN	0.32900	7/12/2023
+game, Jake	21838	Adult Full	5.51322	7/2/2027		TN	0.32900	7/12/2023
 Gan, Edward	21060	Adult Full	-11.82363	2/16/2015	Bay Area Go Players Assoc.	CA	0.85226	2/22/2014
 Gan, Jianing	17679	Complimentary	7.99409	1/1/2023			0.23994	8/10/2014
 Gan, Nianci	14403	Adult Full	2.87748	6/14/2027		NC	0.38985	6/18/2026
@@ -4313,7 +4313,7 @@ Gigonzac, Guillaume	18220	Tournament Pass	-4.51638	6/20/2010			0.88198	6/12/2010
 Gil, Miguel	32357	Tournament Pass	-17.08713	3/12/2026			1.02565	2/1/2026
 Gil, Walter	7214	Adult Full	-4.60000	5/31/2005		CA	0.00000	1/15/1994
 Gila, Ofek	20919	Adult Full	-18.55414	11/21/2014	Bay Area Go Players Assoc.	CA	0.75575	11/8/2014
-Gilbert, Gavin	31972	Adult Full	-9.57914	8/11/2026	Orlando Go Club	FL	0.94557	9/27/2025
+Gilbert, Gavin	31972	Adult Full	-9.57914	8/11/2027	Orlando Go Club	FL	0.94557	9/27/2025
 Gilbert, Harry	2371	Adult Full	-2.85000	2/28/2008		CA	0.67000	5/1/2002
 Gilbert, Logan	14938	Adult Full	-21.64000	12/8/2007	Seattle AGA Chapter	WA	2.45000	1/1/2007
 Gilbert, Stephen	25221	Adult Full	-4.40682	7/19/2021	Charlotte Go Club	NC	0.62643	7/11/2021
@@ -7726,6 +7726,7 @@ Leblanc, Ian	24778	Adult Full	2.41126	2/18/2027	Penn Go Society	PA	0.40357	3/14/
 Leblanc, Marc	8974	Adult Full	-14.66000	1/24/2002	Massachusetts Go Association	MA	0.80000	6/1/1998
 Lebovitz, George	10560	Adult Full	-11.43047	5/21/2027	Space Coast Area Go Association	FL	0.96075	1/27/2024
 Lechasseur, Jean-sebastien	17678	Complimentary	5.03049	1/1/2023		QC	0.57727	1/7/2023
+Lechasseur, Jean-Sébastien	32685	Complimentary		1/2/2027		QC		
 Lechtchinski, Dimitri	12398	Adult Full	-2.91000	2/24/2008		NY	0.35000	3/1/2007
 Lecin, Matthew	8192	Adult Full	-15.67000	8/31/2026	Wings Across Calm Water	NJ	0.51000	9/1/1997
 Lecours, Marc	8182	Tournament Pass	4.13000	8/28/1996			0.53000	12/1/1996
@@ -9412,7 +9413,7 @@ Marcus, Mat	4063	Adult Full	1.98000	9/28/1996	Seattle AGA Chapter	WA	0.45000	3/1
 Mare, Jesse	16742	Tournament Pass	-14.68000	8/14/2008			1.62000	9/1/2008
 Margetts, Isabelle	21872	Youth	-35.49257	7/22/2025	San Diego Go Club	CA	3.53315	1/10/2016
 Margetts, Paul	4307	Adult Full	-2.84572	1/7/2027	San Diego Go Club	CA	0.21996	4/12/2026
-Margetts, Rebecca	21871	Adult Full	-22.68441	7/22/2026	San Diego Go Club	CA	0.32450	11/29/2025
+Margetts, Rebecca	21871	Adult Full	-22.68441	7/22/2027	San Diego Go Club	CA	0.32450	11/29/2025
 Margetts, Yvonne	21870	Adult Full	-14.75783	7/22/2023	San Diego Go Club	CA	0.74483	1/10/2016
 Margo, Ari	18386	Tournament Pass	-15.71133	11/16/2010		CA	0.86639	9/18/2010
 Margo, Margo	18038	Tournament Pass	-17.72249	3/13/2010			1.11029	2/20/2010
