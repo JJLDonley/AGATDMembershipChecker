@@ -8301,6 +8301,7 @@ Li, Sean	13704	Adult Full	-3.34000	1/31/2010	Feng Yun Go School	NJ	0.49000	7/1/2
 Li, Sheldon	26222	Tournament Pass	1.63520	2/19/2026	Berkeley Go Club	CA	0.64098	1/11/2025
 Li, Shi	17284	Adult Full	1.52861	2/28/2012		NJ	0.46398	2/26/2011
 Li, Shixiong	24763	Complimentary	5.49889	1/1/2023			0.53299	7/14/2019
+Li, Shuyu	32687	Youth		7/3/2027		WA		
 Li, Si Roger	17574	Youth	-23.66000	6/24/2010	Evanston Go Club	IL	0.93000	7/1/2009
 Li, Sigrid	31729	Youth	-33.14921	4/22/2026	New York Go Association	NY	2.47510	9/13/2025
 Li, Sihao	16907	Adult Full	3.32000	10/14/2009		VA	0.44000	8/1/2009
@@ -8962,7 +8963,7 @@ Long, Jason	23723	Youth	-6.86293	4/11/2025		NY	0.93774	4/22/2023
 Long, Jason Alonzo	17270	Adult Full	-6.84678	3/12/2018	Harrisburg Area Go Club	CA	0.32121	11/16/2014
 Long, Jimmy	26274	Adult Full	-12.92442	4/29/2027	Triangle Go Group	NC	0.66200	6/19/2025
 Long, Kevin	10123	Adult Full	-6.92812	11/1/2012	Portland Go Club	OR	0.52362	10/29/2011
-Long, Olive	31148	Adult Full	-1.74490	8/11/2026	Pasadena Go Club	CA	0.31433	1/17/2026
+Long, Olive	31148	Adult Full	-1.74490	8/11/2027	Pasadena Go Club	CA	0.31433	1/17/2026
 Long, Xiangru	24377	Adult Full	5.47440	1/13/2020		CA	0.70191	1/6/2019
 Long, Xiaofei	23117	Adult Full	-1.58930	2/10/2021		CA	0.40413	2/10/2019
 Longo, Mark	14421	Adult Full	-22.79605	4/5/2013	Syracuse Go Club	NY	0.68325	3/31/2012
@@ -11968,6 +11969,7 @@ Rovainen, Carl	7410	Adult Full	-6.19000	11/28/1995		MO	0.51000	12/1/1994
 Rowe, Alex	22232	Tournament Pass	-3.44565	5/22/2026	Gotham Go Group	NY	0.38624	5/16/2026
 Rowe, Nicky	19997	Youth	-20.37224	6/8/2013		WA	2.44799	5/20/2012
 Rowland, Evan	18526	Tournament Pass	-3.15493	5/3/2011			0.96521	11/13/2010
+Rowland, Evan	32686	Adult Full		7/3/2027		MA		
 Rowland, Todd	6576	Adult Full	-9.23000	7/27/2001		IL	0.56000	12/1/2000
 Rowley, John	10516	Adult Full	-21.91000	4/30/2002		TX	0.95000	5/1/2001
 Royal, Jack	11021	Adult Full	-18.48000	5/12/2003		TX	0.79000	5/1/2002
