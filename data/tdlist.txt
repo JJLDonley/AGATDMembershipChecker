@@ -1846,7 +1846,7 @@ Chen, David	32161	Youth		10/27/2026	Univ. of Maryland Go Club
 Chen, David	32371	Youth	-10.17913	2/22/2027	Univ. of Maryland Go Club	MD	0.89377	6/26/2026
 Chen, Debbie	30155	Adult Full	-7.94533	3/10/2026	Austin Go Club	TX	0.51191	7/13/2025
 Chen, Der-Yan	6069	Tournament Pass	7.20000	5/28/1993			0.00000	11/15/1992
-Chen, Di	24738	Adult Full		7/16/2026	North NJ Go Club	NJ		
+Chen, Di	24738	Adult Full		7/16/2027	North NJ Go Club	NJ		
 Chen, Diana	7999	Adult Full	-30.50000	3/28/1997		AR	4.61000	6/1/1996
 Chen, Diane	14977	Tournament Pass	-32.58000	9/19/2007		CA	1.16000	11/1/2006
 Chen, Dingguo	8257	Adult Full	2.16000	10/28/1997		OR	1.10000	12/1/1996
@@ -5719,7 +5719,7 @@ Huang, CHUN-HSIEN	25097	Adult Full		2/3/2022		MD
 Huang, Conan	17311	Adult Full	-12.71000	3/19/2010	Evanston Go Club	IL	1.22000	4/1/2009
 Huang, Corey	15598	Adult Full	-2.98000	10/24/2010	San Francisco Go Club	CA	0.52000	2/1/2010
 Huang, Curtis	15285	Tournament Pass	-18.12000	2/27/2007			1.40000	3/1/2007
-Huang, Daqian	23568	Adult Full	4.07470	10/13/2026	North NJ Go Club	NJ	0.39681	9/3/2022
+Huang, Daqian	23568	Adult Full	4.07470	10/13/2027	North NJ Go Club	NJ	0.39681	9/3/2022
 Huang, Daren	14165	Adult Full	-21.69656	3/9/2011	Feng Yun Go School	NY	0.87853	5/5/2012
 Huang, David	6978	Adult Full	5.42000	5/28/1995		CA	0.50000	6/1/1994
 Huang, David	25759	Youth		3/10/2023	Stony Brook University Go Club	NY		
@@ -8248,7 +8248,7 @@ Li, Jingmeng	21755	Complimentary	-1.68105	1/1/2023			0.64273	2/14/2015
 Li, Jinmeng	23981	Complimentary		1/1/2023				
 Li, Jinyang	24522	Adult Full	-5.61777	5/14/2025	Evanston Go Club	IL	0.40456	11/2/2024
 Li, Jinzheng	23857	Adult Full	1.50608	4/10/2019		NY	0.65044	4/7/2018
-Li, Joanne	32193	Adult Full		11/8/2026	North NJ Go Club	NJ		
+Li, Joanne	32193	Adult Full		11/8/2027	North NJ Go Club	NJ		
 Li, Johnny	11076	Adult Full	-5.54000	8/18/2004		CA	0.44000	9/1/2003
 Li, Julian	16306	Adult Full	-13.57474	2/13/2018		MD	0.69583	2/10/2018
 Li, Junyi	31833	Youth	-18.09321	5/28/2026		NY	1.77437	6/7/2025
@@ -12340,7 +12340,7 @@ Schroeder, John	30888	Adult Full	-9.75116	4/7/2025		OR	0.56842	7/23/2024
 Schultz, James	10511	Adult Full	-15.94000	5/10/2007	Massachusetts Go Association	MA	0.67000	1/1/2002
 Schultz, Nathan	22453	Tournament Pass	-18.89185	3/15/2016		NY	1.27318	3/19/2016
 Schultz, Patrick	14564	Tournament Pass	-8.67000	6/5/2006			1.01000	5/1/2006
-Schultz, Stephen	17622	Adult Full		7/12/2026	Gallatin Valley Go Club	MT		
+Schultz, Stephen	17622	Adult Full		7/8/2027	Gallatin Valley Go Club	MT		
 Schulz, Earl	13226	Adult Full	-7.55000	4/2/2011		CT	0.38000	6/1/2007
 Schulz, Steven	16565	Adult Full	-24.34000	4/27/2009		TX	0.78000	5/1/2008
 Schulzgen, Axel	9915	Adult Full	-7.91000	4/12/2001	Tucson Go Club	AZ	0.58000	6/1/2000
