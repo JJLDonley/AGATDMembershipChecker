@@ -14372,6 +14372,7 @@ Vincent, Pascal	31660	Adult Full	-9.59929	3/27/2026	National Go Center	VA	0.5901
 Viola, Pierre	13261	Adult Full	-10.50000	1/8/2008		NY	0.73000	6/1/2007
 Virgilio, Calvin	25243	Youth		7/23/2021		CA		
 Virgilio, Zachary	25242	Adult Full	-9.67647	4/11/2025		CA	1.24794	4/13/2024
+Virgin, Evan	32697	Adult Full		7/8/2027	Columbus Go Club	OH		
 Virnich, Abbie	3248	Adult Full	-4.32000	2/8/2006		CO	0.51000	2/1/2005
 Vishwanathan, Rowan	31602	Youth	-28.36817	2/19/2026	Austin Go Club	TX	1.75529	4/26/2025
 Vishwanathan, Sameer	31693	Adult Full	-29.63710	4/12/2026	Austin Go Club	TX	1.84948	7/13/2025
@@ -16747,7 +16748,7 @@ Zhao, Tony	30970	Adult Full	6.04670	5/22/2025	Evanston Go Club	ON	0.55842	5/25/2
 Zhao, Tony	30998	Complimentary		11/13/2025		ON		
 Zhao, Walter	18793	Adult Full	-4.14303	5/28/2020		AZ	0.52040	5/25/2019
 Zhao, Wenguang	12008	Adult Full	4.65277	4/14/2026	Orange County Go Club	CA	0.35074	7/13/2025
-Zhao, Wenxuan	31285	Tournament Pass	4.74977	6/19/2026	Evanston Go Club	WI	0.35734	5/23/2026
+Zhao, Wenxuan	31285	Adult Full	4.74977	7/8/2027	Evanston Go Club	WI	0.35734	5/23/2026
 Zhao, William	30244	Youth	-12.63782	5/11/2026		MA	0.55714	5/26/2025
 Zhao, Winston	31340	Youth	-6.97645	4/11/2027		NY	0.44691	4/11/2026
 Zhao, Xiaohua	18626	Adult Full	2.05890	2/13/2012	Atlanta Go Club	GA	0.64937	6/11/2011
@@ -16846,7 +16847,7 @@ Zhou, Alan	18824	Adult Full	-19.62630	5/19/2012	Seattle AGA Chapter	WA	0.98351	5
 Zhou, Allan	12216	Adult Full	-22.98000	11/2/2004	Feng Yun Go School	NJ	0.79000	11/1/2003
 Zhou, Andrew	30493	Adult Full	2.66224	10/14/2024		IL	0.60757	11/4/2023
 Zhou, Andy	17832	Adult Full	-5.85000	10/24/2011	San Francisco Go Club	CA	0.63000	2/1/2010
-Zhou, Andy	23083	Youth	2.78360	2/5/2026	San Diego Go Club	CA	0.26767	5/23/2026
+Zhou, Andy	23083	Youth	2.78360	7/8/2027	San Diego Go Club	CA	0.26767	5/23/2026
 Zhou, Andy	30843	Youth	-10.74854	1/26/2027		CA	0.59770	2/1/2026
 Zhou, Angel	24128	Youth	1.70948	11/30/2026	San Diego Go Club	CA	0.34536	5/23/2026
 Zhou, Anna	23082	Youth	-9.11438	2/5/2026	San Diego Go Club	CA	0.25050	5/24/2026
