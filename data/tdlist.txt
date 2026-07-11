@@ -5211,6 +5211,7 @@ Henning, Heath	22037	Adult Full	-5.96465	9/30/2026	Seattle AGA Chapter	WA	0.5636
 Henninger, Pete	17420	Adult Full	-16.77988	5/3/2015		TX	1.02765	6/29/2013
 Henrie, Liam	31357	Adult Full	-9.96827	11/9/2026		NY	0.34597	6/6/2026
 Henrikson, Jeff	12436	Adult Full	-15.66000	11/6/2006	Seattle AGA Chapter	WA	0.75000	12/1/2005
+Henriod, Joseph	32698	Youth		7/9/2027		UT		
 Henry, JR	10849	Adult Full	-35.89000	12/23/2002	GWRM Baltimore Go Club	LA	1.17000	1/1/2002
 Henry, Miles	25828	Youth	-12.11133	3/25/2027		NY	0.37732	7/23/2024
 Henry, Nathaniel	32394	Adult Full		2/27/2027		GA		
