@@ -729,6 +729,7 @@ Bennett, John	19760	Adult Full		2/28/2012	Atlanta Go Club	AL
 Bennett, Kim	13193	Adult Full	-22.96000	2/6/2006	Seattle AGA Chapter	WA	1.02000	2/1/2005
 Bennett, Rory	17964	Adult Full	-12.11024	3/9/2011		NY	0.70123	2/20/2010
 Bennington, Cydne	15843	Adult Full	-31.19000	2/2/2010	Tacoma Go Club	WA	3.05000	2/1/2009
+Bensch, James	32701	Adult Full		7/10/2027		WA		
 Bensen, Paul	5845	Adult Full	-3.68815	4/14/2012		FL	0.24739	8/3/2011
 Bensky, Daniel	17839	Adult Full	-21.48048	3/12/2024	Seattle AGA Chapter	WA	2.11885	11/21/2010
 Benson, Curt	6195	Adult Full	-12.79000	10/28/1993		IL	0.52000	9/1/1993
@@ -6488,6 +6489,7 @@ Ju, Peter	7763	Adult Full	-1.74000	1/27/2002		CA	0.59000	2/1/2001
 Ju, William	18181	Tournament Pass	-22.05261	5/21/2010			1.47850	5/16/2010
 Ju, William	18185	Adult Full	-20.49914	5/21/2011	Seattle AGA Chapter	WA	2.76337	11/7/2010
 Ju, Won Sic	10432	Tournament Pass	1.55000	2/28/2001			0.73000	3/1/2001
+Ju, Zhenghua	32700	Tournament Pass		8/10/2026		NY		
 Juarez, Alma	19252	Adult Full	-28.69124	8/12/2011			1.99324	7/31/2011
 Judd, Christopher	24285	Adult Full	-28.31990	11/15/2020	South Sound Go Club	WA	1.75823	6/23/2019
 Jun, Byung Su	11535	Adult Full	7.17000	2/12/2004		OR	0.57000	6/1/2003
@@ -6956,6 +6958,7 @@ Kim, Jason	22393	Adult Full	-23.97903	3/2/2017		NJ	1.57880	3/19/2016
 Kim, Jay	6234	Adult Full	6.31000	12/28/1993		CO	0.69000	9/1/1993
 Kim, Jene Sung	10421	Tournament Pass	2.87000	2/28/2001			0.61000	5/1/2008
 Kim, Ji Sang	11025	Adult Full	3.34000	1/26/2005		NJ	0.30000	2/1/2004
+Kim, Ji Sup	32702	Adult Full		7/10/2027		MA		
 Kim, Jihun	32558	Complimentary		11/1/2026				
 Kim, Jin Kwan	6168	Tournament Pass	4.93000	12/28/1979			0.57000	9/1/1997
 Kim, Jin Soo	10427	Tournament Pass	2.67000	2/28/2001			0.57000	3/1/2001
@@ -7731,7 +7734,7 @@ LeBlanc, Cesar	30675	Adult Full		1/5/2025		AZ
 Leblanc, Ian	24778	Adult Full	2.41126	2/18/2027	Penn Go Society	PA	0.40357	3/14/2026
 Leblanc, Marc	8974	Adult Full	-14.66000	1/24/2002	Massachusetts Go Association	MA	0.80000	6/1/1998
 Lebovitz, George	10560	Adult Full	-11.43047	5/21/2027	Space Coast Area Go Association	FL	0.96075	1/27/2024
-Lechasseur, Jean-sebastien	17678	Complimentary	5.03049	1/1/2023		QC	0.57727	1/7/2023
+Lechasseur, Jean-sebastien	17678	Complimentary	5.03049	1/1/2027		QC	0.57727	1/7/2023
 Lechasseur, Jean-Sébastien	32685	Complimentary		1/2/2027		QC		
 Lechtchinski, Dimitri	12398	Adult Full	-2.91000	2/24/2008		NY	0.35000	3/1/2007
 Lecin, Matthew	8192	Adult Full	-15.67000	8/31/2026	Wings Across Calm Water	NJ	0.51000	9/1/1997
@@ -12205,7 +12208,7 @@ Sanquer, Laurent	11098	Tournament Pass	-17.54000	6/18/2002		CA	0.97000	7/1/2002
 Santa Gadea, Gregorio	16346	Adult Full	-20.31000	2/20/2009	Bay Area Go Players Assoc.	CA	1.35000	5/1/2008
 Santana, Alex	32499	Adult Full	-10.46325	4/17/2027	Charlotte Go Club	SC	1.72730	4/18/2026
 Santana, Igor	25080	Adult Full	-3.39635	4/10/2025	Dallas Go Club	TX	0.31602	4/13/2024
-Santana, Igor	31923	Complimentary		1/11/2026		BA		
+Santana, Igor	31923	Complimentary		1/11/2027		BA		
 Santana, Roberto	13920	Adult Full	-14.02000	5/3/2008		MA	1.02000	5/1/2007
 Santiago, Daniel	25093	Adult Full	-13.37678	2/2/2021	New York Go Association	NY	1.49281	2/8/2020
 Santopietro, Ian	31245	Adult Full		9/18/2025	Danger Monkey Go Club	CO		
@@ -13468,6 +13471,7 @@ Sun, John	2927	Adult Full	1.98000	12/28/1993		MD	0.69000	9/1/1993
 Sun, Juyuan	31202	Adult Full	4.40177	9/6/2025		PA	0.59753	9/7/2024
 Sun, Lei	23177	Adult Full	5.98873	5/8/2021	Stony Brook University Go Club	NY	0.32969	11/1/2019
 Sun, Lexiang	32444	Youth	5.67688	4/25/2027		CA	0.69583	4/11/2026
+Sun, Li	32699	Tournament Pass		8/10/2026		NY		
 Sun, Max	25874	Youth	-11.56030	4/17/2032		IL	0.53893	5/27/2023
 Sun, Michael	13694	Adult Full	-6.00085	7/19/2009	Tacoma Go Club	CA	0.59561	6/4/2011
 Sun, Michael	20582	Adult Full	5.06318	4/25/2016		MA	0.61363	4/14/2013
