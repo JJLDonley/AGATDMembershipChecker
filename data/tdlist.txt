@@ -5057,7 +5057,7 @@ hatori, yukihiro	21098	Adult Full	5.88696	3/8/2015		CT	0.54109	3/1/2014
 Hatton, Jim	7616	Adult Full	-9.62000	8/16/2002		OR	0.23000	9/1/1999
 Hattori, Terumitsu	1177	Adult Full	6.14000	8/28/1986		CA	0.53000	6/1/1994
 Hatziyannis, Alexander	21168	Adult Full	-13.59086	5/10/2016		NH	0.64343	3/28/2015
-Hauenstein, Andreas	9659	Adult Full	2.38906	8/21/2026	Silicon Valley Go Club	CA	0.42069	1/19/2025
+Hauenstein, Andreas	9659	Adult Full	2.38906	7/13/2027	Silicon Valley Go Club	CA	0.42069	1/19/2025
 Haugen, Benard James	24924	Adult Full	-31.10261	11/4/2020	NOVA Go Club	VA	2.04012	12/14/2019
 Haugen, Jeremy	21990	Adult Full	-15.34067	10/8/2026	Twin Cities Go Club	MN	1.01120	10/18/2025
 Haugh, Allen	15479	Tournament Pass	-25.56000	5/12/2007			3.22000	5/1/2007
@@ -9465,7 +9465,7 @@ Marshall, Randy	26023	Adult Full	-6.56768	8/25/2025	Iowa Go Society	IA	0.86468	3
 Marshall, William	14133	Adult Full	-14.20000	12/28/2006	Penn Go Society	PA	0.86000	1/1/2006
 Marshburn, Jeremy	22547	Adult Full	-8.53222	2/25/2020	Triangle Go Group	NC	0.51331	9/28/2019
 Martan, Asher	10811	Tournament Pass	-18.06000	1/13/2002			1.26000	1/1/2002
-Marteney, Martha	26044	Adult Full	-22.15923	8/19/2026	Western Mass. Go Club	MA	1.66005	9/21/2025
+Marteney, Martha	26044	Adult Full	-22.15923	8/19/2027	Western Mass. Go Club	MA	1.66005	9/21/2025
 Martin, Aaron	14079	Adult Full	-15.31000	12/29/2006		NY	0.77000	12/1/2005
 Martin, Chris	16057	Adult Full	-2.96258	9/13/2013		KY	0.46530	9/3/2011
 Martin, Christopher	5165	Adult Full	-7.70000	2/26/1999	Princeton Go Club	NJ	0.94000	3/1/1998
@@ -13700,6 +13700,7 @@ Tan, Xingzhi	31638	Youth	-13.87125	3/19/2027		NJ	0.55992	12/12/2025
 Tan, Xinmu	12046	Adult Full	4.75000	1/4/2008		VA	0.32000	8/1/2007
 Tan, Yuchang	24766	Complimentary	-19.33353	1/1/2023			0.97258	7/14/2019
 Tan, Yuliang	31334	Adult Full	-11.49367	11/2/2025	San Diego Go Club	CA	0.96438	5/10/2025
+Tan, Zachary	32704	Youth		7/12/2027		PE		
 Tan, Zhixuan	24158	Adult Full	-1.81016	10/16/2019	Stony Brook University Go Club	NY	0.41010	5/4/2019
 Tan, Zoe	25509	Youth	-2.93483	6/19/2027	San Diego Go Club	CA	0.59421	11/29/2025
 Tanabe, Shigeo	11622	Tournament Pass	-1.04000	2/6/2003		WA	0.79000	2/1/2003
@@ -14831,7 +14832,7 @@ Wang, YueQi	30404	Adult Full	-14.96561	8/25/2024		NC	0.40275	7/23/2024
 Wang, Yujie	30283	Youth		5/28/2027		TN		
 Wang, Yulun	24271	Tournament Pass	-1.44987	11/9/2018		IL	0.86689	11/10/2018
 Wang, Yutong	22554	Tournament Pass	3.02454	4/16/2016			0.53870	3/3/2018
-Wang, Yuxiao	26051	Youth	5.58845	8/22/2026		NY	0.16683	5/23/2026
+Wang, Yuxiao	26051	Adult Full	5.58845	8/22/2027		NY	0.16683	5/23/2026
 Wang, Yuxuan	21041	Youth	1.37676	2/6/2015		CA	0.65940	1/18/2014
 Wang, Ze	26298	Tournament Pass	-9.65680	1/2/2023		MA	0.77768	1/7/2023
 Wang, Zengquan	8579	Adult Full	-1.87000	5/31/1998		MI	0.68000	6/1/1997
