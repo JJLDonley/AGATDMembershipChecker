@@ -4689,6 +4689,7 @@ Guo, Jing	17363	Adult Full	6.58066	5/13/2026		NY	0.32846	2/8/2020
 Guo, Jingyuan	30363	Youth	2.79501	7/26/2024	College Station Go Club	TX	0.72832	8/19/2023
 Guo, Jingzi	32186	Adult Full	-20.09515	11/6/2026	Pasadena Go Club	CA	0.56074	1/17/2026
 Guo, Jinping	6005	Adult Full	3.80000	3/28/1993			0.00000	11/15/1992
+Guo, Joe	32710	Youth		7/15/2027		PE		
 Guo, Kaitlyn	25742	Youth	-21.10172	2/22/2024		CA	0.84030	8/20/2022
 Guo, Kevin	23030	Adult Full	2.85965	12/26/2017	Orange County Go Club	CA	0.69239	10/22/2016
 Guo, Matthew	25536	Youth	-30.49985	7/11/2023		NC	3.76643	7/11/2021
@@ -11022,6 +11023,8 @@ Parrott, John	24386	Adult Full		1/3/2027	Memphis Go Club	TN
 Parrott, Stephen	1264	Adult Full	4.62000	9/2/2002	Massachusetts Go Association	MA	0.58000	5/1/2002
 Parry-Hill, Jeremiah	11871	Adult Full	-9.36340	11/9/2028	Empty Sky Go Club	NY	0.55975	4/15/2023
 Parson, Devante	17733	Adult Full	-2.81276	9/10/2010			0.61019	6/13/2010
+Parsons, Jonathan	32712	Adult Full		7/15/2027	Cincinnati Go Club	OH		
+Parsons, Shunta	32711	Youth		7/15/2027		OH		
 Partlow, Chris	17938	Adult Full	-9.30928	2/15/2012		OH	0.93250	2/4/2012
 Parton, Maurizio	21399	Complimentary	-2.49009	1/1/2023			1.03701	8/10/2014
 Parton, Sara	21400	Complimentary	-11.11220	1/1/2023			1.66602	8/10/2014
@@ -14304,7 +14307,7 @@ Van Sice, Ian	11479	Adult Full	-5.58000	1/1/2005		GA	0.65000	8/1/2003
 Van Sice, Sean	11480	Adult Full	-7.76000	8/23/2007		GA	1.17000	8/1/2003
 Van Slooten, Hans	24190	Adult Full		10/29/2026	Twin Cities Go Club	MN		
 van Sluijs, Robbert	24004	Complimentary	-2.32768	1/1/2023			0.52817	7/22/2018
-Van Splinter, Corey	31125	Adult Full		7/28/2025		MA		
+Van Splinter, Corey	31125	Adult Full		7/15/2027		MA		
 Van Voorhis, John	8092	Adult Full	-9.05560	6/9/2024		DC	0.46515	12/9/2023
 Van Walleghem, Francois	22847	Complimentary	-2.73041	1/1/2023			0.58608	7/30/2016
 Van Wie, Michael	10452	Adult Full	-2.39000	3/21/2007	Empty Sky Go Club	NY	0.48000	3/1/2006
