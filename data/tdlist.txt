@@ -8316,7 +8316,7 @@ Li, Shi	17284	Adult Full	1.52861	2/28/2012		NJ	0.46398	2/26/2011
 Li, Shixiong	24763	Complimentary	5.49889	1/1/2023			0.53299	7/14/2019
 Li, Shuyu	32687	Youth		7/3/2027		WA		
 Li, Si Roger	17574	Youth	-23.66000	6/24/2010	Evanston Go Club	IL	0.93000	7/1/2009
-Li, Sigrid	31729	Youth	-33.14921	4/22/2026	New York Go Association	NY	2.47510	9/13/2025
+Li, Sigrid	31729	Youth	-33.14921	4/22/2027	New York Go Association	NY	2.47510	9/13/2025
 Li, Sihao	16907	Adult Full	3.32000	10/14/2009		VA	0.44000	8/1/2009
 Li, Siqi	21839	Youth	-8.27289	8/6/2019	Syracuse Go Club	NY	0.42602	7/14/2019
 Li, Siyuan	20520	Adult Full	7.95333	4/3/2015		VA	0.48363	4/26/2014
@@ -13336,7 +13336,7 @@ Strait, Brigid	13695	Adult Full	-13.82000	6/15/2006		IA	0.58000	3/1/2006
 Strano Moraes, Luis Felipe	25611	Adult Full		9/19/2022		OR		
 Strater, Dorothy	17147	Adult Full	-19.90000	1/28/2010		VA	1.26000	4/1/2009
 Stratmann, Jan	7553	Tournament Pass	-4.81000	2/28/1995			1.37000	3/1/1995
-Stratton, Brendan	31960	Adult Full	-24.73750	8/1/2026	Maine Go	ME	0.56628	4/25/2026
+Stratton, Brendan	31960	Adult Full	-24.73750	8/1/2027	Maine Go	ME	0.56628	4/25/2026
 Straub, Adam	16937	Adult Full	-3.07000	11/2/2009		NY	0.71000	11/1/2008
 Straughn, Terry	4667	Adult Full	-8.60000	3/28/1993		AZ	0.00000	11/15/1992
 Straus, Peter	11185	Adult Full - Lifetime	3.57000	9/1/2064		PA	0.30000	1/1/2007
