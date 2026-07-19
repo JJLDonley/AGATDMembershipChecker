@@ -5251,7 +5251,7 @@ Herrmann, Maxwell	25250	Adult Full		7/26/2023		IA
 Herron, John	1210	Adult Full	-10.50000	12/28/1981	Ann Arbor Go Club	MI	0.00000	1/8/1981
 Hersey, April	16962	Tournament Pass	-11.72881	11/4/2010		TX	0.56890	10/15/2016
 Hershavits, Emmanuel	20469	Youth	-13.18301	3/6/2014		NY	0.59630	10/20/2013
-Hershberger, Matthew	14088	Adult Full	3.83235	3/13/2026	Massachusetts Go Association	MA	0.24263	1/31/2026
+Hershberger, Matthew	14088	Adult Full	3.83235	7/17/2027	Massachusetts Go Association	MA	0.24263	1/31/2026
 Hershhorn, David Corey	10319	Adult Full	-7.70000	4/7/2020	Columbus Go Club	OH	0.81000	3/1/2009
 Hertzberg, Ben	12033	Adult Full	-18.90000	11/16/2004		WA	1.23000	8/1/2003
 Hess, Michael	3122	Adult Full	-5.15000	10/18/2023		MO	0.35000	9/1/2007
@@ -10146,8 +10146,8 @@ Morrow, Will	8420	Adult Full	-3.96000	11/30/2010	Evanston Go Club	CO	0.50000	10/
 Morse, Chris	20310	Adult Full	-4.61479	11/20/2026	Western Mass. Go Club	MA	0.29003	11/22/2025
 Morse, Evan	11276	Adult Full	-4.23000	9/24/2005		CT	0.38000	7/1/2005
 Morse, Geordie	15477	Adult Full	-13.58000	12/14/2009			0.54000	12/1/2008
+Morse, Nate	23952	Adult Full	5.98125	7/17/2027		NY	0.35037	8/31/2024
 Morse, Richard	15453	Adult Full	-9.70000	4/30/2009	Western Mass. Go Club	MA	0.51000	12/1/2008
-Morse, telegraphgo	23952	Adult Full	5.98125	3/12/2025		NY	0.35037	8/31/2024
 Morton, Blaise	5673	Adult Full	-5.70000	11/28/1992	Twin Cities Go Club	MN	0.00000	11/15/1992
 Morton-Park, Frank	31646	Adult Full		3/22/2027	Portland Go Club	OR		
 Mortveit, Henning	18905	Adult Full	1.24789	7/8/2012		VA	0.64841	2/11/2012
