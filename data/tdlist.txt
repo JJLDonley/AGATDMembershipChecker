@@ -260,7 +260,7 @@ Andrews, John	32479	Adult Full	-15.23422	4/13/2027	Charlotte Go Club	NC	1.09775	
 Andrews, Julian	14728	Adult Full	1.02000	3/20/2009	Sarasota Go Club	IL	0.44000	4/1/2008
 Andrews, Sydney	30646	Adult Full		12/16/2024		MS		
 Andrews, Warren	19906	Adult Full	-5.03193	11/23/2026	San Diego Go Club	CA	0.67730	11/29/2025
-Andrichak, John	18270	Adult Full	-1.73644	8/11/2026	San Antonio Go Club	TX	0.45564	6/29/2013
+Andrichak, John	18270	Adult Full	-1.73644	8/11/2027	San Antonio Go Club	TX	0.45564	6/29/2013
 Anfang, Jason	31088	Adult Full	-29.33329	7/6/2025	Portland Go Club	OR	0.81721	7/23/2024
 Ang, Christian	19746	Tournament Pass	-17.26926	2/23/2013	Stony Brook University Go Club	NY	0.48848	5/4/2013
 Angelos, George	18594	Adult Full	-5.66612	1/18/2014		CO	0.72762	12/15/2012
@@ -474,6 +474,7 @@ Baker, Dan	18907	Adult Full	-20.86758	7/19/2012		TX	1.00404	7/9/2011
 Baker, Donovan	31807	Adult Full		5/14/2026	San Diego Go Club	CA		
 Baker, James	12764	Adult Full	-8.44000	6/18/2006	Evanston Go Club	IL	0.51000	10/1/2005
 Baker, Karl	992	Adult Full - Lifetime	-1.81000	9/1/2064		OR	0.51000	9/1/2008
+Baker, Kyle	32716	Adult Full		7/23/2027				
 Baker, Lucas	16180	Adult Full	4.19238	5/16/2027	New York Go Association	NY	0.32189	3/7/2026
 Baker, Matthew	14633	Adult Full	-13.62187	9/6/2011	Ventura County Go Club	CA	0.73251	9/18/2010
 Baker, Matthew	21728	Adult Full	-7.80316	3/10/2016	Arizona Go Club	AZ	1.36220	3/10/2015
@@ -11936,6 +11937,7 @@ Root, Aric	26240	Adult Full		11/15/2023		PA
 Root, David	7248	Tournament Pass	-20.83000	5/28/1994			1.93000	6/1/1994
 Root, Peter	12738	Adult Full	-25.75000	6/8/2005		CA	0.76000	9/1/2004
 Root, Zachary	32449	Youth	-7.29663	3/26/2027		PA	0.80576	3/28/2026
+Roper, Emily	32717	Adult Full		7/23/2027				
 Rosdeitcher, David	11216	Tournament Pass	1.64000	1/26/2006			0.74000	2/1/2006
 Rose, Bradley	24040	Adult Full	-6.81322	6/6/2027	Peoria & Normal Go Club	IL	0.31227	7/12/2023
 Rose, Dakota	15107	Tournament Pass	-31.96000	1/15/2007			3.20000	2/1/2007
@@ -13056,7 +13058,7 @@ Song, Brian	5459	Tournament Pass	5.30000	3/19/1992		ON	0.00000	1/15/1994
 Song, Chang	31462	Adult Full	1.35305	1/10/2026	Danger Monkey Go Club	CO	0.78957	1/11/2025
 Song, Chuyuan	23979	Complimentary	-3.77673	1/1/2023			0.72250	7/22/2018
 Song, Dae	19359	Tournament Pass	5.62849	10/8/2011	Atlanta Go Club		0.84571	10/1/2011
-Song, Forest	14141	Adult Full	6.43486	7/12/2025	Feng Yun Go School	MA	0.30568	2/15/2025
+Song, Forest	14141	Adult Full	6.43486	7/21/2027	Feng Yun Go School	MA	0.30568	2/15/2025
 Song, Fuhua	11556	Adult Full	-20.61000	1/15/2004	Feng Yun Go School	NJ	0.75000	2/1/2003
 Song, Ghwon	8155	Tournament Pass	2.20000	7/28/1996			0.64000	9/1/1996
 Song, Grant	25904	Youth	-16.52202	4/30/2024		IL	1.71990	5/14/2022
