@@ -781,7 +781,7 @@ Bernhart, Frank	4347	Tournament Pass	-3.94000	9/20/2008		IL	0.34000	10/1/2008
 Bernhart, Judith Ann	1056	Adult Full	-9.99000	11/13/2006		PA	0.63000	5/1/2006
 Bernscherer, Christian	22993	Adult Full		11/19/2022				
 Berns-Leone, Greg	14792	Adult Full	-12.82000	10/17/2007		IA	0.68000	1/1/2007
-Bernstein, Ben	144	Adult Full	-2.27519	8/11/2026	San Francisco Go Club	CA	0.57176	6/23/2018
+Bernstein, Ben	144	Adult Full	-2.27519	8/11/2027	San Francisco Go Club	CA	0.57176	6/23/2018
 Bernstein, Kahlieh	15395	Adult Full	-7.39000	4/6/2008	Boulder Kids and Teens Go Club	CO	1.50000	3/1/2008
 Bernstein, Neil	6042	Adult Full	-5.50084	11/3/2012		OH	0.58052	9/17/2011
 Bernstein, Ryan	16578	Adult Full	2.91900	10/25/2010		CO	0.43465	11/6/2010
@@ -5350,7 +5350,7 @@ Hlavka, Jim	354	Adult Full - Lifetime	-2.37112	1/1/2025		CA	0.45547	8/1/2022
 Ho, Alfred	6802	Adult Full	1.89000	8/18/2007		CA	0.34000	11/1/2003
 Ho, Allen	13491	Adult Full	-11.16000	4/23/2006		TX	0.79000	5/1/2005
 Ho, Brandon	21294	Adult Full	3.87928	7/31/2026	San Diego Go Club	CA	0.35216	5/23/2026
-Ho, Brandon	31949	Adult Full		7/26/2026	San Diego Go Club	CA		
+Ho, Brandon	31949	Adult Full		7/26/2027	San Diego Go Club	CA		
 Ho, Brian	18398	Adult Full	-35.29816	11/16/2021		CA	3.57518	9/18/2010
 Ho, Bryan	6999	Adult Full	-2.79000	8/28/1996	Houston Go Club	TX	0.58000	6/1/1996
 Ho, Darren	13189	Adult Full	-14.30000	2/6/2006	Seattle AGA Chapter	WA	2.11000	2/1/2005
@@ -8914,7 +8914,7 @@ Liu, Yu-Chin	11821	Adult Full	-1.99000	8/30/2004			0.60000	6/1/2003
 Liu, Yuhan	31483	Adult Full	3.00610	1/12/2026		RI	0.61624	1/25/2025
 Liu, yuhan	32628	Complimentary		12/20/2026		SN		
 Liu, Yuhang	23171	Tournament Pass	-1.85381	3/5/2018	Penn Go Society	PA	0.60668	4/28/2018
-Liu, Yuhang	31962	Adult Full	4.34749	8/2/2026	Massachusetts Go Association	MA	0.44407	9/13/2025
+Liu, Yuhang	31962	Adult Full	4.34749	8/2/2027	Massachusetts Go Association	MA	0.44407	9/13/2025
 Liu, Yuhe	25756	Youth	-3.43081	2/28/2024	San Francisco Go Club	CA	0.59095	2/25/2023
 Liu, Yujie	25843	Adult Full	4.05372	5/1/2023		NY	0.51094	8/1/2022
 Liu, Yuke	23089	Youth	1.69053	1/17/2018	San Diego Go Club	CA	0.67321	1/14/2017
@@ -10056,7 +10056,7 @@ Montgomery, William	21029	Adult Full	-5.21002	2/1/2016	Seattle AGA Chapter	WA	1.
 Montigny, jaden	32674	Tournament Pass	-29.77930	7/26/2026		MO	2.67362	6/26/2026
 Montoya, David	11738	Adult Full	-9.10000	7/31/2006	Austin Go Club	TX	0.32000	8/1/2004
 Moody, Bill	23784	Adult Full	-17.20635	3/10/2019	New York Go Association	NY	1.05971	4/21/2018
-Moody, Jonathan	31959	Adult Full	-6.55951	7/31/2026	Maine Go	ME	0.47074	10/25/2025
+Moody, Jonathan	31959	Adult Full	-6.55951	7/31/2027	Maine Go	ME	0.47074	10/25/2025
 Moon, Bongkyun	21051	Adult Full	4.95208	2/28/2016	Twin Cities Go Club	MN	0.57539	8/5/2015
 Moon, Junesik	8636	Adult Full	5.52000	5/31/1998	Seattle AGA Chapter	WA	0.67000	6/1/1997
 Moon, K.T.	6630	Adult Full	2.94000	7/28/1994		CA	0.54000	9/1/1993
@@ -15139,7 +15139,7 @@ White, Tim	12269	Adult Full	-27.24000	11/18/2004		OR	2.39000	12/1/2003
 Whitehead, Richard	6744	Adult Full	-5.80000	4/1/2000		TN	0.50000	1/1/1998
 Whitehead, Wensdy	20580	Adult Full	-8.21629	9/27/2016	Massachusetts Go Association	MA	0.40677	9/26/2015
 Whiteley, Norman	2899	Adult Full	5.40000	12/9/2008		CA	0.45000	3/1/1995
-Whiteside, David	8329	Adult Full	-9.59679	1/21/2026	Ventura County Go Club	CA	0.75548	10/21/2017
+Whiteside, David	8329	Adult Full	-9.59679	7/24/2027	Ventura County Go Club	CA	0.75548	10/21/2017
 Whitlock, David	15462	Adult Full	-20.12000	5/3/2008		WA	1.78000	4/1/2007
 Whitlow, Jeffery	17666	Adult Full	2.71028	8/13/2012		MI	0.36372	2/6/2010
 Whitman, Ethan	23286	Youth	5.08530	11/4/2026	Austin Go Club	TX	0.23369	4/25/2026
