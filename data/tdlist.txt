@@ -1520,6 +1520,7 @@ Carter, Lannie	10220	Adult Full	1.59000	3/12/2006	Evanston Go Club	IL	0.37000	8/
 Carter, Matthew	20005	Adult Full	-5.04985	6/16/2013		FL	0.44955	8/5/2012
 Carter-hitchin, David	16770	Tournament Pass	-13.30000	8/14/2008			0.56000	9/1/2008
 Cartwright, Tony	17086	Adult Full	-2.77591	3/30/2011	Cleveland Go Club	IL	0.57047	12/11/2010
+Caruthers, Bryant	32730	Adult Full		7/27/2027				
 Carvalho, William	31952	Youth	-11.01770	7/28/2026	Santa Monica Go Club	OH	1.00514	8/2/2025
 Carver, Owen	12205	Adult Full	-5.20000	3/12/2024	Las Vegas Go Club	NV	0.75000	12/1/2007
 Cary, Jack	14901	Adult Full	-2.85055	8/14/2027	Vermont Go Club	VT	0.27009	4/25/2026
@@ -3274,6 +3275,7 @@ Dormody, Boomer	6935	Adult Full	-28.89000	4/28/1995		FL	5.10000	6/1/1994
 Dorner Jr., Thomas T.	14340	Adult Full	-13.30000	3/12/2007		NJ	0.89000	11/1/2006
 Dorsett, Kathleen	23930	Adult Full	-24.72693	5/22/2020		WA	0.90763	11/11/2018
 Dorsey, Cherise	17787	Tournament Pass	-32.41000	10/21/2009		CA	1.18000	10/1/2009
+Dorsey, Kent	32726	Adult Full		7/26/2027				
 Dorsey, Kevin	9975	Tournament Pass	-12.08000	6/29/2000	Davis/Sacramento Go Club	CA	0.79000	9/1/2000
 Dorsey, Trevor	17783	Tournament Pass	-21.16000	10/29/2009		CA	0.63000	10/1/2009
 Doshay, David	3016	Adult Full - Lifetime		9/1/2064		CA		
@@ -5512,7 +5514,7 @@ Horii, Daijiro	15741	Complimentary	5.67022	1/1/2023			0.40889	8/10/2014
 Horn, Jeffrey	3033	Adult Full	-2.36986	7/4/2027	Davis/Sacramento Go Club	CA	0.26538	10/26/2025
 Hornberger, Christopher	17628	Adult Full	-15.86000	7/17/2010		MD	1.14000	9/1/2009
 Horner, Cassidy	25784	Adult Full	-14.14834	8/28/2026	Massachusetts Go Association	MA	0.40911	8/30/2025
-Horner, Ryan	17955	Adult Full	-5.33009	7/25/2026	Massachusetts Go Association	MA	0.26202	1/31/2026
+Horner, Ryan	17955	Adult Full	-5.33009	7/26/2027	Massachusetts Go Association	MA	0.26202	1/31/2026
 Horowitz, Eric	23004	Adult Full	-7.18092	12/7/2017		FL	0.80502	12/10/2016
 Horowitz, Josh	14559	Tournament Pass	-20.34000	5/31/2006			0.89000	5/1/2006
 Horowitz, Robert	6870	Adult Full	-1.29000	2/28/1995		IL	0.62000	3/1/1994
@@ -8570,6 +8572,7 @@ Lin, Guang	11590	Adult Full	4.97000	1/30/2004		MA	0.68000	2/1/2003
 Lin, Hai	20175	Adult Full	4.52125	9/15/2014		CA	0.54633	5/18/2013
 Lin, Haiquin	7850	Adult Full	-6.00000	11/28/1996		NY	0.86000	12/1/1995
 Lin, Harrison	32567	Complimentary		11/1/2026				
+Lin, Harrison	32727	Youth		7/26/2027				
 Lin, Henry	13320	Adult Full	-9.31000	3/1/2006	Arthur Lewis Go Club	NC	0.68000	4/1/2005
 Lin, Hong	11260	Adult Full	-7.53000	9/10/2008		NY	0.48000	11/1/2007
 Lin, Hua	18193	Adult Full	-1.64344	5/31/2011	Capital Go Club	MD	0.44041	9/18/2010
@@ -8610,6 +8613,7 @@ Lin, Lawrance	13664	Adult Full	-28.91000	10/17/2006		CA	1.27000	6/1/2005
 Lin, Liyu	22018	Tournament Pass	5.49646	8/12/2015			0.54296	8/2/2015
 Lin, Madison	18876	Youth	-33.01517	6/12/2012		CO	2.84730	6/11/2011
 Lin, Mason	32568	Complimentary		11/1/2026				
+Lin, Mason	32728	Youth		7/26/2027				
 Lin, Maverick	12720	Adult Full	3.94443	3/1/2013	Feng Yun Go School	NJ	0.45451	4/21/2012
 Lin, Michael	18801	Adult Full	3.45898	4/24/2026	Stony Brook University Go Club	NY	0.73266	5/7/2011
 Lin, Michelle	25636	Youth	-36.98509	7/24/2027	San Diego Go Club	CA	3.18347	9/25/2022
@@ -14939,7 +14943,7 @@ Wayne, Charles	26123	Adult Full		10/12/2025	National Go Center	MD
 Wayne, Steven	17665	Adult Full	-14.83285	2/22/2035	Peoria & Normal Go Club	IL	0.55193	7/14/2019
 Weatherby, Luke	21740	Adult Full	-6.07033	10/12/2019	Arizona Go Club	AZ	0.32645	10/13/2018
 Weaver, Gwen	6056	Adult Full	-18.65000	5/28/1993		IL	0.49000	9/1/1993
-Weavers, Alexander	23426	Adult Full	1.01419	7/5/2026		NV	0.41156	4/19/2026
+Weavers, Alexander	23426	Adult Full	1.01419	7/26/2027		NV	0.41156	4/19/2026
 Webb, Andrew	8679	Adult Full	-23.99000	8/7/1998		PA	0.62000	3/1/1998
 Webb, Demetrios	24722	Youth	-26.50064	7/7/2020	San Diego Go Club	CA	1.64163	7/7/2019
 Webb, Guilford	6460	Adult Full	-7.95000	8/26/1999		TX	0.65000	9/1/1998
@@ -14979,6 +14983,7 @@ Wei, Jiwu	30636	Adult Full	1.47983	12/8/2024	National Go Center	VA	0.78708	12/9/
 Wei, John	8707	Adult Full	3.83000	7/17/1998		MA	0.73000	9/1/1997
 Wei, Johnnie	26399	Youth		2/17/2024	New York Go Association	NY		
 Wei, Karl	25329	Adult Full		10/15/2026	Mason Go Club	OH		
+WEI, KARL	32729	Adult Full		7/27/2027				
 Wei, Ke	9379	Adult Full	7.12000	5/8/2000		TX	0.38000	3/1/2000
 Wei, Kevin	12952	Adult Full	-3.72000	9/22/2005		CA	0.59000	10/1/2004
 Wei, Kuo-An Andy	21689	Adult Full		3/7/2016		NH		
