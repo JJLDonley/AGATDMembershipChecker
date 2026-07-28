@@ -1993,7 +1993,7 @@ Chen, qirui	23817	Adult Full	6.20146	3/23/2019	Syracuse Go Club	NY	0.74596	3/24/
 Chen, Ralph	11867	Tournament Pass	2.49000	1/11/2004			0.58000	6/1/2003
 Chen, Ray	32547	Complimentary		10/31/2026		BC		
 Chen, Raymond	30158	Youth	-25.05283	4/17/2024		NY	2.19497	4/22/2023
-Chen, Renyu	15850	Adult Full	7.27119	1/19/2015	SiliValley Go Club	CA	0.44962	1/26/2013
+Chen, Renyu	15850	Adult Full	7.27119	7/27/2027	SiliValley Go Club	CA	0.44962	1/26/2013
 Chen, RIBIN	22802	Tournament Pass	-22.17425	7/18/2016			1.47915	7/31/2016
 Chen, Richard	2020	Adult Full	5.14000	8/13/2005		CA	0.50000	9/1/2004
 Chen, Rong	8475	Adult Full	5.44000	3/31/1999		MI	0.50000	6/1/1999
@@ -3155,7 +3155,7 @@ Diamond, Martha	7926	Adult Full	-19.28000	1/28/1997		CA	0.84000	3/1/1996
 Diao, Tianning	22224	Adult Full	1.43241	4/23/2032		NY	0.71995	5/3/2025
 Diavatopoulos, Constantine	26073	Adult Full	-23.99870	9/8/2025	Seattle AGA Chapter	WA	2.13844	10/2/2022
 Diaz, Ilario	30072	Youth	-30.49937	3/26/2024		IL	3.30682	7/9/2023
-Diaz, Margarita	31947	Adult Full	-31.84644	7/26/2026		NY	1.07223	9/13/2025
+Diaz, Margarita	31947	Adult Full	-31.84644	7/28/2027		NY	1.07223	9/13/2025
 Dibble, David	8237	Adult Full	-1.07000	1/29/1999		CA	0.60000	3/1/1998
 Dick, Cody	31233	Tournament Pass	-10.23098	10/12/2024		MN	1.25992	9/28/2024
 Dick, Michael	9265	Adult Full		1/10/2026		VA		
@@ -9734,7 +9734,7 @@ Meacham, Frazer	10472	Adult Full	-4.35000	4/27/2002		CA	0.61000	5/1/2001
 Mead, Parker	4476	Adult Full	-5.58000	5/3/2002	Seattle AGA Chapter	WA	0.66000	3/1/2002
 Mead II, Wilson	7073	Adult Full	-14.51000	12/28/1994		NY	0.63000	3/1/1994
 Meade, Ronnie	19356	Tournament Pass	-4.74130	10/6/2013	Arizona Go Club	AZ	0.35214	10/22/2016
-Mead-Harvey, Benjamin	24803	Adult Full	-1.35418	9/5/2026	Arizona Go Club	AZ	0.44987	1/17/2026
+Mead-Harvey, Benjamin	24803	Adult Full	-1.35418	7/27/2027	Arizona Go Club	AZ	0.44987	1/17/2026
 Meadow, Tey	26326	Adult Full	-14.87947	1/18/2024		NY	0.83299	11/11/2023
 Meadows, Jared	25146	Adult Full	-10.79645	4/17/2026	Atlanta Go Club	GA	0.46765	2/9/2025
 Means, Jacob	32342	Adult Full		2/5/2027	Idaho Go Club	AE		
@@ -12493,7 +12493,7 @@ Seuk, Iljing	10859	Adult Full	5.65000	1/11/2003	Seattle AGA Chapter	WA	0.91000	2
 Severns, Curtis	6155	Tournament Pass	-12.00000	12/28/1979			0.00000	11/15/1992
 Sewell, David	22327	Adult Full	-24.00054	2/5/2017		AR	1.56936	2/13/2016
 Sexton, Mariah	30729	Adult Full	-24.94497	2/7/2025		OR	0.93475	11/16/2024
-Sexton, R Scott	31138	Adult Full	-26.01653	8/5/2026	Portland Go Club	OR	1.70166	11/16/2024
+Sexton, R Scott	31138	Adult Full	-26.01653	7/27/2027	Portland Go Club	OR	1.70166	11/16/2024
 Sexton, Vincent	13446	Adult Full	-11.71000	4/4/2008		TX	2.11000	4/1/2005
 Sferios, Emanuel	5198	Adult Full	2.33000	11/16/2004		CA	1.35000	11/1/2003
 Sgall, Jiri	6002	Tournament Pass	4.70000	12/28/1979			0.00000	11/15/1992
@@ -15593,8 +15593,8 @@ Xia, Calvin	20157	Youth	-10.43128	9/12/2014		CA	0.36450	10/5/2013
 Xia, Daniel	12213	Adult Full	-3.89000	11/2/2010	Feng Yun Go School	NJ	0.36000	6/1/2008
 Xia, Daniel	13738	Adult Full	-21.74000	10/5/2008	Feng Yun Go School	NJ	0.71000	3/1/2008
 Xia, Eric	32000	Youth	-16.78198	8/25/2026		NY	0.46243	6/6/2026
-Xia, Felix	32014	Youth	-12.02308	9/4/2026		CA	0.77016	5/23/2026
-Xia, Jake	32013	Adult Full	1.11827	9/4/2026		CA	0.39658	5/23/2026
+Xia, Felix	32014	Youth	-12.02308	7/27/2027		CA	0.77016	5/23/2026
+Xia, Jake	32013	Adult Full	1.11827	7/27/2027		CA	0.39658	5/23/2026
 Xia, Maojie	20602	Adult Full	7.65316	5/10/2015		MT	0.48468	8/4/2013
 Xia, Qi	26100	Adult Full	2.48942	9/25/2023	San Diego Go Club	CA	0.75194	9/25/2022
 Xia, Qianyi	21394	Complimentary	2.38615	1/1/2023			0.78482	8/10/2014
