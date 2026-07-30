@@ -3615,7 +3615,7 @@ Example, Example	31413	Youth		12/13/2025		WA
 Exter, John	265	Adult Full	-1.09000	2/10/2020	Brooklyn Go Club	NY	0.32000	2/1/2004
 Eyer, Collin	30287	Adult Full	-12.92698	5/26/2024		MD	0.75950	5/27/2023
 Eyre, Janice	30064	Adult Full		3/25/2024		MO		
-Faas, Morgan	24692	Adult Full	-8.14971	7/29/2026	Danger Monkey Go Club	CO	0.66198	6/20/2026
+Faas, Morgan	24692	Adult Full	-8.14971	7/29/2027	Danger Monkey Go Club	CO	0.66198	6/20/2026
 Fadali, Tarek	23648	Adult Full	-8.12695	12/2/2018	Massachusetts Go Association	MA	0.71128	12/2/2017
 Fagerstrom, Erik	22174	Youth	-19.83175	10/20/2026	NOVA Go Club	VA	0.75856	6/22/2019
 Fahl, Gustav	7561	Tournament Pass	-6.27000	2/28/1995			1.50000	6/1/1995
@@ -6656,6 +6656,7 @@ Karis, Dirk	3692	Adult Full	-5.44000	9/28/1996		CA	0.51000	9/1/1993
 Karns, Don	22685	Adult Full	-10.70647	6/12/2033	Ventura County Go Club	CA	0.52635	7/23/2024
 Karpowicz, Matthew	23725	Adult Full		2/5/2022	Massachusetts Go Association	MA		
 Karppinen, Ari	6480	Tournament Pass	3.68000	5/28/1993			1.11000	6/1/1995
+Kartashov, Ivan	32733	Adult Full		7/29/2027				
 Kartholl, Rob	9510	Adult Full	-22.80000	3/21/2010		IL	1.15000	4/1/2008
 Karuehawanit, Wichrich	25807	Complimentary		1/1/2023	Capital Go Club			
 Kasdorf, Gabriel	30260	Adult Full		5/17/2024	Treasure Coast Go	FL		
@@ -9223,7 +9224,7 @@ Ly, Jing	31064	Youth		6/20/2025		CA
 Ly, Kevin	31395	Adult Full	-10.74431	12/31/2026	Temple Go Club	TX	0.33102	7/13/2025
 Ly, Manon	30186	Adult Full	-12.55120	6/21/2026		NM	0.66416	7/13/2025
 Lyford, Alexander	24218	Adult Full	-7.54118	11/4/2019	Vermont Go Club	VT	0.87954	10/27/2018
-Lykhovyd, Eugene	25274	Adult Full	-12.43197	7/29/2026		NJ	0.92495	5/16/2026
+Lykhovyd, Eugene	25274	Adult Full	-12.43197	7/29/2027		NJ	0.92495	5/16/2026
 Lym, Zach	14488	Adult Full	-21.80000	5/7/2007	Seattle AGA Chapter	WA	0.91000	7/1/2006
 Lyman, Henry	23789	Youth	-6.61333	4/14/2031	Danger Monkey Go Club	CO	0.28157	6/20/2026
 Lyman, Robert	23790	Adult Full	-9.78419	4/14/2027	Danger Monkey Go Club	CO	0.28975	6/20/2026
@@ -11410,7 +11411,7 @@ Prescott, Adam	23414	Adult Full	-8.09973	7/25/2024		MA	0.47164	12/2/2017
 Prescott, Shayna	30161	Adult Full	-16.65409	4/20/2024		TX	0.93590	8/19/2023
 Presson, Cheri	17625	Adult Full	-17.72819	5/18/2013	Bay Area Go Players Assoc.	CA	0.83042	5/12/2012
 Preston, Stephen	19721	Adult Full	-19.50758	2/14/2013		VA	0.98016	5/12/2012
-Preuss, Jason	12894	Adult Full	-4.22879	8/17/2026	Kalamazoo Go Club	MI	0.37713	8/5/2012
+Preuss, Jason	12894	Adult Full	-4.22879	7/30/2027	Kalamazoo Go Club	MI	0.37713	8/5/2012
 Pribe, Andrew	22964	Adult Full	-17.58515	1/3/2026		CA	0.79431	10/22/2016
 Price, Brennan	20231	Adult Full		2/22/2024	National Go Center	VA		
 Price, Bruce	4862	Adult Full	-2.32000	8/24/2003		CA	0.88000	8/1/2001
