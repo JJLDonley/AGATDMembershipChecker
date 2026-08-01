@@ -838,7 +838,7 @@ Bianco, Roberto	6065	Adult Full	-4.51000	6/28/1996		CO	0.61000	12/1/1995
 Bias, Darren	20790	Adult Full	-1.04213	4/4/2020		VA	0.30938	9/8/2018
 Bibbs, Brian	12086	Adult Full	2.16571	6/30/2024	Cleveland Go Club	OH	0.56106	8/1/2010
 Bicen, Emil	31879	Youth	-21.37458	6/13/2026	San Diego Go Club	CA	2.15279	6/13/2025
-Bickel, Jonathan	20578	Adult Full	-15.08573	8/12/2026	Evanston Go Club	IL	0.24821	5/23/2026
+Bickel, Jonathan	20578	Adult Full	-15.08573	7/31/2027	Evanston Go Club	IL	0.24821	5/23/2026
 biddle, cameron	30428	Adult Full	-18.88355	9/22/2024	San Diego Go Club	CA	1.07372	9/17/2023
 Bieber, Tom	5729	Adult Full	1.50000	1/28/1993		NY	0.00000	11/15/1992
 Bieberle, David	4410	Adult Full	-7.81000	5/22/2005		NH	0.43000	9/1/1995
@@ -6748,6 +6748,7 @@ Kelly, Bryan	11504	Adult Full	-12.70000	12/29/2007		MD	0.99000	12/1/2006
 Kelly, Morgan	24772	Adult Full		2/17/2022		NY		
 Kelly, Scot	11668	Adult Full	-22.66000	2/25/2004	Feng Yun Go School	NY	2.20000	5/1/2003
 Kelly, Sean	26133	Adult Full	-5.20626	1/15/2027	Vermont Go Club	VT	0.40126	1/17/2026
+Kelly, Shane	32734	Adult Full		8/1/2027				
 Kelner, Stow	2521	Adult Full	-10.66447	1/28/2016		NY	0.71108	1/12/2014
 Kemp, Carter	9243	Adult Full	-14.88000	8/25/2001		WA	0.86000	9/1/1999
 Kemp, Mark	32139	Adult Full	-13.52008	10/22/2026		MI	0.83970	10/26/2025
@@ -10091,6 +10092,7 @@ Moore, John	13828	Adult Full	2.42966	9/26/2026	Charlotte Go Club	NC	0.45242	6/13
 Moore, Justice	22613	Adult Full	-14.29469	7/18/2017	Arizona Go Club	AZ	1.12446	6/11/2016
 Moore, Kevin	3906	Adult Full	-4.31000	11/4/2011		PA	0.53000	5/1/2008
 Moore, Logan	21857	Adult Full	-23.97173	4/27/2016	Denver GO Tournaments	CO	0.97617	3/21/2015
+Moore, Matthew	32735	Adult Full		8/1/2027				
 Moore, Michael	11519	Adult Full	-21.61000	5/29/2004	Univ. of Maryland Go Club		0.63000	5/1/2004
 Moore, Nathaniel	32542	Youth		4/29/2027		NC		
 Moore, Oliver	32541	Youth	-29.85325	4/29/2027	Charlotte Go Club	NC	2.64570	6/13/2026
