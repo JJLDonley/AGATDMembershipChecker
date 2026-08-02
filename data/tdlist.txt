@@ -3081,6 +3081,7 @@ DeLuca, Joseph	32633	Adult Full		5/29/2027	San Diego Go Club	CA
 DeMaiffe, Jean	3015	Adult Full	-6.20000	7/28/2023		CA	0.39000	9/1/2007
 DeMattia, Justin	31866	Adult Full		6/7/2026	Cleveland Go Club	OH		
 Demerest, Brad	8450	Tournament Pass	-14.24000	2/28/1997		WA	1.46000	3/1/1997
+DeMichillie, Michael	32736	Adult Full		8/1/2027				
 Demick, Doug	10345	Tournament Pass	-8.59000	2/26/2001			0.60000	3/1/2001
 DeMille, Aaron	25185	Adult Full		7/13/2021		VA		
 Deming, John	22137	Adult Full	-5.72540	3/11/2018	Penn Go Society	DE	0.92379	3/12/2017
@@ -9204,7 +9205,7 @@ Luo, Terry	18780	Adult Full	2.07582	11/3/2026		OH	0.30889	5/16/2026
 Luo, Timothy	20466	Adult Full	-18.63811	3/6/2014	Stony Brook University Go Club	NY	0.67463	10/12/2013
 Luo, Xian Wu	17538	Adult Full	3.03278	11/17/2014	Boulder Kids and Teens Go Club	CO	0.31187	4/13/2013
 Luo, Yin	20923	Adult Full	5.15011	11/15/2020	Bay Area Go Players Assoc.	KS	0.52010	2/22/2020
-Luo, Ying Feng	32025	Adult Full	-1.47741	9/6/2026		GA	0.76816	10/19/2025
+Luo, Ying Feng	32025	Adult Full	-1.47741	8/2/2027		GA	0.76816	10/19/2025
 Luo, Yuancheng	16483	Adult Full	1.72545	1/10/2021	Massachusetts Go Association	MA	0.69184	1/12/2020
 Luo, Yue	24114	Adult Full		9/19/2021	Bay Area Go Players Assoc.	ON		
 Luo, Yun	30078	Adult Full	-12.07067	3/28/2026	Atlanta Go Club	GA	0.41230	10/19/2025
@@ -12365,7 +12366,7 @@ Schooley, Benjamin	32492	Adult Full	-3.46598	4/16/2027		NC	1.59372	4/18/2026
 Schorfheide, Paul	30641	Adult Full		12/11/2024	Houston Go Club	TX		
 Schrade, Richard	12723	Adult Full	-31.56000	3/12/2007	Feng Yun Go School	NJ	2.64000	11/1/2004
 Schrader, Robert	13645	Adult Full	-1.44176	3/13/2024	San Diego Go Club	CA	0.24510	6/16/2012
-Schrag, Roger	12898	Adult Full	-3.63950	9/8/2026	East Bay Go Players	CA	0.31609	5/23/2026
+Schrag, Roger	12898	Adult Full	-3.63950	8/1/2027	East Bay Go Players	CA	0.31609	5/23/2026
 Schreiber, Raphael	21818	Adult Full	1.82613	4/14/2017		FL	0.38384	8/3/2016
 Schroeder, Erin	18757	Adult Full	-22.42074	4/17/2012	Salt Lake Go Club	NV	1.88560	4/15/2011
 Schroeder, John	30888	Adult Full	-9.75116	4/7/2025		OR	0.56842	7/23/2024
