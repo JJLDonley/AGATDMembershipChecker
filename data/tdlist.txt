@@ -572,7 +572,7 @@ Barnes, Tarek	32270	Adult Full		1/5/2027		CA
 Barnett, Caleb	30499	Youth	-2.58809	10/15/2026		TX	0.31738	11/1/2025
 Barnett, Charles	30923	Adult Full	-14.64378	1/17/2027		MI	0.57343	1/31/2026
 Barnett, David	10711	Adult Full	-9.73000	1/21/2008	Wings Across Calm Water	NY	0.73000	2/1/2007
-Barnett, Drew	21272	Adult Full	1.73021	6/10/2026	Seattle AGA Chapter	WA	0.23578	6/7/2026
+Barnett, Drew	21272	Adult Full	1.73021	8/2/2027	Seattle AGA Chapter	WA	0.23578	6/7/2026
 Barnett, Janet	9211	Adult Full	-23.22000	8/13/1999		NM	0.94000	9/1/1998
 Barnett, Kevin	30600	Adult Full		11/9/2024	Tulsa Go Club	OK		
 Barney, Stephen	30136	Youth		4/11/2024	Salt Lake Go Club	UT		
@@ -892,7 +892,7 @@ Blake, Nicholas	13099	Adult Full	3.46611	5/8/2027	Empty Sky Go Club	MA	0.60333	5
 Blanchard, Bjorn	13089	Adult Full	-24.12000	12/21/2005		NJ	2.49000	1/1/2005
 Bland, Mark	6417	Adult Full	-19.86000	4/30/1998	Charlotte Go Club	NC	0.86000	3/1/1997
 Blandy, Mika	25197	Youth	-6.95205	7/12/2023	Portland Go Club	OR	0.68153	8/1/2022
-Blandy, Vivienne	21420	Adult Full	-6.95501	12/24/2026	Portland Go Club	OR	0.39039	7/23/2024
+Blandy, Vivienne	21420	Adult Full	-6.95501	8/3/2027	Portland Go Club	OR	0.39039	7/23/2024
 Blank, Justin	13891	Adult Full	-3.33673	9/17/2023	Triangle Go Group	NC	0.33394	12/10/2022
 Blank-Edelman, Elijah	30683	Youth	-5.16822	1/9/2027		MA	0.43719	1/31/2026
 Blann, Dale	10348	Adult Full	-11.91616	2/15/2020	Triangle Go Group	NC	0.28602	5/19/2019
@@ -6305,6 +6305,7 @@ Jiang, Danning	7346	Tournament Pass	9.20000	4/6/2000		CA	0.43000	3/1/2000
 Jiang, Enpei	19225	Youth	-2.40971	7/31/2011			0.70568	7/31/2011
 Jiang, Eric	17310	Adult Full	-11.79000	3/19/2010	Evanston Go Club	IL	1.08000	4/1/2009
 Jiang, Feiqi	23486	Adult Full	-1.76330	8/30/2018		NY	0.74834	5/19/2018
+Jiang, Haoran	32738	Youth		8/2/2027				
 Jiang, Henry	23425	Youth	-31.48093	8/5/2018		CA	2.24657	10/21/2017
 Jiang, Hongda	11400	Tournament Pass	-7.10000	11/14/2007		OR	0.63000	12/1/2007
 Jiang, How	6349	Tournament Pass	2.31000	3/28/1993			0.56000	9/1/1993
@@ -9192,7 +9193,7 @@ Luo, Jeffrey	17949	Adult Full	-2.47555	2/19/2015	Arizona Go Club	AZ	0.53929	3/16
 Luo, Jian	5142	Adult Full	1.90000	3/28/1995		FL	0.52000	6/1/1994
 Luo, Jonathan	20088	Youth	-8.53483	7/27/2036	Mason Go Club	OH	0.55366	8/10/2019
 Luo, Lie	16838	Adult Full	4.01000	9/28/2009		NJ	0.68000	10/1/2008
-Luo, Louis	26254	Tournament Pass	-9.96883	6/23/2026		MA	1.07567	5/25/2026
+Luo, Louis	26254	Tournament Pass	-9.96883	8/31/2026		MA	1.07567	5/25/2026
 Luo, Luke	23832	Youth	-7.42499	3/30/2033	Feng Yun Go School	NY	0.53124	11/1/2019
 Luo, Ming	4246	Tournament Pass	3.29380	3/1/2023		NJ	0.66348	2/26/2023
 Luo, Moulun	13289	Adult Full	4.51892	7/17/2019	Arizona Go Club	AZ	0.22671	5/11/2013
@@ -10292,6 +10293,7 @@ Nabeshima, Ken	6317	Adult Full	-1.72000	3/28/1994		IL	0.47000	3/1/1994
 Nachiappan, Aditya	17057	Adult Full	-21.79000	12/26/2009		CA	1.33000	6/1/2009
 Nachiappan, Ajay	17056	Adult Full	-29.64000	1/17/2020		CA	2.78000	12/1/2008
 Naddef, Jean-Loup	22846	Complimentary	6.64397	1/1/2023			0.39638	8/6/2017
+Naeem, Owais	32737	Adult Full		8/2/2027				
 Nagaiya, Asha	18448	Adult Full	-5.91862	9/8/2018	Louisville Go Club	KY	0.48122	9/9/2017
 Nagasaki, Yumiko	9234	Tournament Pass	4.23000	8/22/1998			0.48000	9/1/1998
 Nagaslaev, Vladimir	14390	Tournament Pass	-2.75000	3/19/2006	Evanston Go Club	IL	0.82000	4/1/2006
@@ -16153,7 +16155,7 @@ Yizhu, Gao	31869	Complimentary		12/17/2025		SH
 Yizhu, Gao	31871	Adult Full	4.89984	6/10/2026		SH	0.49762	7/13/2025
 Yo, Jung Sok	17025	Tournament Pass	-4.81284	5/19/2010	Sarasota Go Club	FL	0.36918	5/8/2010
 Yocum, Thorsten	8932	Adult Full	-12.93000	1/13/1999		VA	1.24000	1/1/1998
-Yoder, Eric	20753	Adult Full	6.24220	8/5/2026	Columbus Go Club	OH	0.17528	6/28/2026
+Yoder, Eric	20753	Adult Full	6.24220	8/2/2027	Columbus Go Club	OH	0.17528	6/28/2026
 Yokokawa, Hidemi	8258	Adult Full	-7.57000	10/28/1997	Portland Go Club	OR	1.12000	12/1/1996
 Yokokawa, Yosuko	8259	Adult Full	-7.02000	10/28/1997		OR	0.74000	12/1/1996
 Yokomichi, Koni	9863	Adult Full	2.60000	2/28/2001		TX	0.52000	6/1/2000
