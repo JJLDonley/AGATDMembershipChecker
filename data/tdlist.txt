@@ -9326,7 +9326,7 @@ Magen, Jonathan	30379	Adult Full		8/6/2025		PA
 Magid, Martin	8497	Adult Full		7/8/2027	Massachusetts Go Association	MA		
 Maginnis, Patrick	19310	Adult Full	-8.16981	9/13/2012	Bay Area Go Players Assoc.	CA	0.67598	9/10/2011
 Magnoni, Scott	13011	Tournament Pass	-12.59225	5/3/2011	Western Mass. Go Club	MA	0.50896	11/13/2010
-Magnusson, Andrew	20690	Adult Full	-8.29612	8/3/2026		RI	0.56138	8/4/2013
+Magnusson, Andrew	20690	Adult Full	-8.29612	8/3/2027		RI	0.56138	8/4/2013
 Maha, Tiri	13038	Tournament Pass	-19.03000	11/10/2004			2.06000	11/1/2004
 Mahaney, Jack	5717	Adult Full	-10.77000	12/28/1993		GA	0.55000	9/1/1993
 Maharaj, Atri	21717	Adult Full	-20.95280	4/2/2020		NY	0.67442	3/30/2019
@@ -10384,7 +10384,7 @@ Nelson, Erik	30397	Adult Full	-12.47938	8/11/2026	Cincinnati Go Club	OH	0.61208	
 Nelson, Garrett	11961	Adult Full	-17.35000	6/22/2004		OR	1.06000	2/1/2004
 Nelson, George	23381	Adult Full	-11.32362	7/15/2018	National Go Center	MD	1.13721	7/15/2017
 Nelson, Heber	13911	Adult Full	-20.63000	10/5/2006		WA	1.20000	2/1/2006
-Nelson, Iraj	30398	Youth	-10.36423	8/11/2026		OH	0.60802	6/18/2026
+Nelson, Iraj	30398	Youth	-10.36423	8/3/2027		OH	0.60802	6/18/2026
 Nelson, Jeremy	16969	Adult Full	1.48263	6/20/2014	Portland Go Club	OR	0.49487	8/4/2013
 Nelson, Jonathan	17894	Adult Full	-17.17927	12/15/2010	Bay Area Go Players Assoc.	CA	0.48204	6/5/2010
 Nelson, Peter	20551	Adult Full	5.61436	4/10/2017	Seattle AGA Chapter	WA	0.23533	1/8/2017
@@ -13645,7 +13645,7 @@ Takahashi, Yoko	18314	Complimentary	-1.12804	1/1/2023			0.49722	8/4/2013
 Takahiro, Kitagawa	13833	Tournament Pass	9.44000	9/7/2005			0.54000	9/1/2005
 Takai, Shozo	5556	Tournament Pass	4.50000	12/28/1979			0.00000	11/15/1992
 Takami, Hiroya	6165	Adult Full	6.65000	12/28/1993	NOVA Go Club		0.48000	9/1/1993
-Takamori, Daniel	21496	Adult Full	-2.19427	8/23/2026	Eugene Go Club	OR	0.36107	11/22/2025
+Takamori, Daniel	21496	Adult Full	-2.19427	8/3/2027	Eugene Go Club	OR	0.36107	11/22/2025
 Takano, M	10569	Tournament Pass	4.48000	5/22/2001			0.62000	6/1/2001
 Takano, Maximilien	19828	Adult Full	-8.86181	4/11/2013	San Diego Go Club	CA	0.94095	4/15/2012
 Takasawa, Tsutomu	19246	Complimentary	-8.59054	1/1/2023			0.39940	8/7/2013
