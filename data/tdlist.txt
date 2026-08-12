@@ -2098,6 +2098,7 @@ Chen, Yuwei	24810	Adult Full		9/10/2021		OR
 Chen, Zewei	11306	Adult Full	-4.25000	10/5/2003	Feng Yun Go School	NJ	0.52000	2/1/2003
 Chen, Zhan	21355	Adult Full	2.76041	8/29/2015		NC	0.66626	9/20/2014
 Chen, ZhaoNian	11331	Adult Full - Lifetime	8.37542	9/1/2064	Princeton Go Club	NJ	0.18151	7/25/2026
+Chen, Zhao-Wei	32759	Adult Full		8/10/2027		OH		
 Chen, Zhen Lei	8827	Adult Full	-2.00000	10/8/1998		IL	0.53000	12/15/1998
 Chen, Zheng You	8698	Adult Full	3.39000	1/13/1999		CA	0.50000	3/1/1998
 Chen, Zhi Wei	21000	Adult Full	-2.50137	1/16/2027	Seattle AGA Chapter	WA	1.07283	2/1/2026
@@ -5043,6 +5044,7 @@ Harwit, Matthew	15228	Adult Full	5.33568	11/26/2024	Boulder Kids and Teens Go Cl
 Harwit, Nathan	15227	Adult Full	4.66948	1/20/2021	Boulder Kids and Teens Go Club	CO	0.33812	9/14/2016
 Hase, Tatsuo	4579	Adult Full	-2.74000	3/31/2004		MD	0.47000	9/1/1997
 Hasegawa, Kanami	12076	Complimentary	-5.18855	8/31/2025			0.47909	7/23/2024
+Hasenjaeger, David	32760	Adult Full		8/10/2027		OR		
 Hashiguchi, Hachiro	1543	Adult Full	-4.93000	8/14/1999	Seattle AGA Chapter	WA	0.52000	6/1/1999
 Haskin, Daniel	30299	Adult Full		6/6/2024	Salt Lake Go Club	UT		
 Hassinger, Philip	5843	Adult Full	2.78000	6/28/1997		CO	0.57000	6/1/1998
