@@ -5143,6 +5143,7 @@ He, Xiaoyu	22208	Adult Full	-5.12380	10/25/2016		MA	1.11200	9/26/2015
 He, Yibei	23904	Adult Full	1.45342	5/8/2020	Stony Brook University Go Club	NY	0.54123	5/4/2019
 He, yiduo	23873	Youth	5.57459	4/18/2019			0.50444	7/22/2018
 He, Yiduo	30467	Youth		10/5/2024		NY		
+He, Yinhao	32761	Youth		8/11/2027		TX		
 He, Young	21072	Youth	4.54613	3/5/2019		NJ	0.47025	4/28/2018
 He, Yuankai	14461	Adult Full	4.22642	3/2/2021		OH	0.44918	8/8/2012
 He, Yuchong	13281	Adult Full	-4.19000	2/11/2006		TX	0.57000	11/1/2005
@@ -14428,6 +14429,7 @@ Vogel, Jeffrey	3091	Adult Full	-6.43000	10/28/2009		NY	0.67000	1/1/2009
 Vogt, Adam	25798	Adult Full		3/17/2025	Gotham Go Group	NY		
 Voisey, Peter	5238	Adult Full	-3.60000	10/28/1995			0.00000	11/15/1992
 Volfinger, Christopehr	21336	Complimentary	-13.57752	1/1/2023		MA	1.25477	7/13/2014
+Volkov, Boris	32762	Adult Full		8/11/2027		CA		
 Volosov, Andrew	32273	Adult Full		1/7/2027		MA		
 Volovich, Vladimir	8949	Adult Full		1/7/1999		CA		
 Volpe, David	23297	Adult Full	-7.27028	4/22/2018	Orlando Go Club	FL	0.38099	4/14/2018
