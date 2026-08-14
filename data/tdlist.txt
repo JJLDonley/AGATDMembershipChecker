@@ -2017,6 +2017,7 @@ Chen, Siyu	30665	Adult Full	5.41068	12/27/2025		NY	0.44227	9/13/2025
 Chen, Siyu	31316	Youth		10/25/2025		CA		
 Chen, Skye	24597	Youth	-2.62577	6/27/2027	San Diego Go Club	CA	0.23138	7/29/2026
 Chen, Steven	22862	Adult Full	5.23619	5/4/2023	San Francisco Go Club	CA	0.52867	5/21/2022
+Chen, Supeng	32764	Adult Full		8/12/2027		NJ		
 Chen, Terry	2298	Tournament Pass	3.59000	5/28/1997		TX	0.53000	6/1/1997
 Chen, Terry	30598	Adult Full	5.47619	11/9/2024		NJ	0.69583	11/11/2023
 Chen, Tian	7287	Adult Full	-8.81000	6/28/1995		IL	0.64000	6/1/1995
@@ -3038,6 +3039,7 @@ Deanhardt, William	25922	Adult Full	-18.33025	5/2/2026		IL	1.35899	5/14/2022
 DeAntonio, Jasper	20342	Adult Full	-11.26237	1/2/2014	Gotham Go Group	NY	0.85275	1/12/2013
 Deardorff, Douglas	32463	Adult Full	-6.12952	4/6/2027	Seattle AGA Chapter	WA	0.58554	6/7/2026
 Dearing Jr., Robert	30606	Adult Full		11/12/2024	Seattle AGA Chapter	WA		
+Deaubl, Jessa	32763	Adult Full		8/12/2027		MD		
 Deavers, Andrew	14502	Adult Full	-42.48000	5/12/2008	Houston Go Club	TX	0.68000	5/1/2007
 Debarre, Thomas	12550	Tournament Pass	8.82909	4/5/2004			0.69691	7/17/2015
 Debel, Alex	13798	Adult Full	-11.48000	8/19/2006		WA	1.29000	6/1/2006
@@ -3935,7 +3937,7 @@ Foti, Alexander	14195	Adult Full	-4.10962	6/7/2017	Penn Go Society	LA	0.34807	8/
 Fotland, David	7	Adult Full - Lifetime	3.72000	9/1/2064		CA	0.31000	2/1/2003
 Fotland, Jonathan	8179	Adult Full	-24.10000	8/16/2000	SiliValley Go Club	CA	0.38000	2/1/2002
 Foung, Alfred	21789	Tournament Pass	-1.88298	3/24/2015			0.56323	3/3/2018
-Foust, Natalie	32219	Adult Full	-14.60437	11/19/2026		MA	0.79400	11/22/2025
+Foust, Natalie	32219	Adult Full	-14.60437	11/19/2026	Western Mass. Go Club	MA	0.79400	11/22/2025
 Fox, Barry	18396	Adult Full	-15.10003	11/16/2015		CA	0.39364	10/27/2013
 Fox, Nick	23903	Adult Full	-14.73457	5/1/2023	Oxford Go Club	OH	0.61309	4/6/2019
 Fox, Richard	15484	Adult Full	1.16000	2/11/2015	San Francisco Go Club	FL	0.45000	6/1/2009
@@ -12657,6 +12659,7 @@ Shi, Evan	26140	Youth	-5.00955	11/23/2025		CA	0.28608	1/19/2025
 Shi, Fuqian	20492	Adult Full	1.91693	12/13/2026	Princeton Go Club	NJ	0.52242	5/3/2025
 Shi, Gansheng	16746	Complimentary	8.33759	9/1/2064			0.34451	8/6/2017
 Shi, Gina	8721	Adult Full	3.38011	5/19/2019	San Francisco Go Club	CA	0.84965	4/28/2018
+Shi, Harry	32766	Adult Full		8/14/2027				
 Shi, James	18871	Adult Full	5.03278	6/12/2013		GA	0.60010	2/25/2012
 Shi, Jiacheng	30233	Adult Full	2.19574	5/9/2024	Evanston Go Club	IL	0.52246	5/27/2023
 Shi, Jiuchen	32487	Adult Full	-4.83432	4/16/2027	Arizona Go Club	AZ	0.48781	7/25/2026
@@ -17089,6 +17092,7 @@ Zuerlein, Keith	7464	Adult Full	-11.45736	10/26/2023		TX	0.90232	11/6/2022
 Zuiketsu, Cho	31057	Complimentary		12/17/2024				
 Zumstein, Heath	15549	Adult Full	-5.89000	2/17/2010	Cincinnati Go Club	OH	2.19000	3/1/2009
 Zunick, Peter	18689	Adult Full - Lifetime	1.17835	9/1/2064	Shreveport-Bossier Go Club	LA	0.49130	7/23/2024
+Zuniga, Andres	32765	Adult Full		8/14/2027				
 Zuniga, Jeremy	17639	Adult Full	-13.12000	7/23/2010	Austin Go Club	TX	0.79000	8/1/2009
 Zuniga, Mark	11050	Adult Full	-11.29000	5/27/2004	Empty Sky Go Club	TX	0.61000	2/1/2004
 Zuo, Anthony	30979	Adult Full	2.24731	2/12/2027	Gotham Go Group	NY	0.21227	7/25/2026
