@@ -1326,7 +1326,7 @@ Byrd-Fisher, Caitlin	16963	Adult Full	-27.10000	11/14/2009			1.26000	11/1/2008
 Byrne, B	22859	Tournament Pass	-12.83204	8/9/2016		CA	0.95343	7/23/2016
 Byrne, Collin	14750	Adult Full	-23.75000	10/2/2007		WA	1.52000	9/1/2008
 Byrne, David	12990	Adult Full	1.24599	3/9/2011		NJ	0.28212	9/19/2010
-Byrne, Kory	32401	Tournament Pass	-7.08406	4/5/2026		OH	0.75379	3/28/2026
+Byrne, Kory	32401	Tournament Pass	-7.08406	9/14/2026		OH	0.75379	3/28/2026
 Byrne, Rhea	16324	Adult Full	-9.94939	3/9/2011		NJ	0.35673	9/19/2010
 Byrne, Sydney	23882	Youth	-21.27386	4/23/2019	Feng Yun Go School	NJ	0.98815	10/30/2018
 Byrnes, Douglas	3187	Adult Full	-1.26000	3/12/1998	Seattle AGA Chapter	NV	0.79000	3/1/1997
@@ -6559,6 +6559,7 @@ Kaladish, Robert	392	Adult Full		2/20/2027		NH
 Kalb, John	4330	Adult Full	-3.81223	2/20/2025		OR	0.53547	7/23/2024
 Kaldenbach, Robert	31584	Adult Full	-20.24975	2/12/2027		IA	1.02635	3/22/2025
 Kali-Blatt, Skyler	31700	Youth	-32.88148	4/16/2026		MD	2.55820	7/13/2025
+Kalidas, Vignesh	32772	Adult Full		8/16/2027				
 Kallen, Josh	18227	Tournament Pass	-10.61430	6/19/2010			0.98190	6/12/2010
 Kalosh, Michael	1547	Adult Full	-2.13000	1/31/1998		WA	0.57000	9/1/1994
 Kam, Sunghae	23840	Adult Full	5.49617	4/6/2019	San Diego Go Club	CA	0.68649	2/25/2018
@@ -9935,6 +9936,7 @@ Miller, Matt	20499	Adult Full	-10.50060	3/23/2014		CT	1.92936	3/2/2013
 Miller, Matthew	15023	Adult Full	-3.38000	12/4/2010		MA	0.65000	1/1/2009
 Miller, Michael	20954	Adult Full	-12.62330	11/1/2026	Syracuse Go Club	NY	0.34462	4/11/2026
 Miller, Michael Brian	26410	Adult Full		2/19/2024	Fresno Go Club	CA		
+Miller, Nathan	32770	Tournament Pass		9/14/2026		OH		
 Miller, Paul	12465	Adult Full	-7.96000	5/4/2014		MI	0.54000	4/1/2009
 Miller, Ryan	5091	Adult Full	-5.71000	3/13/2005		PA	0.61000	3/1/2004
 Miller, Ryan	30688	Adult Full		1/16/2027	Davis/Sacramento Go Club	CA		
@@ -11984,6 +11986,7 @@ Ross, Andrew	31257	Adult Full	-4.35698	9/24/2026	Salt Lake Go Club	UT	0.34924	7/
 Ross, Kenneth	13984	Adult Full	-15.66000	1/1/2007		TX	0.86000	11/1/2005
 Ross, Nicholas	15078	Adult Full	-5.04271	9/9/2011		HI	0.55871	9/14/2010
 Ross, Tim	652	Adult Full	1.59000	9/5/1998	Twin Cities Go Club	MN	0.51000	1/1/1998
+Ross, Wyatt	32769	Adult Full		8/14/2027	Massachusetts Go Association	MA		
 Rossato, Ken	12273	Adult Full	-6.90585	3/11/2027	National Go Center	MD	0.42961	2/24/2024
 Rossman, Jaime	14167	Adult Full	1.47820	7/21/2025	Berkeley Go Club	CA	0.41772	5/5/2012
 Rostek, Nancy	15912	Adult Full	-12.41000	11/1/2008		PA	0.93000	11/1/2007
@@ -14550,7 +14553,7 @@ Wang, Alfred	9108	Adult Full	-2.89000	5/21/1999	NOVA Go Club	VA	0.59000	5/1/2005
 Wang, Alvin	24603	Youth	-2.28810	5/16/2020	San Diego Go Club	CA	0.53129	11/30/2019
 Wang, Amy	16898	Youth	3.64803	11/3/2023		NJ	0.40309	7/30/2016
 Wang, Amy	20870	Youth	-21.52628	10/27/2014		OR	0.96695	10/19/2013
-Wang, An	30821	Adult Full	-10.32557	3/17/2025	East Bay Go Players	CA	0.75244	11/17/2024
+Wang, An	30821	Adult Full	-10.32557	8/16/2027	East Bay Go Players	CA	0.75244	11/17/2024
 Wang, Andrew	11576	Adult Full	1.07177	5/9/2011		MA	0.61221	3/20/2010
 Wang, Andy	3660	Adult Full	5.57000	7/28/1994		WA	0.95000	3/1/1997
 Wang, Andy	11345	Adult Full	-23.53000	10/28/2003	Feng Yun Go School	NJ	1.97000	2/1/2003
