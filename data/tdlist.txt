@@ -4935,6 +4935,7 @@ Haning, Doug	2244	Adult Full	-2.37000	8/15/2009	Portland Go Club	OR	0.67000	3/1/
 Hankins, Gary	7308	Adult Full	-9.85000	7/28/1995		NH	0.59000	9/1/1994
 Hanks, James	22359	Adult Full	2.11121	12/7/2026		LA	0.92601	2/1/2025
 Hannaford, Jacqueline	30415	Adult Full		9/6/2024	Tampa Go Club	FL		
+Hannan, Jacob	32794	Youth		8/24/2027		NH		
 Hannigan, Sean	25605	Adult Full		12/17/2025		IN		
 Hannon, Helene	32206	Adult Full	-16.84689	11/14/2026	Syracuse Go Club	NY	1.63688	11/15/2025
 Hannon, Tim	32205	Adult Full	-14.69611	11/14/2026		NY	0.77362	11/15/2025
@@ -6194,7 +6195,7 @@ James, Curtis	8967	Adult Full	-2.82000	4/16/2002		CA	0.59000	2/1/2002
 James, John	3691	Adult Full	-5.90000	3/19/2023	Massachusetts Go Association	MA	0.00000	11/15/1992
 James, Keegan	32578	Adult Full		5/7/2027		VA		
 James, Nathan	14298	Adult Full	-27.44000	2/5/2006		NV	0.93000	2/1/2006
-James, Theodore	30422	Youth	-3.63210	9/10/2026	Nashville Go Club	TN	0.53075	5/23/2026
+James, Theodore	30422	Youth	-3.63210	9/10/2027	Nashville Go Club	TN	0.53075	5/23/2026
 Jamkacahornkiat, Krit	23475	Complimentary	6.15090	1/1/2023			0.55367	8/9/2017
 Jamsek, Damir	5664	Adult Full	-10.30000	11/28/1992		NY	0.00000	11/15/1992
 Jan, Joseph	17058	Adult Full	-5.70338	12/26/2009		CA	0.57982	5/29/2010
@@ -8391,7 +8392,7 @@ Li, Yang	31943	Adult Full		7/22/2026		FL
 Li, Yanglingyuan	25919	Adult Full	-4.37957	5/1/2023		WA	1.07835	5/1/2022
 Li, Yi	12408	Adult Full	2.29000	2/27/2005		CT	0.54000	2/1/2004
 Li, Yi	21257	Youth	-7.32624	6/22/2015		CA	0.95915	6/14/2014
-Li, Yi	25613	Youth	7.69065	9/23/2023		NC	0.69497	9/25/2021
+Li, Yi	25613	Adult Full	7.69065	8/24/2027		IL	0.69497	9/25/2021
 Li, Yibin	23513	Youth	-17.29570	9/9/2018		IL	0.96777	6/23/2018
 Li, Yichen	23540	Adult Full	5.28734	10/9/2021		WA	0.41954	9/21/2019
 Li, Yicheng	22646	Adult Full	-23.58543	5/15/2017	Triangle Go Group	NC	0.83881	5/15/2016
@@ -12332,7 +12333,7 @@ Schenthal, Kevin Justin	15232	Adult Full	-5.36005	3/10/2011	Princeton Go Club	CA
 Scher, Steven	24448	Adult Full	-5.08350	2/13/2020			0.70380	2/10/2019
 Scherer, Emily	23014	Adult Full	-20.95148	6/2/2020	Orlando Go Club	FL	1.15863	6/1/2019
 Schery, David	17060	Adult Full	-26.23000	2/23/2011		CA	1.16000	9/1/2009
-Schiek, Richard	7469	Adult Full	-8.63291	9/19/2026	Albuquerque Go	NM	4.05593	12/16/2023
+Schiek, Richard	7469	Adult Full	-8.63291	8/25/2027	Albuquerque Go	NM	4.05593	12/16/2023
 Schiff, Sarah	12297	Tournament Pass	-35.14000	11/27/2003			2.48000	12/1/2003
 Schiffin, Paul	32589	Adult Full	-13.20451	5/11/2027		MD	0.90315	6/26/2026
 Schiffman, Austin	24066	Adult Full		11/28/2021		CA		
@@ -13119,7 +13120,7 @@ Song, Li	21834	Adult Full	-11.20470	4/23/2018		MD	0.84924	4/23/2016
 Song, Lian-Pu	12364	Tournament Pass	7.50000	1/10/2009			0.59000	2/1/2009
 Song, Michael	24827	Youth	-6.43599	9/21/2022	San Diego Go Club	CA	0.83599	11/27/2021
 Song, Nicholas	16839	Adult Full	-8.21000	9/28/2009		NY	0.62000	10/1/2008
-Song, Nicholas	32082	Adult Full	1.32957	9/28/2026	Massachusetts Go Association	MA	0.65883	1/31/2026
+Song, Nicholas	32082	Adult Full	1.32957	9/28/2027	Massachusetts Go Association	MA	0.65883	1/31/2026
 Song, Pengwang	19339	Adult Full	8.57445	10/1/2012		AZ	0.45311	8/5/2012
 Song, Perry	25663	Youth	-9.39774	11/26/2022	San Diego Go Club	CA	0.83001	11/27/2021
 Song, Shiqin	30639	Youth	4.76893	12/9/2024		MA	0.66801	11/9/2024
