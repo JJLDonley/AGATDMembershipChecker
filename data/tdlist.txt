@@ -551,7 +551,7 @@ Barchilon, Paul	11442	Adult Full - Lifetime	-3.68188	9/1/2064	Boulder Kids and T
 Barclay, Jason	20898	Adult Full	-12.82619	11/2/2014		CA	0.63103	10/27/2013
 Barclift, Michael	9876	Adult Full	-18.35000	3/24/2007	Charlotte Go Club	NC	0.50000	8/1/2002
 Barcus, Kaiya	26341	Youth	-23.48812	1/21/2024	San Francisco Go Club	CA	1.76906	10/21/2023
-Barcus, Matthew	25690	Adult Full	-15.65327	1/1/2024	San Francisco Go Club	CA	0.88286	9/17/2022
+Barcus, Matthew	25690	Adult Full	-15.65327	8/28/2027	San Francisco Go Club	CA	0.88286	9/17/2022
 Barcus, Miya	25689	Youth	-13.54624	8/27/2026	San Francisco Go Club	CA	0.63953	8/23/2025
 Baretsky, William	11873	Adult Full	-2.60000	11/13/2006	Empty Sky Go Club	NY	0.68000	11/1/2005
 Barger, Jesse	30210	Adult Full		5/3/2026	Treasure Coast Go	FL		
@@ -1821,8 +1821,8 @@ Chen, Anna	11549	Adult Full	-21.40000	1/15/2004	Feng Yun Go School	NJ	0.53000	11
 Chen, Anthony	2268	Adult Full	6.29501	3/13/2027		NV	0.50090	4/28/2012
 Chen, Anthony	31349	Adult Full	-26.33574	11/8/2025	Syracuse Go Club	NY	1.18913	11/9/2024
 Chen, Antong	22106	Adult Full	5.74680	9/27/2016		PA	0.42143	4/30/2016
-Chen, Apollo	30403	Youth	-23.36021	8/25/2026		CA	0.52659	11/15/2025
-Chen, Aslan	30645	Youth	-21.15484	8/25/2026		CA	0.60667	11/15/2025
+Chen, Apollo	30403	Youth	-23.36021	8/28/2027		CA	0.52659	11/15/2025
+Chen, Aslan	30645	Youth	-21.15484	8/28/2027		CA	0.60667	11/15/2025
 Chen, Barry	6526	Adult Full	3.48000	11/1/2006		VA	0.40000	3/1/2006
 Chen, Benjamin	17856	Adult Full	-17.84693	6/18/2012		CO	0.74560	6/11/2011
 Chen, Bill	6112	Adult Full	3.41000	7/28/1993		CA	2.33000	9/1/1994
@@ -5848,7 +5848,7 @@ Huang, Xiao	16583	Adult Full	-3.70000	5/4/2010	Feng Yun Go School	NJ	0.56000	7/1
 Huang, Xiaodi	25837	Adult Full	7.32926	3/29/2024	Capital Go Club	MA	0.29445	1/27/2024
 Huang, Xiaohan	16637	Adult Full	5.47000	6/3/2012	Bay Area Go Players Assoc.	CA	0.22000	2/1/2010
 Huang, Xiayang Alexander	24068	Youth	-5.15213	2/17/2027	New York Go Association	NY	0.54277	8/31/2019
-Huang, Xingang	24822	Adult Full	3.61108	9/16/2026	Yorba Linda Go Club	CA	0.23672	5/24/2026
+Huang, Xingang	24822	Adult Full	3.61108	9/16/2027	Yorba Linda Go Club	CA	0.23672	5/24/2026
 Huang, Yanshan	30573	Adult Full	-19.04251	11/4/2025		CA	1.04502	7/23/2024
 Huang, Yen-Ta	21484	Adult Full	4.09680	2/12/2018	Berkeley Go Club	CA	0.45857	4/1/2017
 Huang, Yen-Wei	15788	Tournament Pass		9/18/2007		IL		
@@ -8349,7 +8349,7 @@ Li, Song	10146	Tournament Pass	6.30171	2/8/2013	Bay Area Go Players Assoc.	CA	0.
 Li, Song	12752	Tournament Pass	-2.64000	6/11/2004			0.68000	10/1/2003
 Li, Stephanie	21550	Adult Full	-17.39504	12/8/2015		NY	1.59511	11/22/2014
 Li, Steve Sihao	8834	Adult Full	5.55000	10/10/1998		VA	0.55000	3/1/1998
-Li, Tao	13130	Adult Full	2.05724	4/17/2026	San Francisco Go Club	CA	0.29390	2/1/2026
+Li, Tao	13130	Adult Full - Lifetime	2.05724	4/28/2068	San Francisco Go Club	CA	0.29390	2/1/2026
 Li, Terry	24404	Youth	1.63322	1/10/2020			0.37354	8/4/2019
 Li, Thomas	16897	Adult Full	-25.15000	10/8/2009	Feng Yun Go School	NJ	0.92000	1/1/2009
 Li, Tianhao	26156	Adult Full	8.07737	12/13/2026	National Go Center	NJ	0.52038	4/11/2026
@@ -8682,7 +8682,7 @@ Lincoln, Dahn	15478	Tournament Pass	-22.39000	5/12/2007			1.19000	5/1/2007
 Linde, Darcy	32041	Adult Full	-5.21718	9/10/2026		NY	0.59053	9/13/2025
 Lindemeyer, Jacob	31136	Youth	-13.73535	8/1/2025	Columbus Go Club	OH	0.84333	8/24/2024
 Linden, Alex	20250	Adult Full	-11.42139	10/26/2015		MA	0.33726	1/29/2015
-Linden, Eric	31782	Adult Full	-3.29833	5/7/2026	Providence Go Club	RI	0.88947	5/10/2025
+Linden, Eric	31782	Adult Full	-3.29833	8/28/2027	Providence Go Club	RI	0.88947	5/10/2025
 Linden, Leigh	23249	Adult Full	-5.89579	7/28/2027	Austin Go Club	TX	0.67008	4/22/2017
 Lindfors, Eino	3959	Adult Full	-6.10000	1/28/1996		FL	0.00000	1/15/1994
 Lindholm, David	10845	Tournament Pass	-15.96000	12/22/2001	Vermont Go Club	VT	1.14000	1/1/2002
@@ -10133,6 +10133,7 @@ More Imboden, Scout	22129	Youth	-30.40793	9/28/2016	Portland Go Club	OR	1.35687	
 Moreau, Guy	7491	Adult Full	-2.77045	4/19/2023		CA	0.50898	10/22/2022
 Morehead, Isaac	30861	Adult Full	-21.77564	5/25/2027	Upstate SC Go Club	SC	0.49547	6/13/2026
 Morehead, Jared	21224	Adult Full		12/7/2023		UT		
+Morehead, Maxwell	32801	Adult Full		8/28/2027	East Bay Go Players	CA		
 Morehouse, Andromeda	31255	Youth	-14.25559	9/24/2025		MN	0.65741	9/28/2024
 Morell, David	8049	Adult Full	-1.35000	11/18/2004		NC	0.38000	12/1/2003
 Moreno, Felipe	20798	Adult Full - Lifetime	-4.40101	9/1/2064		NY	0.41756	7/14/2019
@@ -10801,7 +10802,7 @@ Oshel, David	15431	Adult Full	-20.13000	4/5/2011		IA	1.83000	5/1/2009
 Oshima, Hisashi	13834	Tournament Pass	5.10000	9/7/2005			0.50000	9/1/2005
 Oshima, Mari	24882	Adult Full	-19.62017	10/17/2027	Brooklyn Go Club	NY	0.29325	8/1/2026
 Oshin, Wayne	31824	Adult Full		5/22/2027		NJ		
-Oshiro, Scott	14640	Adult Full	1.49249	10/28/2017		MD	0.65868	10/29/2016
+Oshiro, Scott	14640	Adult Full	1.49249	8/28/2027		MD	0.65868	10/29/2016
 Osman, Eric	573	Adult Full	-1.39711	6/3/2027	Western Mass. Go Club	MA	0.15281	8/3/2026
 Osoba, Dammy	14740	Tournament Pass	-8.67621	11/15/2010	Santa Monica Go Club	CA	0.43670	9/18/2010
 Osoegawa, Takeru	24154	Adult Full	-11.94153	10/12/2020		MA	1.30083	12/1/2018
@@ -11915,6 +11916,7 @@ Rodriguez, Gabriel	14781	Adult Full	-26.68000	10/14/2007	Evanston Go Club	IL	1.4
 Rodriguez, Jeffrey	23178	Tournament Pass	-28.45393	3/7/2017	Stony Brook University Go Club	NY	1.47348	11/18/2017
 Rodriguez, Justin	14499	Adult Full	-40.50000	5/11/2007		TX	4.69000	5/1/2006
 Rodriguez, Michael	14887	Adult Full	-5.87000	7/6/2009		NY	0.72000	7/1/2008
+rodriguez, pablo	32800	Adult Full		8/28/2027		CA		
 Rodriguez Pricoli, Osvaldo Alberto	25692	Tournament Pass		1/8/2022	Gotham Go Group			
 Rodriques, Sam	15866	Adult Full	-9.00000	10/13/2008		MA	0.74000	11/1/2007
 Roe, Berto	24628	Tournament Pass	-15.26894	6/1/2019	Orlando Go Club	FL	0.89668	6/1/2019
