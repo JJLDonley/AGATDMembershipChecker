@@ -14707,7 +14707,7 @@ Wang, Jiyue	30406	Adult Full	-1.19732	8/31/2024		FL	0.68844	7/23/2024
 Wang, John	7991	Adult Full	-9.98000	3/28/1997		MI	0.59000	6/1/1997
 Wang, John	11154	Adult Full	-14.32000	3/19/2008	Evanston Go Club	IL	0.80000	5/1/2007
 Wang, John	22398	Adult Full	1.96171	3/3/2018	NOVA Go Club	MD	0.46256	5/28/2016
-Wang, Johnny	32650	Youth		6/12/2027		MA		
+Wang, Johnny	32650	Youth		6/12/2027	Massachusetts Go Association	MA		
 Wang, Jonathan	6724	Adult Full	7.14000	2/28/2005	San Francisco Go Club	CA	0.22000	1/1/2002
 Wang, Jonathan	12156	Adult Full	3.48402	5/14/2012		NJ	0.62150	4/16/2011
 Wang, Jonathan	14969	Tournament Pass	-29.47000	9/19/2007		CA	2.21000	11/1/2006
@@ -16956,7 +16956,7 @@ Zhou, Erica	23397	Adult Full	6.22522	7/17/2021			0.45158	8/6/2017
 Zhou, Ethan	21036	Youth	-13.82551	8/18/2018		GA	0.54079	8/6/2017
 Zhou, Gang	18122	Adult Full	3.87239	4/22/2011		NY	0.70615	4/17/2010
 Zhou, Haibo	14945	Tournament Pass	5.87140	11/14/2010		CA	0.73191	9/18/2010
-Zhou, Hang	11181	Adult Full	3.38000	12/29/2011		CA	0.58000	3/1/2009
+Zhou, Hang	11181	Adult Full	3.38000	9/4/2027		CA	0.58000	3/1/2009
 Zhou, Henry	16693	Adult Full	-13.47033	5/4/2011	Evanston Go Club	IL	0.38546	4/24/2010
 Zhou, Heping	10658	Tournament Pass	-1.93000	7/17/2001		VA	0.61000	7/1/2001
 Zhou, Howard	22555	Tournament Pass	4.78321	9/19/2024			0.38578	8/17/2024
