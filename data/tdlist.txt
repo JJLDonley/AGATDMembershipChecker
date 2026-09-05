@@ -351,6 +351,7 @@ Asano, Chiyoko	6146	Tournament Pass	-15.90000	12/28/1979			0.00000	11/15/1992
 Asano, Mitsuzo	6145	Tournament Pass	7.20000	12/28/1979			0.00000	11/15/1992
 Asano, Takashi	13351	Tournament Pass	-2.29000	3/14/2005		IL	0.58000	4/1/2005
 Asano, Tetsuo	1497	Tournament Pass	-2.44000	11/5/2003		CA	0.48000	11/1/2003
+Asante, Michael	32815	Adult Full		9/3/2027	National Go Center	DC		
 Ascheim, Skip	114	Adult Full	4.50000	3/13/2018			0.45000	12/1/1996
 Ascherl, David	21085	Adult Full	-8.55848	6/18/2026	Seattle AGA Chapter	WA	0.76027	2/4/2018
 Ash, David	6781	Adult Full		2/28/2027		KY		
@@ -4668,7 +4669,7 @@ Guan, Zhu Wei	23738	Tournament Pass	-11.98188	2/14/2018		MD	1.28739	2/10/2018
 Guan, Ziyi	30974	Adult Full	-12.38143	10/22/2025	Upstate SC Go Club	SC	0.46424	10/19/2025
 Guang, Yu	32063	Adult Full	4.15040	9/21/2026	New York Go Association	NY	0.67593	9/13/2025
 Guarino, Joshua	12197	Adult Full	2.33056	3/3/2027	Triangle Go Group	NC	0.22151	7/25/2026
-Guberinic, Vladislav	23897	Adult Full	-7.77075	4/30/2019	Bay Area Go Players Assoc.	CA	0.63484	9/29/2018
+Guberinic, Vladislav	23897	Adult Full	-7.77075	9/4/2027	Bay Area Go Players Assoc.	CA	0.63484	9/29/2018
 Guerrero, Ahel	30189	Adult Full		4/27/2024		IL		
 Guerrero, Diego	32116	Adult Full	1.13466	10/14/2026		IL	0.33986	5/23/2026
 Guerrero Mares, Adriel	31801	Complimentary		11/13/2025		MOR		
@@ -10217,7 +10218,7 @@ Mott, Susie	17280	Adult Full	-32.87150	3/8/2012	Princeton Go Club	NJ	0.98895	2/2
 Motulewicz, Paul	9998	Adult Full	-8.64000	6/29/2003		OH	0.48000	8/1/2002
 Mou, Duenchien	7717	Adult Full	2.48000	8/29/2004		CA	0.49000	6/1/2003
 Mou, Wendy	17790	Tournament Pass	-29.48081	11/16/2010		CA	0.58583	9/18/2010
-Mougette, Samantha	31254	Adult Full	-5.90535	9/23/2026	Evanston Go Club	IL	0.36399	7/27/2026
+Mougette, Samantha	31254	Adult Full	-5.90535	9/23/2027	Evanston Go Club	IL	0.36399	7/27/2026
 Moukarzel, Keenan	18365	Adult Full	-3.94433	9/19/2011		VA	0.43414	4/27/2011
 Mouly, AJ	16691	Adult Full	-19.86000	6/30/2009	Davis/Sacramento Go Club	CA	0.75000	4/1/2009
 Mount, Emily	15297	Adult Full	-16.29000	3/3/2009	Triangle Go Group	NC	0.86000	5/1/2007
@@ -14784,6 +14785,7 @@ Wang, P.H.	5568	Tournament Pass	7.20000	12/28/1979			0.00000	11/15/1992
 Wang, Patrick	16497	Adult Full	-11.19871	6/1/2027		CA	0.27562	11/1/2014
 Wang, Peixuan	22110	Adult Full	8.66964	6/27/2025		NJ	0.61030	9/17/2022
 Wang, Peng	24839	Adult Full	4.61331	9/28/2023	San Diego Go Club	CA	0.47278	1/19/2020
+Wang, Pin-Chien	32814	Youth		9/3/2027		CO		
 Wang, Ping-Lei	5507	Adult Full	-4.63000	11/30/2001		NY	0.52000	6/1/1998
 Wang, Po-Hsiang	31596	Adult Full		2/18/2026		MA		
 Wang, Po-Jen	21853	Adult Full	2.47967	5/9/2019		NJ	0.49214	5/19/2018
@@ -16956,7 +16958,7 @@ Zhou, Erica	23397	Adult Full	6.22522	7/17/2021			0.45158	8/6/2017
 Zhou, Ethan	21036	Youth	-13.82551	8/18/2018		GA	0.54079	8/6/2017
 Zhou, Gang	18122	Adult Full	3.87239	4/22/2011		NY	0.70615	4/17/2010
 Zhou, Haibo	14945	Tournament Pass	5.87140	11/14/2010		CA	0.73191	9/18/2010
-Zhou, Hang	11181	Adult Full	3.38000	9/4/2027		CA	0.58000	3/1/2009
+Zhou, Hang	11181	Adult Full	3.38000	9/3/2027		CA	0.58000	3/1/2009
 Zhou, Henry	16693	Adult Full	-13.47033	5/4/2011	Evanston Go Club	IL	0.38546	4/24/2010
 Zhou, Heping	10658	Tournament Pass	-1.93000	7/17/2001		VA	0.61000	7/1/2001
 Zhou, Howard	22555	Tournament Pass	4.78321	9/19/2024			0.38578	8/17/2024
