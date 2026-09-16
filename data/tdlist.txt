@@ -7494,7 +7494,7 @@ Kuhr, Miles	19737	Adult Full	-5.83062	2/20/2013	Evanston Go Club	IL	0.39274	9/1/
 KUI, Ava	25746	Youth	-12.16194	2/23/2034	New York Go Association	NY	1.04984	6/7/2025
 Kuk, Sam	9735	Tournament Pass	2.98000	11/3/1999		LA	0.54000	6/1/2001
 Kukol, Ray	431	Adult Full - Lifetime	3.57000	9/1/2064	Las Vegas Go Club	NV	0.89000	9/1/2007
-Kulasekaran, Cel	11593	Adult Full	-9.18758	9/10/2026	Massachusetts Go Association	MA	0.64306	3/19/2016
+Kulasekaran, Cel	11593	Adult Full	-9.18758	9/14/2027	Massachusetts Go Association	MA	0.64306	3/19/2016
 Kulevich, Greg	20642	Adult Full - Lifetime	-4.76959	9/1/2064	Evanston Go Club	IL	0.38413	11/9/2019
 Kulikosky, Matthew	11510	Adult Full	-23.30000	1/12/2011	NOVA Go Club	VA	1.20000	4/1/2003
 Kullas, Stephen	22087	Adult Full	-3.88989	8/1/2021		NY	0.72157	9/26/2015
@@ -8155,7 +8155,7 @@ Leung, Kevin	25751	Youth	-18.89201	2/24/2027	New York Go Association	NY	0.53355	
 Leung, Kristian	13703	Adult Full	-23.09000	7/2/2006		NJ	0.75000	7/1/2005
 Leung, Leo	15393	Adult Full	-11.67000	4/2/2010		CA	1.25000	10/1/2007
 Leung, Luigi	15989	Tournament Pass	-15.39596	11/17/2008	Orange County Go Club	CA	1.22110	10/21/2017
-Leung, Peter	30438	Adult Full	-1.83938	10/12/2026	Evanston Go Club	IL	0.55448	7/25/2026
+Leung, Peter	30438	Adult Full	-1.83938	10/12/2027	Evanston Go Club	IL	0.55448	7/25/2026
 Leung, Wayne Keith	13940	Adult Full	3.85000	10/26/2008		VA	0.96000	12/1/2007
 Levasseur, Joseph	14671	Tournament Pass	-1.46000	8/9/2006			0.42000	9/1/2006
 Levchuk, Aleksandr	14965	Tournament Pass	-18.31000	9/19/2007			0.87000	11/1/2006
@@ -10908,7 +10908,7 @@ Pak, Mike	11375	Adult Full	-12.04000	11/6/2003		MD	1.36000	8/1/2004
 Pak, Seong Whi	8158	Tournament Pass	1.43000	7/28/1996			0.77000	9/1/1996
 Pak, Wanda	6413	Adult Full	-15.85000	4/28/1994	Triangle Go Group	SC	0.56000	9/1/1993
 Pakhutko, Neil	30552	Youth	1.66257	12/14/2026	UChicago Go Club	IL	0.78532	5/23/2026
-PALACIOS, LUIS	25827	Adult Full	1.64936	4/27/2026	Ventura County Go Club	CA	0.24942	11/29/2025
+PALACIOS, LUIS	25827	Adult Full	1.64936	9/14/2027	Ventura County Go Club	CA	0.24942	11/29/2025
 Palamar, Brian	32364	Adult Full	-10.29606	2/16/2027		NY	0.68900	4/11/2026
 Palazola, Stephen	22207	Tournament Pass	-1.02513	10/25/2015			0.97699	9/26/2015
 Palazola, Stephen	25271	Adult Full		3/4/2027		TX		
@@ -12407,7 +12407,7 @@ Scholl, Kris	31902	Adult Full		6/24/2026		DE
 Schollenberger, John	8235	Adult Full	-16.13718	5/8/2024	Triangle Go Group	NC	0.49251	5/19/2019
 Schonbrun, Stanley	5321	Adult Full	-9.45000	9/28/1994		WA	0.49000	9/1/1993
 Schoning, Jon	23496	Adult Full	-12.50004	9/1/2018	Fox Valley Go Club	IL	0.91529	9/9/2017
-Schooler, Mitch	31249	Adult Full	-10.11315	9/20/2026	Twin Cities Go Club	MN	0.50777	5/24/2025
+Schooler, Mitch	31249	Adult Full	-10.11315	9/16/2027	Twin Cities Go Club	MN	0.50777	5/24/2025
 Schooley, Benjamin	32492	Adult Full	-3.46598	4/16/2027		NC	1.59372	4/18/2026
 Schorfheide, Paul	30641	Adult Full		12/11/2024	Houston Go Club	TX		
 Schrade, Richard	12723	Adult Full	-31.56000	3/12/2007	Feng Yun Go School	NJ	2.64000	11/1/2004
@@ -13212,7 +13212,7 @@ Sparks, Laura	21516	Adult Full	-6.62363	8/21/2021		CA	0.42034	7/14/2019
 Sparks, Michael	17369	Tournament Pass	-16.98000	4/7/2009		TX	0.95000	4/1/2009
 Sparks, Roy	4887	Adult Full	-1.60000	10/28/1994		CA	0.50000	6/1/1994
 Spears, Chris	10559	Adult Full	-11.66000	12/26/2005	Univ. of Maryland Go Club	MD	0.76000	12/1/2004
-specioso, michael	24784	Adult Full	-21.64794	4/18/2025	Davis/Sacramento Go Club	CA	1.28408	11/17/2024
+specioso, michael	24784	Adult Full	-21.64794	9/14/2027		CA	1.28408	11/17/2024
 Speck, Darrell	6274	Adult Full	-2.48311	3/23/2027	Atlanta Go Club	GA	0.31144	7/13/2025
 Spector, Martin	5086	Adult Full	1.22535	1/14/2011	Massachusetts Go Association	MA	0.41978	8/1/2010
 SPELLMAN, George	23746	Adult Full	-11.41327	12/26/2026	San Diego Go Club	CA	0.41917	5/26/2024
