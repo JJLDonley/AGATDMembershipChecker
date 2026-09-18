@@ -4524,7 +4524,7 @@ Graham, Chad	9421	Adult Full	-6.69000	3/21/2000		NJ	0.94000	3/1/1999
 Graham, Nathaniel	11065	Tournament Pass	-2.67000	6/23/2002		CA	0.46000	10/1/2002
 Graham, Phil	9422	Adult Full	-4.02000	3/21/2000		NJ	1.05000	3/1/1999
 Graham, Sharp	16523	Tournament Pass	-16.24000	4/12/2008			0.84000	5/1/2008
-Graham, Thomas	30584	Adult Full	-13.19973	11/6/2026	Brooklyn Go Club	NY	0.56982	12/13/2025
+Graham, Thomas	30584	Adult Full	-13.19973	11/6/2027	Brooklyn Go Club	NY	0.56982	12/13/2025
 Graham-Jones, Pierce	10843	Tournament Pass	-17.58000	12/22/2001	Vermont Go Club	VT	0.78000	1/1/2002
 Graman, Rory	32035	Adult Full	-15.36287	9/8/2026		IN	0.72852	11/1/2025
 Granaas, Paul	20831	Adult Full		10/2/2021		SD		
