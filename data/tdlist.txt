@@ -2473,7 +2473,7 @@ Christensen, Heine	6895	Adult Full	-11.21000	3/28/1995		NJ	1.17000	3/1/1994
 Christensen, John	23512	Adult Full	-7.15864	11/23/2023	National Go Center	MD	0.30768	12/14/2019
 Christensen, Kjarsten	16831	Adult Full	-9.20215	5/1/2011	Salt Lake Go Club	UT	0.51911	2/25/2012
 Christensen, Nathan	32119	Tournament Pass	-14.60472	11/15/2025		GA	0.66029	10/19/2025
-Christensen, Peter	7285	Adult Full	-5.39266	10/31/2026		WA	0.55744	1/8/2012
+Christensen, Peter	7285	Adult Full	-5.39266	9/21/2027		WA	0.55744	1/8/2012
 Christian, Clinton	31122	Adult Full	-16.28599	7/22/2025		MA	0.76829	8/31/2024
 Christoffersen, Terje	6488	Tournament Pass	1.22000	5/28/1993			0.65000	9/1/1993
 Christopher, Peter	15692	Adult Full	-5.73778	8/23/2025		NH	0.68385	8/31/2024
@@ -5994,7 +5994,7 @@ Hutton, James	1912	Adult Full	-1.40000	6/28/1992		PA	0.00000	11/15/1992
 Hutton, Jonathan	15681	Adult Full	-1.19252	10/5/2026	Providence Go Club	RI	0.65248	8/3/2026
 Hutton, Rex	3734	Adult Full	-8.92000	8/31/2004		CA	0.49000	6/1/2003
 Hutzel, Andrew	20191	Adult Full	-16.77371	9/25/2013	Triangle Go Group	NC	1.39581	9/23/2012
-Huxtable, Robert	13875	Adult Full	-6.51545	5/5/2027	Providence Go Club	MA	0.41998	7/25/2026
+Huxtable, Robert	13875	Adult Full	-6.51545	5/5/2027		MA	0.41998	7/25/2026
 Huyck, Warren	8562	Adult Full	-11.92000	5/31/1998		NC	0.79000	6/1/1997
 Huynh, David	15806	Adult Full	-7.21000	9/26/2008		CA	0.59000	10/1/2007
 Huynh, Eric	12822	Adult Full	-27.50000	9/21/2006		CA	0.55000	10/1/2004
@@ -7603,7 +7603,7 @@ Laflin, Tom	20453	Adult Full	-4.13827	10/3/2016	Seattle AGA Chapter	WA	0.73370	9
 LaFreniere, Jeremy	10499	Adult Full	-24.31000	4/15/2002		VA	2.18000	4/1/2001
 Lagunas Pinacho, Sergio	32755	Adult Full	-12.23019	8/8/2027	Silicon Valley Go Club	CA	0.68717	9/5/2026
 Lahey, Christopher	8812	Adult Full	-11.97050	4/7/2018		MA	0.45503	7/31/2016
-Lahiri, Subhaneil	32107	Adult Full	-21.92453	10/9/2026	Silicon Valley Go Club	CA	0.95408	5/23/2026
+Lahiri, Subhaneil	32107	Adult Full	-21.92453	10/9/2027	Silicon Valley Go Club	CA	0.95408	5/23/2026
 Lahut, Matt	13367	Tournament Pass	-8.87000	3/20/2005		NY	0.75000	2/1/2005
 Lai, Anthony	17249	Adult Full	-10.87000	2/27/2010	Bay Area Go Players Assoc.	CA	0.99000	4/1/2009
 Lai, Austin	13580	Tournament Pass	-37.71000	5/17/2005			1.71000	5/1/2005
@@ -9194,7 +9194,7 @@ Lugovskoy, Alicia	31703	Youth	-27.67294	4/16/2027		NY	1.08120	4/19/2025
 Lui, Chang Sei	8471	Tournament Pass	-8.23000	3/28/1997		FL	1.23000	3/1/1997
 Lui, Cindy	8772	Adult Full	-25.09000	9/2/1999		MD	0.69000	9/1/1998
 Lui, Eric	7673	Adult Full - Lifetime	8.27748	9/2/2064	GWRM Baltimore Go Club	MD	0.26361	7/14/2024
-Lui, I-Han	3616	Adult Full	6.94433	10/31/2026	GWRM Baltimore Go Club	MD	0.46450	4/26/2014
+Lui, I-Han	3616	Adult Full	6.94433	10/31/2027	GWRM Baltimore Go Club	MD	0.46450	4/26/2014
 Lui, Nan	11034	Tournament Pass	4.03000	5/23/2002	Seattle AGA Chapter	WA	0.66000	5/1/2002
 Luk, Franklin	17765	Tournament Pass	-2.39573	10/21/2010		CA	0.38159	10/26/2019
 Luk, Hing Wing	4094	Adult Full	-3.60000	12/28/1994		PA	0.00000	11/15/1992
@@ -14133,6 +14133,7 @@ Travis, Owen	31209	Adult Full	-5.84774	9/7/2025	Evanston Go Club	IL	0.75067	9/28
 Traylor, Ivan	25002	Tournament Pass	-18.20598	1/8/2020	Dallas Go Club	AR	0.71970	2/15/2020
 Trees, Terry	6235	Adult Full	-6.26774	6/24/2011	Springs Go Club	CO	0.64874	8/1/2010
 Tregar, Sam	12370	Adult Full	-4.75773	2/4/2024	San Diego Go Club	CA	0.91847	2/5/2023
+Tregeagle, Daniel	32844	Adult Full		9/20/2027	Triangle Go Group	NC		
 Tremblay, James	32101	Adult Full	-9.81017	10/8/2027		MI	0.72578	10/26/2025
 Tremblay, Pascal	19241	Adult Full	5.58425	8/7/2011			0.40822	8/3/2011
 Tremblay, Pierre-olivier	15740	Tournament Pass	6.57000	8/24/2007			0.53000	9/1/2007
