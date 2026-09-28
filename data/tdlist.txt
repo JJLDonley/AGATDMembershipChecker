@@ -4033,7 +4033,8 @@ Friend, Chris	23632	Adult Full	-19.73799	11/12/2018		CA	1.58322	10/21/2017
 Friend, River	14116	Adult Full	-19.71000	12/20/2006	Berkeley Go Club	CA	1.86000	1/1/2006
 Friesen, Corin	16156	Adult Full	-5.13000	1/11/2009		CA	0.55000	2/1/2008
 Friesen, Gabriel	16155	Adult Full	-7.78000	1/11/2009	Orange County Go Club	CA	0.58000	2/1/2008
-Frigon, Henry	30900	Adult Full	-19.14184	4/10/2025	Portland Go Club	OR	1.86021	7/23/2024
+Frigon, Annaliese	32856	Youth		9/26/2027		OR		
+Frigon, Henry	30900	Tournament Pass	-19.14184	10/26/2026	Portland Go Club	OR	1.86021	7/23/2024
 Fritz, Jeffery	11173	Adult Full	-12.40000	7/1/2003		MN	0.97000	8/1/2002
 Frodelius-Fujimoto, Kellen Covell Toru	22940	Adult Full	-14.62135	7/3/2022	Seattle AGA Chapter	WA	1.62315	11/25/2016
 Frohardt, Robert	11684	Adult Full	1.58362	10/18/2024	Danger Monkey Go Club	CO	0.41284	10/28/2023
@@ -8332,7 +8333,7 @@ Li, Lucy	21200	Youth	-9.06766	5/12/2015		IL	0.55716	3/5/2016
 Li, LU-TZU	22921	Adult Full	-15.82116	9/29/2017	Empty Sky Go Club	NY	1.20272	10/8/2016
 Li, Lyric	26260	Adult Full	-1.07332	7/5/2027	Massachusetts Go Association	MA	0.36982	9/12/2026
 Li, Maria	25428	Youth	-5.50730	2/14/2038	Tech Time Go Club	CA	0.70269	4/20/2025
-Li, Matthew	31930	Youth	-19.32581	7/14/2026		TX	0.53519	4/25/2026
+Li, Matthew	31930	Youth	-19.32581	9/26/2027		TX	0.53519	4/25/2026
 Li, Max	21715	Youth	-12.44409	3/9/2016		PA	0.82874	2/28/2015
 Li, Meng	32250	Adult Full		12/10/2026		CA		
 Li, Mike Yunxuan	15726	Adult Full	7.00190	8/15/2031		CA	0.23961	3/19/2016
@@ -16246,6 +16247,7 @@ Yokokawa, Hidemi	8258	Adult Full	-7.57000	10/28/1997	Portland Go Club	OR	1.12000
 Yokokawa, Yosuko	8259	Adult Full	-7.02000	10/28/1997		OR	0.74000	12/1/1996
 Yokomichi, Koni	9863	Adult Full	2.60000	2/28/2001		TX	0.52000	6/1/2000
 Yokose, Ray	6346	Adult Full	-5.61000	2/28/2002		FL	0.56000	6/1/1998
+Yokoyama, Kantaro	32858	Youth		9/28/2027				
 Yom, Kerry	10476	Tournament Pass	5.56000	4/11/2001			0.87000	4/1/2001
 Yomura, Takeyasu	7786	Tournament Pass	4.23000	8/28/1995			0.64000	9/1/1995
 Yon, Anthony	15880	Adult Full	-6.22257	10/18/2015	Orlando Go Club	FL	0.44724	4/18/2015
@@ -16748,6 +16750,7 @@ Zhang, Shujian	20522	Adult Full	5.67644	4/3/2014		ND	0.68824	2/16/2013
 Zhang, Shuotong	22843	Complimentary	-1.36771	1/1/2023			0.54696	8/6/2017
 Zhang, Simon	25960	Youth	-11.30135	5/28/2027	Feng Yun Go School	CT	0.23957	4/11/2026
 Zhang, Siteng	18344	Adult Full	5.17322	9/2/2011		MA	0.62433	8/29/2010
+Zhang, Siyong	32857	Youth		9/26/2027		WI		
 Zhang, Siyuan	22765	Complimentary	7.26747	1/1/2023			0.45114	7/31/2016
 Zhang, Skyler	31356	Youth		11/9/2025		CA		
 Zhang, Songhua	18766	Adult Full	-6.79083	5/10/2012		NC	0.84538	4/10/2011
@@ -17125,7 +17128,7 @@ Zhuang, Kyrie	32570	Youth	-22.15997	5/2/2027		CA	0.97186	9/5/2026
 Zhuang, Min	31158	Adult Full	-1.96805	9/18/2027		MN	0.65264	10/18/2025
 Zhuang, Vincent	13597	Adult Full	6.45476	10/31/2019	Portland Go Club	OR	0.51126	2/10/2019
 Zhuang, Yongming	18625	Adult Full	4.49490	2/13/2014	Atlanta Go Club	GA	0.42020	9/21/2013
-Zhulin, Maxim	31535	Adult Full	-6.36024	2/2/2026	Atlanta Go Club	GA	0.44737	11/30/2025
+Zhulin, Maxim	31535	Adult Full	-6.36024	9/26/2027	Atlanta Go Club	GA	0.44737	11/30/2025
 Zhuo, Evan	30207	Youth	-5.85879	5/4/2025		WA	0.58299	4/13/2024
 Zhuo, Yue	6210	Adult Full	6.73000	2/28/1995	Austin Go Club	TX	0.51000	12/1/1994
 Zi, Wang	10651	Tournament Pass	-4.39000	7/15/2001			0.44000	8/1/2001
