@@ -455,7 +455,7 @@ Bai, Jinhan	22014	Tournament Pass	5.48462	8/12/2015			0.54617	8/2/2015
 Bai, Michael	17963	Adult Full	-31.24825	3/10/2011		PA	2.99399	2/20/2010
 Bai, Ming	7535	Adult Full	-13.88000	2/28/1996		PA	0.68000	6/1/1995
 bai, rocky	32407	Youth		3/6/2027		CA		
-Bai, Rouyu	13986	Tournament Pass	5.41940	4/11/2025			0.49763	4/25/2026
+Bai, Ruoyu	13986	Tournament Pass	5.41940	10/28/2026			0.49763	4/25/2026
 Bai, Taeil	1427	Adult Full	5.00045	3/12/2014	Bay Area Go Players Assoc.	CA	0.32920	8/4/2013
 Bai, Tina Su	19264	Complimentary	3.32023	1/1/2023		BC	0.36075	10/24/2015
 Bai, Yuchen	7252	Adult Full	7.03660	3/12/2024	Bay Area Go Players Assoc.	PA	0.56593	2/20/2010
@@ -4266,7 +4266,7 @@ Gay, Joshua	18592	Adult Full	-5.80358	1/18/2012		MA	0.70323	1/16/2011
 Gazi, Kyle	18225	Tournament Pass	-20.90925	6/19/2010			1.66948	6/12/2010
 Gazunis, George	12274	Adult Full	-26.40000	11/26/2004		MD	0.97000	12/1/2003
 GCtesting, Test#1	30019	Complimentary		5/27/2023				
-Ge, Catherine	32862	Youth		9/29/2027				
+Ge, Catherine	32862	Youth		9/28/2027		CA		
 Ge, Kevin	25651	Youth		11/19/2022		CA		
 Ge, Qingwen	18617	Adult Full	4.93040	2/13/2012	Atlanta Go Club	GA	0.67012	2/5/2011
 Ge, Yongfei	10617	Complimentary	7.34215	11/28/2024		ON	0.41266	7/14/2024
@@ -11114,7 +11114,7 @@ Passolt, Gregor	17736	Adult Full	-7.48697	9/5/2010	Seattle AGA Chapter	WA	0.4079
 Patel, Nick	17239	Adult Full	1.66369	3/6/2014		NJ	0.52262	3/2/2013
 Patel, Vinay	11685	Adult Full	-1.71000	3/12/2006		IL	0.50000	4/1/2005
 Patel-Schneider, Andrew	18680	Adult Full	-6.60741	3/1/2013		NJ	0.58040	2/25/2012
-Patin, Ari	31277	Adult Full	-10.43744	10/4/2026	Evanston Go Club	IL	0.51598	5/23/2026
+Patin, Ari	31277	Adult Full	-10.43744	10/4/2027	Evanston Go Club	IL	0.51598	5/23/2026
 Patin, Mak	31072	Tournament Pass	-16.64528	7/24/2024		AK	0.62593	6/20/2024
 Patire, Anthony	12823	Adult Full	-26.18000	9/22/2006	Berkeley Go Club	CA	0.68000	8/1/2004
 Patlovany, Alex	12053	Adult Full	-26.61000	8/1/2005		TX	1.95000	9/1/2003
@@ -15449,7 +15449,7 @@ Wong, Isaac	5299	Tournament Pass	-1.93000	1/23/2005		CA	0.44000	2/1/2005
 Wong, James	1859	Adult Full	6.78000	2/3/2007		NY	0.54000	2/1/2006
 Wong, Jason	13576	Tournament Pass	-40.25000	5/14/2005			2.77000	5/1/2005
 Wong, Jeffrey	13949	Tournament Pass	-29.13000	10/28/2005		NY	1.14000	11/1/2005
-Wong, Jeremy	24143	Youth	-7.53674	10/7/2026	New York Go Association	NY	0.25116	7/29/2026
+Wong, Jeremy	24143	Youth	-7.53674	10/7/2027	New York Go Association	NY	0.25116	7/29/2026
 Wong, Joe	14937	Adult Full	-29.01000	12/8/2007		NY	2.30000	1/1/2007
 Wong, Jordan	10947	Adult Full	-39.41000	3/4/2003		TX	2.98000	5/1/2002
 Wong, Joshua	9993	Adult Full	-15.55000	6/24/2005		MI	0.76000	4/1/2005
