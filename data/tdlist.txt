@@ -3518,6 +3518,7 @@ Elchert, Ken	3835	Adult Full	-4.67815	10/7/2026		CA	0.53805	5/23/2026
 Elcott, Sharif	15603	Adult Full	-8.91000	7/15/2008		CA	0.53000	12/1/2007
 Elder, John	6045	Adult Full	-5.29980	4/26/2015		VT	0.67152	10/26/2019
 Eldred, Tyler	16509	Adult Full	-17.38000	4/6/2010		VA	1.32000	5/1/2009
+Eley III, Clarence	32865	Adult Full		9/29/2027	Nashville Go Club	TN		
 Elhajoui, Saeed	30297	Adult Full		6/6/2024	Sarasota Go Club	FL		
 Elias, Evan	20431	Adult Full	-15.29938	2/13/2014	Bay Area Go Players Assoc.	CA	0.88785	2/9/2013
 Elias, Michael	15553	Adult Full	-19.05000	6/12/2008		FL	0.68000	7/1/2007
@@ -5254,7 +5255,7 @@ Hennessy, James	24132	Adult Full		10/1/2021		NY
 Henning, Cayanna	22505	Youth	-19.10070	3/31/2017	Seattle AGA Chapter	WA	0.91436	7/3/2016
 Henning, Heath	22037	Adult Full	-6.27862	9/30/2027	Seattle AGA Chapter	WA	0.39539	9/6/2026
 Henninger, Pete	17420	Adult Full	-16.77988	5/3/2015		TX	1.02765	6/29/2013
-Henrie, Liam	31357	Adult Full	-9.96827	11/9/2026		NY	0.34597	6/6/2026
+Henrie, Liam	31357	Adult Full	-9.96827	10/1/2027		NY	0.34597	6/6/2026
 Henrikson, Jeff	12436	Adult Full	-15.66000	11/6/2006	Seattle AGA Chapter	WA	0.75000	12/1/2005
 Henriod, Joseph	32698	Youth		7/9/2027		UT		
 Henry, JR	10849	Adult Full	-35.89000	12/23/2002	GWRM Baltimore Go Club	LA	1.17000	1/1/2002
@@ -5483,7 +5484,7 @@ Honcharov, Danylo	30891	Tournament Pass	-7.57897	5/7/2026	Syracuse Go Club	NY	0.
 Honda, Kyoji	6960	Tournament Pass	-2.99000	4/28/1994			0.56000	6/1/1994
 Honda, Mitsunori	6760	Adult Full	-5.71000	2/1/2009		NY	0.57000	12/1/1995
 Honda, Toshio	7797	Tournament Pass	-1.52000	8/28/1995			0.59000	8/1/2001
-Hong, Aaron	25033	Youth	-16.39118	11/9/2026		CA	0.36458	9/5/2026
+Hong, Aaron	25033	Youth	-16.39118	11/9/2027		CA	0.36458	9/5/2026
 Hong, Andrew	17318	Adult Full	1.17307	10/4/2015	Orange County Go Club		0.35730	8/2/2015
 Hong, Benjamin	18328	Adult Full	-3.68624	11/18/2018	XYZ Private Go Group	MD	0.48539	10/25/2014
 Hong, Beom Sik	10073	Tournament Pass	3.02000	7/27/2000			0.44000	3/1/2001
@@ -8502,7 +8503,7 @@ Liang, Wenhua	23914	Youth	-7.12754	12/27/2022	San Diego Go Club	CA	1.41462	2/16/
 Liang, Xing Ming	16299	Adult Full	2.97000	2/15/2009		MD	0.63000	3/1/2008
 Liang, Yuehang	12821	Adult Full	-18.30000	7/26/2005		CA	0.96000	8/1/2004
 Liang, Zeyu	30612	Adult Full	6.29742	1/6/2027		CA	0.37143	7/25/2026
-Liang, Zixuan	30454	Youth	2.49158	10/4/2026		TX	0.53589	7/25/2026
+Liang, Zixuan	30454	Youth	2.49158	10/4/2027		TX	0.53589	7/25/2026
 Liao, Andrew	18209	Tournament Pass	-8.26272	11/15/2010		CA	0.61628	9/18/2010
 Liao, Austen	16715	Youth	3.26167	2/11/2020	Bay Area Go Players Assoc.	CA	0.38420	2/10/2019
 Liao, Cathy	23713	Youth	-3.21036	7/30/2023	New York Go Association	NY	0.76103	8/1/2022
@@ -16201,6 +16202,7 @@ Yi, Linfeng	31874	Complimentary	-12.21408	12/16/2025		SH	1.22400	7/13/2025
 Yi, Matthew	7601	Adult Full	-2.56000	7/1/1998	Seattle AGA Chapter	WA	0.41000	1/1/1998
 Yi, Matthew	20871	Tournament Pass	-6.02118	10/27/2013			0.45340	10/3/2015
 Yi, Richard	26366	Youth		2/12/2025	New York Go Association	PA		
+Yi, Shangyun	32863	Youth		9/29/2027		NY		
 Yi, Sheng Kung	22857	Adult Full	-12.10973	4/29/2026		CA	0.74234	4/26/2025
 Yi, Soo Young	1906	Tournament Pass	6.57000	8/28/1996		CA	0.70000	9/1/1996
 Yi, Su	11856	Adult Full	-1.82000	10/8/2007		MI	0.55000	7/1/2005
