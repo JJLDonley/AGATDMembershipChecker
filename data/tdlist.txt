@@ -573,7 +573,7 @@ Barnes, Chris	18664	Adult Full	-1.79604	2/28/2013		CO	0.46155	7/10/2011
 Barnes, Christopher	18267	Adult Full	-6.39348	10/16/2016		FL	0.58980	8/1/2010
 Barnes, John	8946	Adult Full		1/7/1999		CA		
 Barnes, Tarek	32270	Adult Full		1/5/2027		CA		
-Barnett, Caleb	30499	Youth	-2.58809	10/15/2026		TX	0.31738	11/1/2025
+Barnett, Caleb	30499	Youth	-2.58809	10/15/2027		TX	0.31738	11/1/2025
 Barnett, Charles	30923	Adult Full	-14.64378	1/17/2027		MI	0.57343	1/31/2026
 Barnett, David	10711	Adult Full	-9.73000	1/21/2008	Wings Across Calm Water	NY	0.73000	2/1/2007
 Barnett, Drew	21272	Adult Full	1.69500	8/1/2027	Seattle AGA Chapter	WA	0.23284	9/6/2026
@@ -1383,7 +1383,7 @@ Calder, Aaron	10953	Adult Full	-30.27000	12/14/2004		TX	0.60000	6/1/2004
 Calder, Merrick	13959	Tournament Pass	-31.40000	11/2/2005		OR	2.68000	11/1/2005
 Calderon, Joseph	6833	Adult Full	-20.50000	1/16/2003		CA	3.15000	5/1/2002
 Caldwell, Hazel	25976	Adult Full	-30.89142	6/14/2023	Columbus Go Club	OH	3.09863	6/16/2022
-Calhoun, Barbara	874	Adult Full	-9.25898	11/14/2026	Brooklyn Go Club	NY	0.36122	7/31/2026
+Calhoun, Barbara	874	Adult Full	-9.25898	10/5/2027	Brooklyn Go Club	NY	0.36122	7/31/2026
 Callahan, Blaine	25790	Adult Full	-11.28418	3/12/2027	Salt Lake Go Club	UT	0.57792	2/28/2026
 Callahan, Zachary	31978	Adult Full	-9.19077	8/16/2026		CA	1.05485	8/23/2025
 Callas, Bashar	23001	Adult Full	-14.94684	12/4/2017		VA	0.76760	12/10/2016
@@ -15816,7 +15816,7 @@ Xu, Diana	11240	Adult Full	-9.26000	7/3/2010	Evanston Go Club	IL	1.19000	10/1/20
 Xu, Dong	32740	Adult Full	-13.56334	8/3/2027		ON	0.77399	8/15/2026
 Xu, Eddie	15901	Youth	-5.97000	9/29/2010	Feng Yun Go School	NJ	0.44000	10/1/2009
 Xu, Edward	13049	Adult Full	6.17000	11/17/2005		WA	0.28000	9/1/2005
-Xu, Eric	32040	Youth	-7.02896	9/9/2026	Ann Arbor Go Club	ON	0.60541	8/15/2026
+Xu, Eric	32040	Youth	-7.02896	10/4/2027	Ann Arbor Go Club	ON	0.60541	8/15/2026
 Xu, Ethan	32550	Youth	-21.04643	4/30/2027		CA	1.49173	7/25/2026
 Xu, Fang	8177	Adult Full	5.34000	8/28/1997	Ann Arbor Go Club	MI	0.76000	9/1/1996
 Xu, Frank	16793	Adult Full	-2.89000	9/4/2010		NJ	0.71000	10/1/2008
