@@ -9463,7 +9463,7 @@ Manthei, Gregory	6209	Adult Full	-16.04000	11/28/1997		TX	0.37000	6/1/1996
 Mantica, Heather	32835	Adult Full	-19.87526	9/13/2027		NC	1.28945	9/26/2026
 Mantle, Ben	30049	Complimentary	5.80346	9/24/2027		ON	0.33543	7/14/2024
 Mantsch, Kai	30772	Adult Full	-12.22394	2/23/2025		OR	0.63774	7/23/2024
-Mantz, Melissa	30587	Youth	-14.05993	11/6/2024	St. Louis Go Club	MO	0.67707	3/2/2024
+Mantz, Melissa	30587	Adult Full	-14.05993	10/5/2027	St. Louis Go Club	MO	0.67707	3/2/2024
 Manuel, Doug	2975	Adult Full	-12.40000	4/28/1992		WA	0.00000	11/15/1992
 Manuel, Paul	13591	Adult Full	-15.09889	3/13/2027		MD	1.59156	5/23/2026
 Manus Jr., John	2203	Tournament Pass	-5.18000	6/28/1997	Springs Go Club	CO	0.66000	3/1/1999
@@ -14745,7 +14745,7 @@ Wang, Jianping	18258	Tournament Pass	4.35980	7/12/2010			0.79190	7/11/2010
 Wang, Jianuo	23465	Complimentary	4.57423	1/1/2023			0.59865	8/6/2017
 Wang, Jin	32874	Adult Full		10/1/2027		TX		
 Wang, Jing	7756	Tournament Pass	5.44000	11/28/1996	Dallas Go Club	TX	0.83000	9/1/2003
-Wang, Jing	26163	Adult Full	-1.22986	3/19/2026		IL	0.31370	11/1/2025
+Wang, Jing	26163	Adult Full	-1.22986	10/5/2027		IL	0.31370	11/1/2025
 Wang, Jinhao	31444	Youth	-17.55212	1/6/2027	Dallas Go Club	TX	0.98991	2/14/2026
 Wang, Jiqi	24890	Adult Full	-7.42268	10/22/2020		CA	0.72926	11/16/2019
 Wang, Jiun-Chung	7382	Adult Full	4.48000	8/31/2003	Houston Go Club	TX	0.36000	12/1/2002
@@ -14805,7 +14805,7 @@ Wang, Martin	8950	Adult Full		1/7/1999		CA
 Wang, Mason	30373	Youth		8/2/2024		VA		
 Wang, Matt	7839	Adult Full	-1.76000	11/28/1996		MI	0.80000	6/1/1997
 Wang, Matthew	17445	Youth	-10.62357	4/18/2010	Feng Yun Go School	NJ	0.80152	2/20/2010
-Wang, Matthew	25444	Youth	-8.36637	3/19/2026		IL	0.26675	11/1/2025
+Wang, Matthew	25444	Youth	-8.36637	10/5/2027		IL	0.26675	11/1/2025
 Wang, Meng	24880	Adult Full	7.04182	6/16/2023	West Michigan Go Club	MI	0.53453	10/1/2022
 Wang, Mengran	26394	Adult Full	3.04202	1/17/2027		NY	0.31788	6/6/2026
 Wang, Michael	8534	Adult Full	4.18000	1/2/2007		FL	0.71000	1/1/2006
@@ -16391,7 +16391,7 @@ Yu, Glenn	32124	Adult Full	-16.55116	10/17/2026		NY	0.75450	11/8/2025
 Yu, Harvey	31008	Youth	-2.86538	5/23/2027	Massachusetts Go Association	MA	0.38466	9/5/2026
 Yu, Helen	12668	Tournament Pass	-29.56000	5/26/2004		CA	0.67000	5/1/2004
 Yu, Henry	30426	Complimentary	8.09866	4/29/2026			0.35252	7/13/2025
-Yu, Hongyang	32077	Adult Full	-3.62766	9/26/2026	Evanston Go Club	IL	0.58979	11/1/2025
+Yu, Hongyang	32077	Tournament Pass	-3.62766	11/5/2026	Evanston Go Club	IL	0.58979	11/1/2025
 Yu, Jason	16737	Tournament Pass	5.29000	8/8/2008			0.84000	9/1/2008
 Yu, Jason	30063	Youth	-6.00780	6/7/2026		MA	1.10703	5/26/2025
 Yu, Jennifer	12669	Adult Full	-26.54000	5/26/2004		CA	3.28000	5/1/2004
