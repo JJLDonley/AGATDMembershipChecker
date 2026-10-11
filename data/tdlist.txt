@@ -3449,7 +3449,7 @@ Duval, Yvon	6655	Tournament Pass	-3.24000	8/28/1993			0.35000	9/1/1994
 Duvall, Catlin	26447	Adult Full	-18.44882	3/11/2025	Atlanta Go Club	GA	1.07995	4/1/2023
 Duven, John	8986	Adult Full	-24.54000	3/29/2001		MD	1.62000	6/1/1998
 Dvinov, Daniel	10885	Adult Full	-7.85000	2/2/2003		MA	1.36000	2/1/2002
-Dyck, Jacob	32641	Tournament Pass	-15.89484	7/4/2026		MN	0.74960	6/6/2026
+Dyck, Jacob	32641	Adult Full	-15.89484	10/9/2027		MN	0.74960	6/6/2026
 Dye, Chase	14971	Tournament Pass	-24.97000	9/19/2007			0.84000	11/1/2006
 Dyer, Dave	3362	Adult Full	-4.38000	8/31/2005		CA	0.58000	6/1/2003
 Dyer, Landon	8043	Adult Full	-2.74126	4/9/2013		TX	0.42866	10/15/2011
@@ -7481,7 +7481,7 @@ Ku, Anthony	3043	Adult Full	-2.16000	10/22/2008	Penn Go Society	CA	0.55000	2/1/2
 Ku, Cha	25019	Tournament Pass	3.62490	1/14/2020		NV	0.54043	10/26/2019
 Ku, David	12172	Adult Full	-13.72000	9/3/2007		CA	0.78000	7/1/2007
 Ku, Lawrence	10804	Adult Full - Lifetime	6.37000	9/1/2064		CA	0.30000	9/1/2009
-Ku, Lucas Yingshyan	20391	Adult Full	4.23505	7/8/2024		NY	0.42835	4/27/2024
+Ku, Lucas Yingshyan	20391	Adult Full	4.23505	10/9/2027		NY	0.42835	4/27/2024
 Ku, Pin-Jui	31457	Adult Full	3.28548	1/9/2026		GA	0.69435	2/9/2025
 Ku, Samuel	22585	Tournament Pass	-9.15367	4/21/2016		CA	0.67654	4/9/2016
 Ku, Suk Hoon	6906	Adult Full	6.58000	8/17/2011		NY	0.49000	6/1/1994
@@ -9691,6 +9691,7 @@ McCall, Greg	9875	Adult Full - Lifetime	-11.28178	9/1/2064	Charlotte Go Club	NC	
 McCandless, George	30758	Adult Full		2/20/2026		VA		
 McCann, H. Gilman	6041	Adult Full	-7.47128	10/21/2026	Vermont Go Club	VT	0.41026	7/18/2026
 McCants, Edward	10707	Adult Full	-8.87713	5/4/2026	Houston Go Club	TX	0.45428	7/13/2025
+McCarl, Jaeden	32883	Youth		10/9/2027		MN		
 McCarthy, Lauren	12638	Tournament Pass	-29.89000	5/17/2004			1.03000	6/1/2004
 McCarthy, Matt	10615	Tournament Pass	-21.50000	6/20/2001	Davis/Sacramento Go Club	CA	0.95000	7/1/2001
 McCarthy, Michael	12333	Adult Full	2.12000	5/29/2012		CA	0.45000	10/1/2009
@@ -13298,7 +13299,7 @@ Stafford, Bill	8933	Adult Full	-12.02000	1/13/2000		PA	0.89000	12/1/1999
 Stafford, James	23195	Adult Full		7/26/2022		MS		
 Stafurik, John	722	Adult Full	-5.70000	3/16/2013	Santa Fe Go Club	NM	0.00000	11/15/1992
 Stahl, Cody	14483	Adult Full	-9.07000	5/7/2007		WA	1.02000	6/1/2006
-Stahl, Ezekiel	32175	Youth	-22.22679	11/1/2026	Cleveland Go Club	OH	1.33467	6/28/2026
+Stahl, Ezekiel	32175	Youth	-22.22679	10/11/2027	Cleveland Go Club	OH	1.33467	6/28/2026
 Staisloff, Zachary	15517	Adult Full	-23.98000	5/29/2008		MD	1.90000	6/1/2007
 Stampfel, Cameron	30515	Adult Full	-7.32593	10/22/2025	Greater Kansas City Go Club	KS	0.62911	5/25/2024
 Stan, Clark	13327	Adult Full	-34.85000	3/4/2006	Princeton Go Club	CT	1.08000	5/1/2005
