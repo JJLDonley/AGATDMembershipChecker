@@ -4589,7 +4589,7 @@ Green, Joshua	20463	Adult Full	-13.92888	3/6/2014		NJ	0.70358	3/1/2014
 Green, Maxwell	23763	Adult Full	2.01024	10/8/2027	Twin Cities Go Club	MN	0.24789	7/25/2026
 Green, Sean	12424	Adult Full	-20.27000	10/16/2005	Dallas Go Club	MA	0.70000	2/1/2005
 Green, Stuart	20378	Adult Full	-8.21729	4/26/2015		VT	0.65246	1/24/2015
-Green, William	32210	Youth		10/13/2027		CO		
+Green, William	32210	Youth		11/14/2027	Boulder Go Club	CO		
 Greenberg, Gabe	16825	Adult Full	-5.03047	7/19/2017		CO	0.62828	6/21/2016
 Greenberg, Matt	11192	Adult Full	-1.77000	7/12/2008	Ventura County Go Club	MA	0.50000	7/1/2007
 Greene, Christopher	4939	Adult Full - Lifetime	-11.32352	9/1/2064	Evanston Go Club	IL	0.28366	3/16/2013
@@ -6761,6 +6761,7 @@ Kearns, Benjamin	8488	Adult Full	-12.44000	3/31/1998		SC	0.86000	3/1/1997
 Keating, Karl	30441	Adult Full	-1.14666	9/24/2025	San Diego Go Club	CA	0.72953	10/22/2023
 Keaton, Rodney	11160	Adult Full	2.35941	10/1/2018		TN	0.56034	9/30/2017
 Keay, Richard	20587	Adult Full	-3.40960	12/6/2025	Cleveland Go Club	OH	0.76485	12/4/2024
+Kedl, Benjamin	32892	Adult Full		10/12/2027		CO		
 Keech, Brandon	17200	Adult Full	-8.52000	2/9/2011		MD	0.44000	9/1/2009
 Keefer, Karl	26226	Adult Full		11/12/2023	Portland Go Club	OR		
 Keeler, Robert	399	Adult Full	-10.63362	1/31/2018		NJ	0.58497	2/26/2011
@@ -17105,6 +17106,7 @@ Zhu, Jiacheng	24873	Adult Full	2.80419	10/13/2020	Evanston Go Club	IL	0.76560	11
 Zhu, Jian Ping	21771	Complimentary	1.05025	1/1/2023			0.62418	2/14/2015
 Zhu, Jiaxuan	32424	Adult Full	6.44814	3/18/2027		MA	0.53433	7/25/2026
 Zhu, John	17187	Adult Full	-9.66835	5/28/2014		NC	0.50492	9/21/2013
+Zhu, Jun Yi	32894	Adult Full		10/12/2027	Evanston Go Club	IL		
 Zhu, Kangwei	20394	Adult Full	-1.03947	1/31/2014	Seattle AGA Chapter	WA	0.52947	9/15/2013
 Zhu, Kevin	24153	Youth	-21.53226	10/12/2019	New York Go Association	NY	1.23281	11/17/2018
 Zhu, Li Xiang	5751	Adult Full	2.79000	12/28/1993		NY	0.58000	9/1/1993
