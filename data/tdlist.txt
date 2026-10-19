@@ -45,7 +45,7 @@ Acunzo, Ric	23191	Adult Full	-2.28406	3/9/2020		TX	0.56512	9/21/2019
 Adachi, Luke	32495	Adult Full	-16.29419	4/17/2027		SC	1.75737	4/18/2026
 Adam, Eric	12977	Adult Full	-19.03000	10/1/2005	Austin Go Club	TX	2.01000	8/1/2005
 Adam, Kurt	8217	Adult Full	-20.85000	9/30/2005	NOVA Go Club	VA	2.12000	6/1/1997
-Adame, Eduardo	32183	Adult Full	-30.49300	11/4/2026		TX	3.31507	11/8/2025
+Adame, Eduardo	32183	Adult Full	-30.49300	10/19/2027		TX	3.31507	11/8/2025
 Adamic, Peter	7796	Tournament Pass	-1.16000	8/28/1995		BC	0.58000	9/1/2005
 Adams, David	12356	Tournament Pass	-18.44000	1/10/2004		CA	1.32000	2/1/2004
 Adams, Ian	25108	Adult Full		3/2/2027		CA		
@@ -11229,6 +11229,7 @@ Peng, Yong Wei	4404	Adult Full	5.00000	10/28/1993		NY	0.00000	11/15/1992
 Peng, Zhi Li	1910	Tournament Pass	7.09000	2/5/2006		NY	0.57000	2/1/2006
 Peng, Zude	31112	Complimentary	-6.44421	1/12/2025			0.85210	7/23/2024
 Peng, Zuhao	30807	Youth	8.05217	3/9/2025			0.63375	7/23/2024
+Penn, Scott	32906	Adult Full		10/17/2027	San Francisco Go Club	CA		
 Penner, Mark	11516	Adult Full	-2.89065	8/8/2027	Massachusetts Go Association	TX	1.46126	7/25/2026
 Penner, Matthew	12047	Adult Full	-11.89000	7/29/2004		MD	0.94000	6/1/2004
 Pennington, Jim	6095	Adult Full	-16.30000	6/28/1993		WA	0.00000	11/15/1992
