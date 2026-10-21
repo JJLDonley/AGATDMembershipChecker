@@ -3321,7 +3321,7 @@ Dougherty, Thomas	26297	Adult Full		12/27/2023		IL
 Doughty, Herb	242	Adult Full	-5.76016	8/9/2023	Berkeley Go Club	CA	0.27842	8/18/2018
 Doussan, Russell	25397	Adult Full		1/22/2022		LA		
 Dovydaitis, Anton	4889	Adult Full	-10.43000	5/28/1994		CA	0.74000	9/1/1993
-Dow, Harrison	30555	Adult Full	6.55808	12/6/2025	Seattle AGA Chapter	WA	0.29848	10/12/2025
+Dow, Harrison	30555	Adult Full	6.55808	10/19/2027	Seattle AGA Chapter	WA	0.29848	10/12/2025
 Dowding, Narateena	24867	Adult Full	-13.26743	10/9/2021	Seattle AGA Chapter	WA	0.48352	3/1/2020
 Dowell, Daniel	9963	Tournament Pass	3.67434	11/30/2025		IL	0.57727	11/1/2025
 Dowell, Michelle	22950	Tournament Pass	-11.69537	10/8/2016		IL	0.40434	9/9/2017
@@ -11875,6 +11875,7 @@ Rickhoff, Kevin	16186	Adult Full	-4.71000	1/17/2009		CA	0.72000	2/1/2008
 Ricotti, Noemi	32166	Youth		10/27/2026	Univ. of Maryland Go Club			
 Rida, Ziad	9866	Adult Full	-2.22000	3/13/2005	Princeton Go Club	NJ	0.87000	3/1/2004
 Ridgeway, Nathan	32285	Tournament Pass	-8.43611	2/12/2026		SC	1.34638	1/17/2026
+Ridley, Evan	32912	Adult Full		10/19/2027	Arizona Go Club	AZ		
 Riedeman, Dirk Evert Jan	21412	Complimentary	3.99482	1/1/2023			0.53120	8/10/2014
 Riedeman, Emil	21415	Complimentary	-17.43515	1/1/2023			0.80821	8/10/2014
 Riedeman, Marcel	21414	Complimentary	-9.72835	1/1/2023			0.58202	8/10/2014
@@ -13494,6 +13495,7 @@ Su, Albert	23801	Youth		2/10/2023		IL
 Su, Anthony	16139	Adult Full	-1.01000	12/6/2009		CA	0.55000	12/1/2008
 Su, Bing	8284	Adult Full	-8.31000	2/13/2008	Tacoma Go Club	WA	0.52000	6/1/1997
 Su, Bingyue	31164	Adult Full	-1.47995	10/6/2027		NC	0.59410	9/26/2026
+Su, Bocheng	32911	Adult Full		10/19/2027		MI		
 Su, Charles	8819	Adult Full - Lifetime	1.02034	9/1/2064	Davis/Sacramento Go Club	CA	0.34655	6/21/2014
 Su, Daniel	20716	Youth	-5.61085	8/5/2018		CA	0.36380	8/6/2017
 Su, David	16080	Adult Full	1.63226	9/29/2012		CA	0.70952	10/8/2011
@@ -15896,6 +15898,7 @@ Xu, Robert	8430	Adult Full	7.23000	2/28/1998		CA	0.44000	3/1/1997
 Xu, Robin	16845	Adult Full	3.63284	7/29/2019		NJ	0.33583	7/25/2018
 Xu, Robin	30705	Tournament Pass	2.83002	2/26/2024		TX	0.55874	1/27/2024
 Xu, Rujing	8269	Adult Full	4.88000	11/28/1997		WA	0.38000	1/1/1998
+Xu, Ruoyu	32910	Adult Full		10/19/2027	Evanston Go Club	WI		
 Xu, Sam	5662	Adult Full	3.68000	11/28/1992	Austin Go Club	TX	0.50000	9/1/1993
 Xu, Selina	20605	Adult Full	-29.45506	5/12/2014	Syracuse Go Club	NY	1.06589	4/20/2013
 Xu, Sheng	22083	Adult Full	5.51222	1/30/2027		CA	0.45907	7/25/2026
