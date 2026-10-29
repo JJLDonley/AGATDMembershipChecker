@@ -344,6 +344,7 @@ Aronson, Brian	17792	Adult Full	1.32982	5/4/2024	Stony Brook University Go Club	
 Aronson, Jon	18723	Tournament Pass	-4.28130	3/26/2011		ME	0.67461	3/6/2011
 Aronson, Jonathan	23924	Adult Full	-5.07900	5/19/2019		NY	0.52117	10/30/2018
 Aronson, Kerianne	17795	Adult Full	-8.72418	4/17/2025	Stony Brook University Go Club	NY	0.54487	4/21/2024
+Arov, Adam	32931	Youth		10/27/2027		NY		
 Arrand, William	3985	Adult Full	-3.39643	10/21/2026	Vermont Go Club	VT	0.32526	7/18/2026
 ARTIS-MICKENS, KRISHNA	21130	Adult Full	-30.81618	9/23/2025	Gotham Go Group	NY	1.46355	8/9/2017
 Asai, Tadashi	8738	Tournament Pass	5.43000	8/1/1997			0.65000	9/1/1997
@@ -2333,7 +2334,7 @@ Cho, Vanessa	17716	Adult Full	-25.23000	8/20/2010		CA	0.87000	9/1/2009
 Cho, Won Bong	10036	Tournament Pass	5.27000	7/26/2000			0.59000	9/1/2000
 Cho, Yang Hwi	857	Adult Full	-1.24000	1/11/2013	Seattle AGA Chapter	WA	0.68000	6/1/1999
 Cho, Yeonwoo	32630	Adult Full		11/27/2027				
-Cho, Yongwon	31610	Youth	1.99691	10/28/2027	Yorba Linda Go Club	CA	0.40658	1/17/2026
+Cho, Yongwon	31610	Youth	1.99691	10/27/2027	Yorba Linda Go Club	CA	0.40658	1/17/2026
 Choe, Chae Kon	6570	Tournament Pass	-2.32000	5/28/1993			0.54000	9/1/1993
 Choe, Jeong Du	6114	Adult Full	-3.20000	7/28/1993		CA	0.00000	11/15/1992
 Choe, Jum Seok	10032	Tournament Pass	5.85000	7/26/2000			0.63000	9/1/2000
@@ -2811,7 +2812,7 @@ Crall, Adam	22957	Adult Full	-7.19647	10/15/2017		FL	1.10300	12/10/2016
 Cram, Don	14957	Adult Full	-3.80916	4/24/2017	Syracuse Go Club	CO	0.48327	11/12/2016
 Cramer, Jennifer	32860	Adult Full		9/27/2027		NV		
 Crandall, Craig	2942	Tournament Pass	3.25000	6/28/1997		CO	0.53000	6/1/1997
-Crandall, Richard	221	Adult Full	-3.20223	3/13/2025		NC	0.53084	8/5/2012
+Crandall, Richard	221	Adult Full	-3.20223	10/27/2027		NC	0.53084	8/5/2012
 Crane, Dennis	5375	Adult Full	-1.97570	1/11/2021	San Diego Go Club	CA	0.42623	1/19/2020
 Crank, Keith	20875	Adult Full	-14.12863	10/28/2015	NOVA Go Club	VA	0.50659	12/13/2014
 Crasmaru, Marcel	6491	Tournament Pass	6.23000	5/28/1993			0.61000	9/1/1993
@@ -5034,7 +5035,7 @@ Harp, Nancy	6953	Adult Full	-12.97000	6/28/1996		MD	0.91000	9/1/1995
 Harper, Denise	10276	Adult Full	-24.06000	12/28/2001		DC	1.16000	1/1/2001
 Harper, Jathan	21137	Adult Full	-22.78341	4/6/2015	Seattle AGA Chapter	WA	1.84783	4/6/2014
 Harper, Kyle	31167	Adult Full	-15.99606	9/21/2027	Massachusetts Go Association	MA	0.85749	1/25/2025
-Harper, Ricky	22150	Adult Full	-5.10275	6/2/2026	Arizona Go Club	AZ	0.61132	11/29/2025
+Harper, Ricky	22150	Adult Full	-5.10275	10/27/2027		AZ	0.61132	11/29/2025
 Harper, Vanessa	22793	Youth	-17.45467	10/4/2018	Arizona Go Club	AZ	0.89540	10/21/2017
 Harriman, John	6360	Adult Full	1.98588	5/19/2026	Evanston Go Club	IL	0.50455	2/4/2017
 Harris, Braydon	16424	Tournament Pass	-18.81000	3/13/2008			1.30000	4/1/2008
@@ -13638,7 +13639,7 @@ Sun, Xingke	25878	Youth	7.26896	10/22/2025	Madison Go Club	WI	0.31796	11/2/2024
 Sun, Yanchen	15982	Adult Full	-8.56398	6/19/2015	Orange County Go Club	CA	0.35616	10/26/2014
 Sun, Yanqing	20573	Adult Full	3.40065	9/9/2018	Twin Cities Go Club	MN	0.19283	6/23/2018
 Sun, Ye	23990	Complimentary	4.55152	1/1/2023			0.50503	8/1/2022
-Sun, Ye	30516	Youth	6.43311	10/22/2026		WI	0.24689	9/12/2026
+Sun, Ye	30516	Adult Full	6.43311	10/29/2027		WI	0.24689	9/12/2026
 Sun, Yi Guo	6466	Tournament Pass	8.98000	5/28/1993			0.68000	9/1/1993
 Sun, YIHANG	21992	Youth	6.31909	8/24/2025		NY	0.44859	8/5/2015
 Sun, Yingjie	12575	Tournament Pass	-1.34000	3/31/2004		IL	0.72000	4/1/2004
