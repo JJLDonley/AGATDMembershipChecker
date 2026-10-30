@@ -545,7 +545,7 @@ Barb, David	9307	Adult Full	-8.74000	7/14/2002	Houston Go Club	TX	1.00000	11/1/2
 Barba, Paul	20313	Adult Full	-4.45027	12/10/2014	Western Mass. Go Club	MA	0.70394	11/11/2012
 Barbaro, Ron	17854	Adult Full	-21.95060	12/24/2011	NOVA Go Club	VA	0.96067	2/26/2011
 Barber, Matthew	18101	Adult Full	-4.96207	4/19/2013		CA	0.47784	10/27/2013
-Barber, Robert	1767	Adult Full	-3.70195	10/31/2026	Evanston Go Club	IL	0.25509	10/24/2026
+Barber, Robert	1767	Adult Full	-3.70195	10/31/2027	Evanston Go Club	IL	0.25509	10/24/2026
 Barberi, Steve	2323	Adult Full	-1.47065	3/31/2026		FL	0.32615	7/22/2018
 Barbieri, Gerard	19341	Complimentary	-7.26171	1/1/2023			0.66102	10/1/2011
 Barbieri, Jules	32396	Adult Full	-3.02961	3/2/2027	Champaign Urbana Go Club	IL	0.43953	7/25/2026
@@ -13639,7 +13639,7 @@ Sun, Xingke	25878	Youth	7.26896	10/22/2025	Madison Go Club	WI	0.31796	11/2/2024
 Sun, Yanchen	15982	Adult Full	-8.56398	6/19/2015	Orange County Go Club	CA	0.35616	10/26/2014
 Sun, Yanqing	20573	Adult Full	3.40065	9/9/2018	Twin Cities Go Club	MN	0.19283	6/23/2018
 Sun, Ye	23990	Complimentary	4.55152	1/1/2023			0.50503	8/1/2022
-Sun, Ye	30516	Adult Full	6.43311	10/29/2027		WI	0.24689	9/12/2026
+Sun, Ye	30516	Adult Full	6.43311	10/28/2027		NY	0.24689	9/12/2026
 Sun, Yi Guo	6466	Tournament Pass	8.98000	5/28/1993			0.68000	9/1/1993
 Sun, YIHANG	21992	Youth	6.31909	8/24/2025		NY	0.44859	8/5/2015
 Sun, Yingjie	12575	Tournament Pass	-1.34000	3/31/2004		IL	0.72000	4/1/2004
