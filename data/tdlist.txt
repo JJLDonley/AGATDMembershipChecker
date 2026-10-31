@@ -345,7 +345,7 @@ Aronson, Jon	18723	Tournament Pass	-4.28130	3/26/2011		ME	0.67461	3/6/2011
 Aronson, Jonathan	23924	Adult Full	-5.07900	5/19/2019		NY	0.52117	10/30/2018
 Aronson, Kerianne	17795	Adult Full	-8.72418	4/17/2025	Stony Brook University Go Club	NY	0.54487	4/21/2024
 Arov, Adam	32931	Youth		10/27/2027		NY		
-Arrand, William	3985	Adult Full	-3.39643	10/21/2026	Vermont Go Club	VT	0.32526	7/18/2026
+Arrand, William	3985	Adult Full	-3.39643	10/29/2027	Vermont Go Club	VT	0.32526	7/18/2026
 ARTIS-MICKENS, KRISHNA	21130	Adult Full	-30.81618	9/23/2025	Gotham Go Group	NY	1.46355	8/9/2017
 Asai, Tadashi	8738	Tournament Pass	5.43000	8/1/1997			0.65000	9/1/1997
 Asano, Chiyoko	6146	Tournament Pass	-15.90000	12/28/1979			0.00000	11/15/1992
@@ -1756,7 +1756,7 @@ Chao, Vincent	30893	Youth	-27.19086	1/21/2027		NY	2.31992	2/15/2025
 Chapeskie, Sarah	19572	Tournament Pass	-21.55286	4/1/2012		BC	1.77221	1/8/2012
 Chapeskie, Wayne	3865	Adult Full	-11.33049	2/1/2027		BC	1.14659	1/8/2012
 Chaphekar, Vardaan	31463	Adult Full	-15.03298	1/10/2026		CA	0.66740	1/19/2025
-Chaplina, Mariya	32154	Adult Full	-5.75465	10/26/2026	San Diego Go Club	CA	0.60266	11/29/2025
+Chaplina, Mariya	32154	Adult Full	-5.75465	10/29/2027	San Diego Go Club	CA	0.60266	11/29/2025
 Chapman, Chris	7594	Adult Full	-8.99000	7/31/2006		WA	0.42000	6/1/1998
 Chapman, Corey	31597	Adult Full	-5.90576	2/18/2027		NC	0.64389	9/26/2026
 Chapman, David	5410	Adult Full	-8.11000	1/31/1998	Arizona Go Club	AZ	0.75000	6/1/1998
@@ -3326,7 +3326,7 @@ Dougherty, Thomas	26297	Adult Full		12/27/2023		IL
 Doughty, Herb	242	Adult Full	-5.76016	8/9/2023	Berkeley Go Club	CA	0.27842	8/18/2018
 Doussan, Russell	25397	Adult Full		1/22/2022		LA		
 Dovydaitis, Anton	4889	Adult Full	-10.43000	5/28/1994		CA	0.74000	9/1/1993
-Dow, Harrison	30555	Adult Full	6.48423	10/19/2027	Seattle AGA Chapter	WA	0.31012	10/24/2026
+Dow, Harrison	30555	Adult Full	6.48423	10/19/2027		WA	0.31012	10/24/2026
 Dowding, Narateena	24867	Adult Full	-13.26743	10/9/2021	Seattle AGA Chapter	WA	0.48352	3/1/2020
 Dowell, Daniel	9963	Tournament Pass	3.67434	11/30/2025		IL	0.57727	11/1/2025
 Dowell, Michelle	22950	Tournament Pass	-11.69537	10/8/2016		IL	0.40434	9/9/2017
@@ -9070,7 +9070,7 @@ Loop, Nathan	22508	Adult Full	-10.73262	4/1/2017		VA	0.70936	4/9/2016
 Lopata, Thomas	15449	Adult Full	-4.46231	3/28/2023	San Francisco Go Club	CA	0.56690	3/18/2023
 Lopes, Matthew	15839	Adult Full	-16.52000	10/4/2008	Penn Go Society	RI	0.90000	12/1/2007
 Lopes, Robert	16475	Adult Full	-15.52000	3/29/2010		PA	0.70000	5/1/2009
-Lopez, Adam	24464	Tournament Pass	-8.34500	2/15/2019	Dallas Go Club	TX	0.63896	2/16/2019
+Lopez, Adam	24464	Adult Full	-8.34500	10/29/2027	Dallas Go Club	TX	0.63896	2/16/2019
 Lopez, Alex	18850	Adult Full	-8.86749	6/5/2012		WA	0.75181	3/4/2012
 Lopez, Bruci	14984	Adult Full	-5.50000	12/29/2007		FL	0.72000	4/1/2007
 Lopez, Frank	6864	Adult Full	-17.87000	6/28/2003	Austin Go Club	TX	1.65000	7/1/2002
@@ -13285,7 +13285,7 @@ Spencer, Tom	3630	Tournament Pass	-3.49498	10/27/2022		CO	3.20950	10/1/2022
 Spennicchia, Joseph	30755	Adult Full	-7.17733	3/1/2027	Tidewater Go Club	VA	0.43183	8/3/2026
 Speno, Andrew	25196	Adult Full	-11.20431	7/14/2027	Cincinnati Go Club	OH	0.40996	8/13/2025
 Spevakov, Eugene	5240	Adult Full	1.90000	6/28/1994	Davis/Sacramento Go Club	CA	0.54000	9/1/1994
-Spiers, Graham	23485	Adult Full	-5.78010	4/6/2026	Gotham Go Group	NY	0.35178	11/8/2025
+Spiers, Graham	23485	Adult Full	-5.78010	10/29/2027	Gotham Go Group	NY	0.35178	11/8/2025
 Spies, David	16128	Adult Full	-13.17000	1/6/2009		CA	0.78000	8/1/2008
 Spies, Richard	4633	Adult Full	-5.14000	4/30/2009		FL	0.31000	9/1/1999
 Spiker, Kelly	25147	Adult Full		4/23/2021		OH		
@@ -14462,7 +14462,7 @@ VanderClute, Cody	13709	Adult Full	-28.24000	6/24/2006		VA	0.88000	7/1/2005
 VanderHook, Adam	22657	Adult Full	-22.29275	5/28/2023	GWRM Baltimore Go Club	AE	0.46708	10/26/2019
 Vanderlaan, Zachary	14904	Tournament Pass	-3.44286	10/29/2009		AZ	0.43715	4/28/2012
 Vandermersch, Philippe	10802	Adult Full	-1.72000	1/12/2005		CA	0.47000	5/1/2004
-Vanderschaaf, Michelle	32214	Adult Full		11/15/2026		OK		
+Vanderschaaf, Michelle	32214	Adult Full		11/15/2027		OK		
 Vanderveen, Douwe	18527	Tournament Pass	-4.76239	5/3/2011		NH	0.59960	11/13/2010
 VandeVrede, Larry	8111	Adult Full	-30.19000	6/28/1997		MI	2.90000	9/1/1996
 Vanevic, C. Daniel	5087	Adult Full	-8.50000	6/30/2002	Crane's Nest Go Club	FL	0.00000	11/15/1992
