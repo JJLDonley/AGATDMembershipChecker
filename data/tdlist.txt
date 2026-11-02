@@ -471,7 +471,7 @@ Bailo, Giovanni	11915	Adult Full	-19.73000	2/26/2008		CO	0.69000	3/1/2004
 Baily, Aric	16221	Adult Full	-12.63000	1/23/2009	Corvallis Go Club	OR	1.05000	2/1/2008
 Bainbridge, Rachel	20048	Adult Full	-21.39749	7/16/2014		MA	0.75372	7/12/2012
 Bains, Shamsher	31560	Adult Full	-8.17468	2/26/2027	NOVA Go Club	VA	0.33018	4/18/2026
-Baisero, Andrea	23523	Adult Full	-1.29920	11/1/2027	Massachusetts Go Association	MA	0.32821	1/25/2025
+Baisero, Andrea	23523	Adult Full	-1.29920	10/31/2027	Massachusetts Go Association	CA	0.32821	1/25/2025
 Baker, Bryan	4366	Adult Full - Lifetime		9/1/2064		CO		
 Baker, Collin	25840	Adult Full	-9.19939	9/10/2027	Gotham Go Group	NY	0.54619	9/12/2026
 Baker, Dan	18907	Adult Full	-20.86758	7/19/2012		TX	1.00404	7/9/2011
@@ -8422,6 +8422,7 @@ Li, Vincent	19353	Adult Full	-27.72482	10/6/2012	Seattle AGA Chapter	WA	2.23517	
 Li, Vivian	31330	Tournament Pass	-2.05832	12/1/2024		IL	0.81250	11/2/2024
 Li, Wan-hao	5902	Adult Full	-1.82000	9/1/2001		CA	0.46000	2/1/2001
 Li, wanting	24219	Youth	-21.00698	11/1/2019	National Go Center	DC	1.92111	10/27/2018
+Li, Warren	32935	Youth		10/31/2027		CA		
 Li, Wei	10985	Adult Full	6.75000	3/23/2003		MI	0.65000	4/1/2002
 Li, Wei Qing	17081	Tournament Pass	2.03000	1/10/2009			0.59000	2/1/2009
 Li, Wendong	9773	Adult Full	-1.64000	11/27/2000		TX	0.48000	3/1/2000
@@ -10015,7 +10016,7 @@ Miller, Joshua	7332	Adult Full	1.58000	7/9/1998		CA	0.58000	9/1/1997
 Miller, Matt	3206	Adult Full	-16.35000	7/18/2006		OH	0.74000	1/1/2007
 Miller, Matt	20499	Adult Full	-10.50060	3/23/2014		CT	1.92936	3/2/2013
 Miller, Matthew	15023	Adult Full	-3.38000	12/4/2010		MA	0.65000	1/1/2009
-Miller, Michael	20954	Adult Full	-12.62330	11/1/2026	Syracuse Go Club	NY	0.34462	4/11/2026
+Miller, Michael	20954	Adult Full	-12.62330	11/1/2027	Syracuse Go Club	NY	0.34462	4/11/2026
 Miller, Michael Brian	26410	Adult Full		2/19/2024	Fresno Go Club	CA		
 Miller, Nathan	32770	Tournament Pass	-12.92291	9/14/2026		OH	0.73954	8/15/2026
 Miller, Paul	12465	Adult Full	-7.96000	5/4/2014		MI	0.54000	4/1/2009
@@ -11215,6 +11216,7 @@ Pemberton, Robert	6934	Tournament Pass	-8.48000	3/28/1994		FL	0.55000	6/1/1994
 Pendell, Velthur	13521	Adult Full	-19.52000	11/28/2007		NY	0.66000	4/1/2007
 Pendergrast, Joseph	26250	Adult Full	-7.08426	11/22/2023	Atlanta Go Club	GA	0.77800	9/16/2023
 Peng, Benjamin	20464	Youth	-1.12879	6/1/2025	Feng Yun Go School	NJ	0.33795	3/19/2016
+Peng, Bing	32936	Adult Full		10/31/2027		TX		
 Peng, Bingsheng	30171	Youth	-8.61661	4/23/2024		NS	0.57655	7/12/2023
 Peng, Bruce	25743	Youth	-7.55148	3/3/2024	New York Go Association	NY	0.78139	4/1/2023
 Peng, Dajin	6897	Adult Full	-3.58000	3/28/1995		FL	1.27000	3/1/1994
