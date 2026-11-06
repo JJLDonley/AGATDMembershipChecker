@@ -1242,6 +1242,7 @@ Buck, Nathan	12648	Adult Full	-17.89000	5/22/2005		OR	0.95000	6/1/2004
 Buckle, David	2459	Adult Full	-4.02000	10/28/1995	Massachusetts Go Association	MA	0.44000	9/1/1993
 Buckley, Logan	20201	Adult Full	-6.31859	4/30/2027		MA	0.51754	7/29/2026
 Buckley, Matthew	15342	Adult Full	-4.40000	3/20/2008		HI	0.46000	9/1/2007
+Bucklin, Dennis	32942	Adult Full		11/4/2027	Austin Go Club	TX		
 Buckman, Richard	16980	Adult Full	-5.11117	11/28/2010	Western Mass. Go Club	MA	0.41700	11/11/2012
 Buckwalter, Damon	6684	Adult Full	-18.50000	10/28/1994		OH	0.00000	1/15/1994
 Budell, William	32806	Adult Full		8/30/2027		NY		
@@ -8739,6 +8740,7 @@ Lin, Yuru	22427	Youth	-8.17137	3/11/2017	Feng Yun Go School	NJ	0.79213	3/19/2016
 Lin, Yuzhang	18730	Adult Full	2.92993	3/29/2013	Stony Brook University Go Club	NY	0.39371	2/25/2012
 Lin, Zequn	31826	Adult Full	2.15280	5/23/2026		WI	0.60121	5/24/2025
 Lin, Zhehang	20151	Adult Full	5.34444	9/28/2014		WA	0.90565	9/23/2012
+lin, zhichao	32944	Youth		11/4/2027		NY		
 Lincoln, Dahn	15478	Tournament Pass	-22.39000	5/12/2007			1.19000	5/1/2007
 Linde, Darcy	32041	Adult Full	-5.21718	9/10/2026		NY	0.59053	9/13/2025
 Lindemeyer, Jacob	31136	Youth	-13.73535	8/1/2025	Columbus Go Club	OH	0.84333	8/24/2024
@@ -9137,6 +9139,7 @@ Lu, Cindy	23831	Youth	-20.15553	3/30/2021	New York Go Association	NY	0.86823	4/2
 Lu, Dale	8926	Tournament Pass	-5.07000	12/30/1997			0.50000	6/1/1998
 Lu, Dan	6248	Tournament Pass	2.90000	12/28/1979			0.70000	9/1/1993
 Lu, David	19969	Complimentary	6.95109	1/1/2023	Orange County Go Club		0.43129	7/30/2016
+Lu, David	32943	Adult Full		11/4/2027	East Bay Go Players	CA		
 Lu, Dongyan	22357	Youth	-1.27264	2/14/2017		CA	0.71369	2/14/2016
 Lu, Edward	31704	Adult Full	-16.55743	4/17/2026		CA	1.75919	4/20/2025
 Lu, Eric	21509	Adult Full	-27.99112	11/13/2015		CA	1.04978	11/8/2014
@@ -13888,7 +13891,7 @@ Tang, Jie	4194	Adult Full	4.29247	8/7/2015		NY	0.66415	8/10/2014
 Tang, Jimmy	15976	Adult Full	-11.45000	10/22/2010		CA	0.55000	10/1/2009
 Tang, Jun Yun	24451	Adult Full	1.80443	2/13/2020			0.64276	2/10/2019
 Tang, Kevin	15977	Adult Full	-5.15108	10/22/2010	Atlanta Go Club	GA	0.61358	9/18/2010
-Tang, Kevin	31371	Adult Full		11/18/2026		GA		
+Tang, Kevin	31371	Adult Full		11/18/2027		GA		
 Tang, Kilin	21310	Youth	-4.16133	3/11/2018	Feng Yun Go School	NJ	0.79429	5/7/2017
 Tang, Kyle	25366	Youth		1/14/2023	Capital Go Club	OH		
 Tang, Matt	24059	Youth	-23.29383	8/23/2019		OH	1.07384	8/11/2018
@@ -15206,7 +15209,7 @@ Welton, Ralph	1689	Adult Full	2.19000	1/31/1998		OH	0.47000	9/1/1993
 Wen, Albert	14323	Adult Full	-27.81000	2/28/2007	Feng Yun Go School	NJ	2.58000	7/1/2006
 Wen, Chuyi	32923	Tournament Pass	-16.54985	11/23/2026		IL	1.71719	10/24/2026
 Wen, Dongfang	7132	Adult Full	2.34000	4/28/1994		VA	0.51000	9/1/1993
-Wen, Edison	31794	Youth		5/11/2026	California Go Association	CA		
+Wen, Edison	31794	Youth		11/4/2027	California Go Association	CA		
 Wen, Feiyang	32474	Youth	-31.91506	4/9/2027		NY	1.47994	4/11/2026
 Wen, Fengqi	24521	Youth	1.67952	3/27/2028	Feng Yun Go School	NC	0.48412	9/7/2019
 Wen, Guangyao	32922	Tournament Pass	3.17070	11/23/2026		IL	0.78729	10/24/2026
