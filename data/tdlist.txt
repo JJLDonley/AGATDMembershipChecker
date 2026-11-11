@@ -346,7 +346,7 @@ Aronson, Jon	18723	Tournament Pass	-4.28130	3/26/2011		ME	0.67461	3/6/2011
 Aronson, Jonathan	23924	Adult Full	-5.07900	5/19/2019		NY	0.52117	10/30/2018
 Aronson, Kerianne	17795	Adult Full	-8.72418	4/17/2025	Stony Brook University Go Club	NY	0.54487	4/21/2024
 Arov, Adam	32931	Youth		10/27/2027		NY		
-Arrand, William	3985	Adult Full	-3.43197	10/29/2027	Vermont Go Club	VT	0.31336	10/24/2026
+Arrand, William	3985	Adult Full	-3.43394	10/29/2027	Vermont Go Club	VT	0.31266	10/24/2026
 ARTIS-MICKENS, KRISHNA	21130	Adult Full	-30.81618	9/23/2025	Gotham Go Group	NY	1.46355	8/9/2017
 Asai, Tadashi	8738	Tournament Pass	5.43000	8/1/1997			0.65000	9/1/1997
 Asano, Chiyoko	6146	Tournament Pass	-15.90000	12/28/1979			0.00000	11/15/1992
@@ -621,7 +621,7 @@ Basque, Paul	16510	Adult Full	-22.72000	4/6/2009		VA	2.15000	5/1/2008
 Bass, Leonard	14235	Adult Full	-7.14000	9/22/2009		NY	0.71000	10/1/2008
 Bass, Steven	23902	Adult Full	-18.93062	5/1/2020		MI	0.93348	10/27/2018
 Bassett, Ben	12423	Tournament Pass	-14.47000	1/26/2010		MD	1.20000	12/1/2009
-Bassett, Cody	32914	Tournament Pass	-9.38366	11/20/2026		NM	0.98243	10/24/2026
+Bassett, Cody	32914	Tournament Pass	-9.38365	11/20/2026		NM	0.98243	10/24/2026
 Bast, Radovan	25172	Adult Full		6/6/2021				
 Batchelor, Egl	3595	Adult Full	-5.21049	1/10/2027	Bay Area Go Players Assoc.	OR	0.47453	7/23/2024
 Bateman, Keith Alex	25265	Adult Full	-6.15395	7/28/2025		IL	0.39605	5/27/2023
@@ -934,7 +934,7 @@ Bloom, Robert	6408	Adult Full	-19.65000	9/2/2004		CA	0.67000	6/1/2003
 Bloom, Steve	30818	Adult Full	2.11708	3/16/2025	East Bay Go Players	CA	0.74142	4/14/2024
 Bloomer, Cameron	22242	Adult Full - Lifetime	-5.04936	9/1/2064		NY	1.18333	7/27/2026
 Bloomer, Tonle	20648	Adult Full	-9.33123	11/9/2016		MD	0.55730	2/20/2016
-Bloomquist, Robert	26132	Adult Full	-2.16357	9/5/2027		KS	0.47714	11/7/2026
+Bloomquist, Robert	26132	Adult Full	-2.15217	9/5/2027		KS	0.47766	11/7/2026
 Blowers, Allen	7510	Adult Full	-9.84000	9/30/1998	NOVA Go Club	VA	0.67000	6/1/1998
 Blue, Allen	1744	Adult Full	-3.38000	7/29/2005	Triangle Go Group	NC	0.36000	10/1/2004
 Blue, Cecilia	14978	Tournament Pass	-35.15002	11/16/2010		CA	0.72658	9/18/2010
@@ -1277,7 +1277,7 @@ Burg, Cameron Mirochnik	26157	Tournament Pass	-12.24776	11/7/2023		WA	0.70199	12
 Burg, Chris	12959	Adult Full	1.24480	2/19/2016	Tucson Go Club	AZ	0.29646	10/24/2015
 Burg, Kyle	26071	Adult Full	-4.81696	11/1/2026	Seattle AGA Chapter	WA	0.24272	10/4/2026
 Burger, Alan	31496	Adult Full	-19.23246	6/20/2027	Massachusetts Go Association	MA	0.49404	7/25/2026
-Burget, Kevin	20660	Adult Full	-12.98473	9/17/2027	Vermont Go Club	VT	0.71487	10/24/2026
+Burget, Kevin	20660	Adult Full	-12.98499	9/17/2027	Vermont Go Club	VT	0.71487	10/24/2026
 Burgin, Tucker	16834	Adult Full	-11.26706	11/1/2010		CO	0.31221	11/6/2010
 Burgos, Sebastian	31748	Youth	-16.10396	7/24/2027		NY	0.30015	7/25/2026
 Burke, Matthew	3576	Adult Full	-15.38000	2/22/2012	NOVA Go Club	VA	0.70000	4/1/2006
@@ -1350,7 +1350,7 @@ Byron, Reid	25805	Adult Full	-11.91692	5/23/2024	San Francisco Go Club	CA	0.5245
 Byun, Yoo Seong	8145	Tournament Pass	5.27000	7/28/1996			0.84000	9/1/1996
 Byun, Yoong No	8137	Tournament Pass	5.93000	7/28/1996			0.69000	9/1/1996
 Byung, Bok An	8154	Tournament Pass	2.50000	10/27/2008			0.59000	10/1/2008
-C, S	20360	Adult Full	1.78400	11/6/2027		NJ	0.25406	11/3/2026
+C, S	20360	Adult Full	1.78396	11/6/2027		NJ	0.25406	11/3/2026
 Cable, Brad	18055	Adult Full - Lifetime	-9.23593	9/1/2064	Peoria & Normal Go Club	IL	0.40461	7/9/2023
 Cable, Douglas	179	Adult Full	3.24905	10/31/2027	Portland Go Club	WA	0.45936	10/3/2015
 Cabral, Sergio	31069	Adult Full	-15.10663	6/22/2026		PA	0.59568	3/14/2026
@@ -1539,7 +1539,7 @@ Cartwright, Tony	17086	Adult Full	-2.77591	3/30/2011	Cleveland Go Club	IL	0.5704
 Caruthers, Bryant	32730	Adult Full		7/25/2027		ID		
 Carvalho, William	31952	Youth	-11.01770	7/28/2026	Santa Monica Go Club	OH	1.00514	8/2/2025
 Carver, Owen	12205	Adult Full	-5.20000	3/12/2024	Las Vegas Go Club	NV	0.75000	12/1/2007
-Cary, Jack	14901	Adult Full	-3.30683	8/14/2027	Vermont Go Club	VT	0.24547	10/24/2026
+Cary, Jack	14901	Adult Full	-3.30681	8/14/2027	Vermont Go Club	VT	0.24547	10/24/2026
 Casad, Marc	15402	Adult Full	-18.61000	2/8/2026	Bay Area Go Players Assoc.	CA	1.77000	10/1/2007
 Casadey, Devin	11382	Adult Full	-6.78000	11/7/2003		FL	0.86000	8/1/2003
 Casal, Andrew	16172	Adult Full	-8.08691	2/20/2011		NJ	0.84462	2/20/2010
@@ -1611,7 +1611,7 @@ Chai, Billy	16863	Adult Full	-16.88000	9/30/2009		CA	0.85000	10/1/2008
 Chai, Hoo Sik	10413	Tournament Pass	2.53000	2/28/2001			0.60000	3/1/2001
 Chai-U-Dom, Tuang	10787	Tournament Pass	-16.74000	9/1/2002		NC	0.72000	3/1/2003
 Chalfant, Richard	23579	Tournament Pass	-14.83711	10/21/2017		PA	1.38823	11/18/2017
-Chalmers, Rich	2981	Adult Full	1.79533	1/27/2027	Vermont Go Club	VT	0.60228	10/24/2026
+Chalmers, Rich	2981	Adult Full	-1.02701	1/27/2027	Vermont Go Club	VT	0.66878	10/24/2026
 Chamberlain, David	5417	Adult Full	-10.73000	7/28/1992		CA	0.98000	11/1/2006
 Chamberlain, John	11191	Adult Full	2.08182	10/25/2015		MA	0.48872	10/11/2012
 Chambers, Adam	18659	Adult Full	-6.77367	2/27/2013		VA	0.67172	2/11/2012
@@ -1712,7 +1712,7 @@ Chang, Michael	15100	Tournament Pass	-24.05000	1/15/2007			1.88000	2/1/2007
 Chang, Peter	5366	Adult Full	7.22000	7/28/1994			0.66000	9/1/1993
 Chang, Ray	15349	Adult Full	7.23050	12/1/2031	Orlando Go Club	FL	0.54835	1/26/2014
 Chang, Roman	18239	Adult Full	-18.42528	6/23/2011		CA	0.76420	9/18/2010
-Chang, Ryan	32930	Youth	-16.90947	10/25/2027		TX	1.63879	11/7/2026
+Chang, Ryan	32930	Youth	-16.88249	10/25/2027		TX	1.64501	11/7/2026
 Chang, Selina	5396	Tournament Pass	4.06000	6/26/1991		ON	0.39000	9/1/1997
 Chang, Shih-wen	16125	Tournament Pass	-5.25000	1/3/2008			0.77000	1/1/2008
 Chang, Simon	13188	Adult Full	1.58336	12/4/2023	Seattle AGA Chapter	WA	0.53901	11/6/2022
@@ -1903,7 +1903,7 @@ Chen, Haoxiang	21686	Adult Full	1.60669	2/27/2016		NY	0.56396	2/28/2015
 Chen, Hong	23218	Adult Full	6.32793	3/16/2018		AZ	0.62787	2/25/2017
 Chen, Hsi Wen	31918	Adult Full		7/8/2026		VA		
 Chen, Hsiao-Hua	6840	Tournament Pass	3.51000	12/28/1993	Davis/Sacramento Go Club	CA	0.99000	3/1/1994
-Chen, Hsi-wen	25966	Adult Full	4.82019	11/10/2027	NOVA Go Club	MI	0.25006	1/31/2026
+Chen, Hsi-Wen	25966	Adult Full	4.82019	11/9/2027	NOVA Go Club	HI	0.25006	1/31/2026
 Chen, Hui	32104	Adult Full	3.31030	10/8/2026		CA	0.79690	10/11/2025
 Chen, Ian	23609	Tournament Pass	-4.27848	11/11/2017			0.53235	10/13/2018
 Chen, Jack	13525	Adult Full	-1.56000	8/21/2006			0.31000	9/1/2005
@@ -2342,7 +2342,7 @@ Choe, Chae Kon	6570	Tournament Pass	-2.32000	5/28/1993			0.54000	9/1/1993
 Choe, Jeong Du	6114	Adult Full	-3.20000	7/28/1993		CA	0.00000	11/15/1992
 Choe, Jum Seok	10032	Tournament Pass	5.85000	7/26/2000			0.63000	9/1/2000
 Choe, Junhyun	23339	Adult Full	-3.78696	5/27/2018	NOVA Go Club	VA	0.76597	5/27/2017
-Choe, Nate	31578	Youth	-4.25127	2/11/2027		TX	0.34913	11/7/2026
+Choe, Nate	31578	Youth	-4.38731	2/11/2027		TX	0.34789	11/7/2026
 Choe, Solomon	13742	Adult Full	5.61102	8/26/2024	Seattle AGA Chapter	WA	0.32037	9/2/2018
 Choe, Steeve	19934	Tournament Pass	5.40308	5/25/2012		CA	0.57092	4/28/2012
 Choe, Sun Hyon	12949	Tournament Pass	4.55000	10/27/2008		CA	0.47000	10/1/2008
@@ -2456,7 +2456,7 @@ Chou, Ken	7324	Tournament Pass	3.33000	9/23/1997		CA	0.62000	1/1/1998
 Chou, Kevin	9136	Adult Full	4.01115	1/31/2020		CA	0.37945	2/10/2019
 Chou, Khi Hua	20437	Adult Full	-8.65765	1/26/2016		VT	0.54015	1/24/2015
 Chou, Kin Fung	30994	Tournament Pass	-22.37607	6/17/2024		NY	0.88151	5/25/2024
-Chou, Lawrence	25461	Youth	-10.10181	1/9/2027	Dallas Go Club	TX	0.52682	11/7/2026
+Chou, Lawrence	25461	Youth	-10.06854	1/9/2027	Dallas Go Club	TX	0.53299	11/7/2026
 Chou, Max	26284	Youth	-25.61561	1/20/2026	Dallas Go Club	TX	1.06040	2/17/2024
 Chou, Pallas	17723	Adult Full	-29.00943	8/25/2010		CA	0.59778	7/10/2010
 Chou, Phillip	21774	Adult Full	-1.46883	3/19/2016			0.44001	12/12/2015
@@ -2594,7 +2594,7 @@ Clark, Mason	6714	Tournament Pass	-5.40000	1/27/2001		CA	0.59000	2/1/2001
 Clark, Matthew	19369	Adult Full		11/15/2023	Dothan Go Club	AL		
 Clark, Mike	5324	Adult Full	-13.00000	11/1/2010		PA	0.86000	11/1/2009
 Clark, R. Edward	3925	Adult Full	-18.64000	3/28/1994	Arizona Go Club	AZ	0.89000	6/1/1994
-Clark, Robert	200	Tournament Pass	-2.77152	12/2/2026	Santa Fe Go Club	NM	0.63282	10/24/2026
+Clark, Robert	200	Tournament Pass	-2.77169	12/2/2026	Santa Fe Go Club	NM	0.63281	10/24/2026
 Clark, Robert	12128	Adult Full	-13.35000	9/15/2005		IL	0.69000	10/1/2003
 Clark, Samuel	18133	Adult Full	-15.26360	4/24/2011	Salt Lake Go Club	UT	0.88390	4/17/2010
 Clark, Steve	18866	Adult Full	-8.80861	6/9/2012	Seattle AGA Chapter	WA	0.88056	6/5/2011
@@ -2916,7 +2916,7 @@ Cushing, William	12858	Adult Full	3.36093	2/7/2014	Arizona Go Club	AZ	0.31162	1/
 Cutler, Christopher	22455	Adult Full	-18.06851	3/15/2019	Massachusetts Go Association	NH	0.83289	3/19/2016
 Cutler, Kyle	21837	Adult Full	-7.13619	4/19/2016	Empty Sky Go Club	MD	0.78055	10/24/2015
 Cutler, Steve	225	Adult Full	3.84000	6/28/1989	San Francisco Go Club	CA	0.63000	6/1/1994
-Cuturic, John	22953	Adult Full	-1.96550	3/1/2027	Cleveland Go Club	OH	0.47344	11/3/2026
+Cuturic, John	22953	Adult Full	-1.96551	3/1/2027	Cleveland Go Club	OH	0.47344	11/3/2026
 Cynn, Steven	5933	Tournament Pass	6.90000	2/28/1998	Charlotte Go Club	NC	0.69000	8/1/2002
 Czarnecki, Aaron	26238	Adult Full	-13.18563	11/14/2027	Milwaukee Go Club	WI	0.84713	5/23/2026
 Czeranski, Jan	18583	Tournament Pass	6.75634	1/15/2011			0.65278	1/8/2011
@@ -2943,7 +2943,7 @@ Dai, Qiyue	16336	Adult Full	5.20000	2/20/2009		WY	0.62000	10/1/2008
 Dai, Steven	32473	Tournament Pass	-6.08339	10/25/2026		NV	0.66180	4/11/2026
 Dai, Tianxiang	31114	Adult Full	-2.07246	7/12/2025		WA	0.78077	8/4/2024
 Dai, Tianyi	23441	Complimentary	1.69216	1/1/2023			0.52632	8/6/2017
-Dai, Weiting	32572	Adult Full	3.05698	5/5/2027		NY	0.45183	10/24/2026
+Dai, Weiting	32572	Adult Full	3.46169	5/5/2027		NY	0.48176	10/24/2026
 Dai, Yun	9514	Adult Full	-35.50000	5/4/2000		CT	4.87000	9/1/1999
 Dai, Ziqi	30653	Adult Full		12/23/2024		CA		
 Daigle, William	18463	Adult Full	-7.78315	10/20/2013	Arizona Go Club	AZ	1.11848	3/15/2011
@@ -3170,7 +3170,7 @@ Dew, John	15920	Adult Full	-2.43685	2/23/2014		ON	0.25950	8/1/2010
 Dewey, Brian	10905	Adult Full	-8.97000	3/8/2005	Seattle AGA Chapter	WA	1.92000	12/1/2002
 Dewilde, Ivan	16981	Adult Full	-21.22000	11/28/2009		MA	1.54000	12/1/2008
 Dews, Joe	19488	Tournament Pass	-12.57827	1/4/2013	San Francisco Go Club	CA	0.61695	5/12/2012
-DeYoung, Truman	32011	Adult Full	-9.22017	9/3/2027	Albuquerque Go	NM	0.56117	10/24/2026
+DeYoung, Truman	32011	Adult Full	-9.22016	9/3/2027	Albuquerque Go	NM	0.56116	10/24/2026
 D'Gerinel, Savanni	24358	Adult Full	-10.95955	6/30/2027	Providence Go Club	RI	0.37418	9/19/2026
 Dhaliwal, Harpreet	20128	Adult Full	1.74681	8/6/2014		WA	0.90655	8/3/2013
 Dheeraj, Ajay	23529	Adult Full	-9.71872	8/3/2026		NY	0.56392	12/13/2025
@@ -3300,7 +3300,7 @@ Donlan, Bryan	32486	Adult Full	-8.98160	4/15/2027		WA	0.80545	5/3/2026
 Donley, Jeremiah	20614	Adult Full	5.26234	3/29/2027	Columbus Go Club	OH	0.16794	10/24/2026
 Donnelly, Paul	7545	Adult Full	2.15817	12/16/2019			0.87158	9/29/2018
 Donny-Clark, Kerry	12991	Adult Full	-6.74000	2/24/2008		NJ	0.80000	3/1/2007
-Donofrio-Ralls, Ryan	32739	Adult Full	-12.58340	8/3/2027	Massachusetts Go Association	MA	0.84133	10/24/2026
+Donofrio-Ralls, Ryan	32739	Adult Full	-12.58357	8/3/2027	Massachusetts Go Association	MA	0.84139	10/24/2026
 Donoghue, Mark	26318	Adult Full		1/10/2024	Hudson Valley Go	NY		
 Donoso, John	14485	Adult Full	-13.30000	5/7/2007	Bellingham Go Club	WA	0.92000	6/1/2006
 Donovan, Sean	6959	Adult Full	-14.16000	4/28/1995		NH	0.56000	9/1/1994
@@ -3542,7 +3542,7 @@ Elkink, Jos	15445	Tournament Pass	-17.54000	5/4/2007		MA	0.89000	5/1/2007
 Ellentuck, Leonard	8380	Adult Full	-4.84000	1/31/2000		MD	0.83000	3/1/2004
 Eller, Eric	14838	Adult Full	-8.13000	11/3/2008		MD	0.81000	12/1/2009
 Ellerman, Scott	16741	Adult Full	-6.96867	2/3/2021	Dallas Go Club	TX	0.43853	8/6/2017
-Ellicott, Andrew	31976	Adult Full	-2.28847	10/23/2027		MI	0.57867	11/3/2026
+Ellicott, Andrew	31976	Adult Full	-2.28851	10/23/2027		MI	0.57866	11/3/2026
 Elliott, Kenneth	15906	Adult Full	-2.28303	1/20/2019		IA	0.63942	6/2/2018
 Ellis, John	18708	Adult Full	-1.54335	6/19/2022	Arizona Go Club	AZ	0.44268	3/15/2011
 Ellis, Mark	13927	Adult Full	-13.75000	10/16/2006	Louisville Go Club	KY	1.45000	12/1/2005
@@ -3894,7 +3894,7 @@ Fisher, Adrian	18612	Adult Full	-16.81316	2/6/2012		CO	0.75129	2/26/2011
 Fisher, Gabby	23253	Adult Full	-22.38518	4/6/2018		NH	0.77439	4/9/2017
 Fisher, Jonathan	21138	Adult Full	4.86640	7/22/2027	Space Coast Area Go Association	FL	0.32497	10/14/2017
 Fisher, Skylar	16620	Adult Full	-11.63000	5/22/2009		MS	0.36000	7/1/2009
-Fisher Laing, Mark	5109	Adult Full	-1.52210	4/27/2018		MI	0.65500	7/15/2017
+Fisher Laing, Mark	5109	Adult Full	-1.52210	11/10/2027		MI	0.65500	7/15/2017
 Fisk, Kori	20542	Adult Full	-10.66550	7/29/2021	San Diego Go Club	MD	0.57395	5/25/2013
 Fitch, Michael	14516	Tournament Pass	-20.17000	5/16/2006			0.82000	6/1/2006
 Fittges, Klaus	10212	Adult Full	4.26000	11/13/2003		CA	0.33000	10/1/2002
@@ -3936,7 +3936,7 @@ Flowers, Min	15608	Tournament Pass	-6.24000	6/24/2007			0.69000	6/1/2007
 Floyd, William	32839	Adult Full	-9.79220	9/17/2027		CA	0.78236	9/19/2026
 Flusser, Miguel	6498	Tournament Pass	4.82000	5/28/1993			0.62000	9/1/1993
 Flyax, Alexander	30546	Adult Full	-12.87806	10/28/2024		IL	0.73590	11/4/2023
-Flynn, Ryan	32018	Tournament Pass	-21.58472	12/2/2026	Albuquerque Go	NM	0.68122	10/24/2026
+Flynn, Ryan	32018	Tournament Pass	-21.58470	12/2/2026	Albuquerque Go	NM	0.68121	10/24/2026
 Fodera, Michael	16547	Adult Full	5.41358	10/21/2019		NY	0.48945	5/4/2019
 Fodor, John	6795	Tournament Pass	-8.70000	11/28/1993			0.00000	1/15/1994
 Foeller, Thomas	10739	Tournament Pass	-21.06000	10/11/2001			1.27000	11/1/2001
@@ -4144,8 +4144,8 @@ Fuselier, Aaron	20789	Adult Full		7/9/2027	Houston Go Club	TX
 FUSSELMAN, Jerry	3190	Tournament Pass	1.25979	8/17/2003	Evanston Go Club	IL	1.74354	6/23/2018
 GÃ³mez, David	24687	Adult Full	-16.12546	6/28/2021			0.64923	7/14/2019
 Gabbert, Adam	10771	Adult Full	5.23000	4/2/2008	Berkeley Go Club	CA	0.62000	4/1/2007
-Gabelman, Joel	11170	Adult Full	-3.56774	6/26/2027	Cleveland Go Club	OH	0.49640	11/3/2026
-Gabelman, Logan	32678	Youth	-12.66639	6/26/2027	Cleveland Go Club	OH	1.00905	11/3/2026
+Gabelman, Joel	11170	Adult Full	-3.56771	6/26/2027	Cleveland Go Club	OH	0.49640	11/3/2026
+Gabelman, Logan	32678	Youth	-12.66650	6/26/2027	Cleveland Go Club	OH	1.00905	11/3/2026
 Gabelman, Mason	32677	Youth	-23.16052	6/26/2027	Cleveland Go Club	OH	1.59032	6/28/2026
 Gabor, Szabo	7550	Tournament Pass	-2.54000	2/28/1995			1.32000	6/1/1995
 Gabriel, Patricia	30694	Complimentary		9/26/2024				
@@ -4384,7 +4384,7 @@ Gillis, Edward	3792	Adult Full	1.62413	4/24/2019	Massachusetts Go Association	MA
 Gillule, David	15323	Adult Full	-34.11009	7/18/2012		NY	1.62207	8/10/2014
 Gilman, Boris	5312	Adult Full	-3.17000	7/7/2009		CA	0.84000	9/1/2008
 Gilman, Ian	8490	Adult Full	-10.93000	7/27/2000		CA	0.61000	9/1/1998
-Gilman, Robert	3688	Adult Full	-7.76495	8/16/2027	Albuquerque Go	NM	0.29341	10/24/2026
+Gilman, Robert	3688	Adult Full	-7.76497	8/16/2027	Albuquerque Go	NM	0.29340	10/24/2026
 Gilston, Mark	2489	Adult Full	1.64638	8/4/2013	Austin Go Club	TX	0.27597	8/5/2012
 Gingery, Julian	23842	Youth	-23.25923	4/6/2019		MA	1.72795	5/28/2018
 Ginsburg, Daniel	15175	Adult Full	-6.18002	8/9/2011		CO	0.52958	8/1/2010
@@ -4452,7 +4452,7 @@ Goldman, Jacob	31783	Adult Full	-4.30608	5/8/2027		TX	0.55150	7/13/2025
 Goldman, Neal	16505	Adult Full	-5.49069	11/6/2011	Triangle Go Group	NC	0.40934	9/25/2010
 Goldman, Ron	1313	Adult Full		12/31/2021		CA		
 Goldsmith, Michael	22032	Adult Full	-15.22000	10/17/2024		FL	0.73000	9/1/1997
-Goldstein, Avery	32895	Youth	-24.33256	10/13/2027		MD	1.77149	10/24/2026
+Goldstein, Avery	32895	Youth	-24.33125	10/13/2027		MD	1.77195	10/24/2026
 Goldstein, Seth	5670	Adult Full	-25.50000	11/28/1992	Twin Cities Go Club	MN	0.00000	11/15/1992
 Goldstone, Jacob	26031	Adult Full		8/1/2023	Maine Go	ME		
 Goldweber, Michael	9090	Adult Full	-14.85000	5/26/2005		PA	1.08000	8/1/2003
@@ -4553,7 +4553,7 @@ Graham, Chad	9421	Adult Full	-6.69000	3/21/2000		NJ	0.94000	3/1/1999
 Graham, Nathaniel	11065	Tournament Pass	-2.67000	6/23/2002		CA	0.46000	10/1/2002
 Graham, Phil	9422	Adult Full	-4.02000	3/21/2000		NJ	1.05000	3/1/1999
 Graham, Sharp	16523	Tournament Pass	-16.24000	4/12/2008			0.84000	5/1/2008
-Graham, Thomas	30584	Adult Full	-12.26348	11/6/2027	Brooklyn Go Club	NY	0.85958	10/24/2026
+Graham, Thomas	30584	Adult Full	-12.26432	11/6/2027	Brooklyn Go Club	NY	0.85937	10/24/2026
 Graham-Jones, Pierce	10843	Tournament Pass	-17.58000	12/22/2001	Vermont Go Club	VT	0.78000	1/1/2002
 Graman, Rory	32035	Adult Full	-15.36287	9/8/2026		IN	0.72852	11/1/2025
 Granaas, Paul	20831	Adult Full		10/2/2021		SD		
@@ -4615,7 +4615,7 @@ Greene, Jin	23340	Youth	3.95974	5/28/2031	Massachusetts Go Association	MA	0.4866
 Greene, John	8667	Adult Full	-24.58000	6/26/2001		MI	1.53000	6/1/2000
 Greene, Joshua	24163	Adult Full	-11.30523	10/16/2023	Massachusetts Go Association	MA	0.52166	1/10/2019
 Greene, Kevin	3972	Adult Full	-5.33059	12/8/2026		NV	0.28415	8/3/2011
-Greenwald, Zoe	30444	Tournament Pass	-20.29394	11/21/2026		VT	0.77221	10/24/2026
+Greenwald, Zoe	30444	Tournament Pass	-20.29367	11/21/2026		VT	0.77215	10/24/2026
 Greenwalt, Tom	25183	Adult Full		7/12/2025		MN		
 Greenway, Robert	8296	Adult Full	-19.59000	11/28/1997		TX	2.38000	12/1/1996
 Greenwell, Zachary	16551	Adult Full	-18.43000	4/27/2010		FL	0.60000	7/1/2009
@@ -4797,7 +4797,7 @@ Guze, Matthew	20454	Adult Full	-13.92335	3/3/2014	Seattle AGA Chapter	WA	1.09908
 Guzinski, Wojciech	6933	Adult Full	1.04000	8/15/2025		FL	0.36000	9/1/1999
 GuzmÃ¡n Camacho, Gabriel	24293	Tournament Pass	-29.43409	11/16/2018	Columbus Go Club	OH	1.87141	11/18/2018
 Gwinn, Chris	9433	Adult Full	-23.63000	3/13/2000		VA	2.63000	9/1/2000
-Gwinn, Samuel	32131	Adult Full	-21.95048	10/19/2027	Vermont Go Club	VT	0.64618	10/24/2026
+Gwinn, Samuel	32131	Adult Full	-21.95037	10/19/2027	Vermont Go Club	VT	0.64616	10/24/2026
 H, Henry	26423	Tournament Pass	-28.11847	3/3/2023		NY	2.09654	2/26/2023
 H, Henryk	30068	Adult Full	-21.77566	3/25/2024		NY	0.47230	11/11/2023
 Ha, Chiag Bung	8511	Tournament Pass	-1.89000	4/28/1997		FL	1.01000	6/1/1997
@@ -5065,7 +5065,7 @@ Harrison, Cliff	4896	Adult Full	-4.50000	7/28/1992	Massachusetts Go Association	
 Harrison, Jack	32422	Youth		3/16/2027		IL		
 Harrison, Jacob	32823	Adult Full	-13.16650	9/7/2027		NC	1.37322	9/26/2026
 Harrison, Sam	32158	Youth		10/27/2026	Univ. of Maryland Go Club			
-Harrison, Stephen	32928	Tournament Pass	-16.47810	11/24/2026		NM	1.59399	10/24/2026
+Harrison, Stephen	32928	Tournament Pass	-16.47893	11/24/2026		NM	1.59422	10/24/2026
 Harry, Drew	13010	Adult Full	-14.72000	10/15/2006		RI	0.79000	7/1/2005
 Harsha, Madeleine	24596	Adult Full	-10.00151	9/2/2020	Corvallis Go Club	OR	0.68645	9/21/2019
 Hart, Bob	4898	Adult Full	-1.89000	7/28/1991	NOVA Go Club	VA	1.06000	9/1/1994
@@ -5079,7 +5079,7 @@ Hart, Steven	6581	Adult Full	-19.83000	6/28/1994		TX	0.55000	9/1/1993
 Harter, Benjamin	10687	Adult Full	-1.64000	5/27/2011	Central Connecticut Go Club	CA	0.53000	7/1/2008
 harter, james	30288	Adult Full	-12.03954	10/10/2026		MI	0.51896	10/26/2025
 Hartman, David	5047	Adult Full	-13.47000	1/28/1997		IL	0.58000	9/1/1993
-hartman, john	31023	Adult Full	-8.64355	10/23/2027		VT	0.41231	10/24/2026
+hartman, john	31023	Adult Full	-8.67695	10/23/2027		VT	0.40922	10/24/2026
 Hartman, John David	6043	Adult Full	-6.46918	10/17/2024	Vermont Go Club	VT	0.72433	10/28/2023
 Hartman, William	5421	Adult Full	-8.52000	11/30/2002		NY	0.58000	9/1/1993
 Hartsel, Jon	7245	Adult Full	1.43000	10/31/2008		NY	0.55000	4/1/2007
@@ -5278,7 +5278,7 @@ Hennessy, James	24132	Adult Full		10/1/2021		NY
 Henning, Cayanna	22505	Youth	-19.10070	3/31/2017	Seattle AGA Chapter	WA	0.91436	7/3/2016
 Henning, Heath	22037	Adult Full	-6.12809	9/30/2027	Seattle AGA Chapter	WA	0.36563	11/1/2026
 Henninger, Pete	17420	Adult Full	-16.77988	5/3/2015		TX	1.02765	6/29/2013
-Henrie, Liam	31357	Adult Full	-9.42481	11/9/2027		NY	0.56125	10/24/2026
+Henrie, Liam	31357	Adult Full	-9.42549	11/9/2027		NY	0.56127	10/24/2026
 Henrikson, Jeff	12436	Adult Full	-15.66000	11/6/2006	Seattle AGA Chapter	WA	0.75000	12/1/2005
 Henriod, Joseph	32698	Youth		7/9/2027		UT		
 Henry, JR	10849	Adult Full	-35.89000	12/23/2002	GWRM Baltimore Go Club	LA	1.17000	1/1/2002
@@ -6231,8 +6231,8 @@ Jaeger, Kevin	21108	Youth	-20.46853	3/8/2015		NJ	2.42572	3/1/2014
 Jaekel, Richard	12145	Adult Full	-13.17000	9/22/2009		AE	0.88000	8/1/2005
 Jaffe, Harris	7595	Adult Full	-3.52000	8/28/1996			0.51000	6/1/1995
 Jaffe, Jay	1149	Adult Full	-15.36000	7/9/1998		CA	0.64000	1/1/1998
-Jaffe, Jerry	16016	Adult Full	1.77059	2/1/2027	Cleveland Go Club	OH	0.20658	11/3/2026
-Jaffe, Soren	19705	Adult Full	6.11891	3/25/2027	Cleveland Go Club	OH	0.21854	11/3/2026
+Jaffe, Jerry	16016	Adult Full	1.77055	2/1/2027	Cleveland Go Club	OH	0.20658	11/3/2026
+Jaffe, Soren	19705	Adult Full	6.11890	3/25/2027	Cleveland Go Club	OH	0.21854	11/3/2026
 Jaffee, Harris	6598	Tournament Pass	-3.18000	7/28/1993	Seattle AGA Chapter		0.50000	12/1/1995
 Jailall, Robert	13890	Adult Full	-9.68000	10/4/2007	Triangle Go Group	MD	0.36000	9/1/2006
 Jain, Amber	22240	Adult Full	-3.82544	11/12/2016	Penn Go Society	PA	1.01807	10/25/2015
@@ -6821,7 +6821,7 @@ Kemper, Austin	23364	Adult Full	-11.03862	7/2/2019	Seattle AGA Chapter	TX	1.4189
 Kemper, Jesse	10891	Tournament Pass	-12.35000	2/15/2002			1.00000	2/1/2002
 Kemper, Lance	3758	Adult Full	5.33000	1/23/2008	SiliValley Go Club	CA	0.92590	7/30/2011
 Ken, Kuroda	18317	Adult Full	-1.38757	8/17/2010			0.58699	8/1/2010
-Kendrick, Caleb	32523	Adult Full	-11.51511	4/23/2027		NH	0.53073	10/24/2026
+Kendrick, Caleb	32523	Adult Full	-11.51927	4/23/2027		NH	0.53100	10/24/2026
 Kendrick, Doug	13154	Adult Full	-23.92000	1/10/2011	Ventura County Go Club	CA	0.67000	11/1/2006
 Kennedy, Brendan Paul	24610	Adult Full	-9.08453	5/22/2020	National Go Center	MD	0.54968	6/22/2019
 Kennedy, Matthew	11986	Adult Full	-22.67000	8/27/2004		VA	0.58000	2/1/2004
@@ -9082,7 +9082,7 @@ Loop, Nathan	22508	Adult Full	-10.73262	4/1/2017		VA	0.70936	4/9/2016
 Lopata, Thomas	15449	Adult Full	-4.46231	3/28/2023	San Francisco Go Club	CA	0.56690	3/18/2023
 Lopes, Matthew	15839	Adult Full	-16.52000	10/4/2008	Penn Go Society	RI	0.90000	12/1/2007
 Lopes, Robert	16475	Adult Full	-15.52000	3/29/2010		PA	0.70000	5/1/2009
-Lopez, Adam	24464	Adult Full	-8.30854	10/29/2027	Dallas Go Club	TX	0.64540	11/7/2026
+Lopez, Adam	24464	Adult Full	-8.18046	10/29/2027	Dallas Go Club	TX	0.65553	11/7/2026
 Lopez, Alex	18850	Adult Full	-8.86749	6/5/2012		WA	0.75181	3/4/2012
 Lopez, Bruci	14984	Adult Full	-5.50000	12/29/2007		FL	0.72000	4/1/2007
 Lopez, Frank	6864	Adult Full	-17.87000	6/28/2003	Austin Go Club	TX	1.65000	7/1/2002
@@ -9287,7 +9287,7 @@ Luo, Raphael	31991	Adult Full	-15.12356	8/24/2026		CA	1.27864	10/11/2025
 Luo, Raymond	23099	Youth	-9.05089	2/9/2019		MD	0.66278	9/8/2018
 Luo, Robin	17857	Youth	-1.64934	11/17/2014		CO	0.40629	11/2/2013
 Luo, Simon	19253	Adult Full	6.53810	8/12/2011		ON	0.50125	7/31/2011
-Luo, Terry	18780	Adult Full	2.07582	11/3/2026		OH	0.30889	5/16/2026
+Luo, Terry	18780	Adult Full	2.07582	11/9/2027		OH	0.30889	5/16/2026
 Luo, Timothy	20466	Adult Full	-18.63811	3/6/2014	Stony Brook University Go Club	NY	0.67463	10/12/2013
 Luo, Xian Wu	17538	Adult Full	3.03278	11/17/2014	Boulder Kids and Teens Go Club	CO	0.31187	4/13/2013
 Luo, Yin	20923	Adult Full	5.15011	11/15/2020	Bay Area Go Players Assoc.	KS	0.52010	2/22/2020
@@ -9422,7 +9422,7 @@ Mahoney, Dennis	11974	Adult Full	-7.63674	6/23/2026	Danger Monkey Go Club	CO	0.3
 Mai, Barry	14782	Adult Full	-21.02000	10/14/2007	Evanston Go Club	IL	0.96000	10/1/2006
 Mai, Cat	22937	Adult Full	-2.16131	3/24/2027	Massachusetts Go Association	NY	0.69533	1/12/2020
 Maia, Joe	3856	Adult Full	-2.97070	2/20/2027	GWRM Baltimore Go Club	MD	0.33214	5/25/2019
-Maier, Billy	16731	Adult Full	-2.41992	12/30/2026	Albuquerque Go	NM	0.31528	10/24/2026
+Maier, Billy	16731	Adult Full	-2.41999	12/30/2026	Albuquerque Go	NM	0.31528	10/24/2026
 Maier, Henry	17259	Tournament Pass	-18.02000	3/17/2009	Portland Go Club		1.90000	3/1/2009
 Mailing, Ian	11857	Adult Full	-3.31000	5/19/2004		MI	0.74000	6/1/2003
 Maines, Scott	6707	Adult Full	-4.60000	10/28/1994		CA	0.00000	1/15/1994
@@ -9724,7 +9724,7 @@ McCafferty, Ronan	31616	Youth		3/2/2027	Bainbridge Island Go Club	WA
 McCain, James	11013	Adult Full	-25.49000	4/30/2007	Houston Go Club	TX	3.95000	6/1/2005
 McCall, Greg	9875	Adult Full - Lifetime	-11.28178	9/1/2064	Charlotte Go Club	NC	0.41115	9/30/2017
 McCandless, George	30758	Adult Full		2/20/2026		VA		
-McCann, H. Gilman	6041	Adult Full	-7.91948	10/26/2027	Vermont Go Club	VT	0.36568	10/24/2026
+McCann, H. Gilman	6041	Adult Full	-7.92223	10/26/2027	Vermont Go Club	VT	0.36556	10/24/2026
 McCants, Edward	10707	Adult Full	-8.87713	5/4/2026	Houston Go Club	TX	0.45428	7/13/2025
 McCarl, Jaeden	32883	Youth	-13.21634	10/9/2027		MN	1.14420	10/10/2026
 McCarthy, Lauren	12638	Tournament Pass	-29.89000	5/17/2004			1.03000	6/1/2004
@@ -9874,7 +9874,7 @@ Meijer, Jeroen	23141	Adult Full	-2.56551	9/19/2026		VA	0.59643	9/20/2025
 Meireis, Aaron	11957	Adult Full	-17.48000	6/22/2004		OR	0.96000	6/1/2004
 Meisch, Robert	12285	Adult Full	-19.00000	12/15/2004	Crane's Nest Go Club	LA	0.73000	12/1/2003
 Meisner, Gus	14320	Adult Full	-37.65000	2/25/2009		MD	1.41000	5/1/2007
-Mejia, Jonathan	32355	Adult Full	-11.79086	2/10/2027		TX	0.58420	11/7/2026
+Mejia, Jonathan	32355	Adult Full	-11.70442	2/10/2027		TX	0.58187	11/7/2026
 Melaragni, Edward	2892	Adult Full	-13.50000	9/30/1999		PA	0.62000	9/1/1994
 Melbourne, Will	14497	Adult Full	-43.98000	5/11/2007		TX	2.22000	5/1/2006
 Melcher, Ian	9983	Adult Full	-24.95000	6/13/2004		MI	0.52000	8/1/2002
@@ -10148,13 +10148,13 @@ Monfort, A. A.	6193	Adult Full	-16.56000	10/28/1993		IL	0.54000	9/1/1993
 Monhead, Lisa	15559	Adult Full	-26.36000	6/12/2008		FL	0.71000	12/1/2007
 Monin, Benoit	14770	Tournament Pass	-9.15000	10/12/2006		NJ	0.71000	11/1/2006
 Monks, Franklyn	531	Adult Full	-2.28000	3/9/2009	Charlotte Go Club	ON	0.28000	11/1/2007
-Monroe, Timothy	32731	Adult Full	-21.10723	7/27/2027		MA	0.86257	10/24/2026
+Monroe, Timothy	32731	Adult Full	-21.10702	7/27/2027		MA	0.86256	10/24/2026
 Monroy, Maria	17018	Adult Full	-20.71000	12/11/2009		FL	1.14000	1/1/2009
 Mont, Alexander	22263	Adult Full	-29.05012	12/11/2016	Kastle Go Club	CA	2.90826	12/12/2015
 Montague, Dakota	32403	Adult Full	1.36983	3/5/2027		PA	0.49519	3/14/2026
 Montalvo, Moises	30676	Adult Full		1/6/2025		NE		
 Montegut, Adam	13914	Adult Full	-4.63000	10/7/2008	Crane's Nest Go Club	LA	0.54000	6/1/2006
-Monteleone, Nathan	26395	Adult Full	-9.45602	4/24/2027		TX	0.48568	11/7/2026
+Monteleone, Nathan	26395	Adult Full	-9.39023	4/24/2027		TX	0.49117	11/7/2026
 Montemora, Mike	4276	Adult Full	-5.39000	2/24/2008		NY	0.45000	6/1/2007
 Monterosso, Lee	31910	Youth	-27.48685	6/30/2026	Seattle AGA Chapter	WA	2.24189	8/3/2025
 Monterosso, Warren	31909	Youth	-25.92885	6/30/2026	Seattle AGA Chapter	WA	1.37794	8/3/2025
@@ -10488,7 +10488,7 @@ Nelson, Garrett	11961	Adult Full	-17.35000	6/22/2004		OR	1.06000	2/1/2004
 Nelson, Genevieve	32877	Adult Full	-17.15100	10/3/2027	Twin Cities Go Club	MN	1.10918	10/10/2026
 Nelson, George	23381	Adult Full	-11.32362	7/15/2018	National Go Center	MD	1.13721	7/15/2017
 Nelson, Heber	13911	Adult Full	-20.63000	10/5/2006		WA	1.20000	2/1/2006
-Nelson, Iraj	30398	Youth	-9.82136	8/11/2027		CT	0.51307	11/3/2026
+Nelson, Iraj	30398	Youth	-9.82139	8/11/2027		CT	0.51307	11/3/2026
 Nelson, Jeremy	16969	Adult Full	1.48263	6/20/2014	Portland Go Club	OR	0.49487	8/4/2013
 Nelson, Jonathan	17894	Adult Full	-17.17927	12/15/2010	Bay Area Go Players Assoc.	CA	0.48204	6/5/2010
 Nelson, Peter	20551	Adult Full	4.39311	10/8/2027	Twin Cities Go Club	MN	0.86869	10/10/2026
@@ -10602,7 +10602,7 @@ Nijhuis, Casper	7542	Tournament Pass	5.49000	2/28/1995			0.86000	6/1/1995
 Nikaido, George	23275	Adult Full	-10.97380	3/29/2025		CA	0.46425	8/18/2018
 Nikaido, Kento	13856	Tournament Pass	6.40436	9/9/2005			0.46398	8/3/2011
 Nikaido, Shikiko	13869	Tournament Pass	-29.36000	9/9/2005			0.88000	9/1/2005
-Niland, Emilio	32886	Adult Full	-15.25033	10/10/2027		TX	0.87324	11/7/2026
+Niland, Emilio	32886	Adult Full	-15.20527	10/10/2027		TX	0.87974	11/7/2026
 Nimsrinuan, Phansit	30445	Youth		9/27/2024		SC		
 Nimsrinuan, Phansit	32294	Youth	-4.99584	1/15/2027		SC	1.16496	1/17/2026
 Ning, Alvin	25278	Youth		7/30/2021		GA		
@@ -10743,6 +10743,7 @@ O'Dell, Thomas	6937	Adult Full	-3.01000	2/24/2000	Corvallis Go Club	OR	0.57000	3
 Odesky, Andrew	22955	Adult Full	1.07407	5/14/2027		NJ	0.28737	9/1/2026
 Odhner, Josiah	17845	Adult Full	-9.75244	5/25/2012		PA	0.43573	4/9/2011
 O'Donnel, Jerramen	11958	Adult Full	-24.77000	6/22/2004		OR	1.14000	6/1/2004
+O'Donnell, Benjamin	32953	Adult Full		11/9/2027	Gotham Go Group	NY		
 O'Donnell, Devon	12379	Tournament Pass	-33.76000	1/16/2004			2.75000	2/1/2004
 O'Donnell, Jason	30416	Adult Full	-7.16127	9/7/2024	Atlanta Go Club	GA	0.86782	9/16/2023
 O'Donnell, John	7552	Tournament Pass	-4.14000	2/28/1995			1.05000	6/1/1995
@@ -11450,7 +11451,7 @@ Polonsky, Sara	23511	Adult Full	-17.69062	9/9/2018	Evanston Go Club	IL	1.46048	9
 Poltronieri, Bruno	22737	Complimentary	5.31709	1/1/2023			0.59124	7/30/2016
 Polzin, Oliver	16925	Adult Full	-3.64691	1/11/2027	Santa Fe Go Club	NM	0.43600	1/17/2026
 Polzin, William	19447	Adult Full	-3.46898	3/10/2025		IA	0.72677	9/28/2024
-Pomeroy, Jai	32915	Tournament Pass	-8.81761	11/21/2026		NM	0.75490	10/24/2026
+Pomeroy, Jai	32915	Tournament Pass	-8.81757	11/21/2026		NM	0.75490	10/24/2026
 Pommier, Joe	18744	Tournament Pass	-15.52385	4/6/2011			0.95724	4/2/2011
 Pon, Jarrett	11217	Adult Full	-1.44000	8/5/2008	Wings Across Calm Water	MO	0.51000	9/1/2007
 Ponader, Chris	15561	Adult Full	-19.03000	6/12/2009		FL	0.52000	1/1/2009
@@ -11936,7 +11937,7 @@ Rirdan, Ellie	23269	Adult Full	-25.92172	4/9/2018	Boulder Kids and Teens Go Club
 Rirdan, Jonah	23270	Adult Full	-20.62610	4/9/2018	Boulder Kids and Teens Go Club	CO	1.59848	4/8/2017
 Riselvato, John	22915	Adult Full	-25.98884	7/23/2023	San Francisco Go Club	NC	1.98626	7/23/2022
 Rister, Benjamin	11992	Adult Full	-15.63000	7/8/2009		PA	1.12000	8/1/2003
-Ritchey, Ross	11048	Adult Full	-3.48500	10/28/2027	Cleveland Go Club	OH	0.47963	11/3/2026
+Ritchey, Ross	11048	Adult Full	-3.48499	10/28/2027	Cleveland Go Club	OH	0.47963	11/3/2026
 Ritchie, Kyle	31790	Adult Full	-5.79898	5/10/2027		CA	0.52435	8/29/2026
 Ritter, Dan	20943	Adult Full	-6.15207	8/6/2024	Massachusetts Go Association	MA	0.40899	7/21/2018
 Ritter, Neil	20861	Adult Full	-1.79338	8/14/2026	Massachusetts Go Association	MA	0.62577	8/3/2026
@@ -12315,7 +12316,7 @@ Sanabria, Leandro	30763	Complimentary		9/26/2024		BA
 Sancak, Yasin	17644	Tournament Pass	-10.49000	7/23/2009			0.77000	8/1/2009
 Sanchez, Alvin	15290	Adult Full	-7.20000	3/1/2008		NH	0.77000	8/1/2007
 Sanchez, Cesar	7614	Tournament Pass	5.36000	4/28/1995			0.58000	6/1/1995
-Sanchez, Cynthia	32017	Adult Full	-17.81763	10/1/2027	Albuquerque Go	NM	0.64208	10/24/2026
+Sanchez, Cynthia	32017	Adult Full	-17.81762	10/1/2027	Albuquerque Go	NM	0.64207	10/24/2026
 Sanchez, Larry	32345	Adult Full	-19.70338	2/6/2027		TX	0.53552	4/25/2026
 Sanchez, Mike	6009	Adult Full	-29.90000	3/28/1993	Portland Go Club	OR	0.00000	11/15/1992
 Sanchez-Wu, Luna	32344	Youth	-18.49066	2/6/2027		TX	0.37546	8/1/2026
@@ -12394,7 +12395,7 @@ Saunders, Brandi	15156	Adult Full	-19.50000	1/24/2008		HI	3.12000	6/1/2007
 Saunders, David	671	Adult Full	-1.18000	7/16/2015	Massachusetts Go Association	NY	0.51000	9/1/1997
 Saunders, Desmond	30538	Youth	-7.30772	1/29/2027		NY	0.64249	1/31/2026
 Saunders, Eric	24893	Tournament Pass	-13.96011	4/8/2022	Gotham Go Group		0.76196	3/26/2022
-Sauter, Allan	13632	Adult Full - Lifetime	-10.90560	9/1/2064	San Diego Go Club	NM	0.75465	10/24/2026
+Sauter, Allan	13632	Adult Full - Lifetime	-10.90561	9/1/2064	San Diego Go Club	NM	0.75464	10/24/2026
 Savage, Luke	24207	Adult Full	-20.86783	10/26/2019		IL	0.89967	11/10/2018
 Savage, Terry Curtis	23965	Adult Full		12/16/2023		NV		
 Savukynas, Gintautas	20158	Adult Full	-17.12905	5/2/2016		NY	1.20740	4/26/2015
@@ -12435,7 +12436,7 @@ Schenthal, Kevin Justin	15232	Adult Full	-5.36005	3/10/2011	Princeton Go Club	CA
 Scher, Steven	24448	Adult Full	-5.08350	2/13/2020			0.70380	2/10/2019
 Scherer, Emily	23014	Adult Full	-20.95148	6/2/2020	Orlando Go Club	FL	1.15863	6/1/2019
 Schery, David	17060	Adult Full	-26.23000	2/23/2011		CA	1.16000	9/1/2009
-Schiek, Richard	7469	Adult Full	-12.14916	8/25/2027	Albuquerque Go	NM	1.07844	10/24/2026
+Schiek, Richard	7469	Adult Full	-12.14904	8/25/2027	Albuquerque Go	NM	1.07845	10/24/2026
 Schiff, Sarah	12297	Tournament Pass	-35.14000	11/27/2003			2.48000	12/1/2003
 Schiffin, Paul	32589	Adult Full	-13.20451	5/11/2027		MD	0.90315	6/26/2026
 Schiffman, Austin	24066	Adult Full		11/28/2021		CA		
@@ -12486,6 +12487,7 @@ Schorfheide, Paul	30641	Adult Full		12/11/2024	Houston Go Club	TX
 Schrade, Richard	12723	Adult Full	-31.56000	3/12/2007	Feng Yun Go School	NJ	2.64000	11/1/2004
 Schrader, Robert	13645	Adult Full	-1.44176	3/13/2024	San Diego Go Club	CA	0.24510	6/16/2012
 Schrag, Roger	12898	Adult Full	-3.70763	9/8/2027	East Bay Go Players	CA	0.28023	10/1/2026
+Schreiber, Eric	32955	Adult Full		11/11/2027				
 Schreiber, Raphael	21818	Adult Full	1.82613	4/14/2017		FL	0.38384	8/3/2016
 Schroeder, Erin	18757	Adult Full	-22.42074	4/17/2012	Salt Lake Go Club	NV	1.88560	4/15/2011
 Schroeder, John	30888	Adult Full	-9.75116	4/7/2025		OR	0.56842	7/23/2024
@@ -12499,7 +12501,7 @@ Schulzgen, Axel	9915	Adult Full	-7.91000	4/12/2001	Tucson Go Club	AZ	0.58000	6/1
 Schum, Joshua	18224	Adult Full	-29.79859	6/16/2011		CO	3.06659	6/12/2010
 Schumacher, Brett	31124	Adult Full	-5.96968	8/16/2027		CA	0.54845	10/1/2026
 Schumacher, Lee	2900	Adult Full - Lifetime	1.14512	9/1/2064	San Francisco Go Club	CA	0.20261	10/23/2026
-Schumer, Peter	3105	Adult Full - Lifetime	-3.60997	9/1/2064	Vermont Go Club	VT	0.15877	10/24/2026
+Schumer, Peter	3105	Adult Full - Lifetime	-3.61000	9/1/2064	Vermont Go Club	VT	0.15878	10/24/2026
 Schumm, Thomas	17522	Adult Full	-5.84000	5/28/2015		FL	0.62000	7/1/2009
 Schurter, Joshua	18682	Youth	-31.52718	2/28/2012		NJ	2.57617	2/26/2011
 Schurter, Terri	8	Adult Full - Lifetime	-9.76272	9/25/2064	Wings Across Calm Water	NJ	0.39989	7/25/2026
@@ -12992,7 +12994,7 @@ Simmons, Jeffry	5214	Adult Full	-11.50000	12/20/2026	Princeton Go Club	NJ	0.6300
 Simmons, Joshua	11419	Adult Full	2.26839	3/14/2011	Empty Sky Go Club	AZ	0.48153	1/5/2013
 Simms, Michael	31645	Adult Full	-1.14627	3/22/2027		TN	0.33255	9/26/2026
 Simon, Burt	701	Tournament Pass	3.15000	11/1/2009		CO	0.44000	11/1/2009
-Simon, Dan	32900	Adult Full	-8.63439	10/15/2027		OH	0.84170	11/3/2026
+Simon, Dan	32900	Adult Full	-8.63450	10/15/2027		OH	0.84170	11/3/2026
 Simon, Jordan	30330	Adult Full	-12.75672	7/25/2027		TN	1.52921	7/25/2026
 Simon, Michael	2875	Adult Full	5.11000	11/20/2007		NY	0.84000	12/1/2006
 Simon, Richard	1784	Adult Full	-5.71995	11/1/2027	Brooklyn Go Club	NY	0.28984	11/8/2025
@@ -13345,7 +13347,7 @@ Stafford, Bill	8933	Adult Full	-12.02000	1/13/2000		PA	0.89000	12/1/1999
 Stafford, James	23195	Adult Full		7/26/2022		MS		
 Stafurik, John	722	Adult Full	-5.70000	3/16/2013	Santa Fe Go Club	NM	0.00000	11/15/1992
 Stahl, Cody	14483	Adult Full	-9.07000	5/7/2007		WA	1.02000	6/1/2006
-Stahl, Ezekiel	32175	Youth	-19.96620	11/1/2027	Cleveland Go Club	OH	0.91611	11/3/2026
+Stahl, Ezekiel	32175	Youth	-19.96635	11/1/2027	Cleveland Go Club	OH	0.91610	11/3/2026
 Staisloff, Zachary	15517	Adult Full	-23.98000	5/29/2008		MD	1.90000	6/1/2007
 Stampfel, Cameron	30515	Adult Full	-7.32593	10/22/2025	Greater Kansas City Go Club	KS	0.62911	5/25/2024
 Stan, Clark	13327	Adult Full	-34.85000	3/4/2006	Princeton Go Club	CT	1.08000	5/1/2005
@@ -13374,7 +13376,7 @@ Steadman, Clyde	6617	Adult Full	-1.24000	1/8/1999	Seattle AGA Chapter	WA	0.54000
 Steadman, Elias	23067	Youth	-35.50154	1/8/2018	San Diego Go Club	CA	4.21205	1/14/2017
 Steadman, Kevin	23094	Adult Full	-5.38574	2/17/2019	San Diego Go Club	CA	0.51288	2/25/2018
 Steadman, Nicholas	10648	Adult Full	2.13000	9/22/2009		NY	0.58000	9/1/2008
-Stearns, Jason	22510	Adult Full	-1.20200	7/25/2027	Albuquerque Go	NM	0.77193	10/24/2026
+Stearns, Jason	22510	Adult Full	-1.20202	7/25/2027	Albuquerque Go	NM	0.77194	10/24/2026
 Stedman, Ray	7278	Adult Full	-9.28000	12/31/2004	Seattle AGA Chapter	WA	0.56000	3/1/2001
 Steece, Justin	26363	Adult Full	-4.40766	2/3/2025	Seattle AGA Chapter	WA	0.52705	12/9/2023
 Steed, Daniel	12562	Adult Full	-24.97000	1/19/2006		MI	2.21000	2/1/2005
@@ -13428,7 +13430,7 @@ Stevens, Russell	6198	Adult Full	-6.30000	5/28/1996		IL	0.50000	9/1/1995
 Stevenson, Alex	19425	Adult Full	-21.00588	11/18/2012		CA	1.93679	11/12/2011
 Stevenson, Cooper	19402	Adult Full	-30.15931	11/1/2012	Portland Go Club	WA	1.26603	11/12/2011
 Stevenson, David	10720	Complimentary	-4.34000	9/13/2023	Cleveland Go Club	OH	0.64000	1/1/2009
-Stevenson, Michael	10721	Adult Full	2.80064	6/21/2027	Cleveland Go Club	OH	0.32059	11/3/2026
+Stevenson, Michael	10721	Adult Full	2.80062	6/21/2027	Cleveland Go Club	OH	0.32059	11/3/2026
 Steveson, Christopher	17879	Adult Full	-10.96623	11/16/2010	Arizona Go Club	AZ	0.50877	3/15/2011
 Stewart, Clayton	13452	Adult Full	-11.59000	5/17/2018		TX	0.62000	11/1/2007
 Stewart, Darin	13017	Adult Full	-21.48000	4/1/2011		OR	2.47000	6/1/2005
@@ -14598,7 +14600,7 @@ Wagner, Annie	24333	Adult Full	3.64437	1/30/2027		MA	0.28056	8/1/2026
 Wagner, Cam	22125	Adult Full	3.39429	3/2/2018		MA	0.33399	12/2/2017
 Wagner, Daniel	20461	Adult Full	-1.51774	3/6/2027	National Go Center	VA	0.32243	7/25/2018
 Wagner, Dave	6797	Tournament Pass	-1.40000	11/28/1993		ON	0.00000	1/15/1994
-Wagner, Joshua	26400	Adult Full	-10.37911	2/12/2027		TX	0.34932	11/7/2026
+Wagner, Joshua	26400	Adult Full	-10.37479	2/12/2027		TX	0.34923	11/7/2026
 Wahl, David	3002	Adult Full	-1.35000	1/8/1999	Seattle AGA Chapter	WA	0.56000	12/1/1995
 Wahl, Ed	11446	Adult Full	-3.77000	12/8/2003	Corvallis Go Club	OR	0.72000	6/1/2003
 Wahl, Sean	20259	Adult Full	-9.95744	10/26/2016	Bay Area Go Players Assoc.	CA	0.53593	6/14/2014
@@ -14633,7 +14635,7 @@ Wall, Ryan	24636	Adult Full		6/9/2023	Triangle Go Group	NC
 Wall, Tracy	1635	Adult Full	-3.30000	6/28/1992	Empty Sky Go Club	NY	0.00000	11/15/1992
 Wallace, Edward	795	Adult Full		3/19/2025		MD		
 Wallace, Gavin	30371	Adult Full	-9.95954	10/30/2026	Evanston Go Club	IL	0.42901	10/24/2026
-Wallace, Glenn	32723	Adult Full	-19.70393	7/24/2027	Massachusetts Go Association	MA	0.87413	10/24/2026
+Wallace, Glenn	32723	Adult Full	-19.70381	7/24/2027	Massachusetts Go Association	MA	0.87409	10/24/2026
 Wallace, Howard	5188	Adult Full	-10.30000	6/28/1994		WA	0.00000	11/15/1992
 Wallace, Kristin	12437	Adult Full	-14.47000	3/3/2005		OR	1.36000	2/1/2004
 Wallace, Max	13540	Adult Full	-15.13000	5/6/2006		MD	1.20000	6/1/2005
@@ -16448,7 +16450,7 @@ Yu, Daniel	13096	Tournament Pass	-25.67000	12/16/2004	Evanston Go Club	IL	0.7000
 Yu, Dayong	11712	Adult Full	4.21335	5/15/2013	Princeton Go Club	CA	0.98867	4/15/2012
 Yu, Deng	20460	Adult Full	8.26277	3/6/2015		NJ	0.56579	3/2/2013
 Yu, Diana	31842	Youth	-15.33999	5/31/2026		MA	0.54075	5/25/2026
-Yu, Eelis	32341	Youth	-8.68439	2/4/2027		TX	0.55895	11/7/2026
+Yu, Eelis	32341	Youth	-8.24534	2/4/2027		TX	0.57532	11/7/2026
 Yu, Erwen	18141	Adult Full	-14.05345	4/25/2011	Boulder Kids and Teens Go Club	CO	0.75664	4/24/2010
 Yu, Erwin	13194	Adult Full - Lifetime	3.57757	9/1/2064	Boulder Go Club	CO	0.69765	7/13/2025
 Yu, Fangwu	24156	Youth	-2.60165	3/17/2027	New York Go Association	NJ	0.29542	7/25/2026
@@ -16456,6 +16458,7 @@ Yu, Fangyi	24155	Youth	-7.46196	3/17/2027	New York Go Association	NJ	0.36463	7/2
 Yu, Gang	7522	Adult Full	-3.06000	3/28/1996		CA	0.49000	3/1/1995
 Yu, Gary	8429	Adult Full	-7.53000	2/28/1998		CA	0.60000	3/1/1997
 Yu, Glenn	32124	Adult Full	-16.55116	10/17/2026		NY	0.75450	11/8/2025
+YU, Haoyang	32954	Youth		11/9/2027		IL		
 Yu, Harvey	31008	Youth	-2.86538	5/23/2027	Massachusetts Go Association	MA	0.38466	9/5/2026
 Yu, Helen	12668	Tournament Pass	-29.56000	5/26/2004		CA	0.67000	5/1/2004
 Yu, Henry	30426	Complimentary	8.09866	4/29/2026			0.35252	7/13/2025
@@ -16814,7 +16817,7 @@ Zhang, Qi	30975	Tournament Pass	-17.50420	6/5/2024			1.32270	5/4/2024
 Zhang, Qi	31687	Adult Full	-7.16513	4/10/2026	San Francisco Go Club	CA	0.81680	4/19/2025
 Zhang, Qi	32819	Adult Full		9/5/2027		NJ		
 Zhang, Qing	10872	Adult Full	6.40000	1/11/2003	Seattle AGA Chapter	WA	0.75000	8/1/2001
-Zhang, Qingbo	22896	Adult Full	4.85296	2/27/2027	NOVA Go Club	VA	0.11994	10/24/2026
+Zhang, Qingbo	22896	Adult Full	4.85493	2/27/2027	NOVA Go Club	VA	0.11985	10/24/2026
 Zhang, Rain Xu	25656	Youth	-24.80038	11/23/2035	San Diego Go Club	CA	1.31675	5/15/2022
 Zhang, Ren	25023	Tournament Pass	1.29825	1/14/2020			0.75990	10/26/2019
 Zhang, Ren	30917	Adult Full	-2.66086	4/12/2025		CA	0.86624	4/13/2024
@@ -16872,7 +16875,7 @@ Zhang, Xiaoyong	18632	Adult Full	-1.31862	2/13/2012	Atlanta Go Club	GA	0.66422	2
 Zhang, Xiayang	21996	Youth	-10.23616	8/1/2017	Southern California Chinese Go Club	CA	0.41458	10/22/2016
 Zhang, Xiecongxiao	31571	Youth		2/9/2026		CA		
 Zhang, Xihan	20046	Adult Full	3.84692	7/27/2013		MA	0.75165	7/12/2012
-Zhang, Xilong	31372	Adult Full	-1.89923	11/19/2027		TX	0.27047	11/7/2026
+Zhang, Xilong	31372	Adult Full	-1.89450	11/19/2027		TX	0.27020	11/7/2026
 Zhang, Xinyi	25916	Adult Full	2.92633	4/30/2023		IL	0.89840	5/14/2022
 Zhang, Xiuyuan	32516	Complimentary	-13.44452	10/23/2026			0.62217	7/25/2026
 Zhang, Xueming	32515	Complimentary	-12.78181	10/23/2026			0.73771	7/25/2026
