@@ -2872,6 +2872,7 @@ Cuadra, Gilbert	31754	Adult Full		4/29/2026		FL
 Cuchanski, Amaris	8650	Adult Full	-23.50000	6/30/2002		PA	0.50000	9/1/1997
 Cuchanski, Mathieu	8649	Adult Full	-19.29000	6/30/2002		PA	0.54000	9/1/1997
 Cuchanski, Michael	2073	Adult Full	2.80000	3/14/2021		PA	0.56000	9/1/1997
+Cuervo, Esther	32957	Adult Full		11/11/2027		CA		
 Cuffel, Stephen	6010	Adult Full	-4.50000	3/28/1993	Portland Go Club	OR	0.00000	11/15/1992
 Cugliari, Moniqe	15488	Adult Full	-15.00000	5/12/2008		FL	0.78000	6/1/2007
 Cui, Buyuan	32508	Adult Full	-27.26506	4/21/2027		CA	2.29536	5/23/2026
@@ -3697,7 +3698,7 @@ Fan, Mingcun	24720	Adult Full	3.37785	4/14/2023	Seattle AGA Chapter	WA	0.60397	1
 Fan, Mingguo	31694	Youth	-11.52896	4/12/2027	Austin Go Club	TX	0.44157	8/1/2026
 Fan, Qing-Yuan	12272	Tournament Pass	1.83000	11/26/2003		MD	0.51000	12/1/2003
 Fan, Ruyan	24681	Complimentary	3.44138	1/1/2023			0.46157	7/14/2019
-Fan, Shiyu	31135	Adult Full	5.95734	8/1/2025		NY	0.40096	5/3/2025
+Fan, Shiyu	31135	Adult Full	5.95734	11/11/2027		NY	0.40096	5/3/2025
 Fan, Steve	20556	Adult Full	-30.49738	4/11/2014	Bay Area Go Players Assoc.	CA	3.56222	3/17/2013
 Fan, Tianzhu	24737	Adult Full	5.50611	12/7/2023	Houston Go Club	TX	0.64616	9/21/2019
 Fan, Yi	13137	Adult Full	5.98000	2/26/2009		CA	0.58000	3/1/2008
@@ -7391,6 +7392,7 @@ Konada, Kazuya	17514	Adult Full	-2.82800	6/29/2012		TX	0.50075	5/8/2010
 Konada, Takuya	17512	Adult Full	-13.13309	6/29/2012		TX	0.61520	5/8/2010
 Kondo, Kazumi	19072	Complimentary	1.99249	1/1/2023			0.37468	8/4/2013
 Kong, Aojie	24941	Adult Full	2.31927	11/17/2020	Massachusetts Go Association	MA	0.76780	11/16/2019
+Kong, Dexter	32959	Tournament Pass		12/11/2026		NY		
 Kong, Jack	13456	Adult Full	-6.58000	10/13/2009		VA	0.89000	11/1/2008
 Kong, Li	7166	Adult Full	4.80000	6/2/2000		MD	0.66000	6/1/1999
 Kong, Qinren	21752	Complimentary	-3.43964	1/1/2023			0.63727	2/14/2015
@@ -16151,6 +16153,7 @@ Yang, Zhi Rui	18534	Adult Full	6.85921	11/18/2011	Bay Area Go Players Assoc.	CA	
 Yang, Zifan	21600	Adult Full	9.31786	1/23/2016		MI	0.68144	9/26/2015
 Yang, Zijiang	12140	Adult Full	2.90000	9/17/2004		WA	0.62000	10/1/2003
 Yano, Hiromi	31092	Complimentary	-4.57680	1/7/2025			0.43185	7/23/2024
+Yao, Cham	32958	Adult Full		11/11/2027		NY		
 Yao, Daqing	31983	Tournament Pass	-4.15361	9/18/2025		PA	0.60144	8/30/2025
 Yao, David	23627	Tournament Pass	-2.55857	11/11/2017			0.68595	10/21/2017
 Yao, Echo	25427	Complimentary		1/1/2023		BC		
