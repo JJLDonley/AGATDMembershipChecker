@@ -4015,7 +4015,7 @@ Fraser, Mark	9092	Adult Full - Lifetime	-7.21976	9/1/2064	Santa Fe Go Club	NM	0.
 Fraser, Robert	9956	Adult Full	-3.89000	3/20/2006		WV	0.71000	2/1/2005
 Fraser, Tom	22298	Complimentary	-8.68839	1/1/2023		ON	0.99019	1/9/2016
 Fraser, William	7721	Adult Full	-5.61794	11/18/2012	Bay Area Go Players Assoc.	CA	0.21747	8/8/2012
-Fratianni, Joseph	22989	Tournament Pass	-9.31638	5/8/2026	Syracuse Go Club	NY	0.33472	4/11/2026
+Fratianni, Joseph	22989	Tournament Pass	-9.31638	12/12/2026	Syracuse Go Club	NY	0.33472	4/11/2026
 Frawley, Tim	15766	Adult Full	-3.17000	9/10/2008		NY	0.37000	7/1/2008
 Fraze, Devin	20133	Adult Full - Lifetime	1.75270	9/29/2064	Columbus Go Club	OH	0.42964	7/25/2026
 Frazier, Benjamin	20807	Adult Full	-8.75896	9/23/2014		WA	1.26475	9/15/2013
@@ -4406,7 +4406,7 @@ Glazer, Albert	6389	Adult Full	-24.25000	4/28/1994		CA	2.00000	9/1/1993
 Glazier, Dan	16434	Adult Full	-22.97000	3/18/2009	Syracuse Go Club	NY	2.43000	4/1/2008
 Glazier, Jordan	16435	Adult Full	-28.09000	1/17/2020	Syracuse Go Club	NY	3.22000	4/1/2008
 Gleason, Wendy	16037	Adult Full	-14.52908	4/24/2011		OR	0.91730	4/24/2010
-Glekel, David	17919	Adult Full	3.36775	11/7/2026	Gotham Go Group	NY	0.30452	8/3/2026
+Glekel, David	17919	Adult Full	3.36775	11/12/2027	Gotham Go Group	NY	0.30452	8/3/2026
 Glenn, Ian	30399	Adult Full	-4.25173	8/23/2025	Dayton Go Club	OH	0.47057	8/13/2025
 Glenn, Paul	14382	Adult Full	-31.34000	3/16/2007		MD	1.12000	8/1/2006
 Globus, Mark	6683	Adult Full	-19.50000	10/28/1995		OH	0.00000	1/15/1994
@@ -4681,7 +4681,7 @@ Gu, Eric	20368	Youth	-10.06225	1/12/2014		CA	0.77168	6/8/2013
 Gu, Hongkai	26159	Youth	4.70069	9/22/2027	Twin Cities Go Club	MN	0.45435	10/10/2026
 Gu, Jason	11548	Adult Full	6.29228	8/23/2017	Feng Yun Go School	NJ	0.66337	7/23/2016
 Gu, Jiangtao	11361	Adult Full	-1.39000	11/1/2008	Feng Yun Go School	NJ	0.26000	10/1/2008
-Gu, Jiaqi	32940	Tournament Pass	5.49993	12/1/2026		NM	1.02673	10/24/2026
+Gu, Jiaqi	32940	Adult Full	5.49993	12/1/2027		NM	1.02673	10/24/2026
 Gu, Jie	18696	Adult Full	-5.52754	3/6/2012		NH	0.86035	3/5/2011
 Gu, Jinzhong	23446	Adult Full	4.74005	8/15/2017			0.51232	8/6/2017
 Gu, Jun	24253	Adult Full	-1.13439	11/4/2019		CA	0.70365	10/13/2018
@@ -5159,7 +5159,7 @@ Hayes, Richard	12691	Adult Full	-10.04000	2/17/2011	Milwaukee Go Club	WI	0.73000
 Haynes, Charles	4918	Adult Full	-12.00000	7/28/1993	Massachusetts Go Association	MA	0.00000	11/15/1992
 Haynes, Willard	4123	Adult Full	-4.93737	11/30/2026	Davis/Sacramento Go Club	CA	0.36854	2/1/2026
 Hazel, Mark	21111	Adult Full	-16.80753	3/8/2015	Bay Area Go Players Assoc.	CA	0.90814	2/22/2014
-Hazzard, Chloe	32042	Adult Full	-8.91524	9/10/2026	Charlotte Go Club	NC	0.84551	6/13/2026
+Hazzard, Chloe	32042	Adult Full	-8.91524	11/12/2027	Charlotte Go Club	NC	0.84551	6/13/2026
 He, Betty	16879	Adult Full	-6.41000	9/30/2009		NC	0.76000	10/1/2008
 He, Bo	31650	Adult Full - Lifetime	-1.13366	11/23/2067	National Go Center	PA	0.48698	5/24/2025
 He, Bowen	18059	Adult Full	-14.41934	3/25/2011		MA	0.76856	8/29/2010
@@ -6449,6 +6449,7 @@ Jiran, Miloslav	1133	Adult Full	-4.10000	6/28/1991		MI	0.00000	11/15/1992
 Jo, Hoon	19931	Adult Full	5.91771	3/20/2027		CA	0.80130	5/23/2026
 Jo, Hoon	24369	Adult Full		12/16/2019		CA		
 Jo, Jung	32194	Tournament Pass	2.82448	6/19/2026		NY	0.41528	5/16/2026
+Jo, Jung	32960	Tournament Pass		12/12/2026		NY		
 Jo, Kyu Jung	7106	Adult Full	6.68000	7/1/1998	Seattle AGA Chapter	WA	0.47000	6/1/1998
 Jo, Toda	12800	Adult Full	-5.32000	7/13/2005		MA	0.69000	8/1/2004
 Jochum, Markus	8844	Adult Full	2.01000	10/19/1998	Massachusetts Go Association	MA	0.70000	1/1/1998
@@ -14756,7 +14757,7 @@ Wang, Ge	30101	Adult Full	4.29888	11/18/2026		GA	0.82605	4/1/2023
 Wang, Geng	19415	Adult Full	-9.92780	11/8/2012		FL	1.19652	11/5/2011
 Wang, George	6736	Adult Full	5.89000	10/15/2004	Houston Go Club	TX	0.44000	5/1/2006
 Wang, George	26104	Tournament Pass	1.82492	2/21/2026	San Diego Go Club	CA	0.31450	1/17/2026
-Wang, George	31345	Youth	-14.31321	11/7/2026	Syracuse Go Club	NY	0.84755	4/11/2026
+Wang, George	31345	Youth	-14.31321	11/12/2027	Syracuse Go Club	NY	0.84755	4/11/2026
 Wang, Guangyu	11075	Tournament Pass	-27.66000	6/24/2002		CA	2.65000	5/1/2002
 Wang, Guankui	26293	Adult Full		12/23/2023		MA		
 Wang, Guanyang	6770	Adult Full	1.60000	11/28/1994		NJ	0.00000	1/15/1994
