@@ -14669,7 +14669,7 @@ Walters, Joshua	17319	Adult Full	-11.29105	7/12/2012	Bay Area Go Players Assoc.	
 Walters, Rex	9945	Adult Full	-6.11000	8/26/2010	Bay Area Go Players Assoc.	CA	0.44000	10/1/2009
 Walton, Kevin	24383	Adult Full	-25.93773	12/27/2020		MD	1.98948	12/15/2018
 Walton, Pete	4744	Adult Full - Lifetime	-7.09000	9/1/2064	Santa Fe Go Club	NM	0.51000	6/1/1994
-Walzberg, Julien	26049	Adult Full	-8.44832	9/24/2026	Danger Monkey Go Club	CO	0.38356	12/6/2025
+Walzberg, Julien	26049	Adult Full	-8.44832	11/14/2027	Danger Monkey Go Club	CO	0.38356	12/6/2025
 Wampler, Kellan	20197	Adult Full	2.33123	7/29/2021		IN	0.55558	8/6/2017
 Wamsley, Robert	5279	Adult Full	-26.07000	5/7/2014		GA	1.18000	11/1/2004
 Wan, Charles	9670	Tournament Pass	-30.83000	8/15/1999		CA	0.58000	9/1/1999
