@@ -897,7 +897,7 @@ Blair, Max	30058	Adult Full	3.67247	3/30/2027		PA	0.25106	7/29/2026
 Blair, Pat	6012	Adult Full	-21.10000	3/28/1994	Portland Go Club	OR	0.00000	11/15/1992
 Blair, Ryan	30936	Adult Full		4/19/2027		NY		
 Blaisdell, Robert	8690	Adult Full	-2.78000	7/9/1998		CA	0.55000	9/1/1997
-Blake, Ken	4408	Adult Full	-2.00834	12/7/2026	Austin Go Club	TX	0.19310	7/29/2026
+Blake, Ken	4408	Adult Full	-2.00834	11/18/2027	Austin Go Club	TX	0.19310	7/29/2026
 Blake, Nicholas	13099	Adult Full	2.94703	5/8/2027	Empty Sky Go Club	MA	0.35551	9/19/2026
 Blanchard, Bjorn	13089	Adult Full	-24.12000	12/21/2005		NJ	2.49000	1/1/2005
 Bland, Mark	6417	Adult Full	-19.86000	4/30/1998	Charlotte Go Club	NC	0.86000	3/1/1997
@@ -4616,7 +4616,7 @@ Greene, Jate	23341	Youth	5.24251	5/28/2033	Massachusetts Go Association	MA	0.325
 Greene, Jin	23340	Youth	3.95974	5/28/2031	Massachusetts Go Association	MA	0.48665	7/25/2026
 Greene, John	8667	Adult Full	-24.58000	6/26/2001		MI	1.53000	6/1/2000
 Greene, Joshua	24163	Adult Full	-11.30523	10/16/2023	Massachusetts Go Association	MA	0.52166	1/10/2019
-Greene, Kevin	3972	Adult Full	-5.33059	12/8/2026		NV	0.28415	8/3/2011
+Greene, Kevin	3972	Adult Full	-5.33059	11/18/2027		NV	0.28415	8/3/2011
 Greenwald, Zoe	30444	Tournament Pass	-20.29384	11/21/2026		VT	0.77217	10/24/2026
 Greenwalt, Tom	25183	Adult Full		7/12/2025		MN		
 Greenway, Robert	8296	Adult Full	-19.59000	11/28/1997		TX	2.38000	12/1/1996
@@ -6449,7 +6449,7 @@ Jinno, Shohei	17255	Tournament Pass	6.53318	3/17/2009		OR	0.44481	1/13/2018
 Jiran, Miloslav	1133	Adult Full	-4.10000	6/28/1991		MI	0.00000	11/15/1992
 Jo, Hoon	19931	Adult Full	5.91771	3/20/2027		CA	0.80130	5/23/2026
 Jo, Hoon	24369	Adult Full		12/16/2019		CA		
-Jo, Jung	32194	Tournament Pass	2.82448	6/19/2026		NY	0.41528	5/16/2026
+Jo, Jung	32194	Tournament Pass	2.82448	12/16/2026		NY	0.41528	5/16/2026
 Jo, Jung	32960	Tournament Pass		12/12/2026		NY		
 Jo, Kyu Jung	7106	Adult Full	6.68000	7/1/1998	Seattle AGA Chapter	WA	0.47000	6/1/1998
 Jo, Toda	12800	Adult Full	-5.32000	7/13/2005		MA	0.69000	8/1/2004
@@ -9749,7 +9749,7 @@ Mcconaughy, Richard	8608	Tournament Pass	-18.15000	5/28/1997			1.75000	6/1/1997
 McCormack, Sean	14242	Adult Full	-24.79000	11/20/2007		NY	1.41000	12/1/2006
 McCown, Ian	11049	Adult Full	-1.64872	8/15/2005	Empty Sky Go Club	NY	1.32188	7/30/2011
 McCoy, William	7213	Adult Full	1.90000	1/31/1998	Seattle AGA Chapter	WA	0.64000	6/1/1997
-McCray, Walter	30117	Adult Full		11/18/2026		MI		
+McCray, Walter	30117	Adult Full		11/18/2027		MI		
 McCurry, Daniel	15503	Adult Full	-9.19000	5/20/2008	Cincinnati Go Club	KY	0.72000	1/1/2008
 McCusker, Michael	17029	Adult Full	-8.84868	12/3/2012	Quad Cities Go Club	IL	0.45107	2/11/2012
 McCutchen, Austin	23128	Adult Full	-23.04900	2/9/2018	Dallas Go Club	TX	1.11205	2/18/2017
@@ -12788,7 +12788,7 @@ Shi, ERIC	31981	Youth		8/16/2026		OH
 Shi, Ethan	26249	Youth		11/22/2023		NJ		
 Shi, Ethan	30040	Youth	-6.36877	3/27/2027	Mason Go Club	OH	0.62682	3/28/2026
 Shi, Evan	26140	Youth	-5.00955	11/23/2025		CA	0.28608	1/19/2025
-Shi, Fuqian	20492	Adult Full	1.91693	11/17/2027	Princeton Go Club	NJ	0.52242	5/3/2025
+Shi, Fuqian	20492	Adult Full	1.91693	12/13/2027	Princeton Go Club	NJ	0.52242	5/3/2025
 Shi, Gansheng	16746	Complimentary	8.33759	9/1/2064			0.34451	8/6/2017
 Shi, Gina	8721	Adult Full	3.38011	5/19/2019	San Francisco Go Club	CA	0.84965	4/28/2018
 Shi, Harry	32766	Adult Full	-15.13593	8/13/2027		CA	1.21071	9/5/2026
@@ -16591,7 +16591,7 @@ Zakaria, Rahmat	31601	Complimentary		9/20/2025
 Zakharchuk, Marta	26448	Adult Full	-14.96409	4/16/2027	Upstate SC Go Club	SC	0.34608	6/13/2026
 Zalesak, Andrew	17540	Adult Full	3.72829	6/10/2024	Triangle Go Group	NC	0.40928	6/15/2023
 Zalesak, Matthew	19702	Adult Full	-18.19140	2/16/2013	Triangle Go Group	NC	1.60622	1/15/2012
-Zalesak, Rudy	17571	Adult Full	-16.99589	11/17/2027	Triangle Go Group	NC	0.94030	7/29/2017
+Zalesak, Rudy	17571	Adult Full	-16.99589	11/16/2027	Triangle Go Group	NC	0.94030	7/29/2017
 Zaleski, Allan	12773	Adult Full	-15.23000	6/24/2009		VA	0.50000	2/1/2007
 Zamora, Carlos	14530	Adult Full	-6.43927	4/14/2020	Austin Go Club	TX	0.50431	7/9/2011
 Zamora, Matt	16485	Adult Full	-17.87000	3/31/2009	Univ. of Maryland Go Club	MD	1.08000	4/1/2008
