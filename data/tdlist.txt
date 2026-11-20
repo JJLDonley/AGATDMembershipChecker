@@ -13246,7 +13246,7 @@ Song, Suntian	9468	Tournament Pass	3.86000	5/18/2005		PA	0.35000	6/1/2005
 Song, Vienna	32715	Youth	-14.68213	7/19/2027		CA	0.80284	9/5/2026
 Song, Won Sub	8807	Tournament Pass	4.27000	9/23/1997			1.03000	1/1/1998
 Song, Xinlei	10689	Tournament Pass	4.52000	8/7/2001	Ann Arbor Go Club	MI	0.62000	4/1/2002
-Song, Xinzhou	25233	Youth	3.74438	3/16/2026		CA	0.36394	1/19/2025
+Song, Xinzhou	25233	Youth	3.74438	11/18/2027		CA	0.36394	1/19/2025
 Song, Yixin	21032	Adult Full	2.27259	2/4/2015		CA	0.56122	2/8/2014
 Song, Yongsu	30525	Adult Full	5.56974	10/25/2024	Evanston Go Club	WI	0.57457	11/4/2023
 Song, Young	6061	Adult Full	3.50000	10/28/1993		CO	0.00000	11/15/1992
@@ -15133,7 +15133,7 @@ Wegiel, Anna	22749	Complimentary	-18.05672	1/1/2023			0.73099	7/30/2016
 Wegiel, Irek	22750	Complimentary	-2.21703	1/1/2023			0.55782	7/30/2016
 Wehrenberg, Mark	23064	Adult Full	-13.36395	1/7/2019	Seattle AGA Chapter	WA	0.72418	1/7/2018
 Wei, Angela	20530	Youth	-22.13602	4/3/2014			1.94006	2/16/2013
-Wei, Bohang	32402	Tournament Pass	4.20085	4/5/2026		PA	0.84400	3/7/2026
+Wei, Bohang	32402	Adult Full	4.20085	11/18/2027		PA	0.84400	3/7/2026
 Wei, Derek	23288	Youth	-6.56411	7/18/2021	Austin Go Club	TX	0.57420	2/16/2019
 Wei, Ding	24052	Complimentary	9.28836	1/1/2023			0.44469	7/22/2018
 Wei, Guo Ping	7936	Tournament Pass	3.69000	1/16/2006		CA	0.46000	2/1/2007
@@ -15310,7 +15310,7 @@ White, Jeremy	6011	Adult Full	-20.30000	3/28/1993	Portland Go Club	OR	0.00000	11
 White, Jonah	20470	Youth	-12.60936	3/6/2014		NY	0.54329	10/20/2013
 White, Kurt	7531	Adult Full	-6.03101	3/16/2024	Western Mass. Go Club	VT	0.79079	1/10/2016
 White, Nick	13562	Tournament Pass	-13.29000	6/10/2007		MI	0.70000	8/1/2006
-White, Ronald	1494	Adult Full	-6.54263	12/28/2026		PA	0.60102	3/7/2026
+White, Ronald	1494	Adult Full	-6.54263	12/28/2027	Centre County Go	PA	0.60102	3/7/2026
 White, Roy	4438	Adult Full	-8.90000	11/27/2017	Salt Lake Go Club	UT	0.60000	10/1/2009
 White, Terry	5269	Adult Full	-10.10000	6/28/1993		WY	0.00000	11/15/1992
 White, Tim	12269	Adult Full	-27.24000	11/18/2004		OR	2.39000	12/1/2003
