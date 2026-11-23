@@ -1016,6 +1016,7 @@ Borzo, Francis	154	Adult Full	-10.60000	9/28/1982	Ann Arbor Go Club	MI	0.00000	9
 Bosworth, Allison	31870	Adult Full		6/10/2026		NY		
 Bottenfield, Corryn	30621	Adult Full	-24.34155	11/23/2024	Kastle Go Club	CA	0.78556	12/28/2023
 Botwin, Ben	18701	Adult Full	-19.09999	4/13/2013		FL	1.35530	4/10/2012
+Bouabid, Ryan	32971	Adult Full		11/23/2027				
 Bouamalay, Dryden	12899	Adult Full	-27.22000	12/23/2011		CA	1.42000	10/1/2005
 Bouc, Christien	20383	Adult Full	-1.73509	1/29/2014		CA	0.81424	1/12/2013
 Bouch, Elaina	26003	Youth	-14.38281	7/13/2023		DE	0.85787	8/1/2022
@@ -1353,7 +1354,7 @@ Byung, Bok An	8154	Tournament Pass	2.50000	10/27/2008			0.59000	10/1/2008
 C, S	20360	Adult Full	1.78400	11/6/2027		NJ	0.25406	11/3/2026
 Cable, Brad	18055	Adult Full - Lifetime	-9.23593	9/1/2064	Peoria & Normal Go Club	IL	0.40461	7/9/2023
 Cable, Douglas	179	Adult Full	3.24905	10/31/2027	Portland Go Club	WA	0.45936	10/3/2015
-Cabral, Sergio	31069	Adult Full	-15.10663	6/22/2026		PA	0.59568	3/14/2026
+Cabral, Sergio	31069	Adult Full	-15.10663	11/23/2027		PA	0.59568	3/14/2026
 Cabre, Andreu	6866	Adult Full	4.11000	1/19/2007	Western Mass. Go Club	MA	0.52000	1/1/2006
 Cacela, DC	10765	Adult Full	-10.15476	10/27/2024	Boulder Kids and Teens Go Club	CO	0.44410	7/23/2024
 Cadeux, Mike	21704	Adult Full	-8.62253	3/9/2016		NY	1.23167	2/28/2015
@@ -6618,6 +6619,7 @@ Kakumu, Etsuko	31851	Adult Full	3.91657	6/3/2026	San Diego Go Club	CA	0.92365	6/
 Kaladish, Robert	392	Adult Full		2/20/2027		NH		
 Kalb, John	4330	Adult Full	-3.81223	2/20/2025		OR	0.53547	7/23/2024
 Kaldenbach, Robert	31584	Adult Full	-20.24975	2/12/2027		IA	1.02635	3/22/2025
+Kaler, Joseph	32970	Adult Full		11/21/2027		KS		
 Kali-Blatt, Skyler	31700	Youth	-32.88148	4/16/2026		MD	2.55820	7/13/2025
 Kalidas, Vignesh	32772	Adult Full	-18.78209	8/15/2027		CA	0.86334	9/5/2026
 Kallen, Josh	18227	Tournament Pass	-10.61430	6/19/2010			0.98190	6/12/2010
@@ -7659,7 +7661,7 @@ Lai, Samantha	18008	Adult Full	-37.55856	3/3/2011		MD	3.04693	2/27/2010
 Lai, Timothy	13657	Adult Full	-21.64000	10/17/2006		CA	1.27000	6/1/2005
 Lai, Wai Kin	17841	Adult Full	1.55708	11/25/2014		PA	0.45502	10/16/2010
 Lai, Wing Chiu	12001	Adult Full	-2.84000	12/9/2008		IL	0.30000	9/1/2008
-Lai, Woody	30627	Youth	-1.68306	11/29/2026	Seattle AGA Chapter	WA	0.36096	10/4/2026
+Lai, Woody	30627	Youth	-1.68306	11/29/2027	Seattle AGA Chapter	WA	0.36096	10/4/2026
 Lai, Yanway	25571	Youth		7/18/2024		WA		
 Laird, Roy	436	Adult Full	-3.24615	8/9/2015	Gotham Go Group	NY	0.37353	8/10/2014
 Lakis, Erik	14952	Adult Full	1.20974	10/16/2010	Salt Lake Go Club	UT	0.42648	6/12/2010
@@ -12337,7 +12339,7 @@ Sandell, Dustin	17779	Tournament Pass	-19.43000	10/21/2009		AZ	0.82000	10/1/2009
 Sanders, Bowen	15988	Adult Full	-24.95000	11/17/2008		CA	0.71000	2/1/2008
 Sanders, Brandon CS	19732	Adult Full	-4.58928	2/18/2013		OR	0.90098	2/18/2012
 Sanders, Corey	13370	Adult Full	-1.79364	4/7/2014	Columbus Go Club	OH	0.83599	1/26/2014
-Sanders, Malik	24791	Adult Full		11/22/2027	St. Louis Go Club	MO		
+Sanders, Malik	24791	Adult Full		2/5/2028	St. Louis Go Club	MO		
 Sanders, Michael	24843	Adult Full	-4.72561	1/30/2024	San Diego Go Club	CA	0.60439	4/30/2023
 Sanderson, Nicholas	18236	Adult Full	-7.41742	6/22/2011	Santa Monica Go Club	CA	0.83525	6/12/2010
 Sandifer, Justin	16851	Adult Full	-19.22000	9/30/2009	Boulder Kids and Teens Go Club	CO	1.97000	10/1/2008
@@ -14686,7 +14688,7 @@ Wan, Stephen	21656	Youth	-14.01570	2/13/2016	Feng Yun Go School	NJ	1.05805	2/28/
 Wan, YanHai	25745	Tournament Pass	4.29501	5/18/2025		NY	0.27333	5/3/2025
 Wan, Youti	21275	Youth	-16.41295	7/18/2017		NJ	0.86365	7/30/2016
 Wan, Yuze	24349	Youth	3.89146	12/9/2019			0.67555	10/13/2018
-Wanek, Michael	15639	Adult Full	4.49845	12/11/2026	Seattle AGA Chapter	WA	0.41913	12/13/2025
+Wanek, Michael	15639	Adult Full	4.49845	11/23/2027	Seattle AGA Chapter	WA	0.41913	12/13/2025
 Wang, Adam	22375	Adult Full	-21.92679	2/24/2017	Univ. of Maryland Go Club	MD	1.11466	2/20/2016
 Wang, Adrian	21307	Youth	-26.34175	8/9/2015		NY	2.56309	8/10/2014
 Wang, Alex	18684	Adult Full	-7.50751	2/28/2012	Stony Brook University Go Club	NY	0.82166	5/5/2012
