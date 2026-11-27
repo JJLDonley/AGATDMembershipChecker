@@ -9035,7 +9035,7 @@ Lloyd, Jared	17016	Adult Full	-34.17000	12/11/2009		FL	2.65000	1/1/2009
 Lloyd, Steven	15106	Adult Full	-14.90743	11/3/2019	Empty Sky Go Club	NY	0.94760	10/12/2019
 Lo, Alain	9955	Adult Full	-1.38000	5/7/2002		CA	0.46000	9/1/2000
 Lo, Alexander	25302	Youth	-1.92966	11/27/2026	San Francisco Go Club	CA	0.23673	1/11/2025
-Lo, Benjamin	25303	Youth	-4.20317	11/27/2026	San Francisco Go Club	CA	0.71124	8/29/2026
+Lo, Benjamin	25303	Youth	-4.20317	11/27/2027	San Francisco Go Club	CA	0.71124	8/29/2026
 Lo, Charles	11767	Tournament Pass	4.97000	8/31/2006		CA	0.58000	8/1/2006
 Lo, Chi-Chang	7342	Adult Full	-6.93000	7/28/1995		FL	0.44000	9/1/1994
 Lo, Edison	16864	Adult Full	-18.26000	9/30/2009		CA	0.86000	10/1/2008
