@@ -8712,7 +8712,7 @@ Lin, Mu	24422	Adult Full	-2.79206	1/19/2021		CA	0.73494	1/19/2019
 Lin, Olivia	25707	Youth	-1.51668	10/10/2027	Twin Cities Go Club	MN	0.58323	10/10/2026
 Lin, Patrick	14771	Youth	-9.15000	1/14/2009	Feng Yun Go School	NJ	0.49000	10/1/2008
 Lin, Peter	22884	Adult Full	-10.54425	9/5/2017	Seattle AGA Chapter	WA	0.80006	10/2/2016
-Lin, Peter	30480	Adult Full	-10.15140	1/4/2027		NJ	0.27934	9/12/2026
+Lin, Peter	30480	Adult Full	-10.15140	1/4/2028		NJ	0.27934	9/12/2026
 Lin, Poyu	31716	Complimentary	7.67085	10/19/2025			0.48044	7/13/2025
 Lin, Ray Ho	6548	Tournament Pass	5.78000	5/28/1993			0.53000	9/1/1993
 Lin, Richard	13885	Adult Full	2.22000	9/18/2006		MA	0.55000	2/1/2006
@@ -8746,6 +8746,8 @@ Lin, Wendy	13321	Adult Full	-11.56000	3/1/2006	Louisville Go Club	NC	0.79000	4/1
 lin, yanxi	32574	Youth		5/6/2027		NY		
 Lin, Yen-Chun	16601	Adult Full	-1.50000	5/10/2009	Seattle AGA Chapter	WA	0.34000	2/1/2009
 Lin, Yuang	23029	Adult Full	7.94779	12/25/2017		MD	0.65102	2/11/2017
+Lin, Yu-Chen	32973	Youth		11/28/2027				
+Lin, Yu-Ching	32974	Youth		11/28/2027				
 Lin, Yuru	22427	Youth	-8.17137	3/11/2017	Feng Yun Go School	NJ	0.79213	3/19/2016
 Lin, Yuzhang	18730	Adult Full	2.92993	3/29/2013	Stony Brook University Go Club	NY	0.39371	2/25/2012
 Lin, Zequn	31826	Adult Full	2.15280	5/23/2026		WI	0.60121	5/24/2025
@@ -9601,7 +9603,7 @@ Martin, Matthew	31516	Adult Full	-13.52201	1/26/2027	Upstate SC Go Club	SC	0.895
 Martin, Merri	8261	Adult Full	-21.96000	3/24/2000		OR	0.59000	3/1/2000
 Martin, Nathan	16563	Adult Full	-5.91000	4/27/2010	Houston Go Club	TX	0.69000	5/1/2009
 Martin, Pete	13768	Adult Full	-3.60607	7/28/2027	Massachusetts Go Association	MA	0.46382	7/30/2016
-Martin, Peter	16058	Adult Full	-6.92069	12/16/2026	Louisville Go Club	KY	0.54320	8/26/2023
+Martin, Peter	16058	Adult Full	-6.92069	12/16/2027	Louisville Go Club	KY	0.54320	8/26/2023
 Martin, Reiner	7018	Adult Full	-4.42000	11/26/2003		NY	0.59000	12/1/2000
 Martin, Reiner	30187	Complimentary		10/27/2023		HE		
 Martin, Toby	8260	Adult Full	-13.90000	12/20/2000	Corvallis Go Club	OR	0.60000	6/1/2000
@@ -11125,6 +11127,7 @@ Park, Namkey	8082	Adult Full	7.46000	6/28/1997		CO	0.64000	9/1/1996
 Park, Nathan	16835	Adult Full	-4.51331	9/27/2010		CO	0.44752	8/1/2010
 Park, Rachel	16747	Adult Full	-9.82000	8/14/2009			0.62000	9/1/2008
 Park, Ross	7764	Adult Full	5.71000	8/28/1996		CA	0.65000	12/1/1995
+Park, Ryan	32972	Adult Full		11/26/2027		CA		
 Park, Sang	6301	Adult Full	3.42000	3/28/1995		NY	0.42000	3/1/1996
 Park, Sang Don	10403	Tournament Pass	-1.55000	2/28/2001			0.54000	3/1/2001
 Park, Sang Soo	3196	Adult Full	6.90000	11/30/2005	Greater Kansas City Go Club	NY	0.48000	9/1/2002
@@ -11513,7 +11516,7 @@ Powell, Stephen	15018	Adult Full	-16.66000	12/29/2007	Vermont Go Club	VT	0.90000
 Powell, Tyler	18705	Tournament Pass	-15.64091	3/12/2011			0.92678	3/5/2011
 Powell, Tyler	32649	Adult Full		6/12/2027		OR		
 Powell-Cohen, Jessica	16540	Adult Full	-22.53000	4/25/2009	Penn Go Society	PA	0.64000	8/1/2008
-POWER, BORIS	30835	Adult Full	5.27452	3/22/2025		CA	0.62478	3/23/2024
+POWER, BORIS	30835	Adult Full	5.27452	11/28/2027		CA	0.62478	3/23/2024
 Powers, Mark	31062	Adult Full	-5.29701	9/7/2027	Twin Cities Go Club	MN	0.60990	10/10/2026
 Powers, Mary	18078	Adult Full	-23.39508	4/2/2012		MA	1.43141	8/29/2010
 Powers, Stuart	14083	Tournament Pass	-4.06000	12/5/2005			0.39000	11/1/2006
@@ -17209,7 +17212,7 @@ Zhu, Yaping	22202	Tournament Pass	3.40866	10/25/2015			0.74154	10/24/2015
 Zhu, Yi	6153	Adult Full	4.71428	5/3/2027	Austin Go Club	TX	0.62289	4/25/2026
 Zhu, yiduo	22069	Adult Full	-1.77719	12/26/2017		CA	0.36258	2/25/2017
 Zhu, Yiheng	24399	Adult Full	3.65597	1/10/2021		FL	0.52429	2/16/2019
-Zhu, Yingxu	25674	Adult Full	5.73458	12/4/2026	San Diego Go Club	CA	0.23793	11/29/2025
+Zhu, Yingxu	25674	Adult Full	5.73458	12/4/2027	San Diego Go Club	CA	0.23793	11/29/2025
 Zhu, Youen	26383	Youth	-26.41657	2/11/2024	Mason Go Club	OH	1.08539	8/26/2023
 Zhu, Youran	25113	Youth		2/25/2021		IL		
 Zhu, Yu	20420	Complimentary	2.78920	1/1/2023			0.60065	1/26/2013
